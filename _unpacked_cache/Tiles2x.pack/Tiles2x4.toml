@@ -1,0 +1,1457 @@
+[advertising_01_10]
+pos = [
+    384,
+    0,
+]
+size = [
+    121,
+    236,
+]
+frame_offset = [
+    7,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_11]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    235,
+]
+frame_offset = [
+    0,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_12]
+pos = [
+    122,
+    237,
+]
+size = [
+    117,
+    234,
+]
+frame_offset = [
+    9,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_13]
+pos = [
+    241,
+    234,
+]
+size = [
+    114,
+    231,
+]
+frame_offset = [
+    7,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_14]
+pos = [
+    507,
+    0,
+]
+size = [
+    79,
+    230,
+]
+frame_offset = [
+    20,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_15]
+pos = [
+    791,
+    159,
+]
+size = [
+    64,
+    251,
+]
+frame_offset = [
+    43,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_16]
+pos = [
+    944,
+    477,
+]
+size = [
+    50,
+    148,
+]
+frame_offset = [
+    39,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_17]
+pos = [
+    394,
+    713,
+]
+size = [
+    63,
+    154,
+]
+frame_offset = [
+    25,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_18]
+pos = [
+    66,
+    633,
+]
+size = [
+    64,
+    156,
+]
+frame_offset = [
+    24,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_19]
+pos = [
+    926,
+    0,
+]
+size = [
+    65,
+    156,
+]
+frame_offset = [
+    24,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_20]
+pos = [
+    636,
+    482,
+]
+size = [
+    63,
+    154,
+]
+frame_offset = [
+    25,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_21]
+pos = [
+    630,
+    793,
+]
+size = [
+    48,
+    148,
+]
+frame_offset = [
+    24,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_22]
+pos = [
+    701,
+    482,
+]
+size = [
+    61,
+    156,
+]
+frame_offset = [
+    37,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_23]
+pos = [
+    522,
+    795,
+]
+size = [
+    54,
+    198,
+]
+frame_offset = [
+    34,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_24]
+pos = [
+    708,
+    320,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    24,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_25]
+pos = [
+    792,
+    0,
+]
+size = [
+    65,
+    157,
+]
+frame_offset = [
+    24,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_26]
+pos = [
+    264,
+    625,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_27]
+pos = [
+    816,
+    632,
+]
+size = [
+    47,
+    148,
+]
+frame_offset = [
+    24,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_28]
+pos = [
+    802,
+    782,
+]
+size = [
+    44,
+    147,
+]
+frame_offset = [
+    55,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_29]
+pos = [
+    923,
+    159,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    35,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_30]
+pos = [
+    857,
+    320,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    35,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_31]
+pos = [
+    656,
+    0,
+]
+size = [
+    66,
+    159,
+]
+frame_offset = [
+    35,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_32]
+pos = [
+    449,
+    872,
+]
+size = [
+    50,
+    149,
+]
+frame_offset = [
+    39,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_33]
+pos = [
+    506,
+    391,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_34]
+pos = [
+    848,
+    782,
+]
+size = [
+    44,
+    146,
+]
+frame_offset = [
+    55,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_35]
+pos = [
+    264,
+    467,
+]
+size = [
+    64,
+    156,
+]
+frame_offset = [
+    35,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_36]
+pos = [
+    132,
+    632,
+]
+size = [
+    64,
+    156,
+]
+frame_offset = [
+    35,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_37]
+pos = [
+    438,
+    238,
+]
+size = [
+    66,
+    157,
+]
+frame_offset = [
+    35,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_38]
+pos = [
+    774,
+    412,
+]
+size = [
+    61,
+    155,
+]
+frame_offset = [
+    37,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_39]
+pos = [
+    646,
+    638,
+]
+size = [
+    53,
+    151,
+]
+frame_offset = [
+    34,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_40]
+pos = [
+    701,
+    640,
+]
+size = [
+    50,
+    149,
+]
+frame_offset = [
+    39,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_41]
+pos = [
+    66,
+    851,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_42]
+pos = [
+    923,
+    318,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    24,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_43]
+pos = [
+    656,
+    161,
+]
+size = [
+    65,
+    157,
+]
+frame_offset = [
+    24,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_44]
+pos = [
+    132,
+    790,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_45]
+pos = [
+    680,
+    791,
+]
+size = [
+    47,
+    148,
+]
+frame_offset = [
+    24,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_48]
+pos = [
+    963,
+    627,
+]
+size = [
+    44,
+    149,
+]
+frame_offset = [
+    55,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_49]
+pos = [
+    642,
+    321,
+]
+size = [
+    64,
+    159,
+]
+frame_offset = [
+    35,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_5]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    232,
+]
+frame_offset = [
+    1,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_50]
+pos = [
+    857,
+    159,
+]
+size = [
+    64,
+    159,
+]
+frame_offset = [
+    35,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_51]
+pos = [
+    588,
+    0,
+]
+size = [
+    66,
+    160,
+]
+frame_offset = [
+    35,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_52]
+pos = [
+    459,
+    713,
+]
+size = [
+    61,
+    157,
+]
+frame_offset = [
+    37,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_53]
+pos = [
+    589,
+    638,
+]
+size = [
+    55,
+    153,
+]
+frame_offset = [
+    34,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_56]
+pos = [
+    729,
+    870,
+]
+size = [
+    44,
+    147,
+]
+frame_offset = [
+    55,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_57]
+pos = [
+    0,
+    792,
+]
+size = [
+    64,
+    156,
+]
+frame_offset = [
+    35,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_58]
+pos = [
+    198,
+    632,
+]
+size = [
+    64,
+    156,
+]
+frame_offset = [
+    35,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_59]
+pos = [
+    724,
+    0,
+]
+size = [
+    66,
+    157,
+]
+frame_offset = [
+    35,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_6]
+pos = [
+    357,
+    238,
+]
+size = [
+    79,
+    241,
+]
+frame_offset = [
+    27,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_60]
+pos = [
+    526,
+    638,
+]
+size = [
+    61,
+    155,
+]
+frame_offset = [
+    37,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_61]
+pos = [
+    837,
+    479,
+]
+size = [
+    53,
+    151,
+]
+frame_offset = [
+    34,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_64]
+pos = [
+    764,
+    569,
+]
+size = [
+    50,
+    149,
+]
+frame_offset = [
+    39,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_65]
+pos = [
+    329,
+    639,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_66]
+pos = [
+    0,
+    474,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    24,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_67]
+pos = [
+    859,
+    0,
+]
+size = [
+    65,
+    157,
+]
+frame_offset = [
+    24,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_68]
+pos = [
+    197,
+    790,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_69]
+pos = [
+    753,
+    720,
+]
+size = [
+    47,
+    148,
+]
+frame_offset = [
+    24,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_7]
+pos = [
+    66,
+    791,
+]
+size = [
+    64,
+    58,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_72]
+pos = [
+    892,
+    479,
+]
+size = [
+    50,
+    149,
+]
+frame_offset = [
+    39,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_73]
+pos = [
+    396,
+    555,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_74]
+pos = [
+    66,
+    474,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    24,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_75]
+pos = [
+    724,
+    159,
+]
+size = [
+    65,
+    157,
+]
+frame_offset = [
+    24,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_76]
+pos = [
+    461,
+    555,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_77]
+pos = [
+    865,
+    632,
+]
+size = [
+    47,
+    148,
+]
+frame_offset = [
+    24,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_8]
+pos = [
+    256,
+    0,
+]
+size = [
+    126,
+    230,
+]
+frame_offset = [
+    0,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_80]
+pos = [
+    578,
+    795,
+]
+size = [
+    50,
+    149,
+]
+frame_offset = [
+    39,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_81]
+pos = [
+    264,
+    783,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_82]
+pos = [
+    132,
+    473,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    24,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_83]
+pos = [
+    575,
+    321,
+]
+size = [
+    65,
+    157,
+]
+frame_offset = [
+    24,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_84]
+pos = [
+    571,
+    480,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    25,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_85]
+pos = [
+    914,
+    630,
+]
+size = [
+    47,
+    148,
+]
+frame_offset = [
+    24,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_88]
+pos = [
+    940,
+    780,
+]
+size = [
+    43,
+    146,
+]
+frame_offset = [
+    56,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_89]
+pos = [
+    0,
+    633,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    35,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_9]
+pos = [
+    0,
+    237,
+]
+size = [
+    120,
+    235,
+]
+frame_offset = [
+    6,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_90]
+pos = [
+    198,
+    473,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    35,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_91]
+pos = [
+    507,
+    232,
+]
+size = [
+    66,
+    157,
+]
+frame_offset = [
+    35,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_92]
+pos = [
+    329,
+    797,
+]
+size = [
+    62,
+    155,
+]
+frame_offset = [
+    36,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_93]
+pos = [
+    393,
+    869,
+]
+size = [
+    54,
+    151,
+]
+frame_offset = [
+    34,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_96]
+pos = [
+    894,
+    782,
+]
+size = [
+    44,
+    146,
+]
+frame_offset = [
+    55,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_97]
+pos = [
+    438,
+    397,
+]
+size = [
+    64,
+    156,
+]
+frame_offset = [
+    35,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_98]
+pos = [
+    330,
+    481,
+]
+size = [
+    64,
+    156,
+]
+frame_offset = [
+    35,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_99]
+pos = [
+    588,
+    162,
+]
+size = [
+    66,
+    157,
+]
+frame_offset = [
+    35,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,2339 @@
+[fixtures_windows_wood_100]
+pos = [
+    964,
+    655,
+]
+size = [
+    52,
+    152,
+]
+frame_offset = [
+    1,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_101]
+pos = [
+    909,
+    655,
+]
+size = [
+    53,
+    154,
+]
+frame_offset = [
+    57,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_102]
+pos = [
+    603,
+    507,
+]
+size = [
+    68,
+    223,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_103]
+pos = [
+    530,
+    504,
+]
+size = [
+    71,
+    254,
+]
+frame_offset = [
+    57,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_104]
+pos = [
+    627,
+    833,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    7,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_105]
+pos = [
+    730,
+    727,
+]
+size = [
+    54,
+    151,
+]
+frame_offset = [
+    65,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_106]
+pos = [
+    786,
+    828,
+]
+size = [
+    53,
+    117,
+]
+frame_offset = [
+    8,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_107]
+pos = [
+    514,
+    760,
+]
+size = [
+    55,
+    117,
+]
+frame_offset = [
+    64,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_108]
+pos = [
+    797,
+    504,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_109]
+pos = [
+    673,
+    614,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    71,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_110]
+pos = [
+    571,
+    760,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_111]
+pos = [
+    428,
+    572,
+]
+size = [
+    73,
+    218,
+]
+frame_offset = [
+    55,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_112]
+pos = [
+    786,
+    727,
+]
+size = [
+    54,
+    99,
+]
+frame_offset = [
+    14,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_113]
+pos = [
+    964,
+    809,
+]
+size = [
+    52,
+    98,
+]
+frame_offset = [
+    73,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_114]
+pos = [
+    328,
+    825,
+]
+size = [
+    65,
+    105,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_115]
+pos = [
+    673,
+    507,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_116]
+pos = [
+    896,
+    912,
+]
+size = [
+    52,
+    98,
+]
+frame_offset = [
+    3,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_117]
+pos = [
+    908,
+    811,
+]
+size = [
+    53,
+    99,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_118]
+pos = [
+    738,
+    947,
+]
+size = [
+    50,
+    66,
+]
+frame_offset = [
+    9,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_119]
+pos = [
+    328,
+    932,
+]
+size = [
+    51,
+    66,
+]
+frame_offset = [
+    68,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_84]
+pos = [
+    93,
+    921,
+]
+size = [
+    54,
+    98,
+]
+frame_offset = [
+    1,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_85]
+pos = [
+    841,
+    901,
+]
+size = [
+    53,
+    99,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_86]
+pos = [
+    950,
+    912,
+]
+size = [
+    50,
+    66,
+]
+frame_offset = [
+    9,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_87]
+pos = [
+    381,
+    947,
+]
+size = [
+    51,
+    66,
+]
+frame_offset = [
+    68,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_88]
+pos = [
+    323,
+    669,
+]
+size = [
+    73,
+    154,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_89]
+pos = [
+    514,
+    879,
+]
+size = [
+    54,
+    133,
+]
+frame_offset = [
+    71,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_90]
+pos = [
+    683,
+    880,
+]
+size = [
+    53,
+    133,
+]
+frame_offset = [
+    2,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_91]
+pos = [
+    398,
+    792,
+]
+size = [
+    57,
+    153,
+]
+frame_offset = [
+    54,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_92]
+pos = [
+    739,
+    507,
+]
+size = [
+    56,
+    218,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_93]
+pos = [
+    853,
+    504,
+]
+size = [
+    54,
+    196,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_94]
+pos = [
+    853,
+    702,
+]
+size = [
+    53,
+    197,
+]
+frame_offset = [
+    3,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_95]
+pos = [
+    457,
+    792,
+]
+size = [
+    55,
+    218,
+]
+frame_offset = [
+    54,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_96]
+pos = [
+    191,
+    809,
+]
+size = [
+    67,
+    160,
+]
+frame_offset = [
+    0,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_97]
+pos = [
+    260,
+    825,
+]
+size = [
+    66,
+    159,
+]
+frame_offset = [
+    59,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_98]
+pos = [
+    909,
+    499,
+]
+size = [
+    54,
+    154,
+]
+frame_offset = [
+    13,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_99]
+pos = [
+    965,
+    499,
+]
+size = [
+    51,
+    153,
+]
+frame_offset = [
+    73,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_burnt_01_1]
+pos = [
+    0,
+    462,
+]
+size = [
+    112,
+    57,
+]
+frame_offset = [
+    10,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_burnt_01_2]
+pos = [
+    750,
+    379,
+]
+size = [
+    115,
+    60,
+]
+frame_offset = [
+    7,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_burnt_01_34]
+pos = [
+    393,
+    456,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    62,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_burnt_01_35]
+pos = [
+    387,
+    456,
+]
+size = [
+    4,
+    2,
+]
+frame_offset = [
+    64,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_natural_01_3]
+pos = [
+    397,
+    456,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    0,
+    223,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_street_01_26]
+pos = [
+    381,
+    456,
+]
+size = [
+    4,
+    2,
+]
+frame_offset = [
+    61,
+    254,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_street_01_43]
+pos = [
+    400,
+    456,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    0,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_street_01_48]
+pos = [
+    403,
+    456,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    64,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_80]
+pos = [
+    384,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_32]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_33]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_34]
+pos = [
+    0,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_35]
+pos = [
+    128,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_36]
+pos = [
+    128,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_37]
+pos = [
+    256,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_38]
+pos = [
+    256,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_39]
+pos = [
+    384,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_40]
+pos = [
+    0,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_41]
+pos = [
+    0,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_42]
+pos = [
+    128,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_43]
+pos = [
+    0,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_44]
+pos = [
+    128,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_45]
+pos = [
+    0,
+    396,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_46]
+pos = [
+    256,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_47]
+pos = [
+    128,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_36]
+pos = [
+    256,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_54]
+pos = [
+    256,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_55]
+pos = [
+    128,
+    396,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_68]
+pos = [
+    338,
+    572,
+]
+size = [
+    88,
+    44,
+]
+frame_offset = [
+    17,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_72]
+pos = [
+    0,
+    870,
+]
+size = [
+    91,
+    51,
+]
+frame_offset = [
+    18,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_73]
+pos = [
+    102,
+    815,
+]
+size = [
+    87,
+    49,
+]
+frame_offset = [
+    20,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_74]
+pos = [
+    0,
+    923,
+]
+size = [
+    87,
+    49,
+]
+frame_offset = [
+    20,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_75]
+pos = [
+    336,
+    618,
+]
+size = [
+    87,
+    49,
+]
+frame_offset = [
+    20,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_76]
+pos = [
+    441,
+    517,
+]
+size = [
+    87,
+    49,
+]
+frame_offset = [
+    19,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_77]
+pos = [
+    110,
+    756,
+]
+size = [
+    93,
+    51,
+]
+frame_offset = [
+    16,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_78]
+pos = [
+    205,
+    753,
+]
+size = [
+    87,
+    49,
+]
+frame_offset = [
+    20,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_79]
+pos = [
+    93,
+    870,
+]
+size = [
+    87,
+    49,
+]
+frame_offset = [
+    19,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_84]
+pos = [
+    215,
+    698,
+]
+size = [
+    91,
+    51,
+]
+frame_offset = [
+    18,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_0]
+pos = [
+    228,
+    462,
+]
+size = [
+    111,
+    58,
+]
+frame_offset = [
+    15,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_1]
+pos = [
+    745,
+    444,
+]
+size = [
+    115,
+    58,
+]
+frame_offset = [
+    5,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_10]
+pos = [
+    512,
+    128,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    6,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_11]
+pos = [
+    636,
+    64,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_12]
+pos = [
+    512,
+    191,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_13]
+pos = [
+    758,
+    0,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_14]
+pos = [
+    0,
+    580,
+]
+size = [
+    112,
+    56,
+]
+frame_offset = [
+    6,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_15]
+pos = [
+    228,
+    522,
+]
+size = [
+    108,
+    57,
+]
+frame_offset = [
+    0,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_16]
+pos = [
+    114,
+    579,
+]
+size = [
+    111,
+    58,
+]
+frame_offset = [
+    15,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_17]
+pos = [
+    871,
+    316,
+]
+size = [
+    115,
+    58,
+]
+frame_offset = [
+    5,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_18]
+pos = [
+    634,
+    128,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    6,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_19]
+pos = [
+    512,
+    254,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_2]
+pos = [
+    510,
+    317,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    6,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_20]
+pos = [
+    758,
+    63,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_21]
+pos = [
+    634,
+    191,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_22]
+pos = [
+    114,
+    521,
+]
+size = [
+    112,
+    56,
+]
+frame_offset = [
+    6,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_23]
+pos = [
+    114,
+    639,
+]
+size = [
+    108,
+    57,
+]
+frame_offset = [
+    0,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_24]
+pos = [
+    880,
+    63,
+]
+size = [
+    119,
+    60,
+]
+frame_offset = [
+    3,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_25]
+pos = [
+    509,
+    380,
+]
+size = [
+    119,
+    61,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_26]
+pos = [
+    636,
+    0,
+]
+size = [
+    120,
+    62,
+]
+frame_offset = [
+    6,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_27]
+pos = [
+    878,
+    187,
+]
+size = [
+    118,
+    60,
+]
+frame_offset = [
+    4,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_28]
+pos = [
+    507,
+    443,
+]
+size = [
+    119,
+    59,
+]
+frame_offset = [
+    4,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_29]
+pos = [
+    756,
+    252,
+]
+size = [
+    118,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_3]
+pos = [
+    880,
+    0,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_30]
+pos = [
+    630,
+    380,
+]
+size = [
+    118,
+    62,
+]
+frame_offset = [
+    8,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_31]
+pos = [
+    878,
+    126,
+]
+size = [
+    119,
+    59,
+]
+frame_offset = [
+    3,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_32]
+pos = [
+    256,
+    396,
+]
+size = [
+    123,
+    62,
+]
+frame_offset = [
+    3,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_33]
+pos = [
+    256,
+    330,
+]
+size = [
+    125,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_34]
+pos = [
+    0,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_35]
+pos = [
+    383,
+    392,
+]
+size = [
+    122,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_36]
+pos = [
+    512,
+    0,
+]
+size = [
+    122,
+    62,
+]
+frame_offset = [
+    4,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_37]
+pos = [
+    384,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_38]
+pos = [
+    384,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_39]
+pos = [
+    512,
+    64,
+]
+size = [
+    122,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_4]
+pos = [
+    756,
+    127,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_40]
+pos = [
+    753,
+    317,
+]
+size = [
+    116,
+    59,
+]
+frame_offset = [
+    10,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_41]
+pos = [
+    756,
+    190,
+]
+size = [
+    119,
+    60,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_42]
+pos = [
+    632,
+    317,
+]
+size = [
+    119,
+    60,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_43]
+pos = [
+    867,
+    438,
+]
+size = [
+    114,
+    59,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_44]
+pos = [
+    628,
+    444,
+]
+size = [
+    115,
+    61,
+]
+frame_offset = [
+    11,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_45]
+pos = [
+    384,
+    328,
+]
+size = [
+    123,
+    62,
+]
+frame_offset = [
+    2,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_46]
+pos = [
+    384,
+    264,
+]
+size = [
+    124,
+    62,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_47]
+pos = [
+    877,
+    249,
+]
+size = [
+    115,
+    61,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_48]
+pos = [
+    113,
+    698,
+]
+size = [
+    100,
+    53,
+]
+frame_offset = [
+    26,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_49]
+pos = [
+    224,
+    639,
+]
+size = [
+    97,
+    53,
+]
+frame_offset = [
+    1,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_5]
+pos = [
+    634,
+    254,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_50]
+pos = [
+    341,
+    517,
+]
+size = [
+    98,
+    53,
+]
+frame_offset = [
+    27,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_51]
+pos = [
+    0,
+    815,
+]
+size = [
+    100,
+    53,
+]
+frame_offset = [
+    0,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_52]
+pos = [
+    0,
+    521,
+]
+size = [
+    112,
+    57,
+]
+frame_offset = [
+    11,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_53]
+pos = [
+    341,
+    460,
+]
+size = [
+    107,
+    55,
+]
+frame_offset = [
+    2,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_54]
+pos = [
+    227,
+    581,
+]
+size = [
+    107,
+    55,
+]
+frame_offset = [
+    17,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_55]
+pos = [
+    114,
+    462,
+]
+size = [
+    112,
+    57,
+]
+frame_offset = [
+    3,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_6]
+pos = [
+    0,
+    638,
+]
+size = [
+    112,
+    56,
+]
+frame_offset = [
+    6,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_7]
+pos = [
+    0,
+    756,
+]
+size = [
+    108,
+    57,
+]
+frame_offset = [
+    0,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_8]
+pos = [
+    0,
+    696,
+]
+size = [
+    111,
+    58,
+]
+frame_offset = [
+    15,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_9]
+pos = [
+    867,
+    378,
+]
+size = [
+    115,
+    58,
+]
+frame_offset = [
+    5,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]

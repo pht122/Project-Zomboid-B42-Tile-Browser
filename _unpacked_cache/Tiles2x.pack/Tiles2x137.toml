@@ -1,0 +1,1467 @@
+[location_shop_generic_01_113]
+pos = [
+    552,
+    132,
+]
+size = [
+    93,
+    127,
+]
+frame_offset = [
+    23,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_114]
+pos = [
+    520,
+    266,
+]
+size = [
+    89,
+    125,
+]
+frame_offset = [
+    11,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_115]
+pos = [
+    0,
+    228,
+]
+size = [
+    109,
+    128,
+]
+frame_offset = [
+    8,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_117]
+pos = [
+    128,
+    218,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    66,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_120]
+pos = [
+    317,
+    392,
+]
+size = [
+    72,
+    79,
+]
+frame_offset = [
+    15,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_121]
+pos = [
+    391,
+    398,
+]
+size = [
+    72,
+    79,
+]
+frame_offset = [
+    19,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_122]
+pos = [
+    465,
+    398,
+]
+size = [
+    72,
+    79,
+]
+frame_offset = [
+    37,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_123]
+pos = [
+    539,
+    393,
+]
+size = [
+    72,
+    79,
+]
+frame_offset = [
+    37,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_0]
+pos = [
+    826,
+    220,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_1]
+pos = [
+    340,
+    479,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_10]
+pos = [
+    894,
+    220,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_11]
+pos = [
+    0,
+    490,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_12]
+pos = [
+    999,
+    767,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_13]
+pos = [
+    68,
+    490,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_14]
+pos = [
+    136,
+    472,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_16]
+pos = [
+    204,
+    493,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_17]
+pos = [
+    0,
+    718,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_18]
+pos = [
+    272,
+    493,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_19]
+pos = [
+    68,
+    718,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_2]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    226,
+]
+
+[location_shop_greenes_01_24]
+pos = [
+    240,
+    101,
+]
+size = [
+    109,
+    132,
+]
+frame_offset = [
+    8,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_25]
+pos = [
+    352,
+    0,
+]
+size = [
+    109,
+    132,
+]
+frame_offset = [
+    12,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_26]
+pos = [
+    128,
+    0,
+]
+size = [
+    110,
+    115,
+]
+frame_offset = [
+    9,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_27]
+pos = [
+    111,
+    228,
+]
+size = [
+    109,
+    115,
+]
+frame_offset = [
+    9,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_28]
+pos = [
+    0,
+    358,
+]
+size = [
+    103,
+    130,
+]
+frame_offset = [
+    13,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_29]
+pos = [
+    222,
+    235,
+]
+size = [
+    102,
+    130,
+]
+frame_offset = [
+    11,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_3]
+pos = [
+    1007,
+    767,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_30]
+pos = [
+    351,
+    134,
+]
+size = [
+    99,
+    124,
+]
+frame_offset = [
+    20,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_31]
+pos = [
+    216,
+    367,
+]
+size = [
+    99,
+    124,
+]
+frame_offset = [
+    10,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_35]
+pos = [
+    128,
+    117,
+]
+size = [
+    110,
+    99,
+]
+frame_offset = [
+    8,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_36]
+pos = [
+    240,
+    0,
+]
+size = [
+    110,
+    99,
+]
+frame_offset = [
+    8,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_37]
+pos = [
+    105,
+    407,
+]
+size = [
+    95,
+    63,
+]
+frame_offset = [
+    23,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_38]
+pos = [
+    111,
+    345,
+]
+size = [
+    103,
+    60,
+]
+frame_offset = [
+    16,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_4]
+pos = [
+    737,
+    270,
+]
+size = [
+    77,
+    218,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_40]
+pos = [
+    544,
+    930,
+]
+size = [
+    48,
+    88,
+]
+frame_offset = [
+    18,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_41]
+pos = [
+    880,
+    778,
+]
+size = [
+    64,
+    98,
+]
+frame_offset = [
+    2,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_42]
+pos = [
+    883,
+    676,
+]
+size = [
+    64,
+    99,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_43]
+pos = [
+    814,
+    778,
+]
+size = [
+    64,
+    99,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_44]
+pos = [
+    962,
+    220,
+]
+size = [
+    58,
+    93,
+]
+frame_offset = [
+    2,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_45]
+pos = [
+    921,
+    878,
+]
+size = [
+    38,
+    128,
+]
+frame_offset = [
+    34,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_46]
+pos = [
+    880,
+    878,
+]
+size = [
+    39,
+    129,
+]
+frame_offset = [
+    52,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_48]
+pos = [
+    136,
+    928,
+]
+size = [
+    60,
+    93,
+]
+frame_offset = [
+    60,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_49]
+pos = [
+    748,
+    718,
+]
+size = [
+    64,
+    100,
+]
+frame_offset = [
+    56,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_5]
+pos = [
+    942,
+    0,
+]
+size = [
+    78,
+    218,
+]
+frame_offset = [
+    46,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_50]
+pos = [
+    612,
+    814,
+]
+size = [
+    65,
+    100,
+]
+frame_offset = [
+    55,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_51]
+pos = [
+    612,
+    916,
+]
+size = [
+    64,
+    100,
+]
+frame_offset = [
+    56,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_52]
+pos = [
+    681,
+    358,
+]
+size = [
+    49,
+    89,
+]
+frame_offset = [
+    56,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_56]
+pos = [
+    663,
+    0,
+]
+size = [
+    96,
+    136,
+]
+frame_offset = [
+    14,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_57]
+pos = [
+    326,
+    260,
+]
+size = [
+    98,
+    130,
+]
+frame_offset = [
+    12,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_58]
+pos = [
+    463,
+    0,
+]
+size = [
+    98,
+    130,
+]
+frame_offset = [
+    12,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_59]
+pos = [
+    761,
+    0,
+]
+size = [
+    90,
+    131,
+]
+frame_offset = [
+    8,
+    106,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_6]
+pos = [
+    853,
+    0,
+]
+size = [
+    87,
+    218,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_60]
+pos = [
+    737,
+    138,
+]
+size = [
+    87,
+    130,
+]
+frame_offset = [
+    31,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_61]
+pos = [
+    563,
+    0,
+]
+size = [
+    98,
+    130,
+]
+frame_offset = [
+    16,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_62]
+pos = [
+    452,
+    134,
+]
+size = [
+    98,
+    130,
+]
+frame_offset = [
+    16,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_63]
+pos = [
+    426,
+    266,
+]
+size = [
+    92,
+    130,
+]
+frame_offset = [
+    16,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_64]
+pos = [
+    136,
+    700,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_65]
+pos = [
+    408,
+    479,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_66]
+pos = [
+    204,
+    721,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_67]
+pos = [
+    476,
+    479,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_68]
+pos = [
+    272,
+    721,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_69]
+pos = [
+    613,
+    358,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_7]
+pos = [
+    647,
+    138,
+]
+size = [
+    88,
+    218,
+]
+frame_offset = [
+    35,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_70]
+pos = [
+    544,
+    474,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_71]
+pos = [
+    953,
+    448,
+]
+size = [
+    66,
+    216,
+]
+frame_offset = [
+    60,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_72]
+pos = [
+    340,
+    707,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_73]
+pos = [
+    408,
+    707,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_74]
+pos = [
+    476,
+    707,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_75]
+pos = [
+    612,
+    586,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_76]
+pos = [
+    681,
+    490,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_77]
+pos = [
+    749,
+    490,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_78]
+pos = [
+    544,
+    702,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_79]
+pos = [
+    817,
+    448,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_8]
+pos = [
+    885,
+    448,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_9]
+pos = [
+    680,
+    718,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_on_40]
+pos = [
+    949,
+    767,
+]
+size = [
+    48,
+    88,
+]
+frame_offset = [
+    18,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_on_41]
+pos = [
+    748,
+    921,
+]
+size = [
+    64,
+    98,
+]
+frame_offset = [
+    2,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_on_42]
+pos = [
+    748,
+    820,
+]
+size = [
+    64,
+    99,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_on_43]
+pos = [
+    953,
+    666,
+]
+size = [
+    64,
+    99,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_on_44]
+pos = [
+    962,
+    315,
+]
+size = [
+    58,
+    93,
+]
+frame_offset = [
+    2,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_on_48]
+pos = [
+    814,
+    879,
+]
+size = [
+    64,
+    96,
+]
+frame_offset = [
+    60,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_greenes_01_on_49]
+pos = [
+    817,
+    676,
+]
+size = [
+    64,
+    100,
+]
+frame_offset = [
+    60,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]

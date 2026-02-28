@@ -1,0 +1,1233 @@
+[trashcontainers_01_21]
+pos = [
+    0,
+    473,
+]
+size = [
+    98,
+    223,
+]
+frame_offset = [
+    30,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[trashcontainers_01_24]
+pos = [
+    0,
+    891,
+]
+size = [
+    76,
+    72,
+]
+frame_offset = [
+    27,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[trashcontainers_01_25]
+pos = [
+    684,
+    590,
+]
+size = [
+    75,
+    238,
+]
+frame_offset = [
+    23,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[trashcontainers_01_26]
+pos = [
+    944,
+    138,
+]
+size = [
+    69,
+    68,
+]
+frame_offset = [
+    27,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[trashcontainers_01_27]
+pos = [
+    558,
+    802,
+]
+size = [
+    71,
+    70,
+]
+frame_offset = [
+    31,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[trashcontainers_01_32]
+pos = [
+    834,
+    569,
+]
+size = [
+    70,
+    136,
+]
+frame_offset = [
+    2,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[trashcontainers_01_33]
+pos = [
+    761,
+    569,
+]
+size = [
+    71,
+    156,
+]
+frame_offset = [
+    57,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[trashcontainers_01_34]
+pos = [
+    233,
+    258,
+]
+size = [
+    6,
+    40,
+]
+frame_offset = [
+    0,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[underground_01_0]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    256,
+]
+
+[underground_01_1]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[underground_01_10]
+pos = [
+    256,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[underground_01_11]
+pos = [
+    1015,
+    138,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[underground_01_8]
+pos = [
+    761,
+    727,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[underground_01_9]
+pos = [
+    834,
+    707,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_0]
+pos = [
+    611,
+    0,
+]
+size = [
+    109,
+    223,
+]
+frame_offset = [
+    16,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_1]
+pos = [
+    558,
+    874,
+]
+size = [
+    68,
+    145,
+]
+frame_offset = [
+    46,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_10]
+pos = [
+    507,
+    922,
+]
+size = [
+    46,
+    80,
+]
+frame_offset = [
+    34,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_11]
+pos = [
+    503,
+    443,
+]
+size = [
+    90,
+    160,
+]
+frame_offset = [
+    11,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_12]
+pos = [
+    683,
+    830,
+]
+size = [
+    46,
+    80,
+]
+frame_offset = [
+    34,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_13]
+pos = [
+    722,
+    214,
+]
+size = [
+    100,
+    190,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_14]
+pos = [
+    976,
+    567,
+]
+size = [
+    46,
+    80,
+]
+frame_offset = [
+    34,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_15]
+pos = [
+    608,
+    428,
+]
+size = [
+    90,
+    160,
+]
+frame_offset = [
+    11,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_16]
+pos = [
+    722,
+    0,
+]
+size = [
+    109,
+    212,
+]
+frame_offset = [
+    17,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_17]
+pos = [
+    384,
+    192,
+]
+size = [
+    111,
+    141,
+]
+frame_offset = [
+    7,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_18]
+pos = [
+    833,
+    0,
+]
+size = [
+    109,
+    206,
+]
+frame_offset = [
+    16,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_19]
+pos = [
+    912,
+    429,
+]
+size = [
+    71,
+    136,
+]
+frame_offset = [
+    43,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_2]
+pos = [
+    385,
+    697,
+]
+size = [
+    90,
+    160,
+]
+frame_offset = [
+    25,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_20]
+pos = [
+    944,
+    0,
+]
+size = [
+    74,
+    136,
+]
+frame_offset = [
+    12,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_21]
+pos = [
+    0,
+    258,
+]
+size = [
+    116,
+    213,
+]
+frame_offset = [
+    0,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_22]
+pos = [
+    499,
+    0,
+]
+size = [
+    110,
+    216,
+]
+frame_offset = [
+    8,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_23]
+pos = [
+    608,
+    225,
+]
+size = [
+    108,
+    201,
+]
+frame_offset = [
+    1,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_24]
+pos = [
+    595,
+    590,
+]
+size = [
+    87,
+    210,
+]
+frame_offset = [
+    37,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_25]
+pos = [
+    98,
+    806,
+]
+size = [
+    92,
+    170,
+]
+frame_offset = [
+    26,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_26]
+pos = [
+    949,
+    831,
+]
+size = [
+    43,
+    93,
+]
+frame_offset = [
+    43,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_27]
+pos = [
+    925,
+    208,
+]
+size = [
+    88,
+    219,
+]
+frame_offset = [
+    37,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_28]
+pos = [
+    198,
+    632,
+]
+size = [
+    93,
+    169,
+]
+frame_offset = [
+    25,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_29]
+pos = [
+    902,
+    889,
+]
+size = [
+    43,
+    93,
+]
+frame_offset = [
+    43,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_3]
+pos = [
+    628,
+    932,
+]
+size = [
+    46,
+    80,
+]
+frame_offset = [
+    46,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_32]
+pos = [
+    824,
+    390,
+]
+size = [
+    86,
+    177,
+]
+frame_offset = [
+    37,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_33]
+pos = [
+    317,
+    511,
+]
+size = [
+    92,
+    171,
+]
+frame_offset = [
+    26,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_34]
+pos = [
+    947,
+    926,
+]
+size = [
+    43,
+    93,
+]
+frame_offset = [
+    43,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_4]
+pos = [
+    503,
+    605,
+]
+size = [
+    90,
+    160,
+]
+frame_offset = [
+    25,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_40]
+pos = [
+    218,
+    450,
+]
+size = [
+    97,
+    180,
+]
+frame_offset = [
+    30,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_41]
+pos = [
+    118,
+    450,
+]
+size = [
+    98,
+    173,
+]
+frame_offset = [
+    23,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_42]
+pos = [
+    976,
+    649,
+]
+size = [
+    45,
+    89,
+]
+frame_offset = [
+    41,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_43]
+pos = [
+    100,
+    625,
+]
+size = [
+    96,
+    179,
+]
+frame_offset = [
+    30,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_44]
+pos = [
+    824,
+    214,
+]
+size = [
+    99,
+    174,
+]
+frame_offset = [
+    20,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_45]
+pos = [
+    902,
+    798,
+]
+size = [
+    45,
+    89,
+]
+frame_offset = [
+    41,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_48]
+pos = [
+    0,
+    698,
+]
+size = [
+    96,
+    191,
+]
+frame_offset = [
+    30,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_49]
+pos = [
+    371,
+    335,
+]
+size = [
+    101,
+    174,
+]
+frame_offset = [
+    18,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_5]
+pos = [
+    683,
+    912,
+]
+size = [
+    46,
+    80,
+]
+frame_offset = [
+    46,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_50]
+pos = [
+    950,
+    740,
+]
+size = [
+    45,
+    89,
+]
+frame_offset = [
+    41,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_56]
+pos = [
+    411,
+    511,
+]
+size = [
+    90,
+    184,
+]
+frame_offset = [
+    38,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_57]
+pos = [
+    118,
+    258,
+]
+size = [
+    113,
+    190,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_58]
+pos = [
+    455,
+    922,
+]
+size = [
+    50,
+    63,
+]
+frame_offset = [
+    41,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_59]
+pos = [
+    293,
+    684,
+]
+size = [
+    90,
+    173,
+]
+frame_offset = [
+    38,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_6]
+pos = [
+    718,
+    406,
+]
+size = [
+    90,
+    160,
+]
+frame_offset = [
+    25,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_60]
+pos = [
+    384,
+    0,
+]
+size = [
+    113,
+    190,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_61]
+pos = [
+    631,
+    802,
+]
+size = [
+    50,
+    63,
+]
+frame_offset = [
+    41,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_64]
+pos = [
+    192,
+    806,
+]
+size = [
+    90,
+    182,
+]
+frame_offset = [
+    38,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_65]
+pos = [
+    256,
+    228,
+]
+size = [
+    113,
+    190,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_66]
+pos = [
+    631,
+    867,
+]
+size = [
+    50,
+    63,
+]
+frame_offset = [
+    41,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_7]
+pos = [
+    902,
+    716,
+]
+size = [
+    46,
+    80,
+]
+frame_offset = [
+    46,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_72]
+pos = [
+    477,
+    767,
+]
+size = [
+    79,
+    153,
+]
+frame_offset = [
+    45,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_73]
+pos = [
+    284,
+    859,
+]
+size = [
+    87,
+    151,
+]
+frame_offset = [
+    29,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_74]
+pos = [
+    985,
+    429,
+]
+size = [
+    35,
+    61,
+]
+frame_offset = [
+    41,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_75]
+pos = [
+    373,
+    859,
+]
+size = [
+    80,
+    146,
+]
+frame_offset = [
+    45,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_8]
+pos = [
+    906,
+    569,
+]
+size = [
+    68,
+    145,
+]
+frame_offset = [
+    12,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_drying_01_9]
+pos = [
+    497,
+    218,
+]
+size = [
+    109,
+    223,
+]
+frame_offset = [
+    1,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]

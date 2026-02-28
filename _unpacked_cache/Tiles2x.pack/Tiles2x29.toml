@@ -1,0 +1,2915 @@
+[crafted_skins_drying_01_15]
+pos = [
+    523,
+    336,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    15,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_16]
+pos = [
+    757,
+    134,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    38,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_17]
+pos = [
+    360,
+    298,
+]
+size = [
+    80,
+    135,
+]
+frame_offset = [
+    33,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_18]
+pos = [
+    757,
+    0,
+]
+size = [
+    79,
+    132,
+]
+frame_offset = [
+    20,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_19]
+pos = [
+    919,
+    0,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    15,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_20]
+pos = [
+    458,
+    470,
+]
+size = [
+    67,
+    119,
+]
+frame_offset = [
+    23,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_21]
+pos = [
+    561,
+    892,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_22]
+pos = [
+    822,
+    506,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_23]
+pos = [
+    142,
+    809,
+]
+size = [
+    67,
+    114,
+]
+frame_offset = [
+    36,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_24]
+pos = [
+    457,
+    591,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    23,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_25]
+pos = [
+    856,
+    620,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_26]
+pos = [
+    732,
+    594,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_27]
+pos = [
+    279,
+    885,
+]
+size = [
+    66,
+    114,
+]
+frame_offset = [
+    37,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_28]
+pos = [
+    596,
+    464,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    23,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_29]
+pos = [
+    787,
+    722,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_30]
+pos = [
+    663,
+    697,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_31]
+pos = [
+    0,
+    829,
+]
+size = [
+    68,
+    114,
+]
+frame_offset = [
+    35,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_32]
+pos = [
+    527,
+    538,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    23,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_33]
+pos = [
+    701,
+    810,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_34]
+pos = [
+    499,
+    858,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_35]
+pos = [
+    595,
+    585,
+]
+size = [
+    66,
+    114,
+]
+frame_offset = [
+    37,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_36]
+pos = [
+    295,
+    764,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    23,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_37]
+pos = [
+    915,
+    620,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_38]
+pos = [
+    577,
+    784,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_39]
+pos = [
+    525,
+    659,
+]
+size = [
+    66,
+    114,
+]
+frame_offset = [
+    37,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_40]
+pos = [
+    234,
+    632,
+]
+size = [
+    68,
+    81,
+]
+frame_offset = [
+    20,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_41]
+pos = [
+    753,
+    511,
+]
+size = [
+    66,
+    81,
+]
+frame_offset = [
+    40,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_42]
+pos = [
+    388,
+    574,
+]
+size = [
+    67,
+    72,
+]
+frame_offset = [
+    21,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_43]
+pos = [
+    70,
+    892,
+]
+size = [
+    67,
+    72,
+]
+frame_offset = [
+    38,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_44]
+pos = [
+    527,
+    464,
+]
+size = [
+    67,
+    72,
+]
+frame_offset = [
+    21,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_45]
+pos = [
+    304,
+    690,
+]
+size = [
+    67,
+    72,
+]
+frame_offset = [
+    38,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_46]
+pos = [
+    388,
+    491,
+]
+size = [
+    68,
+    81,
+]
+frame_offset = [
+    20,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_47]
+pos = [
+    431,
+    843,
+]
+size = [
+    66,
+    81,
+]
+frame_offset = [
+    40,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_48]
+pos = [
+    425,
+    126,
+]
+size = [
+    84,
+    128,
+]
+frame_offset = [
+    39,
+    108,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_49]
+pos = [
+    162,
+    484,
+]
+size = [
+    77,
+    134,
+]
+frame_offset = [
+    35,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_50]
+pos = [
+    81,
+    520,
+]
+size = [
+    78,
+    134,
+]
+frame_offset = [
+    24,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_51]
+pos = [
+    92,
+    354,
+]
+size = [
+    85,
+    128,
+]
+frame_offset = [
+    11,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_52]
+pos = [
+    604,
+    335,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    38,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_53]
+pos = [
+    511,
+    0,
+]
+size = [
+    80,
+    135,
+]
+frame_offset = [
+    33,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_54]
+pos = [
+    442,
+    336,
+]
+size = [
+    79,
+    132,
+]
+frame_offset = [
+    20,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_55]
+pos = [
+    838,
+    134,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    15,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_56]
+pos = [
+    756,
+    262,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    38,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_57]
+pos = [
+    593,
+    0,
+]
+size = [
+    80,
+    135,
+]
+frame_offset = [
+    33,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_58]
+pos = [
+    593,
+    201,
+]
+size = [
+    79,
+    132,
+]
+frame_offset = [
+    20,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_59]
+pos = [
+    919,
+    128,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    15,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_60]
+pos = [
+    837,
+    262,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    38,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_61]
+pos = [
+    511,
+    137,
+]
+size = [
+    80,
+    135,
+]
+frame_offset = [
+    33,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_62]
+pos = [
+    675,
+    137,
+]
+size = [
+    79,
+    132,
+]
+frame_offset = [
+    20,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_63]
+pos = [
+    919,
+    256,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    15,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_64]
+pos = [
+    918,
+    384,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    38,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_65]
+pos = [
+    675,
+    0,
+]
+size = [
+    80,
+    135,
+]
+frame_offset = [
+    33,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_66]
+pos = [
+    838,
+    0,
+]
+size = [
+    79,
+    132,
+]
+frame_offset = [
+    20,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_67]
+pos = [
+    0,
+    480,
+]
+size = [
+    79,
+    126,
+]
+frame_offset = [
+    15,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_68]
+pos = [
+    211,
+    860,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    23,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_69]
+pos = [
+    846,
+    730,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_70]
+pos = [
+    884,
+    512,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_71]
+pos = [
+    155,
+    683,
+]
+size = [
+    68,
+    114,
+]
+frame_offset = [
+    35,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_72]
+pos = [
+    685,
+    419,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    23,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_73]
+pos = [
+    760,
+    832,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_74]
+pos = [
+    725,
+    702,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_75]
+pos = [
+    822,
+    390,
+]
+size = [
+    66,
+    114,
+]
+frame_offset = [
+    37,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_76]
+pos = [
+    373,
+    722,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    23,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_77]
+pos = [
+    905,
+    730,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_78]
+pos = [
+    794,
+    614,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_79]
+pos = [
+    318,
+    491,
+]
+size = [
+    68,
+    114,
+]
+frame_offset = [
+    35,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_80]
+pos = [
+    754,
+    390,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    23,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_81]
+pos = [
+    819,
+    840,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_82]
+pos = [
+    946,
+    512,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_83]
+pos = [
+    363,
+    843,
+]
+size = [
+    66,
+    114,
+]
+frame_offset = [
+    37,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_84]
+pos = [
+    441,
+    722,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    23,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_85]
+pos = [
+    878,
+    840,
+]
+size = [
+    57,
+    108,
+]
+frame_offset = [
+    8,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_86]
+pos = [
+    639,
+    805,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_87]
+pos = [
+    664,
+    540,
+]
+size = [
+    66,
+    114,
+]
+frame_offset = [
+    37,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_88]
+pos = [
+    72,
+    809,
+]
+size = [
+    68,
+    81,
+]
+frame_offset = [
+    20,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_89]
+pos = [
+    593,
+    701,
+]
+size = [
+    66,
+    81,
+]
+frame_offset = [
+    40,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_90]
+pos = [
+    225,
+    786,
+]
+size = [
+    67,
+    72,
+]
+frame_offset = [
+    21,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_91]
+pos = [
+    685,
+    271,
+]
+size = [
+    67,
+    72,
+]
+frame_offset = [
+    38,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_92]
+pos = [
+    685,
+    345,
+]
+size = [
+    67,
+    72,
+]
+frame_offset = [
+    21,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_93]
+pos = [
+    382,
+    648,
+]
+size = [
+    67,
+    72,
+]
+frame_offset = [
+    38,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_94]
+pos = [
+    312,
+    607,
+]
+size = [
+    68,
+    81,
+]
+frame_offset = [
+    20,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafted_skins_drying_01_95]
+pos = [
+    509,
+    775,
+]
+size = [
+    66,
+    81,
+]
+frame_offset = [
+    40,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_0]
+pos = [
+    964,
+    807,
+]
+size = [
+    42,
+    30,
+]
+frame_offset = [
+    45,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_1]
+pos = [
+    778,
+    950,
+]
+size = [
+    43,
+    29,
+]
+frame_offset = [
+    49,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_10]
+pos = [
+    490,
+    966,
+]
+size = [
+    56,
+    34,
+]
+frame_offset = [
+    36,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_112]
+pos = [
+    436,
+    68,
+]
+size = [
+    72,
+    39,
+]
+frame_offset = [
+    27,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_113]
+pos = [
+    620,
+    949,
+]
+size = [
+    54,
+    36,
+]
+frame_offset = [
+    33,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_114]
+pos = [
+    964,
+    775,
+]
+size = [
+    49,
+    30,
+]
+frame_offset = [
+    39,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_115]
+pos = [
+    80,
+    656,
+]
+size = [
+    75,
+    25,
+]
+frame_offset = [
+    18,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_116]
+pos = [
+    678,
+    920,
+]
+size = [
+    51,
+    43,
+]
+frame_offset = [
+    47,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_117]
+pos = [
+    974,
+    620,
+]
+size = [
+    46,
+    32,
+]
+frame_offset = [
+    71,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_118]
+pos = [
+    937,
+    873,
+]
+size = [
+    39,
+    35,
+]
+frame_offset = [
+    45,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_119]
+pos = [
+    524,
+    274,
+]
+size = [
+    67,
+    37,
+]
+frame_offset = [
+    44,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_120]
+pos = [
+    663,
+    656,
+]
+size = [
+    66,
+    39,
+]
+frame_offset = [
+    19,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_121]
+pos = [
+    407,
+    974,
+]
+size = [
+    50,
+    28,
+]
+frame_offset = [
+    18,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_122]
+pos = [
+    78,
+    725,
+]
+size = [
+    70,
+    23,
+]
+frame_offset = [
+    38,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_123]
+pos = [
+    0,
+    801,
+]
+size = [
+    70,
+    26,
+]
+frame_offset = [
+    31,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_124]
+pos = [
+    867,
+    950,
+]
+size = [
+    36,
+    51,
+]
+frame_offset = [
+    45,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_125]
+pos = [
+    362,
+    278,
+]
+size = [
+    40,
+    18,
+]
+frame_offset = [
+    20,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_126]
+pos = [
+    68,
+    966,
+]
+size = [
+    63,
+    32,
+]
+frame_offset = [
+    43,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_127]
+pos = [
+    0,
+    720,
+]
+size = [
+    76,
+    22,
+]
+frame_offset = [
+    34,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_16]
+pos = [
+    823,
+    950,
+]
+size = [
+    42,
+    30,
+]
+frame_offset = [
+    45,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_17]
+pos = [
+    974,
+    681,
+]
+size = [
+    43,
+    29,
+]
+frame_offset = [
+    49,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_18]
+pos = [
+    676,
+    965,
+]
+size = [
+    49,
+    33,
+]
+frame_offset = [
+    40,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_19]
+pos = [
+    0,
+    327,
+]
+size = [
+    90,
+    44,
+]
+frame_offset = [
+    25,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_2]
+pos = [
+    727,
+    965,
+]
+size = [
+    49,
+    33,
+]
+frame_offset = [
+    40,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_20]
+pos = [
+    79,
+    683,
+]
+size = [
+    74,
+    40,
+]
+frame_offset = [
+    30,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_21]
+pos = [
+    0,
+    945,
+]
+size = [
+    66,
+    42,
+]
+frame_offset = [
+    35,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_22]
+pos = [
+    184,
+    304,
+]
+size = [
+    85,
+    63,
+]
+frame_offset = [
+    26,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_23]
+pos = [
+    0,
+    431,
+]
+size = [
+    88,
+    47,
+]
+frame_offset = [
+    22,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_24]
+pos = [
+    241,
+    573,
+]
+size = [
+    69,
+    57,
+]
+frame_offset = [
+    32,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_25]
+pos = [
+    216,
+    225,
+]
+size = [
+    44,
+    25,
+]
+frame_offset = [
+    51,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_26]
+pos = [
+    620,
+    913,
+]
+size = [
+    56,
+    34,
+]
+frame_offset = [
+    36,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_3]
+pos = [
+    93,
+    255,
+]
+size = [
+    90,
+    44,
+]
+frame_offset = [
+    25,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_32]
+pos = [
+    937,
+    840,
+]
+size = [
+    40,
+    31,
+]
+frame_offset = [
+    51,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_33]
+pos = [
+    161,
+    620,
+]
+size = [
+    71,
+    58,
+]
+frame_offset = [
+    25,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_34]
+pos = [
+    347,
+    959,
+]
+size = [
+    58,
+    31,
+]
+frame_offset = [
+    48,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_35]
+pos = [
+    133,
+    969,
+]
+size = [
+    63,
+    31,
+]
+frame_offset = [
+    17,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_36]
+pos = [
+    271,
+    353,
+]
+size = [
+    82,
+    45,
+]
+frame_offset = [
+    25,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_37]
+pos = [
+    241,
+    477,
+]
+size = [
+    75,
+    52,
+]
+frame_offset = [
+    22,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_38]
+pos = [
+    179,
+    369,
+]
+size = [
+    84,
+    55,
+]
+frame_offset = [
+    23,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_39]
+pos = [
+    81,
+    484,
+]
+size = [
+    79,
+    34,
+]
+frame_offset = [
+    32,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_4]
+pos = [
+    241,
+    531,
+]
+size = [
+    74,
+    40,
+]
+frame_offset = [
+    30,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_40]
+pos = [
+    447,
+    0,
+]
+size = [
+    62,
+    58,
+]
+frame_offset = [
+    43,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_41]
+pos = [
+    265,
+    400,
+]
+size = [
+    80,
+    63,
+]
+frame_offset = [
+    38,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_42]
+pos = [
+    442,
+    274,
+]
+size = [
+    80,
+    60,
+]
+frame_offset = [
+    18,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_43]
+pos = [
+    225,
+    715,
+]
+size = [
+    68,
+    69,
+]
+frame_offset = [
+    13,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_44]
+pos = [
+    347,
+    435,
+]
+size = [
+    71,
+    54,
+]
+frame_offset = [
+    32,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_45]
+pos = [
+    327,
+    126,
+]
+size = [
+    96,
+    45,
+]
+frame_offset = [
+    15,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_46]
+pos = [
+    275,
+    298,
+]
+size = [
+    83,
+    53,
+]
+frame_offset = [
+    21,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_47]
+pos = [
+    0,
+    0,
+]
+size = [
+    121,
+    52,
+]
+frame_offset = [
+    7,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_5]
+pos = [
+    139,
+    925,
+]
+size = [
+    66,
+    42,
+]
+frame_offset = [
+    35,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_6]
+pos = [
+    275,
+    233,
+]
+size = [
+    85,
+    63,
+]
+frame_offset = [
+    26,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_7]
+pos = [
+    185,
+    255,
+]
+size = [
+    88,
+    47,
+]
+frame_offset = [
+    22,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_8]
+pos = [
+    76,
+    750,
+]
+size = [
+    69,
+    57,
+]
+frame_offset = [
+    32,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[crafting_ore_9]
+pos = [
+    974,
+    654,
+]
+size = [
+    44,
+    25,
+]
+frame_offset = [
+    51,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_0]
+pos = [
+    113,
+    114,
+]
+size = [
+    111,
+    48,
+]
+frame_offset = [
+    2,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_1]
+pos = [
+    113,
+    213,
+]
+size = [
+    101,
+    40,
+]
+frame_offset = [
+    17,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_10]
+pos = [
+    123,
+    0,
+]
+size = [
+    114,
+    54,
+]
+frame_offset = [
+    10,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_11]
+pos = [
+    324,
+    173,
+]
+size = [
+    95,
+    58,
+]
+frame_offset = [
+    11,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_2]
+pos = [
+    113,
+    164,
+]
+size = [
+    111,
+    47,
+]
+frame_offset = [
+    1,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_3]
+pos = [
+    93,
+    301,
+]
+size = [
+    89,
+    51,
+]
+frame_offset = [
+    18,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_4]
+pos = [
+    226,
+    163,
+]
+size = [
+    96,
+    60,
+]
+frame_offset = [
+    24,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_5]
+pos = [
+    0,
+    54,
+]
+size = [
+    118,
+    58,
+]
+frame_offset = [
+    3,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_6]
+pos = [
+    0,
+    373,
+]
+size = [
+    89,
+    56,
+]
+frame_offset = [
+    23,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_7]
+pos = [
+    0,
+    114,
+]
+size = [
+    111,
+    59,
+]
+frame_offset = [
+    4,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_8]
+pos = [
+    120,
+    56,
+]
+size = [
+    113,
+    56,
+]
+frame_offset = [
+    4,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_floorleaves_1_9]
+pos = [
+    338,
+    68,
+]
+size = [
+    96,
+    56,
+]
+frame_offset = [
+    14,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_0]
+pos = [
+    179,
+    426,
+]
+size = [
+    83,
+    49,
+]
+frame_offset = [
+    32,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_1]
+pos = [
+    0,
+    668,
+]
+size = [
+    77,
+    50,
+]
+frame_offset = [
+    30,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_10]
+pos = [
+    362,
+    233,
+]
+size = [
+    61,
+    43,
+]
+frame_offset = [
+    26,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_11]
+pos = [
+    0,
+    744,
+]
+size = [
+    74,
+    55,
+]
+frame_offset = [
+    23,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_12]
+pos = [
+    0,
+    284,
+]
+size = [
+    91,
+    41,
+]
+frame_offset = [
+    18,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_13]
+pos = [
+    0,
+    233,
+]
+size = [
+    91,
+    49,
+]
+frame_offset = [
+    19,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_14]
+pos = [
+    0,
+    608,
+]
+size = [
+    78,
+    58,
+]
+frame_offset = [
+    16,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_2]
+pos = [
+    0,
+    175,
+]
+size = [
+    111,
+    56,
+]
+frame_offset = [
+    4,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_3]
+pos = [
+    348,
+    0,
+]
+size = [
+    97,
+    66,
+]
+frame_offset = [
+    16,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_4]
+pos = [
+    593,
+    137,
+]
+size = [
+    80,
+    62,
+]
+frame_offset = [
+    23,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_5]
+pos = [
+    235,
+    58,
+]
+size = [
+    101,
+    53,
+]
+frame_offset = [
+    15,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_6]
+pos = [
+    239,
+    0,
+]
+size = [
+    107,
+    56,
+]
+frame_offset = [
+    17,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_7]
+pos = [
+    226,
+    114,
+]
+size = [
+    99,
+    47,
+]
+frame_offset = [
+    14,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_8]
+pos = [
+    431,
+    926,
+]
+size = [
+    57,
+    46,
+]
+frame_offset = [
+    43,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[d_generic_1_9]
+pos = [
+    964,
+    730,
+]
+size = [
+    50,
+    43,
+]
+frame_offset = [
+    55,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]

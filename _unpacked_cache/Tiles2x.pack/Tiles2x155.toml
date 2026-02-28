@@ -1,0 +1,2087 @@
+[overlay_grime_wall_01_10]
+pos = [
+    477,
+    428,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_11]
+pos = [
+    132,
+    483,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_12]
+pos = [
+    594,
+    778,
+]
+size = [
+    56,
+    98,
+]
+frame_offset = [
+    2,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_13]
+pos = [
+    760,
+    834,
+]
+size = [
+    40,
+    65,
+]
+frame_offset = [
+    72,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_14]
+pos = [
+    264,
+    949,
+]
+size = [
+    64,
+    72,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_15]
+pos = [
+    741,
+    501,
+]
+size = [
+    64,
+    72,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_16]
+pos = [
+    264,
+    670,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_17]
+pos = [
+    198,
+    481,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_18]
+pos = [
+    258,
+    77,
+]
+size = [
+    122,
+    187,
+]
+frame_offset = [
+    2,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_19]
+pos = [
+    1009,
+    196,
+]
+size = [
+    6,
+    157,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_20]
+pos = [
+    869,
+    228,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_21]
+pos = [
+    66,
+    509,
+]
+size = [
+    64,
+    223,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_22]
+pos = [
+    385,
+    0,
+]
+size = [
+    122,
+    222,
+]
+frame_offset = [
+    2,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_24]
+pos = [
+    543,
+    457,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_25]
+pos = [
+    0,
+    735,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_26]
+pos = [
+    330,
+    689,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_27]
+pos = [
+    264,
+    481,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_28]
+pos = [
+    877,
+    711,
+]
+size = [
+    40,
+    92,
+]
+frame_offset = [
+    14,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_29]
+pos = [
+    810,
+    765,
+]
+size = [
+    40,
+    92,
+]
+frame_offset = [
+    72,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_30]
+pos = [
+    935,
+    228,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_31]
+pos = [
+    0,
+    509,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_32]
+pos = [
+    66,
+    923,
+]
+size = [
+    64,
+    92,
+]
+frame_offset = [
+    2,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_33]
+pos = [
+    132,
+    861,
+]
+size = [
+    64,
+    92,
+]
+frame_offset = [
+    60,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_34]
+pos = [
+    124,
+    228,
+]
+size = [
+    122,
+    91,
+]
+frame_offset = [
+    2,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_35]
+pos = [
+    396,
+    500,
+]
+size = [
+    6,
+    62,
+]
+frame_offset = [
+    60,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_36]
+pos = [
+    396,
+    627,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_37]
+pos = [
+    609,
+    457,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_38]
+pos = [
+    66,
+    734,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_39]
+pos = [
+    132,
+    672,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_4]
+pos = [
+    528,
+    827,
+]
+size = [
+    56,
+    174,
+]
+frame_offset = [
+    4,
+    5,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_40]
+pos = [
+    198,
+    859,
+]
+size = [
+    64,
+    92,
+]
+frame_offset = [
+    2,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_41]
+pos = [
+    264,
+    855,
+]
+size = [
+    64,
+    92,
+]
+frame_offset = [
+    60,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_42]
+pos = [
+    0,
+    416,
+]
+size = [
+    122,
+    91,
+]
+frame_offset = [
+    2,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_43]
+pos = [
+    655,
+    357,
+]
+size = [
+    6,
+    62,
+]
+frame_offset = [
+    60,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_44]
+pos = [
+    462,
+    627,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_45]
+pos = [
+    675,
+    411,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_46]
+pos = [
+    330,
+    500,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_47]
+pos = [
+    411,
+    438,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_5]
+pos = [
+    0,
+    924,
+]
+size = [
+    64,
+    98,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_6]
+pos = [
+    0,
+    208,
+]
+size = [
+    122,
+    206,
+]
+frame_offset = [
+    2,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_8]
+pos = [
+    528,
+    642,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_9]
+pos = [
+    198,
+    670,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_0]
+pos = [
+    964,
+    0,
+]
+size = [
+    58,
+    60,
+]
+frame_offset = [
+    8,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_1]
+pos = [
+    675,
+    596,
+]
+size = [
+    64,
+    53,
+]
+frame_offset = [
+    2,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_10]
+pos = [
+    635,
+    966,
+]
+size = [
+    39,
+    41,
+]
+frame_offset = [
+    2,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_11]
+pos = [
+    124,
+    396,
+]
+size = [
+    68,
+    85,
+]
+frame_offset = [
+    56,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_12]
+pos = [
+    330,
+    874,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    60,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_13]
+pos = [
+    330,
+    954,
+]
+size = [
+    61,
+    66,
+]
+frame_offset = [
+    60,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_14]
+pos = [
+    807,
+    454,
+]
+size = [
+    61,
+    74,
+]
+frame_offset = [
+    5,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_15]
+pos = [
+    630,
+    357,
+]
+size = [
+    23,
+    46,
+]
+frame_offset = [
+    2,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_16]
+pos = [
+    751,
+    901,
+]
+size = [
+    37,
+    44,
+]
+frame_offset = [
+    29,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_17]
+pos = [
+    198,
+    953,
+]
+size = [
+    64,
+    68,
+]
+frame_offset = [
+    2,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_18]
+pos = [
+    344,
+    376,
+]
+size = [
+    29,
+    56,
+]
+frame_offset = [
+    2,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_19]
+pos = [
+    344,
+    438,
+]
+size = [
+    65,
+    60,
+]
+frame_offset = [
+    59,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_2]
+pos = [
+    636,
+    922,
+]
+size = [
+    46,
+    42,
+]
+frame_offset = [
+    2,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_20]
+pos = [
+    462,
+    812,
+]
+size = [
+    64,
+    52,
+]
+frame_offset = [
+    60,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_21]
+pos = [
+    393,
+    968,
+]
+size = [
+    55,
+    46,
+]
+frame_offset = [
+    60,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_24]
+pos = [
+    194,
+    396,
+]
+size = [
+    51,
+    60,
+]
+frame_offset = [
+    15,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_25]
+pos = [
+    462,
+    866,
+]
+size = [
+    59,
+    66,
+]
+frame_offset = [
+    2,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_26]
+pos = [
+    396,
+    892,
+]
+size = [
+    63,
+    74,
+]
+frame_offset = [
+    3,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_27]
+pos = [
+    964,
+    134,
+]
+size = [
+    57,
+    60,
+]
+frame_offset = [
+    2,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_28]
+pos = [
+    964,
+    62,
+]
+size = [
+    57,
+    70,
+]
+frame_offset = [
+    67,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_29]
+pos = [
+    396,
+    812,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    60,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_3]
+pos = [
+    804,
+    597,
+]
+size = [
+    49,
+    68,
+]
+frame_offset = [
+    17,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_30]
+pos = [
+    741,
+    423,
+]
+size = [
+    64,
+    76,
+]
+frame_offset = [
+    60,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_31]
+pos = [
+    461,
+    934,
+]
+size = [
+    50,
+    59,
+]
+frame_offset = [
+    60,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_34]
+pos = [
+    594,
+    718,
+]
+size = [
+    61,
+    58,
+]
+frame_offset = [
+    67,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_35]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    70,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_36]
+pos = [
+    0,
+    72,
+]
+size = [
+    128,
+    68,
+]
+frame_offset = [
+    0,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_37]
+pos = [
+    258,
+    0,
+]
+size = [
+    125,
+    75,
+]
+frame_offset = [
+    0,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_38]
+pos = [
+    870,
+    454,
+]
+size = [
+    59,
+    72,
+]
+frame_offset = [
+    69,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_39]
+pos = [
+    124,
+    321,
+]
+size = [
+    121,
+    73,
+]
+frame_offset = [
+    0,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_4]
+pos = [
+    594,
+    642,
+]
+size = [
+    64,
+    74,
+]
+frame_offset = [
+    2,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_5]
+pos = [
+    926,
+    649,
+]
+size = [
+    41,
+    34,
+]
+frame_offset = [
+    2,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_6]
+pos = [
+    807,
+    530,
+]
+size = [
+    59,
+    65,
+]
+frame_offset = [
+    7,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_7]
+pos = [
+    741,
+    575,
+]
+size = [
+    61,
+    58,
+]
+frame_offset = [
+    2,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_8]
+pos = [
+    586,
+    957,
+]
+size = [
+    47,
+    57,
+]
+frame_offset = [
+    19,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_messages_wall_01_9]
+pos = [
+    132,
+    955,
+]
+size = [
+    64,
+    61,
+]
+frame_offset = [
+    2,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_0]
+pos = [
+    761,
+    746,
+]
+size = [
+    47,
+    86,
+]
+frame_offset = [
+    27,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_1]
+pos = [
+    630,
+    201,
+]
+size = [
+    30,
+    76,
+]
+frame_offset = [
+    10,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_2]
+pos = [
+    630,
+    279,
+]
+size = [
+    30,
+    76,
+]
+frame_offset = [
+    86,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_3]
+pos = [
+    711,
+    805,
+]
+size = [
+    47,
+    87,
+]
+frame_offset = [
+    52,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_4]
+pos = [
+    778,
+    667,
+]
+size = [
+    48,
+    77,
+]
+frame_offset = [
+    28,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_5]
+pos = [
+    966,
+    685,
+]
+size = [
+    38,
+    75,
+]
+frame_offset = [
+    4,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_6]
+pos = [
+    711,
+    894,
+]
+size = [
+    38,
+    76,
+]
+frame_offset = [
+    84,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_7]
+pos = [
+    586,
+    878,
+]
+size = [
+    48,
+    77,
+]
+frame_offset = [
+    50,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_8]
+pos = [
+    721,
+    651,
+]
+size = [
+    55,
+    67,
+]
+frame_offset = [
+    9,
+    80,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[papernotices_01_9]
+pos = [
+    660,
+    651,
+]
+size = [
+    59,
+    68,
+]
+frame_offset = [
+    58,
+    78,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[preset_depthmaps_01_0]
+pos = [
+    0,
+    142,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[preset_depthmaps_01_2]
+pos = [
+    896,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[preset_depthmaps_01_3]
+pos = [
+    733,
+    182,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[preset_depthmaps_01_4]
+pos = [
+    801,
+    195,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[preset_depthmaps_01_5]
+pos = [
+    665,
+    182,
+]
+size = [
+    66,
+    227,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[preset_depthmaps_01_6]
+pos = [
+    130,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[preset_depthmaps_01_7]
+pos = [
+    1001,
+    196,
+]
+size = [
+    6,
+    195,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_0]
+pos = [
+    870,
+    528,
+]
+size = [
+    49,
+    100,
+]
+frame_offset = [
+    26,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_1]
+pos = [
+    382,
+    224,
+]
+size = [
+    93,
+    212,
+]
+frame_offset = [
+    7,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_10]
+pos = [
+    711,
+    721,
+]
+size = [
+    48,
+    82,
+]
+frame_offset = [
+    52,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_11]
+pos = [
+    248,
+    266,
+]
+size = [
+    94,
+    213,
+]
+frame_offset = [
+    25,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_12]
+pos = [
+    477,
+    224,
+]
+size = [
+    75,
+    202,
+]
+frame_offset = [
+    6,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_13]
+pos = [
+    657,
+    721,
+]
+size = [
+    52,
+    199,
+]
+frame_offset = [
+    3,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_14]
+pos = [
+    983,
+    454,
+]
+size = [
+    39,
+    220,
+]
+frame_offset = [
+    44,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_15]
+pos = [
+    509,
+    0,
+]
+size = [
+    76,
+    221,
+]
+frame_offset = [
+    9,
+    8,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_16]
+pos = [
+    743,
+    0,
+]
+size = [
+    75,
+    180,
+]
+frame_offset = [
+    42,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_17]
+pos = [
+    926,
+    685,
+]
+size = [
+    38,
+    174,
+]
+frame_offset = [
+    44,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_18]
+pos = [
+    665,
+    0,
+]
+size = [
+    76,
+    180,
+]
+frame_offset = [
+    7,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_19]
+pos = [
+    587,
+    0,
+]
+size = [
+    76,
+    199,
+]
+frame_offset = [
+    45,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_2]
+pos = [
+    877,
+    630,
+]
+size = [
+    47,
+    79,
+]
+frame_offset = [
+    29,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_20]
+pos = [
+    931,
+    454,
+]
+size = [
+    50,
+    193,
+]
+frame_offset = [
+    72,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_3]
+pos = [
+    554,
+    223,
+]
+size = [
+    74,
+    232,
+]
+frame_offset = [
+    27,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_4]
+pos = [
+    852,
+    805,
+]
+size = [
+    35,
+    106,
+]
+frame_offset = [
+    64,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_5]
+pos = [
+    344,
+    266,
+]
+size = [
+    36,
+    108,
+]
+frame_offset = [
+    29,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_6]
+pos = [
+    820,
+    0,
+]
+size = [
+    74,
+    193,
+]
+frame_offset = [
+    25,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_7]
+pos = [
+    889,
+    805,
+]
+size = [
+    35,
+    71,
+]
+frame_offset = [
+    27,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_8]
+pos = [
+    802,
+    859,
+]
+size = [
+    36,
+    72,
+]
+frame_offset = [
+    62,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_9]
+pos = [
+    828,
+    667,
+]
+size = [
+    47,
+    96,
+]
+frame_offset = [
+    51,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]

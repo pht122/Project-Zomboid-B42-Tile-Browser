@@ -1,0 +1,1511 @@
+[carpentry_01_16]
+pos = [
+    616,
+    250,
+]
+size = [
+    110,
+    123,
+]
+frame_offset = [
+    8,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_17]
+pos = [
+    728,
+    250,
+]
+size = [
+    110,
+    122,
+]
+frame_offset = [
+    8,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_18]
+pos = [
+    490,
+    373,
+]
+size = [
+    110,
+    125,
+]
+frame_offset = [
+    8,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_19]
+pos = [
+    864,
+    0,
+]
+size = [
+    113,
+    122,
+]
+frame_offset = [
+    5,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_20]
+pos = [
+    740,
+    125,
+]
+size = [
+    112,
+    121,
+]
+frame_offset = [
+    5,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_21]
+pos = [
+    623,
+    125,
+]
+size = [
+    115,
+    123,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_24]
+pos = [
+    505,
+    125,
+]
+size = [
+    116,
+    122,
+]
+frame_offset = [
+    10,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_25]
+pos = [
+    381,
+    120,
+]
+size = [
+    122,
+    122,
+]
+frame_offset = [
+    0,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_26]
+pos = [
+    127,
+    128,
+]
+size = [
+    124,
+    124,
+]
+frame_offset = [
+    3,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_27]
+pos = [
+    499,
+    249,
+]
+size = [
+    115,
+    122,
+]
+frame_offset = [
+    0,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_28]
+pos = [
+    627,
+    0,
+]
+size = [
+    117,
+    123,
+]
+frame_offset = [
+    9,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_29]
+pos = [
+    124,
+    373,
+]
+size = [
+    121,
+    123,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_30]
+pos = [
+    0,
+    254,
+]
+size = [
+    122,
+    122,
+]
+frame_offset = [
+    4,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_31]
+pos = [
+    746,
+    0,
+]
+size = [
+    116,
+    122,
+]
+frame_offset = [
+    0,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_32]
+pos = [
+    370,
+    369,
+]
+size = [
+    118,
+    123,
+]
+frame_offset = [
+    8,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_33]
+pos = [
+    248,
+    359,
+]
+size = [
+    120,
+    123,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_34]
+pos = [
+    377,
+    244,
+]
+size = [
+    120,
+    123,
+]
+frame_offset = [
+    6,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_35]
+pos = [
+    507,
+    0,
+]
+size = [
+    118,
+    123,
+]
+frame_offset = [
+    0,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_36]
+pos = [
+    505,
+    500,
+]
+size = [
+    91,
+    95,
+]
+frame_offset = [
+    20,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_37]
+pos = [
+    204,
+    858,
+]
+size = [
+    91,
+    78,
+]
+frame_offset = [
+    21,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_38]
+pos = [
+    306,
+    734,
+]
+size = [
+    91,
+    94,
+]
+frame_offset = [
+    14,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_39]
+pos = [
+    408,
+    655,
+]
+size = [
+    91,
+    78,
+]
+frame_offset = [
+    15,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_40]
+pos = [
+    480,
+    840,
+]
+size = [
+    63,
+    108,
+]
+frame_offset = [
+    26,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_41]
+pos = [
+    391,
+    905,
+]
+size = [
+    64,
+    109,
+]
+frame_offset = [
+    33,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_42]
+pos = [
+    683,
+    593,
+]
+size = [
+    65,
+    94,
+]
+frame_offset = [
+    26,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_43]
+pos = [
+    956,
+    124,
+]
+size = [
+    66,
+    95,
+]
+frame_offset = [
+    32,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_44]
+pos = [
+    835,
+    486,
+]
+size = [
+    63,
+    108,
+]
+frame_offset = [
+    26,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_45]
+pos = [
+    565,
+    755,
+]
+size = [
+    64,
+    109,
+]
+frame_offset = [
+    33,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_46]
+pos = [
+    887,
+    389,
+]
+size = [
+    65,
+    95,
+]
+frame_offset = [
+    26,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_47]
+pos = [
+    768,
+    508,
+]
+size = [
+    65,
+    96,
+]
+frame_offset = [
+    32,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_48]
+pos = [
+    831,
+    789,
+]
+size = [
+    51,
+    179,
+]
+frame_offset = [
+    7,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_49]
+pos = [
+    969,
+    707,
+]
+size = [
+    51,
+    179,
+]
+frame_offset = [
+    68,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_50]
+pos = [
+    915,
+    525,
+]
+size = [
+    53,
+    179,
+]
+frame_offset = [
+    56,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_51]
+pos = [
+    723,
+    790,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    18,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_52]
+pos = [
+    970,
+    525,
+]
+size = [
+    52,
+    180,
+]
+frame_offset = [
+    7,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_53]
+pos = [
+    860,
+    596,
+]
+size = [
+    53,
+    180,
+]
+frame_offset = [
+    67,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_54]
+pos = [
+    954,
+    342,
+]
+size = [
+    54,
+    181,
+]
+frame_offset = [
+    55,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_55]
+pos = [
+    750,
+    606,
+]
+size = [
+    53,
+    182,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_56]
+pos = [
+    777,
+    790,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    7,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_57]
+pos = [
+    915,
+    706,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    67,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_58]
+pos = [
+    667,
+    689,
+]
+size = [
+    54,
+    181,
+]
+frame_offset = [
+    55,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_59]
+pos = [
+    805,
+    606,
+]
+size = [
+    53,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_60]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    125,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_61]
+pos = [
+    128,
+    0,
+]
+size = [
+    125,
+    126,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_01_62]
+pos = [
+    0,
+    127,
+]
+size = [
+    125,
+    125,
+]
+frame_offset = [
+    1,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_0]
+pos = [
+    399,
+    735,
+]
+size = [
+    83,
+    83,
+]
+frame_offset = [
+    20,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_1]
+pos = [
+    297,
+    916,
+]
+size = [
+    79,
+    83,
+]
+frame_offset = [
+    26,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_10]
+pos = [
+    942,
+    257,
+]
+size = [
+    79,
+    83,
+]
+frame_offset = [
+    25,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_11]
+pos = [
+    399,
+    820,
+]
+size = [
+    79,
+    83,
+]
+frame_offset = [
+    23,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_12]
+pos = [
+    408,
+    500,
+]
+size = [
+    95,
+    76,
+]
+frame_offset = [
+    4,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_13]
+pos = [
+    408,
+    578,
+]
+size = [
+    94,
+    75,
+]
+frame_offset = [
+    31,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_14]
+pos = [
+    504,
+    597,
+]
+size = [
+    86,
+    71,
+]
+frame_offset = [
+    18,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_15]
+pos = [
+    598,
+    508,
+]
+size = [
+    86,
+    70,
+]
+frame_offset = [
+    19,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_16]
+pos = [
+    255,
+    0,
+]
+size = [
+    124,
+    118,
+]
+frame_offset = [
+    0,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_17]
+pos = [
+    0,
+    629,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_18]
+pos = [
+    840,
+    257,
+]
+size = [
+    100,
+    130,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_19]
+pos = [
+    204,
+    498,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_2]
+pos = [
+    306,
+    830,
+]
+size = [
+    83,
+    84,
+]
+frame_offset = [
+    20,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_20]
+pos = [
+    124,
+    254,
+]
+size = [
+    122,
+    117,
+]
+frame_offset = [
+    2,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_21]
+pos = [
+    102,
+    630,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    24,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_22]
+pos = [
+    854,
+    124,
+]
+size = [
+    100,
+    131,
+]
+frame_offset = [
+    24,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_23]
+pos = [
+    0,
+    749,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    24,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_24]
+pos = [
+    255,
+    120,
+]
+size = [
+    124,
+    118,
+]
+frame_offset = [
+    0,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_25]
+pos = [
+    306,
+    494,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_26]
+pos = [
+    0,
+    497,
+]
+size = [
+    100,
+    130,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_27]
+pos = [
+    204,
+    618,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_28]
+pos = [
+    0,
+    378,
+]
+size = [
+    122,
+    117,
+]
+frame_offset = [
+    2,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_29]
+pos = [
+    102,
+    750,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    24,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_3]
+pos = [
+    686,
+    508,
+]
+size = [
+    80,
+    83,
+]
+frame_offset = [
+    26,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_30]
+pos = [
+    602,
+    375,
+]
+size = [
+    100,
+    131,
+]
+frame_offset = [
+    24,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_31]
+pos = [
+    0,
+    869,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    24,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_32]
+pos = [
+    381,
+    0,
+]
+size = [
+    124,
+    118,
+]
+frame_offset = [
+    0,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_33]
+pos = [
+    306,
+    614,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    2,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_34]
+pos = [
+    102,
+    498,
+]
+size = [
+    100,
+    130,
+]
+frame_offset = [
+    2,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_35]
+pos = [
+    204,
+    738,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    2,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_36]
+pos = [
+    253,
+    240,
+]
+size = [
+    122,
+    117,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_37]
+pos = [
+    102,
+    870,
+]
+size = [
+    100,
+    118,
+]
+frame_offset = [
+    24,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_38]
+pos = [
+    704,
+    375,
+]
+size = [
+    100,
+    131,
+]
+frame_offset = [
+    24,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_4]
+pos = [
+    501,
+    670,
+]
+size = [
+    83,
+    83,
+]
+frame_offset = [
+    20,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_5]
+pos = [
+    806,
+    389,
+]
+size = [
+    79,
+    83,
+]
+frame_offset = [
+    26,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_6]
+pos = [
+    204,
+    938,
+]
+size = [
+    83,
+    84,
+]
+frame_offset = [
+    20,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_7]
+pos = [
+    586,
+    670,
+]
+size = [
+    79,
+    83,
+]
+frame_offset = [
+    26,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_8]
+pos = [
+    598,
+    580,
+]
+size = [
+    83,
+    83,
+]
+frame_offset = [
+    20,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[carpentry_02_9]
+pos = [
+    484,
+    755,
+]
+size = [
+    79,
+    83,
+]
+frame_offset = [
+    26,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]

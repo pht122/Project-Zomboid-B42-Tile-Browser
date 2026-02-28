@@ -1,0 +1,1403 @@
+[fencing_damaged_06_100]
+pos = [
+    810,
+    215,
+]
+size = [
+    74,
+    201,
+]
+frame_offset = [
+    48,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_101]
+pos = [
+    430,
+    368,
+]
+size = [
+    68,
+    227,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_104]
+pos = [
+    706,
+    547,
+]
+size = [
+    63,
+    209,
+]
+frame_offset = [
+    2,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_105]
+pos = [
+    130,
+    0,
+]
+size = [
+    127,
+    176,
+]
+frame_offset = [
+    1,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_106]
+pos = [
+    116,
+    340,
+]
+size = [
+    2,
+    4,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_108]
+pos = [
+    0,
+    699,
+]
+size = [
+    70,
+    216,
+]
+frame_offset = [
+    0,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_109]
+pos = [
+    75,
+    505,
+]
+size = [
+    72,
+    194,
+]
+frame_offset = [
+    6,
+    17,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_112]
+pos = [
+    0,
+    102,
+]
+size = [
+    128,
+    78,
+]
+frame_offset = [
+    0,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_113]
+pos = [
+    0,
+    266,
+]
+size = [
+    126,
+    72,
+]
+frame_offset = [
+    0,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_114]
+pos = [
+    654,
+    0,
+]
+size = [
+    78,
+    61,
+]
+frame_offset = [
+    22,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_115]
+pos = [
+    434,
+    242,
+]
+size = [
+    67,
+    39,
+]
+frame_offset = [
+    0,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_116]
+pos = [
+    229,
+    384,
+]
+size = [
+    93,
+    50,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_117]
+pos = [
+    388,
+    37,
+]
+size = [
+    102,
+    61,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_118]
+pos = [
+    434,
+    283,
+]
+size = [
+    38,
+    24,
+]
+frame_offset = [
+    8,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_120]
+pos = [
+    259,
+    0,
+]
+size = [
+    127,
+    85,
+]
+frame_offset = [
+    0,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_121]
+pos = [
+    229,
+    324,
+]
+size = [
+    98,
+    58,
+]
+frame_offset = [
+    0,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_122]
+pos = [
+    223,
+    505,
+]
+size = [
+    70,
+    195,
+]
+frame_offset = [
+    6,
+    28,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_123]
+pos = [
+    388,
+    0,
+]
+size = [
+    104,
+    35,
+]
+frame_offset = [
+    22,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_124]
+pos = [
+    337,
+    250,
+]
+size = [
+    95,
+    57,
+]
+frame_offset = [
+    31,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_125]
+pos = [
+    251,
+    178,
+]
+size = [
+    101,
+    70,
+]
+frame_offset = [
+    26,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_128]
+pos = [
+    0,
+    182,
+]
+size = [
+    126,
+    82,
+]
+frame_offset = [
+    0,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_129]
+pos = [
+    430,
+    309,
+]
+size = [
+    79,
+    57,
+]
+frame_offset = [
+    21,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_130]
+pos = [
+    387,
+    100,
+]
+size = [
+    99,
+    87,
+]
+frame_offset = [
+    29,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_131]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    100,
+]
+frame_offset = [
+    0,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_132]
+pos = [
+    130,
+    178,
+]
+size = [
+    119,
+    76,
+]
+frame_offset = [
+    1,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_133]
+pos = [
+    0,
+    435,
+]
+size = [
+    98,
+    68,
+]
+frame_offset = [
+    30,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_136]
+pos = [
+    337,
+    309,
+]
+size = [
+    91,
+    94,
+]
+frame_offset = [
+    35,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_137]
+pos = [
+    229,
+    470,
+]
+size = [
+    81,
+    33,
+]
+frame_offset = [
+    34,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_138]
+pos = [
+    128,
+    256,
+]
+size = [
+    107,
+    58,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_139]
+pos = [
+    237,
+    256,
+]
+size = [
+    98,
+    66,
+]
+frame_offset = [
+    0,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_140]
+pos = [
+    0,
+    340,
+]
+size = [
+    114,
+    93,
+]
+frame_offset = [
+    0,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_141]
+pos = [
+    259,
+    87,
+]
+size = [
+    126,
+    88,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_142]
+pos = [
+    454,
+    196,
+]
+size = [
+    64,
+    22,
+]
+frame_offset = [
+    8,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_144]
+pos = [
+    503,
+    260,
+]
+size = [
+    55,
+    34,
+]
+frame_offset = [
+    40,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_145]
+pos = [
+    149,
+    480,
+]
+size = [
+    72,
+    44,
+]
+frame_offset = [
+    54,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_146]
+pos = [
+    324,
+    405,
+]
+size = [
+    85,
+    48,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_147]
+pos = [
+    229,
+    436,
+]
+size = [
+    88,
+    32,
+]
+frame_offset = [
+    17,
+    224,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_148]
+pos = [
+    503,
+    220,
+]
+size = [
+    56,
+    38,
+]
+frame_offset = [
+    0,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_149]
+pos = [
+    354,
+    189,
+]
+size = [
+    98,
+    51,
+]
+frame_offset = [
+    28,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_152]
+pos = [
+    494,
+    0,
+]
+size = [
+    78,
+    194,
+]
+frame_offset = [
+    47,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_153]
+pos = [
+    834,
+    666,
+]
+size = [
+    59,
+    207,
+]
+frame_offset = [
+    61,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_154]
+pos = [
+    574,
+    0,
+]
+size = [
+    78,
+    180,
+]
+frame_offset = [
+    48,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_155]
+pos = [
+    434,
+    597,
+]
+size = [
+    66,
+    209,
+]
+frame_offset = [
+    62,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_156]
+pos = [
+    222,
+    702,
+]
+size = [
+    68,
+    217,
+]
+frame_offset = [
+    0,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_157]
+pos = [
+    652,
+    280,
+]
+size = [
+    74,
+    211,
+]
+frame_offset = [
+    4,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_158]
+pos = [
+    636,
+    700,
+]
+size = [
+    62,
+    217,
+]
+frame_offset = [
+    9,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_159]
+pos = [
+    319,
+    455,
+]
+size = [
+    70,
+    190,
+]
+frame_offset = [
+    7,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_160]
+pos = [
+    895,
+    666,
+]
+size = [
+    57,
+    233,
+]
+frame_offset = [
+    46,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_161]
+pos = [
+    391,
+    455,
+]
+size = [
+    33,
+    188,
+]
+frame_offset = [
+    39,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_162]
+pos = [
+    128,
+    316,
+]
+size = [
+    99,
+    162,
+]
+frame_offset = [
+    25,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_163]
+pos = [
+    639,
+    493,
+]
+size = [
+    65,
+    205,
+]
+frame_offset = [
+    60,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_164]
+pos = [
+    891,
+    0,
+]
+size = [
+    75,
+    233,
+]
+frame_offset = [
+    46,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_165]
+pos = [
+    771,
+    638,
+]
+size = [
+    61,
+    196,
+]
+frame_offset = [
+    57,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_166]
+pos = [
+    734,
+    0,
+]
+size = [
+    77,
+    159,
+]
+frame_offset = [
+    47,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_167]
+pos = [
+    502,
+    589,
+]
+size = [
+    65,
+    206,
+]
+frame_offset = [
+    60,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_168]
+pos = [
+    570,
+    409,
+]
+size = [
+    67,
+    230,
+]
+frame_offset = [
+    1,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_169]
+pos = [
+    968,
+    0,
+]
+size = [
+    23,
+    177,
+]
+frame_offset = [
+    4,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_60]
+pos = [
+    144,
+    719,
+]
+size = [
+    68,
+    223,
+]
+frame_offset = [
+    8,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_61]
+pos = [
+    728,
+    356,
+]
+size = [
+    66,
+    189,
+]
+frame_offset = [
+    12,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_64]
+pos = [
+    72,
+    701,
+]
+size = [
+    70,
+    195,
+]
+frame_offset = [
+    49,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_65]
+pos = [
+    925,
+    433,
+]
+size = [
+    61,
+    223,
+]
+frame_offset = [
+    55,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_66]
+pos = [
+    813,
+    0,
+]
+size = [
+    76,
+    213,
+]
+frame_offset = [
+    52,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_67]
+pos = [
+    861,
+    433,
+]
+size = [
+    62,
+    231,
+]
+frame_offset = [
+    64,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_68]
+pos = [
+    654,
+    63,
+]
+size = [
+    77,
+    215,
+]
+frame_offset = [
+    50,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_69]
+pos = [
+    796,
+    418,
+]
+size = [
+    63,
+    218,
+]
+frame_offset = [
+    63,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_80]
+pos = [
+    733,
+    161,
+]
+size = [
+    75,
+    193,
+]
+frame_offset = [
+    48,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_81]
+pos = [
+    295,
+    647,
+]
+size = [
+    68,
+    207,
+]
+frame_offset = [
+    59,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_83]
+pos = [
+    434,
+    808,
+]
+size = [
+    53,
+    164,
+]
+frame_offset = [
+    72,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_84]
+pos = [
+    502,
+    797,
+]
+size = [
+    62,
+    176,
+]
+frame_offset = [
+    61,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_85]
+pos = [
+    365,
+    647,
+]
+size = [
+    67,
+    213,
+]
+frame_offset = [
+    59,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_88]
+pos = [
+    500,
+    368,
+]
+size = [
+    68,
+    219,
+]
+frame_offset = [
+    1,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_89]
+pos = [
+    0,
+    505,
+]
+size = [
+    73,
+    192,
+]
+frame_offset = [
+    5,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_91]
+pos = [
+    954,
+    658,
+]
+size = [
+    51,
+    192,
+]
+frame_offset = [
+    13,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_92]
+pos = [
+    574,
+    182,
+]
+size = [
+    76,
+    225,
+]
+frame_offset = [
+    0,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_93]
+pos = [
+    569,
+    641,
+]
+size = [
+    65,
+    191,
+]
+frame_offset = [
+    12,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_96]
+pos = [
+    886,
+    235,
+]
+size = [
+    74,
+    196,
+]
+frame_offset = [
+    49,
+    17,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_97]
+pos = [
+    700,
+    758,
+]
+size = [
+    60,
+    215,
+]
+frame_offset = [
+    59,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fencing_damaged_06_98]
+pos = [
+    149,
+    526,
+]
+size = [
+    71,
+    191,
+]
+frame_offset = [
+    55,
+    5,
+]
+frame_size = [
+    128,
+    256,
+]

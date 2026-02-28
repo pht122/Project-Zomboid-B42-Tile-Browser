@@ -1,0 +1,3447 @@
+[industry_bunker_01_12]
+pos = [
+    0,
+    258,
+]
+size = [
+    128,
+    130,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_13]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    128,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_16]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_17]
+pos = [
+    0,
+    390,
+]
+size = [
+    128,
+    99,
+]
+frame_offset = [
+    0,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_18]
+pos = [
+    260,
+    130,
+]
+size = [
+    128,
+    99,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_19]
+pos = [
+    130,
+    255,
+]
+size = [
+    128,
+    127,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_20]
+pos = [
+    130,
+    384,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_21]
+pos = [
+    260,
+    231,
+]
+size = [
+    128,
+    98,
+]
+frame_offset = [
+    0,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_24]
+pos = [
+    767,
+    751,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_25]
+pos = [
+    661,
+    831,
+]
+size = [
+    66,
+    127,
+]
+frame_offset = [
+    60,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_26]
+pos = [
+    518,
+    0,
+]
+size = [
+    126,
+    128,
+]
+frame_offset = [
+    0,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_27]
+pos = [
+    1014,
+    438,
+]
+size = [
+    7,
+    97,
+]
+frame_offset = [
+    59,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_0]
+pos = [
+    388,
+    451,
+]
+size = [
+    122,
+    59,
+]
+frame_offset = [
+    6,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_1]
+pos = [
+    260,
+    331,
+]
+size = [
+    128,
+    59,
+]
+frame_offset = [
+    0,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_10]
+pos = [
+    646,
+    62,
+]
+size = [
+    126,
+    59,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_11]
+pos = [
+    222,
+    676,
+]
+size = [
+    106,
+    64,
+]
+frame_offset = [
+    11,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_12]
+pos = [
+    295,
+    999,
+]
+size = [
+    62,
+    20,
+]
+frame_offset = [
+    33,
+    236,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_13]
+pos = [
+    774,
+    0,
+]
+size = [
+    126,
+    52,
+]
+frame_offset = [
+    0,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_14]
+pos = [
+    143,
+    508,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    51,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_15]
+pos = [
+    512,
+    465,
+]
+size = [
+    117,
+    45,
+]
+frame_offset = [
+    4,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_16]
+pos = [
+    835,
+    848,
+]
+size = [
+    45,
+    48,
+]
+frame_offset = [
+    77,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_17]
+pos = [
+    0,
+    634,
+]
+size = [
+    109,
+    233,
+]
+frame_offset = [
+    13,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_18]
+pos = [
+    774,
+    183,
+]
+size = [
+    118,
+    53,
+]
+frame_offset = [
+    4,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_19]
+pos = [
+    641,
+    347,
+]
+size = [
+    117,
+    53,
+]
+frame_offset = [
+    4,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_2]
+pos = [
+    224,
+    568,
+]
+size = [
+    108,
+    58,
+]
+frame_offset = [
+    0,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_20]
+pos = [
+    600,
+    967,
+]
+size = [
+    54,
+    52,
+]
+frame_offset = [
+    4,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_21]
+pos = [
+    541,
+    609,
+]
+size = [
+    90,
+    58,
+]
+frame_offset = [
+    18,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_22]
+pos = [
+    316,
+    848,
+]
+size = [
+    90,
+    52,
+]
+frame_offset = [
+    18,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_23]
+pos = [
+    224,
+    511,
+]
+size = [
+    109,
+    55,
+]
+frame_offset = [
+    13,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_24]
+pos = [
+    646,
+    123,
+]
+size = [
+    126,
+    54,
+]
+frame_offset = [
+    0,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_25]
+pos = [
+    390,
+    253,
+]
+size = [
+    126,
+    60,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_26]
+pos = [
+    550,
+    512,
+]
+size = [
+    93,
+    32,
+]
+frame_offset = [
+    33,
+    224,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_27]
+pos = [
+    643,
+    575,
+]
+size = [
+    86,
+    34,
+]
+frame_offset = [
+    15,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_28]
+pos = [
+    408,
+    855,
+]
+size = [
+    82,
+    64,
+]
+frame_offset = [
+    7,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_29]
+pos = [
+    443,
+    512,
+]
+size = [
+    105,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_3]
+pos = [
+    112,
+    572,
+]
+size = [
+    109,
+    58,
+]
+frame_offset = [
+    18,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_30]
+pos = [
+    638,
+    458,
+]
+size = [
+    114,
+    51,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_31]
+pos = [
+    605,
+    721,
+]
+size = [
+    81,
+    53,
+]
+frame_offset = [
+    0,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_32]
+pos = [
+    731,
+    591,
+]
+size = [
+    81,
+    53,
+]
+frame_offset = [
+    45,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_33]
+pos = [
+    885,
+    250,
+]
+size = [
+    114,
+    51,
+]
+frame_offset = [
+    12,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_34]
+pos = [
+    221,
+    742,
+]
+size = [
+    105,
+    64,
+]
+frame_offset = [
+    21,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_35]
+pos = [
+    774,
+    117,
+]
+size = [
+    119,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_36]
+pos = [
+    737,
+    511,
+]
+size = [
+    86,
+    34,
+]
+frame_offset = [
+    25,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_37]
+pos = [
+    213,
+    912,
+]
+size = [
+    91,
+    31,
+]
+frame_offset = [
+    2,
+    225,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_38]
+pos = [
+    646,
+    0,
+]
+size = [
+    126,
+    60,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_39]
+pos = [
+    390,
+    0,
+]
+size = [
+    126,
+    251,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_4]
+pos = [
+    902,
+    0,
+]
+size = [
+    119,
+    59,
+]
+frame_offset = [
+    8,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_40]
+pos = [
+    425,
+    696,
+]
+size = [
+    91,
+    52,
+]
+frame_offset = [
+    35,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_41]
+pos = [
+    108,
+    933,
+]
+size = [
+    93,
+    52,
+]
+frame_offset = [
+    0,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_45]
+pos = [
+    135,
+    508,
+]
+size = [
+    2,
+    1,
+]
+frame_offset = [
+    72,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_46]
+pos = [
+    876,
+    361,
+]
+size = [
+    112,
+    55,
+]
+frame_offset = [
+    14,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_47]
+pos = [
+    872,
+    418,
+]
+size = [
+    112,
+    55,
+]
+frame_offset = [
+    0,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_48]
+pos = [
+    530,
+    669,
+]
+size = [
+    89,
+    50,
+]
+frame_offset = [
+    11,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_49]
+pos = [
+    766,
+    302,
+]
+size = [
+    115,
+    54,
+]
+frame_offset = [
+    11,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_5]
+pos = [
+    758,
+    415,
+]
+size = [
+    112,
+    59,
+]
+frame_offset = [
+    8,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_50]
+pos = [
+    0,
+    574,
+]
+size = [
+    110,
+    58,
+]
+frame_offset = [
+    14,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_51]
+pos = [
+    768,
+    240,
+]
+size = [
+    115,
+    60,
+]
+frame_offset = [
+    6,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_52]
+pos = [
+    333,
+    634,
+]
+size = [
+    101,
+    60,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_53]
+pos = [
+    111,
+    694,
+]
+size = [
+    108,
+    46,
+]
+frame_offset = [
+    18,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_54]
+pos = [
+    891,
+    748,
+]
+size = [
+    49,
+    20,
+]
+frame_offset = [
+    46,
+    236,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_55]
+pos = [
+    518,
+    192,
+]
+size = [
+    126,
+    58,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_56]
+pos = [
+    260,
+    451,
+]
+size = [
+    126,
+    58,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_57]
+pos = [
+    835,
+    826,
+]
+size = [
+    49,
+    20,
+]
+frame_offset = [
+    31,
+    236,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_58]
+pos = [
+    223,
+    628,
+]
+size = [
+    108,
+    46,
+]
+frame_offset = [
+    0,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_59]
+pos = [
+    110,
+    871,
+]
+size = [
+    101,
+    60,
+]
+frame_offset = [
+    25,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_6]
+pos = [
+    825,
+    501,
+]
+size = [
+    81,
+    43,
+]
+frame_offset = [
+    12,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_60]
+pos = [
+    895,
+    132,
+]
+size = [
+    115,
+    60,
+]
+frame_offset = [
+    5,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_61]
+pos = [
+    112,
+    512,
+]
+size = [
+    110,
+    58,
+]
+frame_offset = [
+    2,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_62]
+pos = [
+    894,
+    194,
+]
+size = [
+    115,
+    54,
+]
+frame_offset = [
+    0,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_63]
+pos = [
+    409,
+    803,
+]
+size = [
+    89,
+    50,
+]
+frame_offset = [
+    26,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_7]
+pos = [
+    716,
+    655,
+]
+size = [
+    80,
+    42,
+]
+frame_offset = [
+    34,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_8]
+pos = [
+    518,
+    252,
+]
+size = [
+    126,
+    54,
+]
+frame_offset = [
+    0,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_01_9]
+pos = [
+    111,
+    772,
+]
+size = [
+    107,
+    37,
+]
+frame_offset = [
+    11,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_0]
+pos = [
+    886,
+    832,
+]
+size = [
+    43,
+    48,
+]
+frame_offset = [
+    77,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_1]
+pos = [
+    203,
+    945,
+]
+size = [
+    90,
+    62,
+]
+frame_offset = [
+    18,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_10]
+pos = [
+    646,
+    240,
+]
+size = [
+    120,
+    43,
+]
+frame_offset = [
+    6,
+    208,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_11]
+pos = [
+    835,
+    796,
+]
+size = [
+    49,
+    28,
+]
+frame_offset = [
+    0,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_12]
+pos = [
+    683,
+    776,
+]
+size = [
+    70,
+    53,
+]
+frame_offset = [
+    10,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_16]
+pos = [
+    882,
+    882,
+]
+size = [
+    40,
+    34,
+]
+frame_offset = [
+    76,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_17]
+pos = [
+    645,
+    511,
+]
+size = [
+    90,
+    62,
+]
+frame_offset = [
+    18,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_18]
+pos = [
+    656,
+    960,
+]
+size = [
+    50,
+    55,
+]
+frame_offset = [
+    7,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_19]
+pos = [
+    641,
+    402,
+]
+size = [
+    115,
+    54,
+]
+frame_offset = [
+    13,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_2]
+pos = [
+    931,
+    832,
+]
+size = [
+    40,
+    58,
+]
+frame_offset = [
+    18,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_20]
+pos = [
+    898,
+    61,
+]
+size = [
+    117,
+    69,
+]
+frame_offset = [
+    0,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_21]
+pos = [
+    835,
+    898,
+]
+size = [
+    41,
+    36,
+]
+frame_offset = [
+    77,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_22]
+pos = [
+    442,
+    578,
+]
+size = [
+    97,
+    64,
+]
+frame_offset = [
+    31,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_23]
+pos = [
+    836,
+    689,
+]
+size = [
+    59,
+    51,
+]
+frame_offset = [
+    0,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_24]
+pos = [
+    112,
+    632,
+]
+size = [
+    108,
+    60,
+]
+frame_offset = [
+    20,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_25]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    253,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_26]
+pos = [
+    518,
+    347,
+]
+size = [
+    121,
+    59,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_27]
+pos = [
+    814,
+    633,
+]
+size = [
+    72,
+    54,
+]
+frame_offset = [
+    46,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_28]
+pos = [
+    708,
+    996,
+]
+size = [
+    43,
+    26,
+]
+frame_offset = [
+    84,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_3]
+pos = [
+    0,
+    512,
+]
+size = [
+    110,
+    60,
+]
+frame_offset = [
+    16,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_32]
+pos = [
+    942,
+    748,
+]
+size = [
+    45,
+    33,
+]
+frame_offset = [
+    77,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_33]
+pos = [
+    518,
+    408,
+]
+size = [
+    118,
+    55,
+]
+frame_offset = [
+    4,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_34]
+pos = [
+    574,
+    910,
+]
+size = [
+    63,
+    55,
+]
+frame_offset = [
+    3,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_35]
+pos = [
+    335,
+    512,
+]
+size = [
+    106,
+    60,
+]
+frame_offset = [
+    20,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_36]
+pos = [
+    390,
+    377,
+]
+size = [
+    126,
+    56,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_37]
+pos = [
+    757,
+    979,
+]
+size = [
+    41,
+    25,
+]
+frame_offset = [
+    85,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_38]
+pos = [
+    518,
+    130,
+]
+size = [
+    126,
+    60,
+]
+frame_offset = [
+    0,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_39]
+pos = [
+    334,
+    574,
+]
+size = [
+    106,
+    58,
+]
+frame_offset = [
+    0,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_4]
+pos = [
+    646,
+    194,
+]
+size = [
+    122,
+    44,
+]
+frame_offset = [
+    0,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_40]
+pos = [
+    583,
+    820,
+]
+size = [
+    76,
+    52,
+]
+frame_offset = [
+    42,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_41]
+pos = [
+    0,
+    963,
+]
+size = [
+    93,
+    57,
+]
+frame_offset = [
+    23,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_42]
+pos = [
+    328,
+    755,
+]
+size = [
+    92,
+    46,
+]
+frame_offset = [
+    22,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_45]
+pos = [
+    330,
+    696,
+]
+size = [
+    93,
+    57,
+]
+frame_offset = [
+    10,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_46]
+pos = [
+    462,
+    966,
+]
+size = [
+    76,
+    52,
+]
+frame_offset = [
+    8,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_47]
+pos = [
+    436,
+    644,
+]
+size = [
+    92,
+    46,
+]
+frame_offset = [
+    12,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_48]
+pos = [
+    836,
+    742,
+]
+size = [
+    53,
+    52,
+]
+frame_offset = [
+    69,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_49]
+pos = [
+    646,
+    285,
+]
+size = [
+    118,
+    55,
+]
+frame_offset = [
+    4,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_5]
+pos = [
+    540,
+    967,
+]
+size = [
+    58,
+    49,
+]
+frame_offset = [
+    68,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_50]
+pos = [
+    518,
+    308,
+]
+size = [
+    124,
+    37,
+]
+frame_offset = [
+    4,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_51]
+pos = [
+    260,
+    392,
+]
+size = [
+    128,
+    57,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_52]
+pos = [
+    0,
+    899,
+]
+size = [
+    106,
+    62,
+]
+frame_offset = [
+    0,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_53]
+pos = [
+    111,
+    811,
+]
+size = [
+    106,
+    58,
+]
+frame_offset = [
+    20,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_54]
+pos = [
+    390,
+    315,
+]
+size = [
+    126,
+    60,
+]
+frame_offset = [
+    0,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_6]
+pos = [
+    220,
+    808,
+]
+size = [
+    94,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_7]
+pos = [
+    940,
+    783,
+]
+size = [
+    43,
+    42,
+]
+frame_offset = [
+    15,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_8]
+pos = [
+    774,
+    54,
+]
+size = [
+    122,
+    61,
+]
+frame_offset = [
+    4,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_02_9]
+pos = [
+    883,
+    303,
+]
+size = [
+    112,
+    56,
+]
+frame_offset = [
+    0,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_0]
+pos = [
+    395,
+    921,
+]
+size = [
+    81,
+    43,
+]
+frame_offset = [
+    12,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_10]
+pos = [
+    448,
+    793,
+]
+size = [
+    18,
+    5,
+]
+frame_offset = [
+    54,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_12]
+pos = [
+    307,
+    902,
+]
+size = [
+    30,
+    8,
+]
+frame_offset = [
+    48,
+    248,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_13]
+pos = [
+    390,
+    435,
+]
+size = [
+    126,
+    13,
+]
+frame_offset = [
+    0,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_14]
+pos = [
+    128,
+    508,
+]
+size = [
+    5,
+    1,
+]
+frame_offset = [
+    51,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_15]
+pos = [
+    743,
+    831,
+]
+size = [
+    11,
+    44,
+]
+frame_offset = [
+    82,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_16]
+pos = [
+    189,
+    987,
+]
+size = [
+    11,
+    18,
+]
+frame_offset = [
+    109,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_17]
+pos = [
+    989,
+    672,
+]
+size = [
+    10,
+    233,
+]
+frame_offset = [
+    45,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_19]
+pos = [
+    729,
+    862,
+]
+size = [
+    11,
+    44,
+]
+frame_offset = [
+    82,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_2]
+pos = [
+    500,
+    814,
+]
+size = [
+    81,
+    43,
+]
+frame_offset = [
+    12,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_20]
+pos = [
+    986,
+    438,
+]
+size = [
+    26,
+    232,
+]
+frame_offset = [
+    18,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_21]
+pos = [
+    1012,
+    132,
+]
+size = [
+    10,
+    56,
+]
+frame_offset = [
+    45,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_22]
+pos = [
+    742,
+    877,
+]
+size = [
+    11,
+    44,
+]
+frame_offset = [
+    82,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_23]
+pos = [
+    688,
+    713,
+]
+size = [
+    77,
+    56,
+]
+frame_offset = [
+    45,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_24]
+pos = [
+    130,
+    483,
+]
+size = [
+    126,
+    23,
+]
+frame_offset = [
+    0,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_25]
+pos = [
+    908,
+    499,
+]
+size = [
+    76,
+    247,
+]
+frame_offset = [
+    0,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_26]
+pos = [
+    492,
+    904,
+]
+size = [
+    80,
+    32,
+]
+frame_offset = [
+    46,
+    224,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_27]
+pos = [
+    478,
+    938,
+]
+size = [
+    53,
+    20,
+]
+frame_offset = [
+    24,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_28]
+pos = [
+    395,
+    1010,
+]
+size = [
+    26,
+    9,
+]
+frame_offset = [
+    54,
+    247,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_29]
+pos = [
+    425,
+    750,
+]
+size = [
+    90,
+    41,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_3]
+pos = [
+    380,
+    966,
+]
+size = [
+    80,
+    42,
+]
+frame_offset = [
+    34,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_30]
+pos = [
+    95,
+    987,
+]
+size = [
+    92,
+    35,
+]
+frame_offset = [
+    0,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_33]
+pos = [
+    213,
+    874,
+]
+size = [
+    92,
+    36,
+]
+frame_offset = [
+    34,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_34]
+pos = [
+    550,
+    546,
+]
+size = [
+    91,
+    61,
+]
+frame_offset = [
+    35,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_35]
+pos = [
+    575,
+    874,
+]
+size = [
+    72,
+    34,
+]
+frame_offset = [
+    0,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_36]
+pos = [
+    708,
+    960,
+]
+size = [
+    47,
+    34,
+]
+frame_offset = [
+    48,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_37]
+pos = [
+    359,
+    1010,
+]
+size = [
+    34,
+    9,
+]
+frame_offset = [
+    46,
+    247,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_38]
+pos = [
+    422,
+    793,
+]
+size = [
+    24,
+    7,
+]
+frame_offset = [
+    50,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_39]
+pos = [
+    0,
+    491,
+]
+size = [
+    126,
+    19,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_40]
+pos = [
+    737,
+    547,
+]
+size = [
+    82,
+    42,
+]
+frame_offset = [
+    35,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_41]
+pos = [
+    518,
+    721,
+]
+size = [
+    85,
+    42,
+]
+frame_offset = [
+    8,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_45]
+pos = [
+    139,
+    508,
+]
+size = [
+    2,
+    1,
+]
+frame_offset = [
+    72,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_46]
+pos = [
+    868,
+    476,
+]
+size = [
+    112,
+    21,
+]
+frame_offset = [
+    14,
+    224,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_47]
+pos = [
+    754,
+    476,
+]
+size = [
+    112,
+    23,
+]
+frame_offset = [
+    0,
+    224,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_48]
+pos = [
+    295,
+    957,
+]
+size = [
+    83,
+    40,
+]
+frame_offset = [
+    11,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_49]
+pos = [
+    316,
+    808,
+]
+size = [
+    91,
+    38,
+]
+frame_offset = [
+    11,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_5]
+pos = [
+    821,
+    547,
+]
+size = [
+    80,
+    42,
+]
+frame_offset = [
+    34,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_51]
+pos = [
+    633,
+    611,
+]
+size = [
+    85,
+    42,
+]
+frame_offset = [
+    11,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_52]
+pos = [
+    146,
+    508,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    0,
+    223,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_53]
+pos = [
+    111,
+    742,
+]
+size = [
+    108,
+    28,
+]
+frame_offset = [
+    18,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_54]
+pos = [
+    241,
+    1009,
+]
+size = [
+    34,
+    10,
+]
+frame_offset = [
+    46,
+    246,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_55]
+pos = [
+    339,
+    902,
+]
+size = [
+    24,
+    7,
+]
+frame_offset = [
+    52,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_56]
+pos = [
+    754,
+    501,
+]
+size = [
+    14,
+    5,
+]
+frame_offset = [
+    56,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_57]
+pos = [
+    990,
+    361,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    48,
+    246,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_58]
+pos = [
+    0,
+    869,
+]
+size = [
+    108,
+    28,
+]
+frame_offset = [
+    0,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_59]
+pos = [
+    898,
+    54,
+]
+size = [
+    1,
+    4,
+]
+frame_offset = [
+    118,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_6]
+pos = [
+    492,
+    859,
+]
+size = [
+    81,
+    43,
+]
+frame_offset = [
+    12,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_60]
+pos = [
+    760,
+    358,
+]
+size = [
+    114,
+    55,
+]
+frame_offset = [
+    1,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_61]
+pos = [
+    149,
+    508,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    2,
+    225,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_62]
+pos = [
+    306,
+    912,
+]
+size = [
+    87,
+    43,
+]
+frame_offset = [
+    28,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_63]
+pos = [
+    814,
+    591,
+]
+size = [
+    79,
+    40,
+]
+frame_offset = [
+    36,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_7]
+pos = [
+    601,
+    776,
+]
+size = [
+    80,
+    42,
+]
+frame_offset = [
+    34,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_8]
+pos = [
+    646,
+    179,
+]
+size = [
+    126,
+    13,
+]
+frame_offset = [
+    0,
+    224,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_03_9]
+pos = [
+    189,
+    1009,
+]
+size = [
+    50,
+    13,
+]
+frame_offset = [
+    38,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_0]
+pos = [
+    800,
+    979,
+]
+size = [
+    39,
+    33,
+]
+frame_offset = [
+    81,
+    214,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_10]
+pos = [
+    518,
+    692,
+]
+size = [
+    10,
+    8,
+]
+frame_offset = [
+    116,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_11]
+pos = [
+    530,
+    644,
+]
+size = [
+    9,
+    8,
+]
+frame_offset = [
+    0,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_12]
+pos = [
+    767,
+    699,
+]
+size = [
+    67,
+    50,
+]
+frame_offset = [
+    11,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_16]
+pos = [
+    835,
+    936,
+]
+size = [
+    40,
+    28,
+]
+frame_offset = [
+    76,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_18]
+pos = [
+    1001,
+    286,
+]
+size = [
+    21,
+    29,
+]
+frame_offset = [
+    7,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_19]
+pos = [
+    1011,
+    194,
+]
+size = [
+    11,
+    54,
+]
+frame_offset = [
+    43,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_2]
+pos = [
+    729,
+    831,
+]
+size = [
+    12,
+    29,
+]
+frame_offset = [
+    18,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_20]
+pos = [
+    990,
+    373,
+]
+size = [
+    27,
+    63,
+]
+frame_offset = [
+    66,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_21]
+pos = [
+    95,
+    963,
+]
+size = [
+    11,
+    21,
+]
+frame_offset = [
+    107,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_23]
+pos = [
+    1001,
+    250,
+]
+size = [
+    21,
+    34,
+]
+frame_offset = [
+    15,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_24]
+pos = [
+    891,
+    770,
+]
+size = [
+    47,
+    60,
+]
+frame_offset = [
+    44,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_3]
+pos = [
+    639,
+    910,
+]
+size = [
+    14,
+    55,
+]
+frame_offset = [
+    42,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_4]
+pos = [
+    888,
+    633,
+]
+size = [
+    13,
+    44,
+]
+frame_offset = [
+    81,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_5]
+pos = [
+    997,
+    317,
+]
+size = [
+    18,
+    23,
+]
+frame_offset = [
+    101,
+    214,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_7]
+pos = [
+    798,
+    646,
+]
+size = [
+    13,
+    27,
+]
+frame_offset = [
+    15,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_8]
+pos = [
+    517,
+    765,
+]
+size = [
+    82,
+    47,
+]
+frame_offset = [
+    12,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_04_9]
+pos = [
+    633,
+    655,
+]
+size = [
+    81,
+    56,
+]
+frame_offset = [
+    8,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]

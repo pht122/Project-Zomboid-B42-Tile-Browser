@@ -1,0 +1,1745 @@
+[walls_interior_detailing_bathroom_01_158]
+pos = [
+    0,
+    201,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_159]
+pos = [
+    67,
+    747,
+]
+size = [
+    65,
+    161,
+]
+frame_offset = [
+    60,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_160]
+pos = [
+    670,
+    364,
+]
+size = [
+    65,
+    156,
+]
+frame_offset = [
+    1,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_161]
+pos = [
+    67,
+    201,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_162]
+pos = [
+    670,
+    679,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    2,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_163]
+pos = [
+    201,
+    747,
+]
+size = [
+    65,
+    158,
+]
+frame_offset = [
+    60,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_164]
+pos = [
+    536,
+    364,
+]
+size = [
+    65,
+    160,
+]
+frame_offset = [
+    1,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_165]
+pos = [
+    134,
+    201,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_166]
+pos = [
+    335,
+    709,
+]
+size = [
+    65,
+    156,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_167]
+pos = [
+    335,
+    546,
+]
+size = [
+    65,
+    161,
+]
+frame_offset = [
+    60,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_168]
+pos = [
+    67,
+    910,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_169]
+pos = [
+    134,
+    910,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_170]
+pos = [
+    402,
+    708,
+]
+size = [
+    65,
+    155,
+]
+frame_offset = [
+    1,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_171]
+pos = [
+    201,
+    201,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_172]
+pos = [
+    536,
+    840,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    2,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_173]
+pos = [
+    268,
+    728,
+]
+size = [
+    65,
+    157,
+]
+frame_offset = [
+    60,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_174]
+pos = [
+    248,
+    182,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    1,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_175]
+pos = [
+    251,
+    182,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    124,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_176]
+pos = [
+    268,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_177]
+pos = [
+    335,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_178]
+pos = [
+    402,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_179]
+pos = [
+    449,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_180]
+pos = [
+    423,
+    865,
+]
+size = [
+    19,
+    156,
+]
+frame_offset = [
+    1,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_181]
+pos = [
+    486,
+    843,
+]
+size = [
+    13,
+    155,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_182]
+pos = [
+    516,
+    843,
+]
+size = [
+    12,
+    154,
+]
+frame_offset = [
+    54,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_183]
+pos = [
+    985,
+    0,
+]
+size = [
+    19,
+    157,
+]
+frame_offset = [
+    106,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_184]
+pos = [
+    583,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_185]
+pos = [
+    650,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_186]
+pos = [
+    469,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_187]
+pos = [
+    717,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_188]
+pos = [
+    536,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_189]
+pos = [
+    784,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_190]
+pos = [
+    603,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_01_191]
+pos = [
+    851,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_0]
+pos = [
+    248,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_1]
+pos = [
+    670,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_10]
+pos = [
+    938,
+    364,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    2,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_11]
+pos = [
+    804,
+    521,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_12]
+pos = [
+    536,
+    684,
+]
+size = [
+    65,
+    154,
+]
+frame_offset = [
+    1,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_13]
+pos = [
+    315,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_14]
+pos = [
+    382,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_15]
+pos = [
+    469,
+    364,
+]
+size = [
+    65,
+    161,
+]
+frame_offset = [
+    60,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_16]
+pos = [
+    536,
+    526,
+]
+size = [
+    65,
+    156,
+]
+frame_offset = [
+    1,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_17]
+pos = [
+    516,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_18]
+pos = [
+    871,
+    520,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    2,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_19]
+pos = [
+    603,
+    364,
+]
+size = [
+    65,
+    158,
+]
+frame_offset = [
+    60,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_2]
+pos = [
+    0,
+    0,
+]
+size = [
+    122,
+    199,
+]
+frame_offset = [
+    2,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_20]
+pos = [
+    402,
+    546,
+]
+size = [
+    65,
+    160,
+]
+frame_offset = [
+    1,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_21]
+pos = [
+    918,
+    0,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_22]
+pos = [
+    737,
+    364,
+]
+size = [
+    65,
+    156,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_23]
+pos = [
+    134,
+    747,
+]
+size = [
+    65,
+    161,
+]
+frame_offset = [
+    60,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_24]
+pos = [
+    201,
+    907,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_25]
+pos = [
+    268,
+    887,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_26]
+pos = [
+    603,
+    524,
+]
+size = [
+    65,
+    155,
+]
+frame_offset = [
+    1,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_27]
+pos = [
+    737,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_28]
+pos = [
+    736,
+    718,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    2,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_29]
+pos = [
+    469,
+    527,
+]
+size = [
+    65,
+    157,
+]
+frame_offset = [
+    60,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_3]
+pos = [
+    669,
+    861,
+]
+size = [
+    6,
+    150,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_30]
+pos = [
+    248,
+    185,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    1,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_31]
+pos = [
+    254,
+    182,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    124,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_32]
+pos = [
+    804,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_33]
+pos = [
+    871,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_34]
+pos = [
+    938,
+    182,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_35]
+pos = [
+    0,
+    383,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_36]
+pos = [
+    444,
+    865,
+]
+size = [
+    19,
+    156,
+]
+frame_offset = [
+    1,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_37]
+pos = [
+    501,
+    843,
+]
+size = [
+    13,
+    155,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_38]
+pos = [
+    1004,
+    473,
+]
+size = [
+    12,
+    154,
+]
+frame_offset = [
+    54,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_39]
+pos = [
+    402,
+    865,
+]
+size = [
+    19,
+    157,
+]
+frame_offset = [
+    106,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_4]
+pos = [
+    469,
+    843,
+]
+size = [
+    15,
+    155,
+]
+frame_offset = [
+    1,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_40]
+pos = [
+    67,
+    383,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_41]
+pos = [
+    134,
+    383,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_42]
+pos = [
+    0,
+    565,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_43]
+pos = [
+    201,
+    383,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_44]
+pos = [
+    268,
+    364,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_45]
+pos = [
+    67,
+    565,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_46]
+pos = [
+    335,
+    364,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_47]
+pos = [
+    134,
+    565,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_48]
+pos = [
+    0,
+    747,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_49]
+pos = [
+    402,
+    364,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_5]
+pos = [
+    670,
+    522,
+]
+size = [
+    65,
+    155,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_50]
+pos = [
+    124,
+    0,
+]
+size = [
+    122,
+    199,
+]
+frame_offset = [
+    2,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_51]
+pos = [
+    677,
+    861,
+]
+size = [
+    6,
+    150,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_52]
+pos = [
+    1005,
+    316,
+]
+size = [
+    15,
+    155,
+]
+frame_offset = [
+    1,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_53]
+pos = [
+    469,
+    686,
+]
+size = [
+    65,
+    155,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_54]
+pos = [
+    804,
+    364,
+]
+size = [
+    65,
+    155,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_55]
+pos = [
+    1006,
+    0,
+]
+size = [
+    15,
+    156,
+]
+frame_offset = [
+    110,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_56]
+pos = [
+    737,
+    522,
+]
+size = [
+    64,
+    194,
+]
+frame_offset = [
+    2,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_57]
+pos = [
+    937,
+    546,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_58]
+pos = [
+    803,
+    703,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    2,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_59]
+pos = [
+    869,
+    703,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_6]
+pos = [
+    335,
+    867,
+]
+size = [
+    65,
+    155,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_60]
+pos = [
+    871,
+    364,
+]
+size = [
+    65,
+    154,
+]
+frame_offset = [
+    1,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_61]
+pos = [
+    201,
+    565,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    1,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_62]
+pos = [
+    268,
+    546,
+]
+size = [
+    65,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_7]
+pos = [
+    1006,
+    158,
+]
+size = [
+    15,
+    156,
+]
+frame_offset = [
+    110,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_8]
+pos = [
+    603,
+    681,
+]
+size = [
+    64,
+    194,
+]
+frame_offset = [
+    2,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_detailing_bathroom_02_9]
+pos = [
+    935,
+    728,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]

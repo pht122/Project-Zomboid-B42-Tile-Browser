@@ -1,0 +1,1269 @@
+[location_business_bank_01_10]
+pos = [
+    642,
+    647,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_11]
+pos = [
+    512,
+    772,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_12]
+pos = [
+    729,
+    504,
+]
+size = [
+    73,
+    165,
+]
+frame_offset = [
+    51,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_13]
+pos = [
+    778,
+    823,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    60,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_14]
+pos = [
+    968,
+    75,
+]
+size = [
+    49,
+    73,
+]
+frame_offset = [
+    60,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_16]
+pos = [
+    965,
+    248,
+]
+size = [
+    57,
+    80,
+]
+frame_offset = [
+    9,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_17]
+pos = [
+    0,
+    934,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_18]
+pos = [
+    940,
+    670,
+]
+size = [
+    64,
+    82,
+]
+frame_offset = [
+    2,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_19]
+pos = [
+    580,
+    875,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_2]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    226,
+]
+
+[location_business_bank_01_20]
+pos = [
+    712,
+    937,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_21]
+pos = [
+    710,
+    763,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    2,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_22]
+pos = [
+    968,
+    0,
+]
+size = [
+    52,
+    73,
+]
+frame_offset = [
+    2,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_24]
+pos = [
+    608,
+    253,
+]
+size = [
+    115,
+    130,
+]
+frame_offset = [
+    5,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_25]
+pos = [
+    347,
+    420,
+]
+size = [
+    107,
+    141,
+]
+frame_offset = [
+    20,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_26]
+pos = [
+    128,
+    0,
+]
+size = [
+    121,
+    139,
+]
+frame_offset = [
+    4,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_27]
+pos = [
+    241,
+    288,
+]
+size = [
+    116,
+    130,
+]
+frame_offset = [
+    5,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_28]
+pos = [
+    374,
+    0,
+]
+size = [
+    120,
+    145,
+]
+frame_offset = [
+    6,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_29]
+pos = [
+    119,
+    416,
+]
+size = [
+    112,
+    152,
+]
+frame_offset = [
+    10,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_3]
+pos = [
+    104,
+    791,
+]
+size = [
+    6,
+    197,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_30]
+pos = [
+    0,
+    637,
+]
+size = [
+    112,
+    152,
+]
+frame_offset = [
+    4,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_31]
+pos = [
+    0,
+    228,
+]
+size = [
+    120,
+    145,
+]
+frame_offset = [
+    0,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_32]
+pos = [
+    732,
+    123,
+]
+size = [
+    115,
+    249,
+]
+frame_offset = [
+    5,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_33]
+pos = [
+    0,
+    791,
+]
+size = [
+    102,
+    141,
+]
+frame_offset = [
+    20,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_34]
+pos = [
+    251,
+    0,
+]
+size = [
+    121,
+    139,
+]
+frame_offset = [
+    4,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_35]
+pos = [
+    359,
+    288,
+]
+size = [
+    116,
+    130,
+]
+frame_offset = [
+    5,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_36]
+pos = [
+    128,
+    141,
+]
+size = [
+    120,
+    145,
+]
+frame_offset = [
+    6,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_37]
+pos = [
+    233,
+    420,
+]
+size = [
+    112,
+    152,
+]
+frame_offset = [
+    10,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_38]
+pos = [
+    116,
+    570,
+]
+size = [
+    112,
+    152,
+]
+frame_offset = [
+    4,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_39]
+pos = [
+    250,
+    141,
+]
+size = [
+    120,
+    145,
+]
+frame_offset = [
+    0,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_4]
+pos = [
+    908,
+    754,
+]
+size = [
+    62,
+    205,
+]
+frame_offset = [
+    62,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_40]
+pos = [
+    398,
+    894,
+]
+size = [
+    64,
+    110,
+]
+frame_offset = [
+    2,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_41]
+pos = [
+    957,
+    378,
+]
+size = [
+    64,
+    110,
+]
+frame_offset = [
+    60,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_42]
+pos = [
+    210,
+    785,
+]
+size = [
+    92,
+    208,
+]
+frame_offset = [
+    32,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_43]
+pos = [
+    331,
+    574,
+]
+size = [
+    93,
+    208,
+]
+frame_offset = [
+    2,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_44]
+pos = [
+    304,
+    785,
+]
+size = [
+    92,
+    208,
+]
+frame_offset = [
+    2,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_45]
+pos = [
+    456,
+    501,
+]
+size = [
+    93,
+    208,
+]
+frame_offset = [
+    32,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_48]
+pos = [
+    614,
+    0,
+]
+size = [
+    116,
+    123,
+]
+frame_offset = [
+    5,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_49]
+pos = [
+    732,
+    0,
+]
+size = [
+    116,
+    121,
+]
+frame_offset = [
+    6,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_5]
+pos = [
+    710,
+    671,
+]
+size = [
+    64,
+    90,
+]
+frame_offset = [
+    60,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_50]
+pos = [
+    614,
+    125,
+]
+size = [
+    116,
+    121,
+]
+frame_offset = [
+    4,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_51]
+pos = [
+    477,
+    376,
+]
+size = [
+    115,
+    123,
+]
+frame_offset = [
+    6,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_52]
+pos = [
+    849,
+    248,
+]
+size = [
+    114,
+    128,
+]
+frame_offset = [
+    6,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_53]
+pos = [
+    122,
+    288,
+]
+size = [
+    117,
+    126,
+]
+frame_offset = [
+    5,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_54]
+pos = [
+    496,
+    0,
+]
+size = [
+    116,
+    126,
+]
+frame_offset = [
+    4,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_55]
+pos = [
+    725,
+    374,
+]
+size = [
+    114,
+    128,
+]
+frame_offset = [
+    6,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_56]
+pos = [
+    496,
+    128,
+]
+size = [
+    116,
+    123,
+]
+frame_offset = [
+    5,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_57]
+pos = [
+    490,
+    253,
+]
+size = [
+    116,
+    121,
+]
+frame_offset = [
+    6,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_58]
+pos = [
+    850,
+    0,
+]
+size = [
+    116,
+    121,
+]
+frame_offset = [
+    4,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_59]
+pos = [
+    849,
+    123,
+]
+size = [
+    115,
+    123,
+]
+frame_offset = [
+    6,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_6]
+pos = [
+    646,
+    875,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_60]
+pos = [
+    841,
+    378,
+]
+size = [
+    114,
+    128,
+]
+frame_offset = [
+    6,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_61]
+pos = [
+    0,
+    375,
+]
+size = [
+    117,
+    130,
+]
+frame_offset = [
+    5,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_62]
+pos = [
+    372,
+    147,
+]
+size = [
+    116,
+    131,
+]
+frame_offset = [
+    4,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_63]
+pos = [
+    0,
+    507,
+]
+size = [
+    114,
+    128,
+]
+frame_offset = [
+    6,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_64]
+pos = [
+    426,
+    711,
+]
+size = [
+    84,
+    181,
+]
+frame_offset = [
+    13,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_65]
+pos = [
+    230,
+    574,
+]
+size = [
+    99,
+    209,
+]
+frame_offset = [
+    29,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_66]
+pos = [
+    778,
+    904,
+]
+size = [
+    58,
+    107,
+]
+frame_offset = [
+    3,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_67]
+pos = [
+    838,
+    905,
+]
+size = [
+    58,
+    107,
+]
+frame_offset = [
+    65,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_68]
+pos = [
+    594,
+    385,
+]
+size = [
+    93,
+    129,
+]
+frame_offset = [
+    13,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_69]
+pos = [
+    114,
+    724,
+]
+size = [
+    94,
+    240,
+]
+frame_offset = [
+    23,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_7]
+pos = [
+    712,
+    852,
+]
+size = [
+    64,
+    83,
+]
+frame_offset = [
+    60,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_70]
+pos = [
+    551,
+    516,
+]
+size = [
+    89,
+    254,
+]
+frame_offset = [
+    28,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_71]
+pos = [
+    642,
+    516,
+]
+size = [
+    85,
+    129,
+]
+frame_offset = [
+    7,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_72]
+pos = [
+    844,
+    821,
+]
+size = [
+    61,
+    82,
+]
+frame_offset = [
+    54,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_73]
+pos = [
+    957,
+    490,
+]
+size = [
+    64,
+    90,
+]
+frame_offset = [
+    51,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_74]
+pos = [
+    940,
+    582,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    51,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_75]
+pos = [
+    842,
+    736,
+]
+size = [
+    64,
+    83,
+]
+frame_offset = [
+    51,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_76]
+pos = [
+    776,
+    736,
+]
+size = [
+    64,
+    85,
+]
+frame_offset = [
+    51,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_8]
+pos = [
+    804,
+    508,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_bank_01_9]
+pos = [
+    872,
+    508,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

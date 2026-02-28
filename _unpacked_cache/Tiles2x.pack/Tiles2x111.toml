@@ -1,0 +1,3149 @@
+[location_community_school_01_66]
+pos = [
+    0,
+    0,
+]
+size = [
+    124,
+    162,
+]
+frame_offset = [
+    1,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_67]
+pos = [
+    509,
+    703,
+]
+size = [
+    51,
+    126,
+]
+frame_offset = [
+    0,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_68]
+pos = [
+    354,
+    0,
+]
+size = [
+    78,
+    188,
+]
+frame_offset = [
+    46,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_69]
+pos = [
+    204,
+    316,
+]
+size = [
+    64,
+    134,
+]
+frame_offset = [
+    60,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_70]
+pos = [
+    0,
+    164,
+]
+size = [
+    68,
+    134,
+]
+frame_offset = [
+    60,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_71]
+pos = [
+    246,
+    0,
+]
+size = [
+    106,
+    124,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_72]
+pos = [
+    648,
+    547,
+]
+size = [
+    51,
+    121,
+]
+frame_offset = [
+    75,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_73]
+pos = [
+    339,
+    190,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    62,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_74]
+pos = [
+    272,
+    278,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    62,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_75]
+pos = [
+    622,
+    670,
+]
+size = [
+    46,
+    120,
+]
+frame_offset = [
+    62,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_76]
+pos = [
+    477,
+    846,
+]
+size = [
+    46,
+    120,
+]
+frame_offset = [
+    18,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_77]
+pos = [
+    434,
+    158,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_78]
+pos = [
+    338,
+    323,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_79]
+pos = [
+    965,
+    257,
+]
+size = [
+    51,
+    121,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_24]
+pos = [
+    62,
+    956,
+]
+size = [
+    52,
+    65,
+]
+frame_offset = [
+    75,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_25]
+pos = [
+    792,
+    677,
+]
+size = [
+    40,
+    72,
+]
+frame_offset = [
+    87,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_26]
+pos = [
+    568,
+    902,
+]
+size = [
+    40,
+    72,
+]
+frame_offset = [
+    67,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_27]
+pos = [
+    428,
+    846,
+]
+size = [
+    47,
+    82,
+]
+frame_offset = [
+    78,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_28]
+pos = [
+    423,
+    930,
+]
+size = [
+    42,
+    74,
+]
+frame_offset = [
+    65,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_29]
+pos = [
+    863,
+    414,
+]
+size = [
+    63,
+    82,
+]
+frame_offset = [
+    3,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_30]
+pos = [
+    928,
+    414,
+]
+size = [
+    63,
+    82,
+]
+frame_offset = [
+    64,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_31]
+pos = [
+    270,
+    411,
+]
+size = [
+    64,
+    97,
+]
+frame_offset = [
+    63,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_32]
+pos = [
+    831,
+    498,
+]
+size = [
+    42,
+    74,
+]
+frame_offset = [
+    20,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_33]
+pos = [
+    562,
+    737,
+]
+size = [
+    47,
+    82,
+]
+frame_offset = [
+    2,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_34]
+pos = [
+    611,
+    873,
+]
+size = [
+    40,
+    72,
+]
+frame_offset = [
+    20,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_35]
+pos = [
+    835,
+    652,
+]
+size = [
+    40,
+    72,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_36]
+pos = [
+    183,
+    936,
+]
+size = [
+    52,
+    65,
+]
+frame_offset = [
+    0,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_37]
+pos = [
+    265,
+    510,
+]
+size = [
+    61,
+    91,
+]
+frame_offset = [
+    3,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_38]
+pos = [
+    336,
+    456,
+]
+size = [
+    61,
+    91,
+]
+frame_offset = [
+    63,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_39]
+pos = [
+    704,
+    0,
+]
+size = [
+    64,
+    97,
+]
+frame_offset = [
+    0,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_40]
+pos = [
+    704,
+    188,
+]
+size = [
+    63,
+    156,
+]
+frame_offset = [
+    3,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_41]
+pos = [
+    65,
+    510,
+]
+size = [
+    62,
+    140,
+]
+frame_offset = [
+    2,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_42]
+pos = [
+    313,
+    759,
+]
+size = [
+    56,
+    136,
+]
+frame_offset = [
+    66,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_43]
+pos = [
+    434,
+    0,
+]
+size = [
+    70,
+    156,
+]
+frame_offset = [
+    58,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_44]
+pos = [
+    382,
+    655,
+]
+size = [
+    57,
+    94,
+]
+frame_offset = [
+    3,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_45]
+pos = [
+    252,
+    793,
+]
+size = [
+    57,
+    94,
+]
+frame_offset = [
+    69,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_46]
+pos = [
+    572,
+    214,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    3,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_47]
+pos = [
+    704,
+    99,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    59,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_0]
+pos = [
+    958,
+    750,
+]
+size = [
+    36,
+    84,
+]
+frame_offset = [
+    30,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_1]
+pos = [
+    638,
+    0,
+]
+size = [
+    64,
+    103,
+]
+frame_offset = [
+    2,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_10]
+pos = [
+    770,
+    173,
+]
+size = [
+    63,
+    101,
+]
+frame_offset = [
+    2,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_11]
+pos = [
+    737,
+    893,
+]
+size = [
+    38,
+    79,
+]
+frame_offset = [
+    1,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_12]
+pos = [
+    899,
+    863,
+]
+size = [
+    33,
+    89,
+]
+frame_offset = [
+    90,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_13]
+pos = [
+    500,
+    220,
+]
+size = [
+    64,
+    91,
+]
+frame_offset = [
+    59,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_14]
+pos = [
+    205,
+    138,
+]
+size = [
+    65,
+    99,
+]
+frame_offset = [
+    59,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_15]
+pos = [
+    339,
+    126,
+]
+size = [
+    13,
+    54,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_16]
+pos = [
+    878,
+    584,
+]
+size = [
+    40,
+    85,
+]
+frame_offset = [
+    27,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_17]
+pos = [
+    836,
+    86,
+]
+size = [
+    63,
+    103,
+]
+frame_offset = [
+    3,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_18]
+pos = [
+    918,
+    701,
+]
+size = [
+    38,
+    88,
+]
+frame_offset = [
+    2,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_19]
+pos = [
+    749,
+    591,
+]
+size = [
+    41,
+    85,
+]
+frame_offset = [
+    83,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_2]
+pos = [
+    738,
+    819,
+]
+size = [
+    39,
+    72,
+]
+frame_offset = [
+    2,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_20]
+pos = [
+    471,
+    313,
+]
+size = [
+    64,
+    85,
+]
+frame_offset = [
+    60,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_21]
+pos = [
+    568,
+    821,
+]
+size = [
+    41,
+    79,
+]
+frame_offset = [
+    60,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_24]
+pos = [
+    467,
+    968,
+]
+size = [
+    39,
+    47,
+]
+frame_offset = [
+    28,
+    78,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_25]
+pos = [
+    602,
+    410,
+]
+size = [
+    63,
+    99,
+]
+frame_offset = [
+    3,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_26]
+pos = [
+    798,
+    386,
+]
+size = [
+    63,
+    83,
+]
+frame_offset = [
+    2,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_27]
+pos = [
+    696,
+    794,
+]
+size = [
+    40,
+    71,
+]
+frame_offset = [
+    1,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_28]
+pos = [
+    653,
+    881,
+]
+size = [
+    39,
+    82,
+]
+frame_offset = [
+    83,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_29]
+pos = [
+    537,
+    313,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    58,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_3]
+pos = [
+    918,
+    498,
+]
+size = [
+    41,
+    73,
+]
+frame_offset = [
+    83,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_30]
+pos = [
+    70,
+    164,
+]
+size = [
+    66,
+    71,
+]
+frame_offset = [
+    58,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_31]
+pos = [
+    967,
+    101,
+]
+size = [
+    37,
+    29,
+]
+frame_offset = [
+    60,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_32]
+pos = [
+    525,
+    918,
+]
+size = [
+    40,
+    93,
+]
+frame_offset = [
+    27,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_33]
+pos = [
+    64,
+    652,
+]
+size = [
+    62,
+    100,
+]
+frame_offset = [
+    3,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_34]
+pos = [
+    779,
+    884,
+]
+size = [
+    38,
+    70,
+]
+frame_offset = [
+    1,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_35]
+pos = [
+    819,
+    950,
+]
+size = [
+    33,
+    69,
+]
+frame_offset = [
+    90,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_36]
+pos = [
+    272,
+    126,
+]
+size = [
+    65,
+    81,
+]
+frame_offset = [
+    59,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_37]
+pos = [
+    834,
+    726,
+]
+size = [
+    39,
+    69,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_4]
+pos = [
+    638,
+    198,
+]
+size = [
+    64,
+    84,
+]
+frame_offset = [
+    60,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_40]
+pos = [
+    934,
+    907,
+]
+size = [
+    32,
+    72,
+]
+frame_offset = [
+    34,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_41]
+pos = [
+    67,
+    432,
+]
+size = [
+    64,
+    76,
+]
+frame_offset = [
+    2,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_42]
+pos = [
+    0,
+    474,
+]
+size = [
+    63,
+    70,
+]
+frame_offset = [
+    2,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_43]
+pos = [
+    567,
+    976,
+]
+size = [
+    30,
+    46,
+]
+frame_offset = [
+    1,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_44]
+pos = [
+    877,
+    671,
+]
+size = [
+    39,
+    78,
+]
+frame_offset = [
+    84,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_45]
+pos = [
+    900,
+    239,
+]
+size = [
+    63,
+    88,
+]
+frame_offset = [
+    59,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_46]
+pos = [
+    68,
+    355,
+]
+size = [
+    65,
+    75,
+]
+frame_offset = [
+    58,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_47]
+pos = [
+    835,
+    584,
+]
+size = [
+    41,
+    66,
+]
+frame_offset = [
+    59,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_5]
+pos = [
+    875,
+    498,
+]
+size = [
+    41,
+    84,
+]
+frame_offset = [
+    60,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_8]
+pos = [
+    961,
+    673,
+]
+size = [
+    38,
+    75,
+]
+frame_offset = [
+    29,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_9]
+pos = [
+    769,
+    276,
+]
+size = [
+    63,
+    96,
+]
+frame_offset = [
+    3,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_0]
+pos = [
+    861,
+    841,
+]
+size = [
+    36,
+    84,
+]
+frame_offset = [
+    30,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_1]
+pos = [
+    572,
+    109,
+]
+size = [
+    64,
+    103,
+]
+frame_offset = [
+    2,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_10]
+pos = [
+    835,
+    191,
+]
+size = [
+    63,
+    101,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_11]
+pos = [
+    821,
+    797,
+]
+size = [
+    38,
+    79,
+]
+frame_offset = [
+    1,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_12]
+pos = [
+    860,
+    927,
+]
+size = [
+    33,
+    89,
+]
+frame_offset = [
+    90,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_13]
+pos = [
+    638,
+    105,
+]
+size = [
+    64,
+    91,
+]
+frame_offset = [
+    59,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_14]
+pos = [
+    0,
+    373,
+]
+size = [
+    65,
+    99,
+]
+frame_offset = [
+    59,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_15]
+pos = [
+    622,
+    587,
+]
+size = [
+    13,
+    54,
+]
+frame_offset = [
+    60,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_16]
+pos = [
+    654,
+    794,
+]
+size = [
+    40,
+    85,
+]
+frame_offset = [
+    27,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_17]
+pos = [
+    537,
+    394,
+]
+size = [
+    63,
+    103,
+]
+frame_offset = [
+    3,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_18]
+pos = [
+    875,
+    751,
+]
+size = [
+    38,
+    88,
+]
+frame_offset = [
+    2,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_19]
+pos = [
+    525,
+    831,
+]
+size = [
+    41,
+    85,
+]
+frame_offset = [
+    83,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_2]
+pos = [
+    610,
+    947,
+]
+size = [
+    39,
+    72,
+]
+frame_offset = [
+    2,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_20]
+pos = [
+    404,
+    411,
+]
+size = [
+    64,
+    85,
+]
+frame_offset = [
+    60,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_21]
+pos = [
+    611,
+    792,
+]
+size = [
+    41,
+    79,
+]
+frame_offset = [
+    60,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_24]
+pos = [
+    779,
+    835,
+]
+size = [
+    39,
+    47,
+]
+frame_offset = [
+    28,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_25]
+pos = [
+    901,
+    138,
+]
+size = [
+    63,
+    99,
+]
+frame_offset = [
+    3,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_26]
+pos = [
+    899,
+    329,
+]
+size = [
+    63,
+    83,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_27]
+pos = [
+    738,
+    746,
+]
+size = [
+    40,
+    71,
+]
+frame_offset = [
+    1,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_28]
+pos = [
+    780,
+    751,
+]
+size = [
+    39,
+    82,
+]
+frame_offset = [
+    83,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_29]
+pos = [
+    770,
+    92,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    58,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_3]
+pos = [
+    670,
+    719,
+]
+size = [
+    41,
+    73,
+]
+frame_offset = [
+    83,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_30]
+pos = [
+    0,
+    300,
+]
+size = [
+    66,
+    71,
+]
+frame_offset = [
+    58,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_31]
+pos = [
+    116,
+    992,
+]
+size = [
+    37,
+    29,
+]
+frame_offset = [
+    60,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_32]
+pos = [
+    961,
+    498,
+]
+size = [
+    40,
+    93,
+]
+frame_offset = [
+    27,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_33]
+pos = [
+    0,
+    739,
+]
+size = [
+    62,
+    100,
+]
+frame_offset = [
+    3,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_34]
+pos = [
+    820,
+    878,
+]
+size = [
+    38,
+    70,
+]
+frame_offset = [
+    1,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_35]
+pos = [
+    954,
+    836,
+]
+size = [
+    33,
+    69,
+]
+frame_offset = [
+    90,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_36]
+pos = [
+    137,
+    273,
+]
+size = [
+    65,
+    81,
+]
+frame_offset = [
+    59,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_37]
+pos = [
+    696,
+    867,
+]
+size = [
+    39,
+    69,
+]
+frame_offset = [
+    60,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_4]
+pos = [
+    836,
+    0,
+]
+size = [
+    64,
+    84,
+]
+frame_offset = [
+    60,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_40]
+pos = [
+    968,
+    907,
+]
+size = [
+    32,
+    72,
+]
+frame_offset = [
+    34,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_41]
+pos = [
+    471,
+    400,
+]
+size = [
+    64,
+    76,
+]
+frame_offset = [
+    2,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_42]
+pos = [
+    0,
+    546,
+]
+size = [
+    63,
+    70,
+]
+frame_offset = [
+    2,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_43]
+pos = [
+    651,
+    965,
+]
+size = [
+    30,
+    46,
+]
+frame_offset = [
+    1,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_44]
+pos = [
+    961,
+    593,
+]
+size = [
+    39,
+    78,
+]
+frame_offset = [
+    84,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_45]
+pos = [
+    733,
+    374,
+]
+size = [
+    63,
+    88,
+]
+frame_offset = [
+    59,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_46]
+pos = [
+    205,
+    239,
+]
+size = [
+    65,
+    75,
+]
+frame_offset = [
+    58,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_47]
+pos = [
+    749,
+    678,
+]
+size = [
+    41,
+    66,
+]
+frame_offset = [
+    59,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_5]
+pos = [
+    792,
+    591,
+]
+size = [
+    41,
+    84,
+]
+frame_offset = [
+    60,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_8]
+pos = [
+    694,
+    938,
+]
+size = [
+    38,
+    75,
+]
+frame_offset = [
+    29,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_overlays_black_9]
+pos = [
+    668,
+    346,
+]
+size = [
+    63,
+    96,
+]
+frame_offset = [
+    3,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_0]
+pos = [
+    64,
+    754,
+]
+size = [
+    61,
+    87,
+]
+frame_offset = [
+    63,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_1]
+pos = [
+    770,
+    0,
+]
+size = [
+    64,
+    90,
+]
+frame_offset = [
+    60,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_10]
+pos = [
+    902,
+    0,
+]
+size = [
+    63,
+    136,
+]
+frame_offset = [
+    60,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_11]
+pos = [
+    0,
+    841,
+]
+size = [
+    60,
+    115,
+]
+frame_offset = [
+    64,
+    5,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_12]
+pos = [
+    405,
+    291,
+]
+size = [
+    64,
+    118,
+]
+frame_offset = [
+    60,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_13]
+pos = [
+    133,
+    496,
+]
+size = [
+    62,
+    115,
+]
+frame_offset = [
+    60,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_14]
+pos = [
+    451,
+    591,
+]
+size = [
+    56,
+    155,
+]
+frame_offset = [
+    68,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_15]
+pos = [
+    128,
+    694,
+]
+size = [
+    60,
+    156,
+]
+frame_offset = [
+    60,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_16]
+pos = [
+    566,
+    602,
+]
+size = [
+    54,
+    133,
+]
+frame_offset = [
+    70,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_17]
+pos = [
+    371,
+    860,
+]
+size = [
+    50,
+    131,
+]
+frame_offset = [
+    60,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_18]
+pos = [
+    190,
+    804,
+]
+size = [
+    57,
+    130,
+]
+frame_offset = [
+    65,
+    5,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_19]
+pos = [
+    138,
+    138,
+]
+size = [
+    65,
+    133,
+]
+frame_offset = [
+    58,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_2]
+pos = [
+    834,
+    294,
+]
+size = [
+    63,
+    90,
+]
+frame_offset = [
+    60,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_20]
+pos = [
+    667,
+    444,
+]
+size = [
+    56,
+    101,
+]
+frame_offset = [
+    68,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_21]
+pos = [
+    322,
+    655,
+]
+size = [
+    58,
+    102,
+]
+frame_offset = [
+    60,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_22]
+pos = [
+    531,
+    499,
+]
+size = [
+    57,
+    101,
+]
+frame_offset = [
+    67,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_23]
+pos = [
+    190,
+    699,
+]
+size = [
+    60,
+    103,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_24]
+pos = [
+    920,
+    573,
+]
+size = [
+    39,
+    126,
+]
+frame_offset = [
+    85,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_25]
+pos = [
+    701,
+    586,
+]
+size = [
+    46,
+    131,
+]
+frame_offset = [
+    60,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_26]
+pos = [
+    306,
+    897,
+]
+size = [
+    52,
+    116,
+]
+frame_offset = [
+    72,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_27]
+pos = [
+    966,
+    138,
+]
+size = [
+    56,
+    117,
+]
+frame_offset = [
+    60,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_28]
+pos = [
+    0,
+    618,
+]
+size = [
+    62,
+    119,
+]
+frame_offset = [
+    61,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_29]
+pos = [
+    70,
+    237,
+]
+size = [
+    65,
+    116,
+]
+frame_offset = [
+    61,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_3]
+pos = [
+    328,
+    549,
+]
+size = [
+    60,
+    104,
+]
+frame_offset = [
+    64,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_30]
+pos = [
+    915,
+    791,
+]
+size = [
+    37,
+    70,
+]
+frame_offset = [
+    87,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_31]
+pos = [
+    989,
+    836,
+]
+size = [
+    33,
+    68,
+]
+frame_offset = [
+    60,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_32]
+pos = [
+    252,
+    717,
+]
+size = [
+    59,
+    74,
+]
+frame_offset = [
+    63,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_33]
+pos = [
+    390,
+    577,
+]
+size = [
+    59,
+    76,
+]
+frame_offset = [
+    63,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_34]
+pos = [
+    123,
+    852,
+]
+size = [
+    58,
+    138,
+]
+frame_offset = [
+    65,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_35]
+pos = [
+    779,
+    471,
+]
+size = [
+    50,
+    118,
+]
+frame_offset = [
+    68,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_36]
+pos = [
+    725,
+    464,
+]
+size = [
+    52,
+    120,
+]
+frame_offset = [
+    67,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_37]
+pos = [
+    126,
+    0,
+]
+size = [
+    118,
+    136,
+]
+frame_offset = [
+    3,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_38]
+pos = [
+    967,
+    0,
+]
+size = [
+    55,
+    99,
+]
+frame_offset = [
+    68,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_39]
+pos = [
+    129,
+    613,
+]
+size = [
+    62,
+    79,
+]
+frame_offset = [
+    61,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_4]
+pos = [
+    572,
+    0,
+]
+size = [
+    64,
+    107,
+]
+frame_offset = [
+    60,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_40]
+pos = [
+    428,
+    751,
+]
+size = [
+    53,
+    93,
+]
+frame_offset = [
+    68,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_41]
+pos = [
+    62,
+    843,
+]
+size = [
+    59,
+    111,
+]
+frame_offset = [
+    62,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_42]
+pos = [
+    470,
+    478,
+]
+size = [
+    59,
+    111,
+]
+frame_offset = [
+    62,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_43]
+pos = [
+    260,
+    603,
+]
+size = [
+    60,
+    112,
+]
+frame_offset = [
+    61,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_44]
+pos = [
+    603,
+    303,
+]
+size = [
+    63,
+    105,
+]
+frame_offset = [
+    61,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_45]
+pos = [
+    506,
+    112,
+]
+size = [
+    64,
+    106,
+]
+frame_offset = [
+    60,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_46]
+pos = [
+    0,
+    958,
+]
+size = [
+    57,
+    62,
+]
+frame_offset = [
+    65,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_47]
+pos = [
+    272,
+    209,
+]
+size = [
+    65,
+    67,
+]
+frame_offset = [
+    58,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_48]
+pos = [
+    371,
+    759,
+]
+size = [
+    55,
+    99,
+]
+frame_offset = [
+    64,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_49]
+pos = [
+    509,
+    602,
+]
+size = [
+    55,
+    99,
+]
+frame_offset = [
+    64,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_5]
+pos = [
+    201,
+    452,
+]
+size = [
+    62,
+    106,
+]
+frame_offset = [
+    60,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_50]
+pos = [
+    249,
+    889,
+]
+size = [
+    55,
+    99,
+]
+frame_offset = [
+    64,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_51]
+pos = [
+    405,
+    190,
+]
+size = [
+    26,
+    88,
+]
+frame_offset = [
+    98,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_52]
+pos = [
+    506,
+    0,
+]
+size = [
+    64,
+    110,
+]
+frame_offset = [
+    60,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_6]
+pos = [
+    590,
+    511,
+]
+size = [
+    56,
+    74,
+]
+frame_offset = [
+    68,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_7]
+pos = [
+    399,
+    498,
+]
+size = [
+    60,
+    77,
+]
+frame_offset = [
+    60,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_8]
+pos = [
+    197,
+    560,
+]
+size = [
+    61,
+    137,
+]
+frame_offset = [
+    63,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_entertainment_gallery_01_9]
+pos = [
+    135,
+    356,
+]
+size = [
+    64,
+    138,
+]
+frame_offset = [
+    60,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]

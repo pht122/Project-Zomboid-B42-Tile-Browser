@@ -1,0 +1,2123 @@
+[vegetation_farming_02_10]
+pos = [
+    569,
+    296,
+]
+size = [
+    105,
+    76,
+]
+frame_offset = [
+    8,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_100]
+pos = [
+    436,
+    500,
+]
+size = [
+    100,
+    97,
+]
+frame_offset = [
+    13,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_101]
+pos = [
+    538,
+    511,
+]
+size = [
+    100,
+    79,
+]
+frame_offset = [
+    13,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_104]
+pos = [
+    307,
+    965,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    13,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_105]
+pos = [
+    415,
+    761,
+]
+size = [
+    100,
+    66,
+]
+frame_offset = [
+    13,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_106]
+pos = [
+    218,
+    511,
+]
+size = [
+    103,
+    78,
+]
+frame_offset = [
+    10,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_107]
+pos = [
+    794,
+    0,
+]
+size = [
+    105,
+    87,
+]
+frame_offset = [
+    8,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_108]
+pos = [
+    240,
+    76,
+]
+size = [
+    114,
+    110,
+]
+frame_offset = [
+    4,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_109]
+pos = [
+    107,
+    601,
+]
+size = [
+    104,
+    88,
+]
+frame_offset = [
+    10,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_11]
+pos = [
+    0,
+    106,
+]
+size = [
+    116,
+    110,
+]
+frame_offset = [
+    5,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_112]
+pos = [
+    900,
+    257,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    10,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_113]
+pos = [
+    901,
+    140,
+]
+size = [
+    105,
+    57,
+]
+frame_offset = [
+    10,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_114]
+pos = [
+    350,
+    206,
+]
+size = [
+    110,
+    64,
+]
+frame_offset = [
+    10,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_115]
+pos = [
+    0,
+    324,
+]
+size = [
+    111,
+    88,
+]
+frame_offset = [
+    10,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_116]
+pos = [
+    0,
+    218,
+]
+size = [
+    111,
+    104,
+]
+frame_offset = [
+    10,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_117]
+pos = [
+    236,
+    188,
+]
+size = [
+    112,
+    64,
+]
+frame_offset = [
+    10,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_12]
+pos = [
+    122,
+    0,
+]
+size = [
+    116,
+    116,
+]
+frame_offset = [
+    5,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_120]
+pos = [
+    767,
+    411,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    9,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_121]
+pos = [
+    783,
+    295,
+]
+size = [
+    105,
+    56,
+]
+frame_offset = [
+    9,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_122]
+pos = [
+    553,
+    374,
+]
+size = [
+    105,
+    69,
+]
+frame_offset = [
+    9,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_123]
+pos = [
+    687,
+    0,
+]
+size = [
+    105,
+    92,
+]
+frame_offset = [
+    9,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_124]
+pos = [
+    462,
+    206,
+]
+size = [
+    105,
+    135,
+]
+frame_offset = [
+    9,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_125]
+pos = [
+    569,
+    202,
+]
+size = [
+    105,
+    92,
+]
+frame_offset = [
+    9,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_128]
+pos = [
+    630,
+    643,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    13,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_129]
+pos = [
+    764,
+    466,
+]
+size = [
+    100,
+    57,
+]
+frame_offset = [
+    13,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_13]
+pos = [
+    240,
+    0,
+]
+size = [
+    115,
+    74,
+]
+frame_offset = [
+    4,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_130]
+pos = [
+    210,
+    691,
+]
+size = [
+    101,
+    63,
+]
+frame_offset = [
+    12,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_131]
+pos = [
+    113,
+    407,
+]
+size = [
+    110,
+    79,
+]
+frame_offset = [
+    10,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_132]
+pos = [
+    113,
+    305,
+]
+size = [
+    110,
+    100,
+]
+frame_offset = [
+    11,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_133]
+pos = [
+    0,
+    774,
+]
+size = [
+    103,
+    62,
+]
+frame_offset = [
+    13,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_136]
+pos = [
+    742,
+    525,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    13,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_137]
+pos = [
+    414,
+    829,
+]
+size = [
+    100,
+    56,
+]
+frame_offset = [
+    13,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_138]
+pos = [
+    426,
+    599,
+]
+size = [
+    100,
+    81,
+]
+frame_offset = [
+    13,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_139]
+pos = [
+    106,
+    691,
+]
+size = [
+    102,
+    96,
+]
+frame_offset = [
+    13,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_140]
+pos = [
+    579,
+    98,
+]
+size = [
+    105,
+    97,
+]
+frame_offset = [
+    10,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_141]
+pos = [
+    313,
+    737,
+]
+size = [
+    100,
+    81,
+]
+frame_offset = [
+    13,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_144]
+pos = [
+    890,
+    312,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    10,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_145]
+pos = [
+    676,
+    332,
+]
+size = [
+    105,
+    62,
+]
+frame_offset = [
+    10,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_146]
+pos = [
+    686,
+    186,
+]
+size = [
+    105,
+    73,
+]
+frame_offset = [
+    10,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_147]
+pos = [
+    118,
+    118,
+]
+size = [
+    116,
+    94,
+]
+frame_offset = [
+    4,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_148]
+pos = [
+    0,
+    0,
+]
+size = [
+    120,
+    104,
+]
+frame_offset = [
+    4,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_149]
+pos = [
+    687,
+    94,
+]
+size = [
+    105,
+    90,
+]
+frame_offset = [
+    10,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_152]
+pos = [
+    824,
+    829,
+]
+size = [
+    96,
+    49,
+]
+frame_offset = [
+    11,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_153]
+pos = [
+    628,
+    757,
+]
+size = [
+    96,
+    180,
+]
+frame_offset = [
+    11,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_154]
+pos = [
+    614,
+    939,
+]
+size = [
+    96,
+    61,
+]
+frame_offset = [
+    11,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_155]
+pos = [
+    640,
+    512,
+]
+size = [
+    100,
+    68,
+]
+frame_offset = [
+    11,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_156]
+pos = [
+    356,
+    131,
+]
+size = [
+    112,
+    73,
+]
+frame_offset = [
+    11,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_157]
+pos = [
+    831,
+    706,
+]
+size = [
+    96,
+    63,
+]
+frame_offset = [
+    11,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_16]
+pos = [
+    824,
+    880,
+]
+size = [
+    96,
+    49,
+]
+frame_offset = [
+    13,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_17]
+pos = [
+    726,
+    866,
+]
+size = [
+    96,
+    56,
+]
+frame_offset = [
+    13,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_18]
+pos = [
+    528,
+    678,
+]
+size = [
+    100,
+    65,
+]
+frame_offset = [
+    13,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_19]
+pos = [
+    0,
+    944,
+]
+size = [
+    100,
+    78,
+]
+frame_offset = [
+    13,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_20]
+pos = [
+    0,
+    414,
+]
+size = [
+    110,
+    88,
+]
+frame_offset = [
+    3,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_21]
+pos = [
+    0,
+    718,
+]
+size = [
+    104,
+    54,
+]
+frame_offset = [
+    12,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_24]
+pos = [
+    922,
+    829,
+]
+size = [
+    96,
+    49,
+]
+frame_offset = [
+    13,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_25]
+pos = [
+    726,
+    924,
+]
+size = [
+    96,
+    55,
+]
+frame_offset = [
+    13,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_26]
+pos = [
+    516,
+    926,
+]
+size = [
+    96,
+    70,
+]
+frame_offset = [
+    13,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_27]
+pos = [
+    844,
+    551,
+]
+size = [
+    96,
+    77,
+]
+frame_offset = [
+    13,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_28]
+pos = [
+    732,
+    643,
+]
+size = [
+    97,
+    86,
+]
+frame_offset = [
+    12,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_29]
+pos = [
+    732,
+    731,
+]
+size = [
+    96,
+    67,
+]
+frame_offset = [
+    13,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_32]
+pos = [
+    824,
+    931,
+]
+size = [
+    96,
+    49,
+]
+frame_offset = [
+    13,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_33]
+pos = [
+    830,
+    771,
+]
+size = [
+    96,
+    56,
+]
+frame_offset = [
+    13,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_34]
+pos = [
+    831,
+    639,
+]
+size = [
+    96,
+    65,
+]
+frame_offset = [
+    13,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_35]
+pos = [
+    105,
+    789,
+]
+size = [
+    101,
+    85,
+]
+frame_offset = [
+    10,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_36]
+pos = [
+    579,
+    0,
+]
+size = [
+    106,
+    96,
+]
+frame_offset = [
+    11,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_37]
+pos = [
+    516,
+    859,
+]
+size = [
+    97,
+    65,
+]
+frame_offset = [
+    12,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_40]
+pos = [
+    922,
+    880,
+]
+size = [
+    96,
+    49,
+]
+frame_offset = [
+    13,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_41]
+pos = [
+    726,
+    800,
+]
+size = [
+    96,
+    64,
+]
+frame_offset = [
+    13,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_42]
+pos = [
+    412,
+    944,
+]
+size = [
+    98,
+    71,
+]
+frame_offset = [
+    11,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_43]
+pos = [
+    323,
+    551,
+]
+size = [
+    101,
+    88,
+]
+frame_offset = [
+    13,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_44]
+pos = [
+    0,
+    838,
+]
+size = [
+    101,
+    104,
+]
+frame_offset = [
+    13,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_45]
+pos = [
+    866,
+    477,
+]
+size = [
+    99,
+    72,
+]
+frame_offset = [
+    10,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_48]
+pos = [
+    414,
+    887,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    12,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_49]
+pos = [
+    640,
+    582,
+]
+size = [
+    100,
+    59,
+]
+frame_offset = [
+    12,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_50]
+pos = [
+    424,
+    682,
+]
+size = [
+    100,
+    77,
+]
+frame_offset = [
+    12,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_51]
+pos = [
+    210,
+    756,
+]
+size = [
+    100,
+    92,
+]
+frame_offset = [
+    12,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_52]
+pos = [
+    357,
+    0,
+]
+size = [
+    112,
+    129,
+]
+frame_offset = [
+    1,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_53]
+pos = [
+    208,
+    850,
+]
+size = [
+    100,
+    81,
+]
+frame_offset = [
+    12,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_56]
+pos = [
+    874,
+    422,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    8,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_57]
+pos = [
+    783,
+    353,
+]
+size = [
+    105,
+    56,
+]
+frame_offset = [
+    8,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_58]
+pos = [
+    676,
+    261,
+]
+size = [
+    105,
+    69,
+]
+frame_offset = [
+    8,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_59]
+pos = [
+    226,
+    254,
+]
+size = [
+    110,
+    81,
+]
+frame_offset = [
+    3,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_60]
+pos = [
+    225,
+    337,
+]
+size = [
+    108,
+    93,
+]
+frame_offset = [
+    7,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_61]
+pos = [
+    794,
+    162,
+]
+size = [
+    105,
+    69,
+]
+frame_offset = [
+    8,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_64]
+pos = [
+    742,
+    582,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    12,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_65]
+pos = [
+    102,
+    962,
+]
+size = [
+    100,
+    60,
+]
+frame_offset = [
+    12,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_66]
+pos = [
+    528,
+    599,
+]
+size = [
+    100,
+    77,
+]
+frame_offset = [
+    12,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_67]
+pos = [
+    112,
+    488,
+]
+size = [
+    104,
+    111,
+]
+frame_offset = [
+    12,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_68]
+pos = [
+    338,
+    272,
+]
+size = [
+    106,
+    111,
+]
+frame_offset = [
+    10,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_69]
+pos = [
+    0,
+    614,
+]
+size = [
+    104,
+    102,
+]
+frame_offset = [
+    12,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_72]
+pos = [
+    517,
+    802,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    12,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_73]
+pos = [
+    312,
+    820,
+]
+size = [
+    100,
+    77,
+]
+frame_offset = [
+    12,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_74]
+pos = [
+    322,
+    641,
+]
+size = [
+    100,
+    94,
+]
+frame_offset = [
+    12,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_75]
+pos = [
+    335,
+    385,
+]
+size = [
+    106,
+    109,
+]
+frame_offset = [
+    8,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_76]
+pos = [
+    471,
+    0,
+]
+size = [
+    106,
+    109,
+]
+frame_offset = [
+    8,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_77]
+pos = [
+    218,
+    591,
+]
+size = [
+    102,
+    94,
+]
+frame_offset = [
+    10,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_80]
+pos = [
+    0,
+    504,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    9,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_81]
+pos = [
+    793,
+    233,
+]
+size = [
+    105,
+    60,
+]
+frame_offset = [
+    9,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_82]
+pos = [
+    794,
+    89,
+]
+size = [
+    105,
+    71,
+]
+frame_offset = [
+    9,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_83]
+pos = [
+    443,
+    422,
+]
+size = [
+    105,
+    76,
+]
+frame_offset = [
+    9,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_84]
+pos = [
+    471,
+    111,
+]
+size = [
+    106,
+    89,
+]
+frame_offset = [
+    9,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_85]
+pos = [
+    225,
+    432,
+]
+size = [
+    105,
+    77,
+]
+frame_offset = [
+    9,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_88]
+pos = [
+    0,
+    559,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    9,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_89]
+pos = [
+    660,
+    396,
+]
+size = [
+    105,
+    57,
+]
+frame_offset = [
+    9,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_9]
+pos = [
+    901,
+    72,
+]
+size = [
+    105,
+    66,
+]
+frame_offset = [
+    8,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_90]
+pos = [
+    901,
+    0,
+]
+size = [
+    105,
+    70,
+]
+frame_offset = [
+    9,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_91]
+pos = [
+    446,
+    343,
+]
+size = [
+    105,
+    77,
+]
+frame_offset = [
+    9,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_92]
+pos = [
+    113,
+    218,
+]
+size = [
+    111,
+    85,
+]
+frame_offset = [
+    8,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_93]
+pos = [
+    550,
+    445,
+]
+size = [
+    105,
+    64,
+]
+frame_offset = [
+    9,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_96]
+pos = [
+    630,
+    700,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    13,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_97]
+pos = [
+    310,
+    899,
+]
+size = [
+    100,
+    64,
+]
+frame_offset = [
+    13,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_98]
+pos = [
+    205,
+    933,
+]
+size = [
+    100,
+    75,
+]
+frame_offset = [
+    13,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_02_99]
+pos = [
+    103,
+    876,
+]
+size = [
+    100,
+    84,
+]
+frame_offset = [
+    13,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_0]
+pos = [
+    526,
+    745,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_1]
+pos = [
+    890,
+    367,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_2]
+pos = [
+    332,
+    496,
+]
+size = [
+    102,
+    53,
+]
+frame_offset = [
+    15,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_4]
+pos = [
+    901,
+    199,
+]
+size = [
+    105,
+    56,
+]
+frame_offset = [
+    14,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_5]
+pos = [
+    657,
+    455,
+]
+size = [
+    105,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,2051 @@
+[walls_exterior_roofs_30_13_25]
+pos = [
+    207,
+    0,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_26]
+pos = [
+    207,
+    196,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_27]
+pos = [
+    207,
+    360,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_28]
+pos = [
+    414,
+    360,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_29]
+pos = [
+    0,
+    424,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_32]
+pos = [
+    68,
+    984,
+]
+size = [
+    66,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_33]
+pos = [
+    620,
+    464,
+]
+size = [
+    66,
+    66,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_34]
+pos = [
+    136,
+    852,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_35]
+pos = [
+    408,
+    496,
+]
+size = [
+    66,
+    130,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_36]
+pos = [
+    204,
+    492,
+]
+size = [
+    66,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_37]
+pos = [
+    690,
+    300,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_40]
+pos = [
+    414,
+    460,
+]
+size = [
+    67,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_41]
+pos = [
+    138,
+    424,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_42]
+pos = [
+    621,
+    164,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_43]
+pos = [
+    483,
+    164,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_44]
+pos = [
+    345,
+    196,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_45]
+pos = [
+    345,
+    0,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_48]
+pos = [
+    340,
+    756,
+]
+size = [
+    66,
+    66,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_49]
+pos = [
+    204,
+    820,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_50]
+pos = [
+    272,
+    656,
+]
+size = [
+    66,
+    130,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_51]
+pos = [
+    136,
+    688,
+]
+size = [
+    66,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_52]
+pos = [
+    68,
+    492,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_53]
+pos = [
+    759,
+    200,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_56]
+pos = [
+    476,
+    696,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    1,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_57]
+pos = [
+    827,
+    364,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_58]
+pos = [
+    679,
+    692,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_59]
+pos = [
+    813,
+    792,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_60]
+pos = [
+    812,
+    892,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    1,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_61]
+pos = [
+    744,
+    988,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    1,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_64]
+pos = [
+    946,
+    892,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_65]
+pos = [
+    879,
+    892,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_66]
+pos = [
+    745,
+    888,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_67]
+pos = [
+    678,
+    824,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_68]
+pos = [
+    825,
+    528,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_69]
+pos = [
+    612,
+    568,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_72]
+pos = [
+    69,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_73]
+pos = [
+    0,
+    228,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_74]
+pos = [
+    483,
+    0,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_75]
+pos = [
+    345,
+    360,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_76]
+pos = [
+    828,
+    0,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_77]
+pos = [
+    759,
+    132,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_80]
+pos = [
+    612,
+    532,
+]
+size = [
+    66,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_81]
+pos = [
+    204,
+    920,
+]
+size = [
+    66,
+    66,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_82]
+pos = [
+    272,
+    788,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_83]
+pos = [
+    476,
+    496,
+]
+size = [
+    66,
+    130,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_84]
+pos = [
+    204,
+    656,
+]
+size = [
+    66,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_85]
+pos = [
+    0,
+    688,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_88]
+pos = [
+    552,
+    396,
+]
+size = [
+    67,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_89]
+pos = [
+    690,
+    232,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_90]
+pos = [
+    483,
+    396,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_91]
+pos = [
+    759,
+    0,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_92]
+pos = [
+    621,
+    0,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_13_93]
+pos = [
+    138,
+    228,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_0]
+pos = [
+    544,
+    532,
+]
+size = [
+    66,
+    66,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_1]
+pos = [
+    552,
+    432,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_10]
+pos = [
+    272,
+    888,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_11]
+pos = [
+    822,
+    692,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_12]
+pos = [
+    610,
+    928,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    1,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_13]
+pos = [
+    204,
+    988,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    1,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_16]
+pos = [
+    407,
+    960,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_17]
+pos = [
+    677,
+    956,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_18]
+pos = [
+    892,
+    624,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_19]
+pos = [
+    475,
+    892,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_2]
+pos = [
+    0,
+    884,
+]
+size = [
+    66,
+    130,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_20]
+pos = [
+    758,
+    428,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_21]
+pos = [
+    340,
+    824,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_24]
+pos = [
+    0,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_25]
+pos = [
+    276,
+    0,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_26]
+pos = [
+    276,
+    196,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_27]
+pos = [
+    276,
+    360,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_28]
+pos = [
+    483,
+    296,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_29]
+pos = [
+    69,
+    424,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_3]
+pos = [
+    272,
+    492,
+]
+size = [
+    66,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_32]
+pos = [
+    408,
+    728,
+]
+size = [
+    66,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_33]
+pos = [
+    136,
+    952,
+]
+size = [
+    66,
+    66,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_34]
+pos = [
+    340,
+    656,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_35]
+pos = [
+    68,
+    852,
+]
+size = [
+    66,
+    130,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_36]
+pos = [
+    68,
+    688,
+]
+size = [
+    66,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_37]
+pos = [
+    896,
+    296,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_4]
+pos = [
+    0,
+    492,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_40]
+pos = [
+    828,
+    100,
+]
+size = [
+    67,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_41]
+pos = [
+    621,
+    264,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_42]
+pos = [
+    690,
+    132,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_43]
+pos = [
+    690,
+    0,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_44]
+pos = [
+    414,
+    196,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_45]
+pos = [
+    414,
+    0,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_48]
+pos = [
+    476,
+    628,
+]
+size = [
+    66,
+    66,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_49]
+pos = [
+    408,
+    628,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_5]
+pos = [
+    897,
+    68,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_50]
+pos = [
+    621,
+    332,
+]
+size = [
+    66,
+    130,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_51]
+pos = [
+    340,
+    492,
+]
+size = [
+    66,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_52]
+pos = [
+    136,
+    492,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_53]
+pos = [
+    828,
+    136,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_56]
+pos = [
+    408,
+    764,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    1,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_57]
+pos = [
+    755,
+    592,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_58]
+pos = [
+    894,
+    492,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_59]
+pos = [
+    889,
+    724,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_60]
+pos = [
+    880,
+    824,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    1,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_61]
+pos = [
+    812,
+    960,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    1,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_64]
+pos = [
+    879,
+    960,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_65]
+pos = [
+    947,
+    824,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_66]
+pos = [
+    956,
+    724,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_67]
+pos = [
+    746,
+    756,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_68]
+pos = [
+    611,
+    764,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_69]
+pos = [
+    544,
+    636,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_72]
+pos = [
+    138,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_73]
+pos = [
+    69,
+    228,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_74]
+pos = [
+    552,
+    0,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_75]
+pos = [
+    552,
+    164,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_76]
+pos = [
+    552,
+    296,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_77]
+pos = [
+    897,
+    0,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_8]
+pos = [
+    688,
+    496,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    1,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_80]
+pos = [
+    544,
+    600,
+]
+size = [
+    66,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_14_9]
+pos = [
+    543,
+    832,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,1133 @@
+[walls_garage_02_13]
+pos = [
+    661,
+    227,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_16]
+pos = [
+    865,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_17]
+pos = [
+    0,
+    451,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_18]
+pos = [
+    129,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_19]
+pos = [
+    384,
+    240,
+]
+size = [
+    68,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_20]
+pos = [
+    385,
+    120,
+]
+size = [
+    70,
+    118,
+]
+frame_offset = [
+    0,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_21]
+pos = [
+    385,
+    0,
+]
+size = [
+    72,
+    118,
+]
+frame_offset = [
+    56,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_22]
+pos = [
+    0,
+    0,
+]
+size = [
+    127,
+    221,
+]
+frame_offset = [
+    0,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_23]
+pos = [
+    1007,
+    0,
+]
+size = [
+    15,
+    90,
+]
+frame_offset = [
+    55,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_24]
+pos = [
+    272,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_25]
+pos = [
+    68,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_26]
+pos = [
+    136,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_27]
+pos = [
+    204,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_32]
+pos = [
+    408,
+    458,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_33]
+pos = [
+    528,
+    0,
+]
+size = [
+    67,
+    225,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_34]
+pos = [
+    544,
+    686,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_35]
+pos = [
+    816,
+    458,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_36]
+pos = [
+    597,
+    0,
+]
+size = [
+    67,
+    225,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_37]
+pos = [
+    476,
+    458,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_40]
+pos = [
+    272,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_41]
+pos = [
+    0,
+    907,
+]
+size = [
+    66,
+    91,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_42]
+pos = [
+    952,
+    456,
+]
+size = [
+    66,
+    212,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_43]
+pos = [
+    748,
+    686,
+]
+size = [
+    66,
+    212,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_44]
+pos = [
+    68,
+    912,
+]
+size = [
+    66,
+    91,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_45]
+pos = [
+    544,
+    458,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_48]
+pos = [
+    459,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_49]
+pos = [
+    666,
+    0,
+]
+size = [
+    67,
+    225,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_50]
+pos = [
+    884,
+    456,
+]
+size = [
+    66,
+    224,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_51]
+pos = [
+    680,
+    686,
+]
+size = [
+    66,
+    224,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_52]
+pos = [
+    612,
+    683,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_53]
+pos = [
+    612,
+    455,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_56]
+pos = [
+    408,
+    686,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_57]
+pos = [
+    136,
+    912,
+]
+size = [
+    66,
+    69,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_58]
+pos = [
+    816,
+    685,
+]
+size = [
+    66,
+    197,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_59]
+pos = [
+    884,
+    682,
+]
+size = [
+    66,
+    197,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_60]
+pos = [
+    204,
+    912,
+]
+size = [
+    66,
+    69,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_61]
+pos = [
+    680,
+    458,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_0]
+pos = [
+    803,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_1]
+pos = [
+    136,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_10]
+pos = [
+    593,
+    227,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_11]
+pos = [
+    871,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_12]
+pos = [
+    457,
+    228,
+]
+size = [
+    66,
+    228,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_13]
+pos = [
+    939,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_14]
+pos = [
+    729,
+    230,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_15]
+pos = [
+    797,
+    230,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_16]
+pos = [
+    933,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_17]
+pos = [
+    68,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_18]
+pos = [
+    257,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_19]
+pos = [
+    1007,
+    92,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_2]
+pos = [
+    128,
+    228,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_20]
+pos = [
+    204,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_21]
+pos = [
+    0,
+    679,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_22]
+pos = [
+    0,
+    223,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_23]
+pos = [
+    1015,
+    92,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_24]
+pos = [
+    735,
+    0,
+]
+size = [
+    66,
+    228,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_25]
+pos = [
+    340,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_3]
+pos = [
+    952,
+    670,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_4]
+pos = [
+    340,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_5]
+pos = [
+    476,
+    686,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_6]
+pos = [
+    256,
+    228,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_7]
+pos = [
+    960,
+    670,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_8]
+pos = [
+    525,
+    228,
+]
+size = [
+    66,
+    228,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_interior_bathroom_01_9]
+pos = [
+    748,
+    458,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,1853 @@
+[object_snow_overlay_02_230]
+pos = [
+    455,
+    505,
+]
+size = [
+    54,
+    198,
+]
+frame_offset = [
+    1,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_231]
+pos = [
+    588,
+    269,
+]
+size = [
+    56,
+    217,
+]
+frame_offset = [
+    55,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_232]
+pos = [
+    138,
+    341,
+]
+size = [
+    67,
+    159,
+]
+frame_offset = [
+    0,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_233]
+pos = [
+    462,
+    0,
+]
+size = [
+    66,
+    158,
+]
+frame_offset = [
+    60,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_234]
+pos = [
+    800,
+    0,
+]
+size = [
+    57,
+    153,
+]
+frame_offset = [
+    14,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_235]
+pos = [
+    454,
+    840,
+]
+size = [
+    53,
+    151,
+]
+frame_offset = [
+    73,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_236]
+pos = [
+    511,
+    826,
+]
+size = [
+    52,
+    153,
+]
+frame_offset = [
+    1,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_237]
+pos = [
+    0,
+    684,
+]
+size = [
+    55,
+    152,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_238]
+pos = [
+    393,
+    0,
+]
+size = [
+    67,
+    225,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_239]
+pos = [
+    166,
+    116,
+]
+size = [
+    67,
+    223,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_240]
+pos = [
+    790,
+    310,
+]
+size = [
+    56,
+    151,
+]
+frame_offset = [
+    7,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_241]
+pos = [
+    57,
+    849,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    64,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_242]
+pos = [
+    114,
+    721,
+]
+size = [
+    55,
+    116,
+]
+frame_offset = [
+    7,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_243]
+pos = [
+    511,
+    707,
+]
+size = [
+    54,
+    117,
+]
+frame_offset = [
+    65,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_244]
+pos = [
+    623,
+    712,
+]
+size = [
+    52,
+    219,
+]
+frame_offset = [
+    16,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_245]
+pos = [
+    0,
+    465,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    70,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_246]
+pos = [
+    399,
+    495,
+]
+size = [
+    54,
+    218,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_247]
+pos = [
+    758,
+    482,
+]
+size = [
+    53,
+    216,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_248]
+pos = [
+    734,
+    700,
+]
+size = [
+    52,
+    99,
+]
+frame_offset = [
+    15,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_249]
+pos = [
+    921,
+    626,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    71,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_250]
+pos = [
+    666,
+    67,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_251]
+pos = [
+    530,
+    160,
+]
+size = [
+    65,
+    107,
+]
+frame_offset = [
+    59,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_252]
+pos = [
+    397,
+    867,
+]
+size = [
+    53,
+    99,
+]
+frame_offset = [
+    1,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_253]
+pos = [
+    788,
+    714,
+]
+size = [
+    52,
+    98,
+]
+frame_offset = [
+    59,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_254]
+pos = [
+    785,
+    913,
+]
+size = [
+    50,
+    66,
+]
+frame_offset = [
+    8,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_255]
+pos = [
+    526,
+    269,
+]
+size = [
+    60,
+    237,
+]
+frame_offset = [
+    68,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_256]
+pos = [
+    906,
+    219,
+]
+size = [
+    56,
+    151,
+]
+frame_offset = [
+    7,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_257]
+pos = [
+    171,
+    810,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    64,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_258]
+pos = [
+    0,
+    838,
+]
+size = [
+    55,
+    116,
+]
+frame_offset = [
+    7,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_259]
+pos = [
+    848,
+    374,
+]
+size = [
+    54,
+    117,
+]
+frame_offset = [
+    65,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_263]
+pos = [
+    138,
+    157,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    127,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_264]
+pos = [
+    459,
+    350,
+]
+size = [
+    56,
+    153,
+]
+frame_offset = [
+    16,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_265]
+pos = [
+    284,
+    864,
+]
+size = [
+    54,
+    133,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_266]
+pos = [
+    455,
+    705,
+]
+size = [
+    54,
+    133,
+]
+frame_offset = [
+    1,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_267]
+pos = [
+    790,
+    155,
+]
+size = [
+    56,
+    153,
+]
+frame_offset = [
+    54,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_268]
+pos = [
+    663,
+    174,
+]
+size = [
+    56,
+    218,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_269]
+pos = [
+    511,
+    508,
+]
+size = [
+    54,
+    197,
+]
+frame_offset = [
+    70,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_270]
+pos = [
+    228,
+    752,
+]
+size = [
+    54,
+    198,
+]
+frame_offset = [
+    1,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_271]
+pos = [
+    859,
+    0,
+]
+size = [
+    56,
+    217,
+]
+frame_offset = [
+    55,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_272]
+pos = [
+    321,
+    221,
+]
+size = [
+    67,
+    159,
+]
+frame_offset = [
+    0,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_273]
+pos = [
+    530,
+    0,
+]
+size = [
+    66,
+    158,
+]
+frame_offset = [
+    60,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_274]
+pos = [
+    171,
+    502,
+]
+size = [
+    55,
+    153,
+]
+frame_offset = [
+    14,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_275]
+pos = [
+    961,
+    372,
+]
+size = [
+    53,
+    151,
+]
+frame_offset = [
+    73,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_276]
+pos = [
+    896,
+    725,
+]
+size = [
+    51,
+    153,
+]
+frame_offset = [
+    2,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_277]
+pos = [
+    228,
+    480,
+]
+size = [
+    55,
+    152,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_278]
+pos = [
+    0,
+    159,
+]
+size = [
+    67,
+    225,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_279]
+pos = [
+    235,
+    255,
+]
+size = [
+    67,
+    223,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_280]
+pos = [
+    285,
+    491,
+]
+size = [
+    55,
+    151,
+]
+frame_offset = [
+    7,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_281]
+pos = [
+    567,
+    508,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    64,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_282]
+pos = [
+    228,
+    634,
+]
+size = [
+    55,
+    116,
+]
+frame_offset = [
+    7,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_283]
+pos = [
+    567,
+    660,
+]
+size = [
+    54,
+    117,
+]
+frame_offset = [
+    65,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_284]
+pos = [
+    813,
+    493,
+]
+size = [
+    52,
+    219,
+]
+frame_offset = [
+    16,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_285]
+pos = [
+    57,
+    476,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    70,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_286]
+pos = [
+    285,
+    644,
+]
+size = [
+    54,
+    218,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_287]
+pos = [
+    906,
+    372,
+]
+size = [
+    53,
+    216,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_288]
+pos = [
+    961,
+    525,
+]
+size = [
+    52,
+    99,
+]
+frame_offset = [
+    15,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_289]
+pos = [
+    788,
+    814,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    71,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_290]
+pos = [
+    734,
+    0,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_291]
+pos = [
+    304,
+    382,
+]
+size = [
+    65,
+    107,
+]
+frame_offset = [
+    59,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_292]
+pos = [
+    867,
+    590,
+]
+size = [
+    52,
+    99,
+]
+frame_offset = [
+    2,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_293]
+pos = [
+    734,
+    801,
+]
+size = [
+    52,
+    98,
+]
+frame_offset = [
+    59,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_294]
+pos = [
+    949,
+    824,
+]
+size = [
+    50,
+    66,
+]
+frame_offset = [
+    8,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_295]
+pos = [
+    621,
+    933,
+]
+size = [
+    51,
+    65,
+]
+frame_offset = [
+    68,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_296]
+pos = [
+    721,
+    327,
+]
+size = [
+    56,
+    153,
+]
+frame_offset = [
+    16,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_297]
+pos = [
+    341,
+    833,
+]
+size = [
+    54,
+    133,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_298]
+pos = [
+    702,
+    482,
+]
+size = [
+    54,
+    133,
+]
+frame_offset = [
+    1,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_299]
+pos = [
+    848,
+    219,
+]
+size = [
+    56,
+    153,
+]
+frame_offset = [
+    54,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_300]
+pos = [
+    732,
+    107,
+]
+size = [
+    56,
+    218,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_301]
+pos = [
+    646,
+    394,
+]
+size = [
+    54,
+    197,
+]
+frame_offset = [
+    70,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_302]
+pos = [
+    679,
+    617,
+]
+size = [
+    53,
+    198,
+]
+frame_offset = [
+    2,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_303]
+pos = [
+    917,
+    0,
+]
+size = [
+    56,
+    217,
+]
+frame_offset = [
+    55,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_304]
+pos = [
+    390,
+    227,
+]
+size = [
+    67,
+    159,
+]
+frame_offset = [
+    0,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_305]
+pos = [
+    598,
+    0,
+]
+size = [
+    66,
+    158,
+]
+frame_offset = [
+    60,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_306]
+pos = [
+    114,
+    839,
+]
+size = [
+    54,
+    153,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_307]
+pos = [
+    964,
+    219,
+]
+size = [
+    51,
+    151,
+]
+frame_offset = [
+    73,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_308]
+pos = [
+    842,
+    814,
+]
+size = [
+    51,
+    153,
+]
+frame_offset = [
+    2,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_309]
+pos = [
+    57,
+    695,
+]
+size = [
+    55,
+    152,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_310]
+pos = [
+    69,
+    159,
+]
+size = [
+    67,
+    225,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_311]
+pos = [
+    249,
+    0,
+]
+size = [
+    70,
+    253,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_312]
+pos = [
+    171,
+    657,
+]
+size = [
+    55,
+    151,
+]
+frame_offset = [
+    7,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_313]
+pos = [
+    398,
+    715,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    64,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_314]
+pos = [
+    342,
+    495,
+]
+size = [
+    55,
+    116,
+]
+frame_offset = [
+    7,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_315]
+pos = [
+    623,
+    593,
+]
+size = [
+    54,
+    117,
+]
+frame_offset = [
+    65,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_316]
+pos = [
+    567,
+    779,
+]
+size = [
+    52,
+    219,
+]
+frame_offset = [
+    16,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_317]
+pos = [
+    114,
+    502,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    70,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_318]
+pos = [
+    342,
+    613,
+]
+size = [
+    54,
+    218,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_319]
+pos = [
+    321,
+    0,
+]
+size = [
+    70,
+    219,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_320]
+pos = [
+    842,
+    714,
+]
+size = [
+    52,
+    98,
+]
+frame_offset = [
+    15,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_321]
+pos = [
+    731,
+    901,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    71,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_322]
+pos = [
+    371,
+    388,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_323]
+pos = [
+    459,
+    241,
+]
+size = [
+    65,
+    107,
+]
+frame_offset = [
+    59,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_324]
+pos = [
+    677,
+    817,
+]
+size = [
+    52,
+    99,
+]
+frame_offset = [
+    2,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_325]
+pos = [
+    949,
+    725,
+]
+size = [
+    51,
+    97,
+]
+frame_offset = [
+    59,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_326]
+pos = [
+    895,
+    880,
+]
+size = [
+    50,
+    66,
+]
+frame_offset = [
+    8,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_02_327]
+pos = [
+    677,
+    918,
+]
+size = [
+    51,
+    65,
+]
+frame_offset = [
+    68,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_03_0]
+pos = [
+    666,
+    0,
+]
+size = [
+    66,
+    65,
+]
+frame_offset = [
+    58,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_03_1]
+pos = [
+    0,
+    386,
+]
+size = [
+    67,
+    77,
+]
+frame_offset = [
+    57,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_03_2]
+pos = [
+    597,
+    160,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    60,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_03_3]
+pos = [
+    69,
+    386,
+]
+size = [
+    66,
+    88,
+]
+frame_offset = [
+    60,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_03_4]
+pos = [
+    0,
+    0,
+]
+size = [
+    81,
+    157,
+]
+frame_offset = [
+    47,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_03_5]
+pos = [
+    83,
+    0,
+]
+size = [
+    81,
+    155,
+]
+frame_offset = [
+    47,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_03_6]
+pos = [
+    166,
+    0,
+]
+size = [
+    81,
+    114,
+]
+frame_offset = [
+    47,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_03_8]
+pos = [
+    462,
+    160,
+]
+size = [
+    66,
+    79,
+]
+frame_offset = [
+    0,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]

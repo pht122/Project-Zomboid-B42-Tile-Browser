@@ -1,0 +1,1511 @@
+[walls_decoration_03_1]
+pos = [
+    138,
+    568,
+]
+size = [
+    65,
+    217,
+]
+frame_offset = [
+    61,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_10]
+pos = [
+    390,
+    0,
+]
+size = [
+    126,
+    217,
+]
+frame_offset = [
+    2,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_11]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    210,
+]
+frame_offset = [
+    0,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_12]
+pos = [
+    0,
+    392,
+]
+size = [
+    69,
+    199,
+]
+frame_offset = [
+    0,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_13]
+pos = [
+    336,
+    888,
+]
+size = [
+    61,
+    81,
+]
+frame_offset = [
+    4,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_14]
+pos = [
+    656,
+    184,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    13,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_15]
+pos = [
+    466,
+    902,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    13,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_16]
+pos = [
+    714,
+    638,
+]
+size = [
+    50,
+    153,
+]
+frame_offset = [
+    39,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_17]
+pos = [
+    473,
+    626,
+]
+size = [
+    63,
+    155,
+]
+frame_offset = [
+    25,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_18]
+pos = [
+    390,
+    219,
+]
+size = [
+    92,
+    185,
+]
+frame_offset = [
+    24,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_19]
+pos = [
+    209,
+    489,
+]
+size = [
+    65,
+    176,
+]
+frame_offset = [
+    24,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_2]
+pos = [
+    408,
+    627,
+]
+size = [
+    63,
+    216,
+]
+frame_offset = [
+    62,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_20]
+pos = [
+    574,
+    236,
+]
+size = [
+    80,
+    197,
+]
+frame_offset = [
+    25,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_21]
+pos = [
+    766,
+    686,
+]
+size = [
+    47,
+    147,
+]
+frame_offset = [
+    24,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_24]
+pos = [
+    343,
+    489,
+]
+size = [
+    44,
+    145,
+]
+frame_offset = [
+    55,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_25]
+pos = [
+    342,
+    647,
+]
+size = [
+    64,
+    155,
+]
+frame_offset = [
+    35,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_26]
+pos = [
+    627,
+    0,
+]
+size = [
+    89,
+    182,
+]
+frame_offset = [
+    35,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_27]
+pos = [
+    898,
+    183,
+]
+size = [
+    71,
+    188,
+]
+frame_offset = [
+    30,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_28]
+pos = [
+    898,
+    0,
+]
+size = [
+    78,
+    181,
+]
+frame_offset = [
+    35,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_29]
+pos = [
+    857,
+    373,
+]
+size = [
+    53,
+    150,
+]
+frame_offset = [
+    34,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_3]
+pos = [
+    929,
+    609,
+]
+size = [
+    42,
+    205,
+]
+frame_offset = [
+    61,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_32]
+pos = [
+    971,
+    183,
+]
+size = [
+    51,
+    212,
+]
+frame_offset = [
+    74,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_33]
+pos = [
+    0,
+    593,
+]
+size = [
+    65,
+    219,
+]
+frame_offset = [
+    61,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_34]
+pos = [
+    390,
+    406,
+]
+size = [
+    64,
+    219,
+]
+frame_offset = [
+    61,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_35]
+pos = [
+    973,
+    609,
+]
+size = [
+    41,
+    207,
+]
+frame_offset = [
+    61,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_36]
+pos = [
+    538,
+    655,
+]
+size = [
+    59,
+    120,
+]
+frame_offset = [
+    64,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_37]
+pos = [
+    199,
+    886,
+]
+size = [
+    61,
+    82,
+]
+frame_offset = [
+    62,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_38]
+pos = [
+    591,
+    869,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    72,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_39]
+pos = [
+    632,
+    923,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    72,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_4]
+pos = [
+    473,
+    783,
+]
+size = [
+    58,
+    117,
+]
+frame_offset = [
+    64,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_40]
+pos = [
+    652,
+    711,
+]
+size = [
+    49,
+    210,
+]
+frame_offset = [
+    17,
+    5,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_41]
+pos = [
+    205,
+    667,
+]
+size = [
+    64,
+    217,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_42]
+pos = [
+    276,
+    647,
+]
+size = [
+    64,
+    217,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_43]
+pos = [
+    880,
+    677,
+]
+size = [
+    44,
+    207,
+]
+frame_offset = [
+    2,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_44]
+pos = [
+    716,
+    516,
+]
+size = [
+    59,
+    120,
+]
+frame_offset = [
+    5,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_45]
+pos = [
+    342,
+    804,
+]
+size = [
+    61,
+    82,
+]
+frame_offset = [
+    4,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_46]
+pos = [
+    749,
+    835,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    13,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_47]
+pos = [
+    749,
+    926,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    13,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_48]
+pos = [
+    718,
+    0,
+]
+size = [
+    89,
+    147,
+]
+frame_offset = [
+    39,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_49]
+pos = [
+    484,
+    236,
+]
+size = [
+    88,
+    154,
+]
+frame_offset = [
+    0,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_5]
+pos = [
+    794,
+    447,
+]
+size = [
+    61,
+    81,
+]
+frame_offset = [
+    63,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_50]
+pos = [
+    518,
+    0,
+]
+size = [
+    107,
+    234,
+]
+frame_offset = [
+    21,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_51]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    232,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_52]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    174,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_53]
+pos = [
+    656,
+    348,
+]
+size = [
+    71,
+    158,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_56]
+pos = [
+    978,
+    0,
+]
+size = [
+    44,
+    145,
+]
+frame_offset = [
+    55,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_57]
+pos = [
+    522,
+    435,
+]
+size = [
+    64,
+    155,
+]
+frame_offset = [
+    35,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_58]
+pos = [
+    718,
+    149,
+]
+size = [
+    80,
+    197,
+]
+frame_offset = [
+    35,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_59]
+pos = [
+    141,
+    369,
+]
+size = [
+    66,
+    197,
+]
+frame_offset = [
+    35,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_6]
+pos = [
+    926,
+    816,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    72,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_60]
+pos = [
+    71,
+    392,
+]
+size = [
+    68,
+    154,
+]
+frame_offset = [
+    37,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_61]
+pos = [
+    912,
+    373,
+]
+size = [
+    53,
+    150,
+]
+frame_offset = [
+    34,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_64]
+pos = [
+    599,
+    655,
+]
+size = [
+    51,
+    212,
+]
+frame_offset = [
+    74,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_65]
+pos = [
+    71,
+    548,
+]
+size = [
+    65,
+    219,
+]
+frame_offset = [
+    61,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_66]
+pos = [
+    588,
+    435,
+]
+size = [
+    63,
+    218,
+]
+frame_offset = [
+    62,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_67]
+pos = [
+    815,
+    743,
+]
+size = [
+    42,
+    207,
+]
+frame_offset = [
+    61,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_68]
+pos = [
+    653,
+    592,
+]
+size = [
+    59,
+    117,
+]
+frame_offset = [
+    64,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_69]
+pos = [
+    794,
+    363,
+]
+size = [
+    61,
+    82,
+]
+frame_offset = [
+    62,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_7]
+pos = [
+    941,
+    909,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    72,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_70]
+pos = [
+    859,
+    886,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    72,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_71]
+pos = [
+    209,
+    369,
+]
+size = [
+    39,
+    90,
+]
+frame_offset = [
+    72,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_72]
+pos = [
+    829,
+    530,
+]
+size = [
+    49,
+    211,
+]
+frame_offset = [
+    17,
+    5,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_73]
+pos = [
+    67,
+    769,
+]
+size = [
+    64,
+    218,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_74]
+pos = [
+    456,
+    406,
+]
+size = [
+    64,
+    218,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_75]
+pos = [
+    703,
+    793,
+]
+size = [
+    44,
+    208,
+]
+frame_offset = [
+    2,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_76]
+pos = [
+    405,
+    845,
+]
+size = [
+    59,
+    117,
+]
+frame_offset = [
+    5,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_77]
+pos = [
+    653,
+    508,
+]
+size = [
+    61,
+    82,
+]
+frame_offset = [
+    4,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_78]
+pos = [
+    967,
+    818,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    13,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_79]
+pos = [
+    900,
+    907,
+]
+size = [
+    39,
+    89,
+]
+frame_offset = [
+    13,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_8]
+pos = [
+    967,
+    397,
+]
+size = [
+    49,
+    210,
+]
+frame_offset = [
+    17,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_80]
+pos = [
+    777,
+    530,
+]
+size = [
+    50,
+    154,
+]
+frame_offset = [
+    39,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_81]
+pos = [
+    729,
+    348,
+]
+size = [
+    63,
+    166,
+]
+frame_offset = [
+    25,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_82]
+pos = [
+    0,
+    814,
+]
+size = [
+    64,
+    156,
+]
+frame_offset = [
+    24,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_83]
+pos = [
+    276,
+    489,
+]
+size = [
+    65,
+    156,
+]
+frame_offset = [
+    24,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_84]
+pos = [
+    271,
+    866,
+]
+size = [
+    63,
+    155,
+]
+frame_offset = [
+    25,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_85]
+pos = [
+    880,
+    525,
+]
+size = [
+    47,
+    150,
+]
+frame_offset = [
+    24,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_88]
+pos = [
+    800,
+    215,
+]
+size = [
+    73,
+    146,
+]
+frame_offset = [
+    55,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_89]
+pos = [
+    130,
+    212,
+]
+size = [
+    128,
+    155,
+]
+frame_offset = [
+    0,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_9]
+pos = [
+    133,
+    787,
+]
+size = [
+    64,
+    217,
+]
+frame_offset = [
+    2,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_90]
+pos = [
+    260,
+    176,
+]
+size = [
+    128,
+    155,
+]
+frame_offset = [
+    0,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_91]
+pos = [
+    0,
+    234,
+]
+size = [
+    128,
+    156,
+]
+frame_offset = [
+    0,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_92]
+pos = [
+    260,
+    333,
+]
+size = [
+    128,
+    154,
+]
+frame_offset = [
+    0,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_93]
+pos = [
+    809,
+    0,
+]
+size = [
+    87,
+    213,
+]
+frame_offset = [
+    0,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_decoration_03_96]
+pos = [
+    538,
+    777,
+]
+size = [
+    51,
+    212,
+]
+frame_offset = [
+    74,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]

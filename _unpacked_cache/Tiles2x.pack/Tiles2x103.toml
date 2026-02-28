@@ -1,0 +1,1259 @@
+[location_community_cemetary_01_41]
+pos = [
+    128,
+    256,
+]
+size = [
+    124,
+    254,
+]
+frame_offset = [
+    1,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_cemetary_01_42]
+pos = [
+    130,
+    0,
+]
+size = [
+    127,
+    254,
+]
+frame_offset = [
+    1,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_cemetary_01_43]
+pos = [
+    0,
+    356,
+]
+size = [
+    121,
+    68,
+]
+frame_offset = [
+    0,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_0]
+pos = [
+    323,
+    487,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_1]
+pos = [
+    549,
+    502,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_10]
+pos = [
+    0,
+    678,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_11]
+pos = [
+    254,
+    484,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_12]
+pos = [
+    391,
+    487,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_13]
+pos = [
+    147,
+    731,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_14]
+pos = [
+    481,
+    411,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_15]
+pos = [
+    215,
+    731,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_16]
+pos = [
+    283,
+    715,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_17]
+pos = [
+    804,
+    406,
+]
+size = [
+    66,
+    201,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_18]
+pos = [
+    952,
+    295,
+]
+size = [
+    66,
+    201,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_19]
+pos = [
+    351,
+    715,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_2]
+pos = [
+    259,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_20]
+pos = [
+    951,
+    0,
+]
+size = [
+    66,
+    180,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_21]
+pos = [
+    78,
+    669,
+]
+size = [
+    67,
+    179,
+]
+frame_offset = [
+    60,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_22]
+pos = [
+    938,
+    907,
+]
+size = [
+    45,
+    101,
+]
+frame_offset = [
+    6,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_23]
+pos = [
+    419,
+    867,
+]
+size = [
+    47,
+    101,
+]
+frame_offset = [
+    75,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_24]
+pos = [
+    527,
+    842,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_25]
+pos = [
+    872,
+    523,
+]
+size = [
+    54,
+    183,
+]
+frame_offset = [
+    74,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_26]
+pos = [
+    502,
+    228,
+]
+size = [
+    103,
+    181,
+]
+frame_offset = [
+    0,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_27]
+pos = [
+    685,
+    692,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    25,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_28]
+pos = [
+    873,
+    708,
+]
+size = [
+    51,
+    179,
+]
+frame_offset = [
+    16,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_29]
+pos = [
+    581,
+    842,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    59,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_3]
+pos = [
+    226,
+    512,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_30]
+pos = [
+    952,
+    498,
+]
+size = [
+    53,
+    181,
+]
+frame_offset = [
+    16,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_31]
+pos = [
+    742,
+    794,
+]
+size = [
+    52,
+    182,
+]
+frame_offset = [
+    58,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_32]
+pos = [
+    156,
+    512,
+]
+size = [
+    68,
+    217,
+]
+frame_offset = [
+    29,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_33]
+pos = [
+    706,
+    242,
+]
+size = [
+    96,
+    220,
+]
+frame_offset = [
+    15,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_34]
+pos = [
+    928,
+    681,
+]
+size = [
+    50,
+    224,
+]
+frame_offset = [
+    36,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_35]
+pos = [
+    387,
+    0,
+]
+size = [
+    122,
+    216,
+]
+frame_offset = [
+    0,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_36]
+pos = [
+    844,
+    889,
+]
+size = [
+    45,
+    102,
+]
+frame_offset = [
+    41,
+    28,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_37]
+pos = [
+    891,
+    907,
+]
+size = [
+    45,
+    102,
+]
+frame_offset = [
+    41,
+    28,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_38]
+pos = [
+    468,
+    867,
+]
+size = [
+    46,
+    102,
+]
+frame_offset = [
+    42,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_39]
+pos = [
+    635,
+    842,
+]
+size = [
+    46,
+    102,
+]
+frame_offset = [
+    39,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_4]
+pos = [
+    617,
+    502,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_40]
+pos = [
+    804,
+    295,
+]
+size = [
+    78,
+    109,
+]
+frame_offset = [
+    32,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_41]
+pos = [
+    915,
+    183,
+]
+size = [
+    80,
+    110,
+]
+frame_offset = [
+    5,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_42]
+pos = [
+    831,
+    183,
+]
+size = [
+    82,
+    110,
+]
+frame_offset = [
+    39,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_43]
+pos = [
+    0,
+    426,
+]
+size = [
+    76,
+    250,
+]
+frame_offset = [
+    16,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_44]
+pos = [
+    0,
+    906,
+]
+size = [
+    66,
+    113,
+]
+frame_offset = [
+    28,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_45]
+pos = [
+    69,
+    850,
+]
+size = [
+    65,
+    112,
+]
+frame_offset = [
+    32,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_46]
+pos = [
+    527,
+    730,
+]
+size = [
+    63,
+    110,
+]
+frame_offset = [
+    32,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_47]
+pos = [
+    592,
+    730,
+]
+size = [
+    63,
+    110,
+]
+frame_offset = [
+    30,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_48]
+pos = [
+    622,
+    114,
+]
+size = [
+    108,
+    126,
+]
+frame_offset = [
+    4,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_49]
+pos = [
+    254,
+    356,
+]
+size = [
+    112,
+    126,
+]
+frame_offset = [
+    0,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_5]
+pos = [
+    459,
+    639,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_50]
+pos = [
+    368,
+    356,
+]
+size = [
+    111,
+    129,
+]
+frame_offset = [
+    0,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_51]
+pos = [
+    387,
+    218,
+]
+size = [
+    113,
+    128,
+]
+frame_offset = [
+    15,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_52]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    126,
+]
+frame_offset = [
+    0,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_53]
+pos = [
+    259,
+    228,
+]
+size = [
+    119,
+    126,
+]
+frame_offset = [
+    0,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_54]
+pos = [
+    683,
+    875,
+]
+size = [
+    46,
+    102,
+]
+frame_offset = [
+    1,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_55]
+pos = [
+    796,
+    889,
+]
+size = [
+    46,
+    102,
+]
+frame_offset = [
+    78,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_56]
+pos = [
+    732,
+    114,
+]
+size = [
+    97,
+    109,
+]
+frame_offset = [
+    13,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_57]
+pos = [
+    511,
+    114,
+]
+size = [
+    109,
+    112,
+]
+frame_offset = [
+    1,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_58]
+pos = [
+    511,
+    0,
+]
+size = [
+    110,
+    112,
+]
+frame_offset = [
+    1,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_59]
+pos = [
+    623,
+    0,
+]
+size = [
+    110,
+    112,
+]
+frame_offset = [
+    15,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_6]
+pos = [
+    0,
+    128,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_60]
+pos = [
+    735,
+    0,
+]
+size = [
+    109,
+    112,
+]
+frame_offset = [
+    16,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_61]
+pos = [
+    607,
+    242,
+]
+size = [
+    97,
+    109,
+]
+frame_offset = [
+    16,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_62]
+pos = [
+    78,
+    512,
+]
+size = [
+    76,
+    155,
+]
+frame_offset = [
+    27,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_63]
+pos = [
+    607,
+    353,
+]
+size = [
+    86,
+    147,
+]
+frame_offset = [
+    22,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_64]
+pos = [
+    819,
+    708,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_65]
+pos = [
+    763,
+    609,
+]
+size = [
+    54,
+    183,
+]
+frame_offset = [
+    74,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_66]
+pos = [
+    846,
+    0,
+]
+size = [
+    103,
+    181,
+]
+frame_offset = [
+    0,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_7]
+pos = [
+    234,
+    512,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_8]
+pos = [
+    695,
+    464,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_church_small_01_9]
+pos = [
+    884,
+    295,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,679 @@
+[fixtures_stairs_01_19]
+pos = [
+    130,
+    506,
+]
+size = [
+    128,
+    178,
+]
+frame_offset = [
+    0,
+    78,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_20]
+pos = [
+    519,
+    726,
+]
+size = [
+    124,
+    216,
+]
+frame_offset = [
+    0,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_21]
+pos = [
+    650,
+    466,
+]
+size = [
+    127,
+    246,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_22]
+pos = [
+    994,
+    0,
+]
+size = [
+    25,
+    207,
+]
+frame_offset = [
+    1,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_23]
+pos = [
+    910,
+    209,
+]
+size = [
+    25,
+    206,
+]
+frame_offset = [
+    100,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_24]
+pos = [
+    130,
+    686,
+]
+size = [
+    128,
+    146,
+]
+frame_offset = [
+    0,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_25]
+pos = [
+    780,
+    0,
+]
+size = [
+    128,
+    207,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_26]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_27]
+pos = [
+    390,
+    258,
+]
+size = [
+    128,
+    227,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_28]
+pos = [
+    650,
+    257,
+]
+size = [
+    128,
+    207,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_29]
+pos = [
+    0,
+    258,
+]
+size = [
+    128,
+    246,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_30]
+pos = [
+    910,
+    0,
+]
+size = [
+    26,
+    207,
+]
+frame_offset = [
+    0,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_31]
+pos = [
+    937,
+    209,
+]
+size = [
+    25,
+    206,
+]
+frame_offset = [
+    100,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_32]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_33]
+pos = [
+    649,
+    714,
+]
+size = [
+    124,
+    216,
+]
+frame_offset = [
+    0,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_34]
+pos = [
+    780,
+    418,
+]
+size = [
+    127,
+    246,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_35]
+pos = [
+    0,
+    895,
+]
+size = [
+    2,
+    1,
+]
+frame_offset = [
+    63,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_36]
+pos = [
+    4,
+    895,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    63,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_38]
+pos = [
+    938,
+    0,
+]
+size = [
+    26,
+    207,
+]
+frame_offset = [
+    1,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_39]
+pos = [
+    964,
+    209,
+]
+size = [
+    25,
+    206,
+]
+frame_offset = [
+    101,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_40]
+pos = [
+    390,
+    487,
+]
+size = [
+    128,
+    146,
+]
+frame_offset = [
+    0,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_41]
+pos = [
+    780,
+    209,
+]
+size = [
+    128,
+    207,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_42]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_48]
+pos = [
+    650,
+    0,
+]
+size = [
+    128,
+    255,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_49]
+pos = [
+    260,
+    258,
+]
+size = [
+    128,
+    228,
+]
+frame_offset = [
+    0,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_50]
+pos = [
+    520,
+    468,
+]
+size = [
+    127,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_56]
+pos = [
+    260,
+    488,
+]
+size = [
+    128,
+    147,
+]
+frame_offset = [
+    0,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_57]
+pos = [
+    520,
+    258,
+]
+size = [
+    128,
+    208,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_58]
+pos = [
+    390,
+    0,
+]
+size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_59]
+pos = [
+    0,
+    898,
+]
+size = [
+    1,
+    10,
+]
+frame_offset = [
+    0,
+    28,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_64]
+pos = [
+    0,
+    715,
+]
+size = [
+    128,
+    178,
+]
+frame_offset = [
+    0,
+    78,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_65]
+pos = [
+    779,
+    666,
+]
+size = [
+    124,
+    216,
+]
+frame_offset = [
+    0,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_66]
+pos = [
+    390,
+    635,
+]
+size = [
+    127,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_70]
+pos = [
+    966,
+    0,
+]
+size = [
+    26,
+    207,
+]
+frame_offset = [
+    1,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_71]
+pos = [
+    991,
+    209,
+]
+size = [
+    25,
+    206,
+]
+frame_offset = [
+    101,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_72]
+pos = [
+    260,
+    637,
+]
+size = [
+    128,
+    146,
+]
+frame_offset = [
+    0,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_73]
+pos = [
+    0,
+    506,
+]
+size = [
+    128,
+    207,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_74]
+pos = [
+    130,
+    258,
+]
+size = [
+    128,
+    246,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_80]
+pos = [
+    520,
+    0,
+]
+size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_81]
+pos = [
+    260,
+    785,
+]
+size = [
+    126,
+    209,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]

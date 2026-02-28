@@ -1,0 +1,1547 @@
+[vegetation_farming_dead_01_10]
+pos = [
+    105,
+    658,
+]
+size = [
+    102,
+    53,
+]
+frame_offset = [
+    15,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_11]
+pos = [
+    0,
+    811,
+]
+size = [
+    102,
+    53,
+]
+frame_offset = [
+    15,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_12]
+pos = [
+    0,
+    654,
+]
+size = [
+    103,
+    53,
+]
+frame_offset = [
+    15,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_13]
+pos = [
+    620,
+    624,
+]
+size = [
+    100,
+    53,
+]
+frame_offset = [
+    15,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_14]
+pos = [
+    701,
+    0,
+]
+size = [
+    107,
+    87,
+]
+frame_offset = [
+    14,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_16]
+pos = [
+    917,
+    119,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_17]
+pos = [
+    805,
+    244,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_18]
+pos = [
+    685,
+    400,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_19]
+pos = [
+    805,
+    188,
+]
+size = [
+    105,
+    54,
+]
+frame_offset = [
+    14,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_20]
+pos = [
+    579,
+    322,
+]
+size = [
+    105,
+    58,
+]
+frame_offset = [
+    14,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_21]
+pos = [
+    810,
+    0,
+]
+size = [
+    105,
+    64,
+]
+frame_offset = [
+    14,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_22]
+pos = [
+    698,
+    163,
+]
+size = [
+    105,
+    61,
+]
+frame_offset = [
+    14,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_23]
+pos = [
+    471,
+    363,
+]
+size = [
+    105,
+    62,
+]
+frame_offset = [
+    14,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_24]
+pos = [
+    915,
+    174,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_25]
+pos = [
+    793,
+    299,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_26]
+pos = [
+    674,
+    455,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_27]
+pos = [
+    686,
+    286,
+]
+size = [
+    105,
+    56,
+]
+frame_offset = [
+    14,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_28]
+pos = [
+    240,
+    427,
+]
+size = [
+    107,
+    60,
+]
+frame_offset = [
+    12,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_29]
+pos = [
+    118,
+    444,
+]
+size = [
+    107,
+    62,
+]
+frame_offset = [
+    12,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_30]
+pos = [
+    365,
+    113,
+]
+size = [
+    113,
+    63,
+]
+frame_offset = [
+    6,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_31]
+pos = [
+    360,
+    178,
+]
+size = [
+    111,
+    63,
+]
+frame_offset = [
+    8,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_32]
+pos = [
+    912,
+    229,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_33]
+pos = [
+    793,
+    354,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_34]
+pos = [
+    567,
+    441,
+]
+size = [
+    105,
+    54,
+]
+frame_offset = [
+    14,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_35]
+pos = [
+    808,
+    129,
+]
+size = [
+    105,
+    57,
+]
+frame_offset = [
+    14,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_36]
+pos = [
+    579,
+    258,
+]
+size = [
+    105,
+    62,
+]
+frame_offset = [
+    14,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_37]
+pos = [
+    701,
+    89,
+]
+size = [
+    105,
+    72,
+]
+frame_offset = [
+    14,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_38]
+pos = [
+    353,
+    399,
+]
+size = [
+    105,
+    92,
+]
+frame_offset = [
+    14,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_39]
+pos = [
+    578,
+    382,
+]
+size = [
+    105,
+    57,
+]
+frame_offset = [
+    14,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_40]
+pos = [
+    416,
+    735,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_41]
+pos = [
+    204,
+    960,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_42]
+pos = [
+    518,
+    565,
+]
+size = [
+    100,
+    65,
+]
+frame_offset = [
+    14,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_43]
+pos = [
+    416,
+    585,
+]
+size = [
+    100,
+    81,
+]
+frame_offset = [
+    14,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_44]
+pos = [
+    416,
+    493,
+]
+size = [
+    100,
+    90,
+]
+frame_offset = [
+    14,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_45]
+pos = [
+    314,
+    649,
+]
+size = [
+    100,
+    90,
+]
+frame_offset = [
+    14,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_46]
+pos = [
+    0,
+    709,
+]
+size = [
+    102,
+    100,
+]
+frame_offset = [
+    12,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_47]
+pos = [
+    206,
+    812,
+]
+size = [
+    100,
+    81,
+]
+frame_offset = [
+    14,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_48]
+pos = [
+    912,
+    284,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_49]
+pos = [
+    792,
+    409,
+]
+size = [
+    105,
+    53,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_50]
+pos = [
+    686,
+    344,
+]
+size = [
+    105,
+    54,
+]
+frame_offset = [
+    14,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_51]
+pos = [
+    917,
+    60,
+]
+size = [
+    105,
+    57,
+]
+frame_offset = [
+    14,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_52]
+pos = [
+    917,
+    0,
+]
+size = [
+    105,
+    58,
+]
+frame_offset = [
+    14,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_53]
+pos = [
+    698,
+    226,
+]
+size = [
+    105,
+    58,
+]
+frame_offset = [
+    14,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_54]
+pos = [
+    460,
+    427,
+]
+size = [
+    105,
+    60,
+]
+frame_offset = [
+    14,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_55]
+pos = [
+    810,
+    66,
+]
+size = [
+    105,
+    61,
+]
+frame_offset = [
+    14,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_56]
+pos = [
+    620,
+    510,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_57]
+pos = [
+    308,
+    876,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_58]
+pos = [
+    620,
+    567,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_59]
+pos = [
+    518,
+    632,
+]
+size = [
+    100,
+    57,
+]
+frame_offset = [
+    14,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_6]
+pos = [
+    900,
+    339,
+]
+size = [
+    104,
+    154,
+]
+frame_offset = [
+    14,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_60]
+pos = [
+    308,
+    812,
+]
+size = [
+    100,
+    62,
+]
+frame_offset = [
+    14,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_61]
+pos = [
+    312,
+    741,
+]
+size = [
+    100,
+    66,
+]
+frame_offset = [
+    14,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_62]
+pos = [
+    416,
+    668,
+]
+size = [
+    100,
+    65,
+]
+frame_offset = [
+    14,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_63]
+pos = [
+    518,
+    497,
+]
+size = [
+    100,
+    66,
+]
+frame_offset = [
+    14,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_64]
+pos = [
+    314,
+    493,
+]
+size = [
+    100,
+    154,
+]
+frame_offset = [
+    14,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_65]
+pos = [
+    0,
+    866,
+]
+size = [
+    100,
+    154,
+]
+frame_offset = [
+    14,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_66]
+pos = [
+    210,
+    656,
+]
+size = [
+    100,
+    154,
+]
+frame_offset = [
+    14,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_67]
+pos = [
+    104,
+    768,
+]
+size = [
+    100,
+    154,
+]
+frame_offset = [
+    14,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_68]
+pos = [
+    0,
+    498,
+]
+size = [
+    103,
+    154,
+]
+frame_offset = [
+    12,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_69]
+pos = [
+    240,
+    271,
+]
+size = [
+    111,
+    154,
+]
+frame_offset = [
+    7,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_70]
+pos = [
+    360,
+    243,
+]
+size = [
+    109,
+    154,
+]
+frame_offset = [
+    9,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_71]
+pos = [
+    591,
+    0,
+]
+size = [
+    108,
+    154,
+]
+frame_offset = [
+    9,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_72]
+pos = [
+    414,
+    792,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_73]
+pos = [
+    518,
+    691,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_74]
+pos = [
+    102,
+    924,
+]
+size = [
+    100,
+    69,
+]
+frame_offset = [
+    14,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_75]
+pos = [
+    471,
+    258,
+]
+size = [
+    106,
+    103,
+]
+frame_offset = [
+    14,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_76]
+pos = [
+    105,
+    508,
+]
+size = [
+    103,
+    148,
+]
+frame_offset = [
+    14,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_77]
+pos = [
+    123,
+    0,
+]
+size = [
+    119,
+    211,
+]
+frame_offset = [
+    6,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_78]
+pos = [
+    0,
+    0,
+]
+size = [
+    121,
+    238,
+]
+frame_offset = [
+    5,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_79]
+pos = [
+    123,
+    213,
+]
+size = [
+    115,
+    229,
+]
+frame_offset = [
+    5,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_8]
+pos = [
+    210,
+    601,
+]
+size = [
+    102,
+    53,
+]
+frame_offset = [
+    15,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_80]
+pos = [
+    722,
+    510,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_81]
+pos = [
+    308,
+    933,
+]
+size = [
+    100,
+    55,
+]
+frame_offset = [
+    14,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_82]
+pos = [
+    206,
+    895,
+]
+size = [
+    100,
+    63,
+]
+frame_offset = [
+    14,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_83]
+pos = [
+    210,
+    508,
+]
+size = [
+    102,
+    91,
+]
+frame_offset = [
+    14,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_84]
+pos = [
+    244,
+    0,
+]
+size = [
+    119,
+    156,
+]
+frame_offset = [
+    8,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_85]
+pos = [
+    365,
+    0,
+]
+size = [
+    114,
+    111,
+]
+frame_offset = [
+    6,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_86]
+pos = [
+    244,
+    158,
+]
+size = [
+    114,
+    111,
+]
+frame_offset = [
+    6,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_87]
+pos = [
+    591,
+    156,
+]
+size = [
+    105,
+    98,
+]
+frame_offset = [
+    9,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_88]
+pos = [
+    518,
+    748,
+]
+size = [
+    97,
+    256,
+]
+frame_offset = [
+    17,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_89]
+pos = [
+    722,
+    567,
+]
+size = [
+    97,
+    256,
+]
+frame_offset = [
+    17,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_9]
+pos = [
+    104,
+    713,
+]
+size = [
+    102,
+    53,
+]
+frame_offset = [
+    15,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_90]
+pos = [
+    620,
+    679,
+]
+size = [
+    97,
+    256,
+]
+frame_offset = [
+    17,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_91]
+pos = [
+    824,
+    495,
+]
+size = [
+    97,
+    256,
+]
+frame_offset = [
+    17,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_92]
+pos = [
+    481,
+    0,
+]
+size = [
+    108,
+    256,
+]
+frame_offset = [
+    6,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farming_dead_01_93]
+pos = [
+    0,
+    240,
+]
+size = [
+    116,
+    256,
+]
+frame_offset = [
+    8,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,1349 @@
+[e_canadianhemlock_1_4]
+pos = [
+    915,
+    749,
+]
+size = [
+    49,
+    256,
+]
+frame_offset = [
+    38,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_canadianhemlock_1_5]
+pos = [
+    0,
+    844,
+]
+size = [
+    111,
+    148,
+]
+frame_offset = [
+    17,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_canadianhemlock_1_6]
+pos = [
+    889,
+    0,
+]
+size = [
+    120,
+    206,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_canadianhemlock_1_7]
+pos = [
+    645,
+    0,
+]
+size = [
+    120,
+    252,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_canadianhemlock_1_8]
+pos = [
+    121,
+    464,
+]
+size = [
+    3,
+    2,
+]
+frame_offset = [
+    61,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_0]
+pos = [
+    915,
+    609,
+]
+size = [
+    21,
+    44,
+]
+frame_offset = [
+    49,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_1]
+pos = [
+    732,
+    901,
+]
+size = [
+    44,
+    94,
+]
+frame_offset = [
+    32,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_10]
+pos = [
+    362,
+    817,
+]
+size = [
+    105,
+    158,
+]
+frame_offset = [
+    7,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_11]
+pos = [
+    640,
+    254,
+]
+size = [
+    120,
+    204,
+]
+frame_offset = [
+    0,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_12]
+pos = [
+    556,
+    972,
+]
+size = [
+    21,
+    33,
+]
+frame_offset = [
+    49,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_13]
+pos = [
+    620,
+    873,
+]
+size = [
+    62,
+    93,
+]
+frame_offset = [
+    27,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_14]
+pos = [
+    113,
+    844,
+]
+size = [
+    109,
+    152,
+]
+frame_offset = [
+    1,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_15]
+pos = [
+    767,
+    0,
+]
+size = [
+    120,
+    219,
+]
+frame_offset = [
+    0,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_16]
+pos = [
+    415,
+    977,
+]
+size = [
+    21,
+    29,
+]
+frame_offset = [
+    49,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_17]
+pos = [
+    938,
+    567,
+]
+size = [
+    62,
+    93,
+]
+frame_offset = [
+    27,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_18]
+pos = [
+    118,
+    688,
+]
+size = [
+    115,
+    153,
+]
+frame_offset = [
+    1,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_19]
+pos = [
+    767,
+    221,
+]
+size = [
+    120,
+    202,
+]
+frame_offset = [
+    0,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_2]
+pos = [
+    724,
+    655,
+]
+size = [
+    85,
+    156,
+]
+frame_offset = [
+    18,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_20]
+pos = [
+    811,
+    773,
+]
+size = [
+    21,
+    36,
+]
+frame_offset = [
+    49,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_21]
+pos = [
+    915,
+    662,
+]
+size = [
+    59,
+    85,
+]
+frame_offset = [
+    30,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_22]
+pos = [
+    377,
+    421,
+]
+size = [
+    115,
+    160,
+]
+frame_offset = [
+    1,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_23]
+pos = [
+    889,
+    208,
+]
+size = [
+    120,
+    201,
+]
+frame_offset = [
+    0,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_3]
+pos = [
+    610,
+    460,
+]
+size = [
+    112,
+    224,
+]
+frame_offset = [
+    4,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_4]
+pos = [
+    224,
+    843,
+]
+size = [
+    21,
+    45,
+]
+frame_offset = [
+    49,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_5]
+pos = [
+    778,
+    900,
+]
+size = [
+    44,
+    94,
+]
+frame_offset = [
+    32,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_6]
+pos = [
+    469,
+    843,
+]
+size = [
+    85,
+    162,
+]
+frame_offset = [
+    18,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_7]
+pos = [
+    492,
+    619,
+]
+size = [
+    112,
+    222,
+]
+frame_offset = [
+    4,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_8]
+pos = [
+    650,
+    968,
+]
+size = [
+    21,
+    39,
+]
+frame_offset = [
+    49,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_carolinasilverbell_1_9]
+pos = [
+    771,
+    813,
+]
+size = [
+    62,
+    85,
+]
+frame_offset = [
+    27,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_0]
+pos = [
+    811,
+    715,
+]
+size = [
+    22,
+    56,
+]
+frame_offset = [
+    50,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_1]
+pos = [
+    684,
+    901,
+]
+size = [
+    46,
+    100,
+]
+frame_offset = [
+    36,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_10]
+pos = [
+    494,
+    420,
+]
+size = [
+    114,
+    197,
+]
+frame_offset = [
+    4,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_11]
+pos = [
+    0,
+    211,
+]
+size = [
+    126,
+    251,
+]
+frame_offset = [
+    0,
+    5,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_12]
+pos = [
+    610,
+    420,
+]
+size = [
+    28,
+    38,
+]
+frame_offset = [
+    45,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_13]
+pos = [
+    224,
+    900,
+]
+size = [
+    62,
+    97,
+]
+frame_offset = [
+    26,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_14]
+pos = [
+    388,
+    222,
+]
+size = [
+    124,
+    192,
+]
+frame_offset = [
+    4,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_15]
+pos = [
+    130,
+    209,
+]
+size = [
+    126,
+    228,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_16]
+pos = [
+    883,
+    819,
+]
+size = [
+    28,
+    43,
+]
+frame_offset = [
+    45,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_17]
+pos = [
+    707,
+    813,
+]
+size = [
+    62,
+    86,
+]
+frame_offset = [
+    26,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_18]
+pos = [
+    518,
+    0,
+]
+size = [
+    125,
+    192,
+]
+frame_offset = [
+    3,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_19]
+pos = [
+    260,
+    197,
+]
+size = [
+    126,
+    222,
+]
+frame_offset = [
+    0,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_2]
+pos = [
+    837,
+    425,
+]
+size = [
+    99,
+    182,
+]
+frame_offset = [
+    11,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_20]
+pos = [
+    620,
+    968,
+]
+size = [
+    28,
+    38,
+]
+frame_offset = [
+    45,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_21]
+pos = [
+    288,
+    900,
+]
+size = [
+    62,
+    97,
+]
+frame_offset = [
+    26,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_22]
+pos = [
+    724,
+    460,
+]
+size = [
+    111,
+    193,
+]
+frame_offset = [
+    4,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_23]
+pos = [
+    390,
+    0,
+]
+size = [
+    126,
+    220,
+]
+frame_offset = [
+    0,
+    8,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_3]
+pos = [
+    128,
+    439,
+]
+size = [
+    117,
+    244,
+]
+frame_offset = [
+    5,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_4]
+pos = [
+    811,
+    655,
+]
+size = [
+    22,
+    58,
+]
+frame_offset = [
+    50,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_5]
+pos = [
+    835,
+    766,
+]
+size = [
+    46,
+    102,
+]
+frame_offset = [
+    36,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_6]
+pos = [
+    606,
+    686,
+]
+size = [
+    99,
+    185,
+]
+frame_offset = [
+    11,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_7]
+pos = [
+    258,
+    421,
+]
+size = [
+    117,
+    240,
+]
+frame_offset = [
+    5,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_8]
+pos = [
+    883,
+    766,
+]
+size = [
+    29,
+    51,
+]
+frame_offset = [
+    45,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_cockspurhawthorn_1_9]
+pos = [
+    556,
+    873,
+]
+size = [
+    62,
+    97,
+]
+frame_offset = [
+    26,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_0]
+pos = [
+    579,
+    972,
+]
+size = [
+    16,
+    34,
+]
+frame_offset = [
+    52,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_1]
+pos = [
+    966,
+    879,
+]
+size = [
+    35,
+    75,
+]
+frame_offset = [
+    42,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_10]
+pos = [
+    0,
+    688,
+]
+size = [
+    116,
+    154,
+]
+frame_offset = [
+    6,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_11]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    195,
+]
+frame_offset = [
+    0,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_12]
+pos = [
+    762,
+    425,
+]
+size = [
+    31,
+    30,
+]
+frame_offset = [
+    46,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_13]
+pos = [
+    966,
+    749,
+]
+size = [
+    44,
+    65,
+]
+frame_offset = [
+    36,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_14]
+pos = [
+    518,
+    194,
+]
+size = [
+    120,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_15]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    209,
+]
+frame_offset = [
+    0,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_16]
+pos = [
+    795,
+    425,
+]
+size = [
+    31,
+    30,
+]
+frame_offset = [
+    46,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_17]
+pos = [
+    824,
+    939,
+]
+size = [
+    44,
+    65,
+]
+frame_offset = [
+    36,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_18]
+pos = [
+    0,
+    464,
+]
+size = [
+    119,
+    222,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_19]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    207,
+]
+frame_offset = [
+    0,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_2]
+pos = [
+    837,
+    609,
+]
+size = [
+    76,
+    155,
+]
+frame_offset = [
+    19,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_20]
+pos = [
+    384,
+    977,
+]
+size = [
+    29,
+    30,
+]
+frame_offset = [
+    46,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_21]
+pos = [
+    835,
+    870,
+]
+size = [
+    44,
+    67,
+]
+frame_offset = [
+    36,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_3]
+pos = [
+    247,
+    663,
+]
+size = [
+    113,
+    235,
+]
+frame_offset = [
+    9,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_4]
+pos = [
+    1002,
+    567,
+]
+size = [
+    16,
+    37,
+]
+frame_offset = [
+    52,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_5]
+pos = [
+    976,
+    662,
+]
+size = [
+    35,
+    77,
+]
+frame_offset = [
+    42,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_6]
+pos = [
+    938,
+    411,
+]
+size = [
+    78,
+    154,
+]
+frame_offset = [
+    17,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_7]
+pos = [
+    377,
+    583,
+]
+size = [
+    113,
+    232,
+]
+frame_offset = [
+    9,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_8]
+pos = [
+    352,
+    977,
+]
+size = [
+    30,
+    30,
+]
+frame_offset = [
+    46,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_dogwood_1_9]
+pos = [
+    966,
+    816,
+]
+size = [
+    44,
+    61,
+]
+frame_offset = [
+    36,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]

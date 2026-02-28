@@ -1,0 +1,2609 @@
+[bed_overlays_large_6]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    106,
+]
+frame_offset = [
+    0,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[bed_overlays_large_7]
+pos = [
+    902,
+    316,
+]
+size = [
+    100,
+    91,
+]
+frame_offset = [
+    0,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_0]
+pos = [
+    520,
+    0,
+]
+size = [
+    126,
+    105,
+]
+frame_offset = [
+    2,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_1]
+pos = [
+    130,
+    108,
+]
+size = [
+    128,
+    98,
+]
+frame_offset = [
+    0,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_10]
+pos = [
+    904,
+    65,
+]
+size = [
+    116,
+    87,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_11]
+pos = [
+    254,
+    568,
+]
+size = [
+    122,
+    78,
+]
+frame_offset = [
+    6,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_12]
+pos = [
+    127,
+    645,
+]
+size = [
+    123,
+    81,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_13]
+pos = [
+    507,
+    503,
+]
+size = [
+    114,
+    81,
+]
+frame_offset = [
+    1,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_16]
+pos = [
+    236,
+    949,
+]
+size = [
+    103,
+    58,
+]
+frame_offset = [
+    11,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_17]
+pos = [
+    372,
+    678,
+]
+size = [
+    113,
+    75,
+]
+frame_offset = [
+    0,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_18]
+pos = [
+    358,
+    821,
+]
+size = [
+    105,
+    74,
+]
+frame_offset = [
+    8,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_19]
+pos = [
+    609,
+    646,
+]
+size = [
+    99,
+    77,
+]
+frame_offset = [
+    10,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_2]
+pos = [
+    130,
+    208,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_20]
+pos = [
+    243,
+    882,
+]
+size = [
+    111,
+    65,
+]
+frame_offset = [
+    4,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_21]
+pos = [
+    592,
+    725,
+]
+size = [
+    94,
+    70,
+]
+frame_offset = [
+    11,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_24]
+pos = [
+    390,
+    178,
+]
+size = [
+    126,
+    105,
+]
+frame_offset = [
+    2,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_25]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    98,
+]
+frame_offset = [
+    0,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_26]
+pos = [
+    0,
+    326,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_27]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    111,
+]
+frame_offset = [
+    0,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_28]
+pos = [
+    260,
+    100,
+]
+size = [
+    128,
+    98,
+]
+frame_offset = [
+    0,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_29]
+pos = [
+    260,
+    200,
+]
+size = [
+    128,
+    95,
+]
+frame_offset = [
+    0,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_3]
+pos = [
+    0,
+    113,
+]
+size = [
+    128,
+    111,
+]
+frame_offset = [
+    0,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_32]
+pos = [
+    390,
+    0,
+]
+size = [
+    128,
+    87,
+]
+frame_offset = [
+    0,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_33]
+pos = [
+    260,
+    297,
+]
+size = [
+    128,
+    89,
+]
+frame_offset = [
+    0,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_34]
+pos = [
+    378,
+    589,
+]
+size = [
+    116,
+    87,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_35]
+pos = [
+    125,
+    728,
+]
+size = [
+    122,
+    78,
+]
+frame_offset = [
+    6,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_36]
+pos = [
+    0,
+    811,
+]
+size = [
+    123,
+    81,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_37]
+pos = [
+    120,
+    910,
+]
+size = [
+    114,
+    81,
+]
+frame_offset = [
+    1,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_4]
+pos = [
+    0,
+    226,
+]
+size = [
+    128,
+    98,
+]
+frame_offset = [
+    0,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_40]
+pos = [
+    487,
+    712,
+]
+size = [
+    103,
+    58,
+]
+frame_offset = [
+    11,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_41]
+pos = [
+    904,
+    154,
+]
+size = [
+    113,
+    75,
+]
+frame_offset = [
+    0,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_42]
+pos = [
+    623,
+    570,
+]
+size = [
+    105,
+    74,
+]
+frame_offset = [
+    8,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_43]
+pos = [
+    736,
+    512,
+]
+size = [
+    99,
+    77,
+]
+frame_offset = [
+    10,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_44]
+pos = [
+    623,
+    503,
+]
+size = [
+    111,
+    65,
+]
+frame_offset = [
+    4,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_45]
+pos = [
+    465,
+    857,
+]
+size = [
+    94,
+    70,
+]
+frame_offset = [
+    11,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_48]
+pos = [
+    0,
+    894,
+]
+size = [
+    118,
+    103,
+]
+frame_offset = [
+    10,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_49]
+pos = [
+    385,
+    483,
+]
+size = [
+    120,
+    104,
+]
+frame_offset = [
+    0,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_5]
+pos = [
+    130,
+    406,
+]
+size = [
+    128,
+    95,
+]
+frame_offset = [
+    0,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_50]
+pos = [
+    0,
+    706,
+]
+size = [
+    123,
+    103,
+]
+frame_offset = [
+    0,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_51]
+pos = [
+    128,
+    541,
+]
+size = [
+    124,
+    102,
+]
+frame_offset = [
+    4,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_52]
+pos = [
+    125,
+    808,
+]
+size = [
+    116,
+    100,
+]
+frame_offset = [
+    3,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_53]
+pos = [
+    130,
+    307,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_56]
+pos = [
+    260,
+    479,
+]
+size = [
+    123,
+    87,
+]
+frame_offset = [
+    0,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_57]
+pos = [
+    904,
+    231,
+]
+size = [
+    110,
+    83,
+]
+frame_offset = [
+    9,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_58]
+pos = [
+    252,
+    648,
+]
+size = [
+    118,
+    84,
+]
+frame_offset = [
+    0,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_59]
+pos = [
+    496,
+    589,
+]
+size = [
+    111,
+    73,
+]
+frame_offset = [
+    11,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_60]
+pos = [
+    249,
+    734,
+]
+size = [
+    114,
+    85,
+]
+frame_offset = [
+    5,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_61]
+pos = [
+    478,
+    772,
+]
+size = [
+    99,
+    83,
+]
+frame_offset = [
+    13,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_64]
+pos = [
+    243,
+    821,
+]
+size = [
+    113,
+    59,
+]
+frame_offset = [
+    7,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_65]
+pos = [
+    730,
+    591,
+]
+size = [
+    97,
+    71,
+]
+frame_offset = [
+    12,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_66]
+pos = [
+    365,
+    755,
+]
+size = [
+    111,
+    61,
+]
+frame_offset = [
+    9,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_67]
+pos = [
+    902,
+    409,
+]
+size = [
+    99,
+    57,
+]
+frame_offset = [
+    12,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_68]
+pos = [
+    904,
+    0,
+]
+size = [
+    117,
+    63,
+]
+frame_offset = [
+    5,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_69]
+pos = [
+    0,
+    645,
+]
+size = [
+    125,
+    59,
+]
+frame_offset = [
+    3,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_70]
+pos = [
+    254,
+    541,
+]
+size = [
+    4,
+    3,
+]
+frame_offset = [
+    0,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_8]
+pos = [
+    390,
+    89,
+]
+size = [
+    128,
+    87,
+]
+frame_offset = [
+    0,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_grassoverlays_01_9]
+pos = [
+    260,
+    388,
+]
+size = [
+    128,
+    89,
+]
+frame_offset = [
+    0,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_0]
+pos = [
+    0,
+    425,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_1]
+pos = [
+    774,
+    311,
+]
+size = [
+    126,
+    39,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_10]
+pos = [
+    746,
+    943,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    58,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_11]
+pos = [
+    676,
+    944,
+]
+size = [
+    68,
+    35,
+]
+frame_offset = [
+    0,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_12]
+pos = [
+    886,
+    986,
+]
+size = [
+    66,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_13]
+pos = [
+    940,
+    755,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_14]
+pos = [
+    956,
+    863,
+]
+size = [
+    66,
+    35,
+]
+frame_offset = [
+    60,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_15]
+pos = [
+    868,
+    842,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    0,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_16]
+pos = [
+    520,
+    107,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_17]
+pos = [
+    0,
+    569,
+]
+size = [
+    126,
+    36,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_18]
+pos = [
+    774,
+    434,
+]
+size = [
+    126,
+    37,
+]
+frame_offset = [
+    0,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_19]
+pos = [
+    710,
+    664,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_2]
+pos = [
+    646,
+    441,
+]
+size = [
+    126,
+    39,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_20]
+pos = [
+    458,
+    929,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    55,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_21]
+pos = [
+    648,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_22]
+pos = [
+    390,
+    285,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_23]
+pos = [
+    520,
+    173,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_24]
+pos = [
+    761,
+    730,
+]
+size = [
+    71,
+    36,
+]
+frame_offset = [
+    55,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_25]
+pos = [
+    905,
+    718,
+]
+size = [
+    68,
+    35,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_26]
+pos = [
+    870,
+    766,
+]
+size = [
+    68,
+    35,
+]
+frame_offset = [
+    58,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_27]
+pos = [
+    834,
+    730,
+]
+size = [
+    69,
+    34,
+]
+frame_offset = [
+    0,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_28]
+pos = [
+    604,
+    960,
+]
+size = [
+    69,
+    34,
+]
+frame_offset = [
+    57,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_29]
+pos = [
+    856,
+    644,
+]
+size = [
+    70,
+    35,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_3]
+pos = [
+    914,
+    468,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_30]
+pos = [
+    676,
+    906,
+]
+size = [
+    68,
+    36,
+]
+frame_offset = [
+    58,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_31]
+pos = [
+    816,
+    879,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    0,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_32]
+pos = [
+    648,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_33]
+pos = [
+    0,
+    607,
+]
+size = [
+    126,
+    36,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_34]
+pos = [
+    0,
+    491,
+]
+size = [
+    126,
+    37,
+]
+frame_offset = [
+    0,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_35]
+pos = [
+    837,
+    578,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_36]
+pos = [
+    561,
+    857,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    55,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_37]
+pos = [
+    390,
+    351,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_38]
+pos = [
+    518,
+    239,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_39]
+pos = [
+    776,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_4]
+pos = [
+    688,
+    730,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    55,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_40]
+pos = [
+    910,
+    600,
+]
+size = [
+    71,
+    36,
+]
+frame_offset = [
+    55,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_41]
+pos = [
+    798,
+    842,
+]
+size = [
+    68,
+    35,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_42]
+pos = [
+    746,
+    906,
+]
+size = [
+    68,
+    35,
+]
+frame_offset = [
+    58,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_43]
+pos = [
+    928,
+    638,
+]
+size = [
+    69,
+    34,
+]
+frame_offset = [
+    0,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_44]
+pos = [
+    799,
+    768,
+]
+size = [
+    69,
+    34,
+]
+frame_offset = [
+    57,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_45]
+pos = [
+    727,
+    796,
+]
+size = [
+    70,
+    35,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_46]
+pos = [
+    928,
+    674,
+]
+size = [
+    68,
+    36,
+]
+frame_offset = [
+    58,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_47]
+pos = [
+    746,
+    979,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    0,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_48]
+pos = [
+    648,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_49]
+pos = [
+    128,
+    503,
+]
+size = [
+    126,
+    36,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_5]
+pos = [
+    648,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_50]
+pos = [
+    0,
+    530,
+]
+size = [
+    126,
+    37,
+]
+frame_offset = [
+    0,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_51]
+pos = [
+    783,
+    664,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_52]
+pos = [
+    914,
+    534,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    55,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_53]
+pos = [
+    390,
+    417,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_54]
+pos = [
+    518,
+    305,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_55]
+pos = [
+    776,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_56]
+pos = [
+    634,
+    863,
+]
+size = [
+    71,
+    36,
+]
+frame_offset = [
+    55,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_57]
+pos = [
+    675,
+    981,
+]
+size = [
+    68,
+    35,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_58]
+pos = [
+    727,
+    833,
+]
+size = [
+    69,
+    35,
+]
+frame_offset = [
+    57,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_59]
+pos = [
+    604,
+    923,
+]
+size = [
+    70,
+    35,
+]
+frame_offset = [
+    0,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_6]
+pos = [
+    646,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_60]
+pos = [
+    707,
+    870,
+]
+size = [
+    69,
+    34,
+]
+frame_offset = [
+    57,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_61]
+pos = [
+    856,
+    681,
+]
+size = [
+    70,
+    35,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_62]
+pos = [
+    799,
+    804,
+]
+size = [
+    68,
+    36,
+]
+frame_offset = [
+    58,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_63]
+pos = [
+    940,
+    791,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    0,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_64]
+pos = [
+    518,
+    371,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_65]
+pos = [
+    774,
+    352,
+]
+size = [
+    126,
+    39,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_66]
+pos = [
+    774,
+    393,
+]
+size = [
+    126,
+    39,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_67]
+pos = [
+    654,
+    797,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_68]
+pos = [
+    531,
+    929,
+]
+size = [
+    71,
+    64,
+]
+frame_offset = [
+    55,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_69]
+pos = [
+    776,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_7]
+pos = [
+    646,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_70]
+pos = [
+    518,
+    437,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_71]
+pos = [
+    776,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_72]
+pos = [
+    816,
+    915,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    58,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_73]
+pos = [
+    886,
+    878,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_74]
+pos = [
+    939,
+    827,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    58,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_75]
+pos = [
+    869,
+    804,
+]
+size = [
+    68,
+    35,
+]
+frame_offset = [
+    0,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_76]
+pos = [
+    956,
+    937,
+]
+size = [
+    66,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_77]
+pos = [
+    816,
+    951,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_78]
+pos = [
+    956,
+    900,
+]
+size = [
+    66,
+    35,
+]
+frame_offset = [
+    60,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_79]
+pos = [
+    886,
+    914,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    0,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_8]
+pos = [
+    816,
+    987,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    58,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_01_TEST_9]
+pos = [
+    886,
+    950,
+]
+size = [
+    68,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_02_1]
+pos = [
+    774,
+    473,
+]
+size = [
+    126,
+    37,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_02_10]
+pos = [
+    579,
+    797,
+]
+size = [
+    73,
+    47,
+]
+frame_offset = [
+    53,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_02_11]
+pos = [
+    496,
+    664,
+]
+size = [
+    108,
+    46,
+]
+frame_offset = [
+    0,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_02_2]
+pos = [
+    646,
+    396,
+]
+size = [
+    126,
+    43,
+]
+frame_offset = [
+    0,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_02_3]
+pos = [
+    837,
+    512,
+]
+size = [
+    75,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_02_4]
+pos = [
+    356,
+    897,
+]
+size = [
+    100,
+    64,
+]
+frame_offset = [
+    26,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_02_8]
+pos = [
+    774,
+    264,
+]
+size = [
+    126,
+    45,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blends_natural_02_9]
+pos = [
+    341,
+    963,
+]
+size = [
+    98,
+    47,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]

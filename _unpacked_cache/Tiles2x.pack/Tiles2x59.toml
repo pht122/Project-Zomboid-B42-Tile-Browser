@@ -1,0 +1,1367 @@
+[fixtures_bathroom_01_54]
+pos = [
+    386,
+    121,
+]
+size = [
+    110,
+    208,
+]
+frame_offset = [
+    4,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_55]
+pos = [
+    127,
+    299,
+]
+size = [
+    120,
+    181,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_56]
+pos = [
+    449,
+    823,
+]
+size = [
+    66,
+    156,
+]
+frame_offset = [
+    0,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_57]
+pos = [
+    435,
+    540,
+]
+size = [
+    73,
+    154,
+]
+frame_offset = [
+    0,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_58]
+pos = [
+    206,
+    785,
+]
+size = [
+    69,
+    201,
+]
+frame_offset = [
+    53,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_59]
+pos = [
+    1009,
+    0,
+]
+size = [
+    12,
+    129,
+]
+frame_offset = [
+    56,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_60]
+pos = [
+    880,
+    480,
+]
+size = [
+    66,
+    156,
+]
+frame_offset = [
+    60,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_61]
+pos = [
+    517,
+    439,
+]
+size = [
+    73,
+    154,
+]
+frame_offset = [
+    53,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_62]
+pos = [
+    310,
+    682,
+]
+size = [
+    69,
+    201,
+]
+frame_offset = [
+    4,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_63]
+pos = [
+    592,
+    439,
+]
+size = [
+    8,
+    127,
+]
+frame_offset = [
+    60,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_64]
+pos = [
+    867,
+    820,
+]
+size = [
+    47,
+    190,
+]
+frame_offset = [
+    16,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_65]
+pos = [
+    277,
+    885,
+]
+size = [
+    47,
+    134,
+]
+frame_offset = [
+    63,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_66]
+pos = [
+    103,
+    881,
+]
+size = [
+    49,
+    134,
+]
+frame_offset = [
+    62,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_01_67]
+pos = [
+    154,
+    881,
+]
+size = [
+    49,
+    134,
+]
+frame_offset = [
+    15,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_0]
+pos = [
+    933,
+    75,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_1]
+pos = [
+    381,
+    696,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_10]
+pos = [
+    603,
+    427,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_11]
+pos = [
+    510,
+    595,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_14]
+pos = [
+    0,
+    922,
+]
+size = [
+    74,
+    73,
+]
+frame_offset = [
+    47,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_15]
+pos = [
+    933,
+    0,
+]
+size = [
+    74,
+    73,
+]
+frame_offset = [
+    5,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_16]
+pos = [
+    702,
+    717,
+]
+size = [
+    54,
+    180,
+]
+frame_offset = [
+    7,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_17]
+pos = [
+    880,
+    638,
+]
+size = [
+    53,
+    180,
+]
+frame_offset = [
+    65,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_18]
+pos = [
+    517,
+    823,
+]
+size = [
+    54,
+    181,
+]
+frame_offset = [
+    55,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_19]
+pos = [
+    948,
+    460,
+]
+size = [
+    53,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_2]
+pos = [
+    258,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_20]
+pos = [
+    671,
+    489,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_21]
+pos = [
+    739,
+    489,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_22]
+pos = [
+    130,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_23]
+pos = [
+    1013,
+    131,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_24]
+pos = [
+    125,
+    482,
+]
+size = [
+    102,
+    94,
+]
+frame_offset = [
+    3,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_25]
+pos = [
+    103,
+    785,
+]
+size = [
+    101,
+    94,
+]
+frame_offset = [
+    24,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_26]
+pos = [
+    310,
+    586,
+]
+size = [
+    99,
+    94,
+]
+frame_offset = [
+    29,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_27]
+pos = [
+    206,
+    689,
+]
+size = [
+    98,
+    94,
+]
+frame_offset = [
+    0,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_3]
+pos = [
+    1001,
+    131,
+]
+size = [
+    10,
+    196,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_30]
+pos = [
+    578,
+    655,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_31]
+pos = [
+    812,
+    480,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_32]
+pos = [
+    813,
+    708,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    7,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_33]
+pos = [
+    935,
+    643,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    67,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_34]
+pos = [
+    646,
+    717,
+]
+size = [
+    54,
+    181,
+]
+frame_offset = [
+    55,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_35]
+pos = [
+    758,
+    717,
+]
+size = [
+    53,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_4]
+pos = [
+    435,
+    470,
+]
+size = [
+    80,
+    68,
+]
+frame_offset = [
+    42,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_5]
+pos = [
+    128,
+    228,
+]
+size = [
+    124,
+    69,
+]
+frame_offset = [
+    4,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_6]
+pos = [
+    0,
+    74,
+]
+size = [
+    128,
+    71,
+]
+frame_offset = [
+    0,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_bathroom_02_7]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    72,
+]
+frame_offset = [
+    0,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_0]
+pos = [
+    0,
+    147,
+]
+size = [
+    126,
+    119,
+]
+frame_offset = [
+    1,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_1]
+pos = [
+    249,
+    349,
+]
+size = [
+    104,
+    119,
+]
+frame_offset = [
+    0,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_10]
+pos = [
+    723,
+    0,
+]
+size = [
+    103,
+    131,
+]
+frame_offset = [
+    1,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_11]
+pos = [
+    617,
+    102,
+]
+size = [
+    103,
+    200,
+]
+frame_offset = [
+    2,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_12]
+pos = [
+    386,
+    0,
+]
+size = [
+    123,
+    119,
+]
+frame_offset = [
+    1,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_13]
+pos = [
+    828,
+    0,
+]
+size = [
+    103,
+    121,
+]
+frame_offset = [
+    21,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_14]
+pos = [
+    827,
+    225,
+]
+size = [
+    102,
+    131,
+]
+frame_offset = [
+    22,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_15]
+pos = [
+    722,
+    133,
+]
+size = [
+    103,
+    120,
+]
+frame_offset = [
+    23,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_16]
+pos = [
+    511,
+    0,
+]
+size = [
+    104,
+    100,
+]
+frame_offset = [
+    24,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_17]
+pos = [
+    916,
+    358,
+]
+size = [
+    102,
+    100,
+]
+frame_offset = [
+    0,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_18]
+pos = [
+    828,
+    123,
+]
+size = [
+    103,
+    100,
+]
+frame_offset = [
+    21,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_19]
+pos = [
+    511,
+    102,
+]
+size = [
+    104,
+    100,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_2]
+pos = [
+    498,
+    306,
+]
+size = [
+    103,
+    131,
+]
+frame_offset = [
+    0,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_20]
+pos = [
+    617,
+    0,
+]
+size = [
+    104,
+    100,
+]
+frame_offset = [
+    24,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_21]
+pos = [
+    0,
+    509,
+]
+size = [
+    102,
+    100,
+]
+frame_offset = [
+    0,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_22]
+pos = [
+    722,
+    255,
+]
+size = [
+    103,
+    100,
+]
+frame_offset = [
+    21,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_23]
+pos = [
+    498,
+    204,
+]
+size = [
+    104,
+    100,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_24]
+pos = [
+    103,
+    682,
+]
+size = [
+    101,
+    101,
+]
+frame_offset = [
+    25,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_25]
+pos = [
+    0,
+    611,
+]
+size = [
+    101,
+    102,
+]
+frame_offset = [
+    1,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_26]
+pos = [
+    104,
+    578,
+]
+size = [
+    101,
+    102,
+]
+frame_offset = [
+    23,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_27]
+pos = [
+    332,
+    470,
+]
+size = [
+    101,
+    101,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_28]
+pos = [
+    207,
+    586,
+]
+size = [
+    101,
+    101,
+]
+frame_offset = [
+    25,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_29]
+pos = [
+    229,
+    482,
+]
+size = [
+    101,
+    102,
+]
+frame_offset = [
+    1,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_3]
+pos = [
+    812,
+    358,
+]
+size = [
+    102,
+    120,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_30]
+pos = [
+    0,
+    715,
+]
+size = [
+    101,
+    102,
+]
+frame_offset = [
+    23,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_31]
+pos = [
+    0,
+    819,
+]
+size = [
+    101,
+    101,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_4]
+pos = [
+    0,
+    389,
+]
+size = [
+    123,
+    118,
+]
+frame_offset = [
+    1,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_5]
+pos = [
+    603,
+    306,
+]
+size = [
+    103,
+    119,
+]
+frame_offset = [
+    21,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_6]
+pos = [
+    708,
+    357,
+]
+size = [
+    102,
+    130,
+]
+frame_offset = [
+    22,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_7]
+pos = [
+    355,
+    349,
+]
+size = [
+    104,
+    119,
+]
+frame_offset = [
+    23,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_8]
+pos = [
+    0,
+    268,
+]
+size = [
+    125,
+    119,
+]
+frame_offset = [
+    1,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_counters_01_9]
+pos = [
+    254,
+    228,
+]
+size = [
+    120,
+    119,
+]
+frame_offset = [
+    0,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]

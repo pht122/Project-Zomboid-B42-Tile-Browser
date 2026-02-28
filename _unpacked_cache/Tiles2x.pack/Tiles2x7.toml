@@ -1,0 +1,2601 @@
+[appliances_cooking_01_52]
+pos = [
+    256,
+    226,
+]
+size = [
+    113,
+    144,
+]
+frame_offset = [
+    0,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_53]
+pos = [
+    390,
+    0,
+]
+size = [
+    113,
+    154,
+]
+frame_offset = [
+    13,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_54]
+pos = [
+    128,
+    387,
+]
+size = [
+    112,
+    122,
+]
+frame_offset = [
+    16,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_55]
+pos = [
+    390,
+    156,
+]
+size = [
+    110,
+    122,
+]
+frame_offset = [
+    0,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_56]
+pos = [
+    966,
+    672,
+]
+size = [
+    42,
+    160,
+]
+frame_offset = [
+    54,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_57]
+pos = [
+    862,
+    821,
+]
+size = [
+    41,
+    62,
+]
+frame_offset = [
+    31,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_58]
+pos = [
+    749,
+    790,
+]
+size = [
+    59,
+    79,
+]
+frame_offset = [
+    44,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_59]
+pos = [
+    887,
+    623,
+]
+size = [
+    61,
+    78,
+]
+frame_offset = [
+    24,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_60]
+pos = [
+    194,
+    798,
+]
+size = [
+    92,
+    99,
+]
+frame_offset = [
+    9,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_61]
+pos = [
+    393,
+    594,
+]
+size = [
+    94,
+    108,
+]
+frame_offset = [
+    25,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_62]
+pos = [
+    297,
+    485,
+]
+size = [
+    95,
+    99,
+]
+frame_offset = [
+    0,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_63]
+pos = [
+    371,
+    280,
+]
+size = [
+    107,
+    183,
+]
+frame_offset = [
+    16,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_64]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    251,
+]
+
+[appliances_cooking_01_65]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    222,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_66]
+pos = [
+    0,
+    253,
+]
+size = [
+    126,
+    224,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_67]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    224,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_68]
+pos = [
+    130,
+    226,
+]
+size = [
+    124,
+    159,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_69]
+pos = [
+    99,
+    629,
+]
+size = [
+    95,
+    100,
+]
+frame_offset = [
+    29,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_70]
+pos = [
+    586,
+    421,
+]
+size = [
+    92,
+    96,
+]
+frame_offset = [
+    0,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_71]
+pos = [
+    292,
+    714,
+]
+size = [
+    92,
+    97,
+]
+frame_offset = [
+    34,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_72]
+pos = [
+    480,
+    347,
+]
+size = [
+    101,
+    110,
+]
+frame_offset = [
+    1,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_73]
+pos = [
+    607,
+    174,
+]
+size = [
+    102,
+    245,
+]
+frame_offset = [
+    22,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_74]
+pos = [
+    818,
+    174,
+]
+size = [
+    100,
+    112,
+]
+frame_offset = [
+    24,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_75]
+pos = [
+    813,
+    288,
+]
+size = [
+    98,
+    112,
+]
+frame_offset = [
+    4,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_76]
+pos = [
+    256,
+    372,
+]
+size = [
+    103,
+    111,
+]
+frame_offset = [
+    0,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_77]
+pos = [
+    715,
+    0,
+]
+size = [
+    103,
+    109,
+]
+frame_offset = [
+    24,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_78]
+pos = [
+    715,
+    111,
+]
+size = [
+    101,
+    117,
+]
+frame_offset = [
+    23,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_79]
+pos = [
+    711,
+    230,
+]
+size = [
+    100,
+    116,
+]
+frame_offset = [
+    2,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_0]
+pos = [
+    752,
+    486,
+]
+size = [
+    68,
+    81,
+]
+frame_offset = [
+    30,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_1]
+pos = [
+    822,
+    486,
+]
+size = [
+    68,
+    81,
+]
+frame_offset = [
+    27,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_12]
+pos = [
+    280,
+    923,
+]
+size = [
+    69,
+    82,
+]
+frame_offset = [
+    29,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_13]
+pos = [
+    812,
+    402,
+]
+size = [
+    69,
+    82,
+]
+frame_offset = [
+    27,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_14]
+pos = [
+    752,
+    569,
+]
+size = [
+    67,
+    40,
+]
+frame_offset = [
+    28,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_15]
+pos = [
+    883,
+    419,
+]
+size = [
+    67,
+    40,
+]
+frame_offset = [
+    31,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_16]
+pos = [
+    914,
+    703,
+]
+size = [
+    50,
+    47,
+]
+frame_offset = [
+    38,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_17]
+pos = [
+    744,
+    871,
+]
+size = [
+    50,
+    47,
+]
+frame_offset = [
+    32,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_2]
+pos = [
+    550,
+    769,
+]
+size = [
+    67,
+    40,
+]
+frame_offset = [
+    29,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_20]
+pos = [
+    752,
+    611,
+]
+size = [
+    66,
+    44,
+]
+frame_offset = [
+    20,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_21]
+pos = [
+    586,
+    519,
+]
+size = [
+    74,
+    36,
+]
+frame_offset = [
+    31,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_22]
+pos = [
+    99,
+    493,
+]
+size = [
+    17,
+    16,
+]
+frame_offset = [
+    42,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_23]
+pos = [
+    371,
+    224,
+]
+size = [
+    17,
+    16,
+]
+frame_offset = [
+    67,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_24]
+pos = [
+    480,
+    280,
+]
+size = [
+    20,
+    25,
+]
+frame_offset = [
+    50,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_25]
+pos = [
+    480,
+    307,
+]
+size = [
+    20,
+    25,
+]
+frame_offset = [
+    39,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_28]
+pos = [
+    583,
+    347,
+]
+size = [
+    22,
+    23,
+]
+frame_offset = [
+    46,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_29]
+pos = [
+    274,
+    485,
+]
+size = [
+    21,
+    23,
+]
+frame_offset = [
+    47,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_3]
+pos = [
+    660,
+    681,
+]
+size = [
+    67,
+    40,
+]
+frame_offset = [
+    30,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_35]
+pos = [
+    883,
+    461,
+]
+size = [
+    58,
+    21,
+]
+frame_offset = [
+    32,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_36]
+pos = [
+    280,
+    899,
+]
+size = [
+    70,
+    22,
+]
+frame_offset = [
+    32,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_37]
+pos = [
+    171,
+    977,
+]
+size = [
+    71,
+    22,
+]
+frame_offset = [
+    30,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_38]
+pos = [
+    96,
+    971,
+]
+size = [
+    73,
+    22,
+]
+frame_offset = [
+    22,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_39]
+pos = [
+    489,
+    668,
+]
+size = [
+    72,
+    24,
+]
+frame_offset = [
+    25,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_4]
+pos = [
+    924,
+    123,
+]
+size = [
+    78,
+    49,
+]
+frame_offset = [
+    16,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_40]
+pos = [
+    874,
+    885,
+]
+size = [
+    35,
+    66,
+]
+frame_offset = [
+    71,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_41]
+pos = [
+    948,
+    933,
+]
+size = [
+    19,
+    59,
+]
+frame_offset = [
+    42,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_42]
+pos = [
+    660,
+    557,
+]
+size = [
+    17,
+    58,
+]
+frame_offset = [
+    63,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_43]
+pos = [
+    797,
+    899,
+]
+size = [
+    37,
+    67,
+]
+frame_offset = [
+    16,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_5]
+pos = [
+    754,
+    920,
+]
+size = [
+    41,
+    73,
+]
+frame_offset = [
+    33,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_6]
+pos = [
+    371,
+    242,
+]
+size = [
+    14,
+    8,
+]
+frame_offset = [
+    87,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_7]
+pos = [
+    371,
+    252,
+]
+size = [
+    14,
+    8,
+]
+frame_offset = [
+    68,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_8]
+pos = [
+    684,
+    858,
+]
+size = [
+    58,
+    69,
+]
+frame_offset = [
+    41,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_cooking_01_on_9]
+pos = [
+    589,
+    933,
+]
+size = [
+    58,
+    69,
+]
+frame_offset = [
+    27,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_0]
+pos = [
+    913,
+    296,
+]
+size = [
+    97,
+    121,
+]
+frame_offset = [
+    16,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_1]
+pos = [
+    924,
+    0,
+]
+size = [
+    98,
+    121,
+]
+frame_offset = [
+    13,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_12]
+pos = [
+    297,
+    586,
+]
+size = [
+    94,
+    126,
+]
+frame_offset = [
+    23,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_13]
+pos = [
+    98,
+    731,
+]
+size = [
+    94,
+    127,
+]
+frame_offset = [
+    9,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_14]
+pos = [
+    0,
+    479,
+]
+size = [
+    97,
+    119,
+]
+frame_offset = [
+    8,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_15]
+pos = [
+    0,
+    600,
+]
+size = [
+    97,
+    116,
+]
+frame_offset = [
+    21,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_16]
+pos = [
+    649,
+    933,
+]
+size = [
+    52,
+    59,
+]
+frame_offset = [
+    72,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_17]
+pos = [
+    952,
+    419,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    60,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_18]
+pos = [
+    458,
+    904,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    60,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_19]
+pos = [
+    914,
+    752,
+]
+size = [
+    46,
+    55,
+]
+frame_offset = [
+    60,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_2]
+pos = [
+    711,
+    348,
+]
+size = [
+    99,
+    120,
+]
+frame_offset = [
+    9,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_20]
+pos = [
+    810,
+    839,
+]
+size = [
+    48,
+    58,
+]
+frame_offset = [
+    18,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_21]
+pos = [
+    660,
+    723,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_22]
+pos = [
+    821,
+    569,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_23]
+pos = [
+    810,
+    780,
+]
+size = [
+    50,
+    57,
+]
+frame_offset = [
+    2,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_24]
+pos = [
+    96,
+    860,
+]
+size = [
+    94,
+    109,
+]
+frame_offset = [
+    12,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_25]
+pos = [
+    0,
+    718,
+]
+size = [
+    96,
+    109,
+]
+frame_offset = [
+    17,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_26]
+pos = [
+    478,
+    704,
+]
+size = [
+    70,
+    198,
+]
+frame_offset = [
+    56,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_27]
+pos = [
+    680,
+    470,
+]
+size = [
+    70,
+    209,
+]
+frame_offset = [
+    0,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_28]
+pos = [
+    586,
+    557,
+]
+size = [
+    72,
+    210,
+]
+frame_offset = [
+    56,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_29]
+pos = [
+    386,
+    791,
+]
+size = [
+    70,
+    198,
+]
+frame_offset = [
+    0,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_3]
+pos = [
+    920,
+    174,
+]
+size = [
+    99,
+    120,
+]
+frame_offset = [
+    20,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_30]
+pos = [
+    550,
+    811,
+]
+size = [
+    66,
+    61,
+]
+frame_offset = [
+    62,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_31]
+pos = [
+    752,
+    657,
+]
+size = [
+    64,
+    61,
+]
+frame_offset = [
+    0,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_4]
+pos = [
+    490,
+    459,
+]
+size = [
+    94,
+    126,
+]
+frame_offset = [
+    23,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_5]
+pos = [
+    394,
+    465,
+]
+size = [
+    94,
+    127,
+]
+frame_offset = [
+    9,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_6]
+pos = [
+    99,
+    511,
+]
+size = [
+    97,
+    116,
+]
+frame_offset = [
+    8,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_7]
+pos = [
+    198,
+    511,
+]
+size = [
+    97,
+    116,
+]
+frame_offset = [
+    21,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_on_0]
+pos = [
+    242,
+    485,
+]
+size = [
+    30,
+    18,
+]
+frame_offset = [
+    22,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_on_1]
+pos = [
+    99,
+    479,
+]
+size = [
+    26,
+    12,
+]
+frame_offset = [
+    65,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_on_12]
+pos = [
+    118,
+    493,
+]
+size = [
+    8,
+    3,
+]
+frame_offset = [
+    66,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_on_13]
+pos = [
+    118,
+    498,
+]
+size = [
+    8,
+    3,
+]
+frame_offset = [
+    17,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_on_4]
+pos = [
+    371,
+    262,
+]
+size = [
+    14,
+    6,
+]
+frame_offset = [
+    68,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_laundry_01_on_5]
+pos = [
+    242,
+    387,
+]
+size = [
+    10,
+    4,
+]
+frame_offset = [
+    20,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_0]
+pos = [
+    892,
+    556,
+]
+size = [
+    63,
+    65,
+]
+frame_offset = [
+    33,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_1]
+pos = [
+    618,
+    867,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    30,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_10]
+pos = [
+    892,
+    488,
+]
+size = [
+    63,
+    66,
+]
+frame_offset = [
+    33,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_11]
+pos = [
+    726,
+    723,
+]
+size = [
+    63,
+    65,
+]
+frame_offset = [
+    30,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_12]
+pos = [
+    957,
+    556,
+]
+size = [
+    63,
+    58,
+]
+frame_offset = [
+    27,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_13]
+pos = [
+    791,
+    720,
+]
+size = [
+    63,
+    58,
+]
+frame_offset = [
+    36,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_14]
+pos = [
+    550,
+    874,
+]
+size = [
+    64,
+    54,
+]
+frame_offset = [
+    27,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_15]
+pos = [
+    618,
+    811,
+]
+size = [
+    64,
+    54,
+]
+frame_offset = [
+    35,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_2]
+pos = [
+    820,
+    638,
+]
+size = [
+    63,
+    65,
+]
+frame_offset = [
+    33,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_3]
+pos = [
+    684,
+    792,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    30,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_4]
+pos = [
+    393,
+    704,
+]
+size = [
+    83,
+    85,
+]
+frame_offset = [
+    22,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_5]
+pos = [
+    288,
+    813,
+]
+size = [
+    83,
+    79,
+]
+frame_offset = [
+    21,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_6]
+pos = [
+    192,
+    899,
+]
+size = [
+    86,
+    76,
+]
+frame_offset = [
+    22,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_7]
+pos = [
+    490,
+    587,
+]
+size = [
+    86,
+    79,
+]
+frame_offset = [
+    18,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_8]
+pos = [
+    957,
+    488,
+]
+size = [
+    63,
+    66,
+]
+frame_offset = [
+    33,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_9]
+pos = [
+    524,
+    930,
+]
+size = [
+    63,
+    65,
+]
+frame_offset = [
+    30,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_on_0]
+pos = [
+    118,
+    503,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    80,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_on_1]
+pos = [
+    122,
+    507,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    65,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_on_10]
+pos = [
+    122,
+    503,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    80,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_on_11]
+pos = [
+    118,
+    507,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    65,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_on_2]
+pos = [
+    242,
+    393,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    80,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_on_3]
+pos = [
+    246,
+    393,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    65,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_on_8]
+pos = [
+    242,
+    397,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    80,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_misc_01_on_9]
+pos = [
+    371,
+    270,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    65,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_0]
+pos = [
+    550,
+    694,
+]
+size = [
+    34,
+    58,
+]
+frame_offset = [
+    56,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_1]
+pos = [
+    836,
+    953,
+]
+size = [
+    35,
+    52,
+]
+frame_offset = [
+    30,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_10]
+pos = [
+    988,
+    834,
+]
+size = [
+    34,
+    31,
+]
+frame_offset = [
+    34,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_11]
+pos = [
+    351,
+    923,
+]
+size = [
+    33,
+    36,
+]
+frame_offset = [
+    57,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_12]
+pos = [
+    948,
+    894,
+]
+size = [
+    35,
+    37,
+]
+frame_offset = [
+    41,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_13]
+pos = [
+    458,
+    973,
+]
+size = [
+    36,
+    30,
+]
+frame_offset = [
+    51,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_14]
+pos = [
+    988,
+    867,
+]
+size = [
+    34,
+    31,
+]
+frame_offset = [
+    48,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_15]
+pos = [
+    351,
+    961,
+]
+size = [
+    33,
+    36,
+]
+frame_offset = [
+    48,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_16]
+pos = [
+    703,
+    929,
+]
+size = [
+    49,
+    58,
+]
+frame_offset = [
+    47,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_17]
+pos = [
+    862,
+    761,
+]
+size = [
+    49,
+    58,
+]
+frame_offset = [
+    30,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_18]
+pos = [
+    957,
+    616,
+]
+size = [
+    56,
+    54,
+]
+frame_offset = [
+    24,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_19]
+pos = [
+    856,
+    705,
+]
+size = [
+    56,
+    54,
+]
+frame_offset = [
+    43,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_2]
+pos = [
+    873,
+    953,
+]
+size = [
+    35,
+    52,
+]
+frame_offset = [
+    34,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_3]
+pos = [
+    911,
+    870,
+]
+size = [
+    35,
+    58,
+]
+frame_offset = [
+    60,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_4]
+pos = [
+    951,
+    834,
+]
+size = [
+    35,
+    58,
+]
+frame_offset = [
+    48,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_5]
+pos = [
+    836,
+    899,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    47,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_6]
+pos = [
+    911,
+    930,
+]
+size = [
+    35,
+    52,
+]
+frame_offset = [
+    46,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_7]
+pos = [
+    913,
+    809,
+]
+size = [
+    36,
+    59,
+]
+frame_offset = [
+    44,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_8]
+pos = [
+    619,
+    769,
+]
+size = [
+    36,
+    37,
+]
+frame_offset = [
+    49,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_radio_01_9]
+pos = [
+    797,
+    968,
+]
+size = [
+    36,
+    30,
+]
+frame_offset = [
+    40,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_refrigeration_01_0]
+pos = [
+    505,
+    0,
+]
+size = [
+    103,
+    172,
+]
+frame_offset = [
+    15,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_refrigeration_01_1]
+pos = [
+    610,
+    0,
+]
+size = [
+    103,
+    171,
+]
+frame_offset = [
+    9,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_refrigeration_01_2]
+pos = [
+    820,
+    0,
+]
+size = [
+    102,
+    172,
+]
+frame_offset = [
+    5,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_refrigeration_01_3]
+pos = [
+    502,
+    174,
+]
+size = [
+    103,
+    171,
+]
+frame_offset = [
+    19,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_refrigeration_01_4]
+pos = [
+    0,
+    829,
+]
+size = [
+    94,
+    166,
+]
+frame_offset = [
+    24,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_refrigeration_01_5]
+pos = [
+    196,
+    629,
+]
+size = [
+    94,
+    167,
+]
+frame_offset = [
+    7,
+    78,
+]
+frame_size = [
+    128,
+    256,
+]

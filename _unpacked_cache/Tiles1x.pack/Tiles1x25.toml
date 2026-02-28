@@ -1,0 +1,8095 @@
+[roofs_05_100]
+pos = [
+    726,
+    0,
+]
+size = [
+    64,
+    43,
+]
+frame_offset = [
+    0,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_101]
+pos = [
+    858,
+    258,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_102]
+pos = [
+    264,
+    467,
+]
+size = [
+    64,
+    43,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_103]
+pos = [
+    198,
+    469,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_104]
+pos = [
+    66,
+    229,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_105]
+pos = [
+    0,
+    310,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_106]
+pos = [
+    330,
+    71,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    0,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_107]
+pos = [
+    264,
+    130,
+]
+size = [
+    64,
+    68,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_108]
+pos = [
+    924,
+    272,
+]
+size = [
+    63,
+    65,
+]
+frame_offset = [
+    1,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_109]
+pos = [
+    132,
+    211,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_110]
+pos = [
+    923,
+    408,
+]
+size = [
+    62,
+    68,
+]
+frame_offset = [
+    0,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_111]
+pos = [
+    0,
+    511,
+]
+size = [
+    62,
+    68,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_112]
+pos = [
+    726,
+    177,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_113]
+pos = [
+    528,
+    378,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_114]
+pos = [
+    792,
+    334,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_115]
+pos = [
+    594,
+    482,
+]
+size = [
+    64,
+    23,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_116]
+pos = [
+    858,
+    234,
+]
+size = [
+    64,
+    22,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_117]
+pos = [
+    924,
+    203,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_118]
+pos = [
+    528,
+    152,
+]
+size = [
+    64,
+    47,
+]
+frame_offset = [
+    0,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_119]
+pos = [
+    594,
+    327,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_120]
+pos = [
+    726,
+    483,
+]
+size = [
+    63,
+    23,
+]
+frame_offset = [
+    1,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_121]
+pos = [
+    64,
+    567,
+]
+size = [
+    62,
+    24,
+]
+frame_offset = [
+    0,
+    85,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_128]
+pos = [
+    726,
+    45,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_129]
+pos = [
+    528,
+    246,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_130]
+pos = [
+    660,
+    474,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_131]
+pos = [
+    594,
+    195,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_132]
+pos = [
+    660,
+    99,
+]
+size = [
+    64,
+    43,
+]
+frame_offset = [
+    0,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_133]
+pos = [
+    858,
+    281,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_134]
+pos = [
+    462,
+    302,
+]
+size = [
+    64,
+    43,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_135]
+pos = [
+    924,
+    0,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_136]
+pos = [
+    66,
+    363,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_137]
+pos = [
+    0,
+    444,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_138]
+pos = [
+    396,
+    139,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    0,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_139]
+pos = [
+    396,
+    0,
+]
+size = [
+    64,
+    68,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_140]
+pos = [
+    858,
+    350,
+]
+size = [
+    63,
+    65,
+]
+frame_offset = [
+    1,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_141]
+pos = [
+    264,
+    200,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_142]
+pos = [
+    66,
+    497,
+]
+size = [
+    62,
+    68,
+]
+frame_offset = [
+    0,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_143]
+pos = [
+    0,
+    581,
+]
+size = [
+    62,
+    68,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_144]
+pos = [
+    132,
+    479,
+]
+size = [
+    64,
+    30,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_145]
+pos = [
+    924,
+    122,
+]
+size = [
+    64,
+    27,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_146]
+pos = [
+    792,
+    285,
+]
+size = [
+    64,
+    23,
+]
+frame_offset = [
+    0,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_147]
+pos = [
+    726,
+    414,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    88,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_148]
+pos = [
+    594,
+    101,
+]
+size = [
+    64,
+    47,
+]
+frame_offset = [
+    0,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_149]
+pos = [
+    792,
+    132,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_150]
+pos = [
+    660,
+    396,
+]
+size = [
+    64,
+    27,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_151]
+pos = [
+    462,
+    479,
+]
+size = [
+    64,
+    30,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_152]
+pos = [
+    660,
+    276,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_153]
+pos = [
+    792,
+    426,
+]
+size = [
+    63,
+    47,
+]
+frame_offset = [
+    1,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_154]
+pos = [
+    792,
+    357,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_155]
+pos = [
+    726,
+    367,
+]
+size = [
+    64,
+    22,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_156]
+pos = [
+    858,
+    130,
+]
+size = [
+    64,
+    38,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_157]
+pos = [
+    924,
+    86,
+]
+size = [
+    64,
+    34,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_158]
+pos = [
+    594,
+    413,
+]
+size = [
+    64,
+    35,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_159]
+pos = [
+    726,
+    263,
+]
+size = [
+    64,
+    38,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_160]
+pos = [
+    594,
+    450,
+]
+size = [
+    64,
+    30,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_161]
+pos = [
+    858,
+    205,
+]
+size = [
+    64,
+    27,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_162]
+pos = [
+    924,
+    151,
+]
+size = [
+    64,
+    26,
+]
+frame_offset = [
+    0,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_163]
+pos = [
+    924,
+    226,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    88,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_164]
+pos = [
+    858,
+    87,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_165]
+pos = [
+    726,
+    220,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_166]
+pos = [
+    726,
+    338,
+]
+size = [
+    64,
+    27,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_167]
+pos = [
+    792,
+    253,
+]
+size = [
+    64,
+    30,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_168]
+pos = [
+    330,
+    462,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_169]
+pos = [
+    792,
+    0,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_170]
+pos = [
+    858,
+    304,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_171]
+pos = [
+    792,
+    310,
+]
+size = [
+    64,
+    22,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_172]
+pos = [
+    528,
+    464,
+]
+size = [
+    64,
+    37,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_173]
+pos = [
+    792,
+    218,
+]
+size = [
+    64,
+    33,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_174]
+pos = [
+    660,
+    361,
+]
+size = [
+    64,
+    33,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_175]
+pos = [
+    660,
+    319,
+]
+size = [
+    64,
+    40,
+]
+frame_offset = [
+    0,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_34]
+pos = [
+    132,
+    0,
+]
+size = [
+    64,
+    128,
+]
+
+[roofs_05_35]
+pos = [
+    132,
+    345,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_36]
+pos = [
+    0,
+    242,
+]
+size = [
+    64,
+    66,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_37]
+pos = [
+    198,
+    0,
+]
+size = [
+    64,
+    128,
+]
+
+[roofs_05_38]
+pos = [
+    51,
+    790,
+]
+size = [
+    44,
+    34,
+]
+frame_offset = [
+    20,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_39]
+pos = [
+    218,
+    617,
+]
+size = [
+    44,
+    33,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_40]
+pos = [
+    66,
+    430,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_41]
+pos = [
+    264,
+    267,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_42]
+pos = [
+    330,
+    342,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_43]
+pos = [
+    396,
+    340,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_44]
+pos = [
+    132,
+    130,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    0,
+    17,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_45]
+pos = [
+    264,
+    0,
+]
+size = [
+    64,
+    128,
+]
+
+[roofs_05_46]
+pos = [
+    116,
+    598,
+]
+size = [
+    49,
+    79,
+]
+frame_offset = [
+    15,
+    17,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_47]
+pos = [
+    167,
+    610,
+]
+size = [
+    49,
+    40,
+]
+frame_offset = [
+    0,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_51]
+pos = [
+    60,
+    651,
+]
+size = [
+    2,
+    1,
+]
+frame_offset = [
+    31,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_52]
+pos = [
+    726,
+    303,
+]
+size = [
+    64,
+    33,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_53]
+pos = [
+    898,
+    911,
+]
+size = [
+    24,
+    23,
+]
+frame_offset = [
+    20,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_56]
+pos = [
+    462,
+    51,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_57]
+pos = [
+    528,
+    0,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_58]
+pos = [
+    462,
+    102,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    15,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_59]
+pos = [
+    528,
+    51,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    15,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_60]
+pos = [
+    660,
+    0,
+]
+size = [
+    64,
+    48,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_61]
+pos = [
+    462,
+    203,
+]
+size = [
+    64,
+    48,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_62]
+pos = [
+    830,
+    510,
+]
+size = [
+    23,
+    18,
+]
+frame_offset = [
+    41,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_63]
+pos = [
+    381,
+    1004,
+]
+size = [
+    23,
+    17,
+]
+frame_offset = [
+    0,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_64]
+pos = [
+    660,
+    144,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    86,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_65]
+pos = [
+    726,
+    89,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_66]
+pos = [
+    594,
+    239,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_67]
+pos = [
+    660,
+    497,
+]
+size = [
+    33,
+    32,
+]
+frame_offset = [
+    16,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_68]
+pos = [
+    309,
+    810,
+]
+size = [
+    33,
+    41,
+]
+frame_offset = [
+    16,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_69]
+pos = [
+    209,
+    863,
+]
+size = [
+    34,
+    73,
+]
+frame_offset = [
+    15,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_70]
+pos = [
+    182,
+    566,
+]
+size = [
+    49,
+    42,
+]
+frame_offset = [
+    15,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_71]
+pos = [
+    116,
+    679,
+]
+size = [
+    49,
+    40,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_72]
+pos = [
+    660,
+    188,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    86,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_73]
+pos = [
+    462,
+    391,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_74]
+pos = [
+    858,
+    0,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_75]
+pos = [
+    467,
+    623,
+]
+size = [
+    33,
+    128,
+]
+frame_offset = [
+    16,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_76]
+pos = [
+    422,
+    699,
+]
+size = [
+    33,
+    41,
+]
+frame_offset = [
+    16,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_77]
+pos = [
+    429,
+    654,
+]
+size = [
+    34,
+    41,
+]
+frame_offset = [
+    15,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_78]
+pos = [
+    53,
+    704,
+]
+size = [
+    49,
+    42,
+]
+frame_offset = [
+    15,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_79]
+pos = [
+    297,
+    512,
+]
+size = [
+    49,
+    40,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_80]
+pos = [
+    528,
+    421,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_81]
+pos = [
+    594,
+    370,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_82]
+pos = [
+    726,
+    437,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_83]
+pos = [
+    0,
+    130,
+]
+size = [
+    64,
+    110,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_84]
+pos = [
+    924,
+    179,
+]
+size = [
+    64,
+    22,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_85]
+pos = [
+    924,
+    249,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_86]
+pos = [
+    660,
+    50,
+]
+size = [
+    64,
+    47,
+]
+frame_offset = [
+    0,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_87]
+pos = [
+    924,
+    43,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_88]
+pos = [
+    857,
+    451,
+]
+size = [
+    63,
+    23,
+]
+frame_offset = [
+    1,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_89]
+pos = [
+    130,
+    511,
+]
+size = [
+    62,
+    24,
+]
+frame_offset = [
+    0,
+    85,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_96]
+pos = [
+    726,
+    133,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_97]
+pos = [
+    594,
+    283,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_98]
+pos = [
+    726,
+    460,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_05_99]
+pos = [
+    660,
+    232,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_0]
+pos = [
+    502,
+    652,
+]
+size = [
+    33,
+    17,
+]
+frame_offset = [
+    29,
+    83,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_1]
+pos = [
+    302,
+    853,
+]
+size = [
+    33,
+    21,
+]
+frame_offset = [
+    29,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_10]
+pos = [
+    809,
+    734,
+]
+size = [
+    32,
+    22,
+]
+frame_offset = [
+    1,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_11]
+pos = [
+    419,
+    742,
+]
+size = [
+    33,
+    17,
+]
+frame_offset = [
+    1,
+    83,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_12]
+pos = [
+    41,
+    994,
+]
+size = [
+    35,
+    23,
+]
+frame_offset = [
+    26,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_13]
+pos = [
+    230,
+    833,
+]
+size = [
+    35,
+    22,
+]
+frame_offset = [
+    25,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_14]
+pos = [
+    438,
+    1001,
+]
+size = [
+    29,
+    20,
+]
+frame_offset = [
+    30,
+    84,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_16]
+pos = [
+    53,
+    672,
+]
+size = [
+    5,
+    18,
+]
+frame_offset = [
+    30,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_17]
+pos = [
+    234,
+    798,
+]
+size = [
+    36,
+    33,
+]
+frame_offset = [
+    28,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_18]
+pos = [
+    429,
+    620,
+]
+size = [
+    36,
+    32,
+]
+frame_offset = [
+    0,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_19]
+pos = [
+    97,
+    790,
+]
+size = [
+    5,
+    18,
+]
+frame_offset = [
+    29,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_2]
+pos = [
+    472,
+    964,
+]
+size = [
+    32,
+    39,
+]
+frame_offset = [
+    30,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_20]
+pos = [
+    78,
+    994,
+]
+size = [
+    12,
+    19,
+]
+frame_offset = [
+    23,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_21]
+pos = [
+    192,
+    826,
+]
+size = [
+    36,
+    35,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_22]
+pos = [
+    515,
+    511,
+]
+size = [
+    36,
+    34,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_28]
+pos = [
+    307,
+    618,
+]
+size = [
+    39,
+    53,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_29]
+pos = [
+    193,
+    740,
+]
+size = [
+    39,
+    84,
+]
+frame_offset = [
+    1,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_3]
+pos = [
+    131,
+    983,
+]
+size = [
+    33,
+    39,
+]
+frame_offset = [
+    30,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_30]
+pos = [
+    348,
+    618,
+]
+size = [
+    39,
+    51,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_36]
+pos = [
+    615,
+    991,
+]
+size = [
+    29,
+    20,
+]
+frame_offset = [
+    5,
+    84,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_37]
+pos = [
+    283,
+    589,
+]
+size = [
+    36,
+    21,
+]
+frame_offset = [
+    4,
+    52,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_38]
+pos = [
+    310,
+    740,
+]
+size = [
+    35,
+    23,
+]
+frame_offset = [
+    4,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_4]
+pos = [
+    435,
+    511,
+]
+size = [
+    39,
+    51,
+]
+frame_offset = [
+    25,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_44]
+pos = [
+    272,
+    756,
+]
+size = [
+    36,
+    34,
+]
+frame_offset = [
+    28,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_45]
+pos = [
+    348,
+    671,
+]
+size = [
+    36,
+    35,
+]
+frame_offset = [
+    28,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_46]
+pos = [
+    347,
+    962,
+]
+size = [
+    11,
+    19,
+]
+frame_offset = [
+    29,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_47]
+pos = [
+    53,
+    651,
+]
+size = [
+    5,
+    19,
+]
+frame_offset = [
+    29,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_5]
+pos = [
+    330,
+    408,
+]
+size = [
+    64,
+    52,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_6]
+pos = [
+    343,
+    564,
+]
+size = [
+    40,
+    52,
+]
+frame_offset = [
+    24,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_8]
+pos = [
+    384,
+    740,
+]
+size = [
+    33,
+    39,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_accents_01_9]
+pos = [
+    551,
+    890,
+]
+size = [
+    32,
+    40,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_0]
+pos = [
+    198,
+    403,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_1]
+pos = [
+    198,
+    269,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_10]
+pos = [
+    396,
+    208,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_100]
+pos = [
+    528,
+    201,
+]
+size = [
+    64,
+    43,
+]
+frame_offset = [
+    0,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_101]
+pos = [
+    726,
+    391,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_102]
+pos = [
+    594,
+    150,
+]
+size = [
+    64,
+    43,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_103]
+pos = [
+    858,
+    44,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_11]
+pos = [
+    330,
+    276,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_112]
+pos = [
+    66,
+    296,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_113]
+pos = [
+    0,
+    377,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_114]
+pos = [
+    396,
+    70,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    0,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_115]
+pos = [
+    330,
+    140,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_116]
+pos = [
+    198,
+    202,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_117]
+pos = [
+    132,
+    278,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_118]
+pos = [
+    330,
+    0,
+]
+size = [
+    64,
+    69,
+]
+frame_offset = [
+    0,
+    27,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_119]
+pos = [
+    198,
+    130,
+]
+size = [
+    64,
+    70,
+]
+frame_offset = [
+    0,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_12]
+pos = [
+    264,
+    401,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_13]
+pos = [
+    0,
+    0,
+]
+size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_14]
+pos = [
+    0,
+    815,
+]
+size = [
+    48,
+    42,
+]
+frame_offset = [
+    16,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_15]
+pos = [
+    0,
+    773,
+]
+size = [
+    49,
+    40,
+]
+frame_offset = [
+    0,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_2]
+pos = [
+    66,
+    0,
+]
+size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_20]
+pos = [
+    858,
+    170,
+]
+size = [
+    64,
+    33,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_21]
+pos = [
+    805,
+    996,
+]
+size = [
+    24,
+    23,
+]
+frame_offset = [
+    20,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_24]
+pos = [
+    396,
+    406,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_25]
+pos = [
+    396,
+    457,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_26]
+pos = [
+    462,
+    0,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    15,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_27]
+pos = [
+    462,
+    153,
+]
+size = [
+    64,
+    48,
+]
+frame_offset = [
+    0,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_28]
+pos = [
+    528,
+    102,
+]
+size = [
+    64,
+    48,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_29]
+pos = [
+    594,
+    51,
+]
+size = [
+    64,
+    48,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_3]
+pos = [
+    396,
+    274,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_30]
+pos = [
+    166,
+    1003,
+]
+size = [
+    23,
+    18,
+]
+frame_offset = [
+    41,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_31]
+pos = [
+    623,
+    855,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_4]
+pos = [
+    198,
+    336,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_5]
+pos = [
+    330,
+    209,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_6]
+pos = [
+    297,
+    554,
+]
+size = [
+    44,
+    33,
+]
+frame_offset = [
+    20,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_64]
+pos = [
+    462,
+    347,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    86,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_65]
+pos = [
+    528,
+    290,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_66]
+pos = [
+    792,
+    44,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_67]
+pos = [
+    966,
+    556,
+]
+size = [
+    32,
+    32,
+]
+frame_offset = [
+    16,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_68]
+pos = [
+    830,
+    582,
+]
+size = [
+    32,
+    41,
+]
+frame_offset = [
+    16,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_69]
+pos = [
+    987,
+    427,
+]
+size = [
+    32,
+    41,
+]
+frame_offset = [
+    16,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_7]
+pos = [
+    0,
+    859,
+]
+size = [
+    44,
+    33,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_70]
+pos = [
+    233,
+    573,
+]
+size = [
+    48,
+    42,
+]
+frame_offset = [
+    16,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_71]
+pos = [
+    52,
+    748,
+]
+size = [
+    49,
+    40,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_75]
+pos = [
+    215,
+    725,
+]
+size = [
+    17,
+    9,
+]
+frame_offset = [
+    16,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_8]
+pos = [
+    132,
+    412,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_80]
+pos = [
+    66,
+    130,
+]
+size = [
+    64,
+    97,
+]
+frame_offset = [
+    0,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_81]
+pos = [
+    594,
+    0,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_82]
+pos = [
+    792,
+    380,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_83]
+pos = [
+    660,
+    425,
+]
+size = [
+    64,
+    23,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_84]
+pos = [
+    660,
+    450,
+]
+size = [
+    64,
+    22,
+]
+frame_offset = [
+    0,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_85]
+pos = [
+    858,
+    327,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_86]
+pos = [
+    462,
+    253,
+]
+size = [
+    64,
+    47,
+]
+frame_offset = [
+    0,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_87]
+pos = [
+    792,
+    175,
+]
+size = [
+    64,
+    41,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_88]
+pos = [
+    60,
+    654,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    31,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_9]
+pos = [
+    264,
+    334,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_90]
+pos = [
+    858,
+    417,
+]
+size = [
+    63,
+    32,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_91]
+pos = [
+    924,
+    339,
+]
+size = [
+    63,
+    33,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_92]
+pos = [
+    923,
+    374,
+]
+size = [
+    63,
+    32,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_93]
+pos = [
+    792,
+    475,
+]
+size = [
+    63,
+    33,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_95]
+pos = [
+    123,
+    593,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    31,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_96]
+pos = [
+    528,
+    334,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_97]
+pos = [
+    792,
+    88,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_98]
+pos = [
+    792,
+    403,
+]
+size = [
+    64,
+    21,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[roofs_burnt_01_99]
+pos = [
+    462,
+    435,
+]
+size = [
+    64,
+    42,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[security_01_0]
+pos = [
+    130,
+    537,
+]
+size = [
+    50,
+    59,
+]
+frame_offset = [
+    12,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[security_01_1]
+pos = [
+    246,
+    512,
+]
+size = [
+    49,
+    59,
+]
+frame_offset = [
+    2,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[security_01_2]
+pos = [
+    194,
+    512,
+]
+size = [
+    50,
+    52,
+]
+frame_offset = [
+    2,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[security_01_3]
+pos = [
+    0,
+    719,
+]
+size = [
+    50,
+    52,
+]
+frame_offset = [
+    12,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[security_01_4]
+pos = [
+    93,
+    911,
+]
+size = [
+    36,
+    101,
+]
+frame_offset = [
+    27,
+    13,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[security_01_5]
+pos = [
+    172,
+    863,
+]
+size = [
+    35,
+    101,
+]
+frame_offset = [
+    1,
+    13,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_0]
+pos = [
+    168,
+    966,
+]
+size = [
+    33,
+    35,
+]
+frame_offset = [
+    29,
+    10,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_1]
+pos = [
+    864,
+    621,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    30,
+    10,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_10]
+pos = [
+    796,
+    510,
+]
+size = [
+    32,
+    57,
+]
+frame_offset = [
+    30,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_100]
+pos = [
+    483,
+    864,
+]
+size = [
+    32,
+    52,
+]
+frame_offset = [
+    30,
+    14,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_101]
+pos = [
+    449,
+    830,
+]
+size = [
+    32,
+    61,
+]
+frame_offset = [
+    30,
+    5,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_102]
+pos = [
+    694,
+    597,
+]
+size = [
+    32,
+    61,
+]
+frame_offset = [
+    30,
+    5,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_103]
+pos = [
+    871,
+    820,
+]
+size = [
+    27,
+    44,
+]
+frame_offset = [
+    30,
+    6,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_104]
+pos = [
+    1010,
+    848,
+]
+size = [
+    11,
+    107,
+]
+frame_offset = [
+    27,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_105]
+pos = [
+    977,
+    870,
+]
+size = [
+    6,
+    99,
+]
+frame_offset = [
+    30,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_106]
+pos = [
+    64,
+    593,
+]
+size = [
+    50,
+    109,
+]
+frame_offset = [
+    5,
+    1,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_107]
+pos = [
+    716,
+    964,
+]
+size = [
+    27,
+    57,
+]
+frame_offset = [
+    12,
+    8,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_108]
+pos = [
+    104,
+    721,
+]
+size = [
+    45,
+    107,
+]
+frame_offset = [
+    0,
+    3,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_109]
+pos = [
+    167,
+    652,
+]
+size = [
+    46,
+    86,
+]
+frame_offset = [
+    0,
+    13,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_11]
+pos = [
+    487,
+    806,
+]
+size = [
+    32,
+    56,
+]
+frame_offset = [
+    30,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_12]
+pos = [
+    990,
+    252,
+]
+size = [
+    32,
+    63,
+]
+frame_offset = [
+    30,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_13]
+pos = [
+    694,
+    531,
+]
+size = [
+    32,
+    64,
+]
+frame_offset = [
+    30,
+    21,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_14]
+pos = [
+    660,
+    531,
+]
+size = [
+    32,
+    65,
+]
+frame_offset = [
+    30,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_15]
+pos = [
+    313,
+    962,
+]
+size = [
+    32,
+    60,
+]
+frame_offset = [
+    30,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_16]
+pos = [
+    272,
+    792,
+]
+size = [
+    35,
+    40,
+]
+frame_offset = [
+    27,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_17]
+pos = [
+    723,
+    688,
+]
+size = [
+    32,
+    40,
+]
+frame_offset = [
+    30,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_18]
+pos = [
+    796,
+    620,
+]
+size = [
+    32,
+    40,
+]
+frame_offset = [
+    30,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_19]
+pos = [
+    842,
+    758,
+]
+size = [
+    30,
+    38,
+]
+frame_offset = [
+    30,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_2]
+pos = [
+    707,
+    805,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    30,
+    12,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_20]
+pos = [
+    796,
+    569,
+]
+size = [
+    32,
+    49,
+]
+frame_offset = [
+    30,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_21]
+pos = [
+    370,
+    924,
+]
+size = [
+    32,
+    59,
+]
+frame_offset = [
+    30,
+    34,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_22]
+pos = [
+    652,
+    964,
+]
+size = [
+    29,
+    55,
+]
+frame_offset = [
+    30,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_23]
+pos = [
+    116,
+    593,
+]
+size = [
+    5,
+    3,
+]
+frame_offset = [
+    27,
+    115,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_24]
+pos = [
+    918,
+    954,
+]
+size = [
+    18,
+    43,
+]
+frame_offset = [
+    44,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_25]
+pos = [
+    689,
+    662,
+]
+size = [
+    32,
+    52,
+]
+frame_offset = [
+    30,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_26]
+pos = [
+    728,
+    635,
+]
+size = [
+    32,
+    51,
+]
+frame_offset = [
+    30,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_27]
+pos = [
+    487,
+    753,
+]
+size = [
+    13,
+    41,
+]
+frame_offset = [
+    30,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_28]
+pos = [
+    938,
+    954,
+]
+size = [
+    18,
+    35,
+]
+frame_offset = [
+    15,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_29]
+pos = [
+    480,
+    918,
+]
+size = [
+    32,
+    44,
+]
+frame_offset = [
+    1,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_3]
+pos = [
+    830,
+    663,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    30,
+    12,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_30]
+pos = [
+    638,
+    770,
+]
+size = [
+    32,
+    43,
+]
+frame_offset = [
+    1,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_31]
+pos = [
+    279,
+    901,
+]
+size = [
+    21,
+    36,
+]
+frame_offset = [
+    1,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_32]
+pos = [
+    234,
+    756,
+]
+size = [
+    36,
+    40,
+]
+frame_offset = [
+    26,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_33]
+pos = [
+    898,
+    525,
+]
+size = [
+    32,
+    40,
+]
+frame_offset = [
+    30,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_34]
+pos = [
+    514,
+    934,
+]
+size = [
+    32,
+    38,
+]
+frame_offset = [
+    30,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_35]
+pos = [
+    589,
+    846,
+]
+size = [
+    32,
+    40,
+]
+frame_offset = [
+    30,
+    78,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_36]
+pos = [
+    830,
+    625,
+]
+size = [
+    32,
+    36,
+]
+frame_offset = [
+    30,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_37]
+pos = [
+    756,
+    885,
+]
+size = [
+    28,
+    32,
+]
+frame_offset = [
+    30,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_4]
+pos = [
+    707,
+    730,
+]
+size = [
+    32,
+    37,
+]
+frame_offset = [
+    30,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_40]
+pos = [
+    871,
+    897,
+]
+size = [
+    25,
+    28,
+]
+frame_offset = [
+    37,
+    8,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_41]
+pos = [
+    864,
+    657,
+]
+size = [
+    32,
+    32,
+]
+frame_offset = [
+    30,
+    7,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_42]
+pos = [
+    775,
+    767,
+]
+size = [
+    32,
+    30,
+]
+frame_offset = [
+    30,
+    8,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_43]
+pos = [
+    874,
+    795,
+]
+size = [
+    28,
+    23,
+]
+frame_offset = [
+    30,
+    9,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_44]
+pos = [
+    502,
+    671,
+]
+size = [
+    32,
+    68,
+]
+frame_offset = [
+    1,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_45]
+pos = [
+    587,
+    599,
+]
+size = [
+    32,
+    66,
+]
+frame_offset = [
+    1,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_46]
+pos = [
+    989,
+    798,
+]
+size = [
+    24,
+    48,
+]
+frame_offset = [
+    1,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_48]
+pos = [
+    474,
+    590,
+]
+size = [
+    35,
+    31,
+]
+frame_offset = [
+    27,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_49]
+pos = [
+    992,
+    675,
+]
+size = [
+    28,
+    29,
+]
+frame_offset = [
+    30,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_5]
+pos = [
+    245,
+    857,
+]
+size = [
+    19,
+    30,
+]
+frame_offset = [
+    30,
+    2,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_50]
+pos = [
+    897,
+    706,
+]
+size = [
+    30,
+    29,
+]
+frame_offset = [
+    32,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_51]
+pos = [
+    830,
+    699,
+]
+size = [
+    32,
+    31,
+]
+frame_offset = [
+    30,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_52]
+pos = [
+    932,
+    597,
+]
+size = [
+    32,
+    31,
+]
+frame_offset = [
+    30,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_53]
+pos = [
+    775,
+    734,
+]
+size = [
+    32,
+    31,
+]
+frame_offset = [
+    30,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_54]
+pos = [
+    898,
+    638,
+]
+size = [
+    32,
+    31,
+]
+frame_offset = [
+    30,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_55]
+pos = [
+    953,
+    870,
+]
+size = [
+    22,
+    25,
+]
+frame_offset = [
+    30,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_56]
+pos = [
+    927,
+    902,
+]
+size = [
+    23,
+    50,
+]
+frame_offset = [
+    10,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_57]
+pos = [
+    621,
+    617,
+]
+size = [
+    32,
+    63,
+]
+frame_offset = [
+    1,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_58]
+pos = [
+    378,
+    858,
+]
+size = [
+    32,
+    64,
+]
+frame_offset = [
+    1,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_59]
+pos = [
+    502,
+    741,
+]
+size = [
+    32,
+    63,
+]
+frame_offset = [
+    1,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_60]
+pos = [
+    412,
+    895,
+]
+size = [
+    32,
+    56,
+]
+frame_offset = [
+    1,
+    34,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_61]
+pos = [
+    605,
+    682,
+]
+size = [
+    32,
+    59,
+]
+frame_offset = [
+    1,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_62]
+pos = [
+    453,
+    761,
+]
+size = [
+    32,
+    65,
+]
+frame_offset = [
+    1,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_63]
+pos = [
+    302,
+    876,
+]
+size = [
+    32,
+    67,
+]
+frame_offset = [
+    1,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_64]
+pos = [
+    904,
+    760,
+]
+size = [
+    27,
+    50,
+]
+frame_offset = [
+    6,
+    52,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_65]
+pos = [
+    419,
+    761,
+]
+size = [
+    32,
+    67,
+]
+frame_offset = [
+    1,
+    45,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_66]
+pos = [
+    990,
+    0,
+]
+size = [
+    32,
+    85,
+]
+frame_offset = [
+    1,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_67]
+pos = [
+    381,
+    781,
+]
+size = [
+    32,
+    75,
+]
+frame_offset = [
+    1,
+    37,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_68]
+pos = [
+    988,
+    376,
+]
+size = [
+    32,
+    49,
+]
+frame_offset = [
+    1,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_69]
+pos = [
+    991,
+    751,
+]
+size = [
+    26,
+    45,
+]
+frame_offset = [
+    1,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_7]
+pos = [
+    346,
+    767,
+]
+size = [
+    33,
+    52,
+]
+frame_offset = [
+    30,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_70]
+pos = [
+    897,
+    936,
+]
+size = [
+    19,
+    55,
+]
+frame_offset = [
+    3,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_71]
+pos = [
+    0,
+    651,
+]
+size = [
+    51,
+    66,
+]
+frame_offset = [
+    1,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_72]
+pos = [
+    807,
+    826,
+]
+size = [
+    28,
+    52,
+]
+frame_offset = [
+    34,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_73]
+pos = [
+    536,
+    784,
+]
+size = [
+    32,
+    55,
+]
+frame_offset = [
+    30,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_74]
+pos = [
+    655,
+    662,
+]
+size = [
+    32,
+    55,
+]
+frame_offset = [
+    30,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_75]
+pos = [
+    857,
+    476,
+]
+size = [
+    32,
+    55,
+]
+frame_offset = [
+    30,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_76]
+pos = [
+    604,
+    743,
+]
+size = [
+    32,
+    54,
+]
+frame_offset = [
+    1,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_77]
+pos = [
+    762,
+    573,
+]
+size = [
+    32,
+    55,
+]
+frame_offset = [
+    1,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_78]
+pos = [
+    446,
+    895,
+]
+size = [
+    32,
+    55,
+]
+frame_offset = [
+    1,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_79]
+pos = [
+    874,
+    740,
+]
+size = [
+    28,
+    53,
+]
+frame_offset = [
+    1,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_8]
+pos = [
+    151,
+    801,
+]
+size = [
+    39,
+    54,
+]
+frame_offset = [
+    23,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_80]
+pos = [
+    933,
+    807,
+]
+size = [
+    26,
+    52,
+]
+frame_offset = [
+    36,
+    42,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_81]
+pos = [
+    570,
+    732,
+]
+size = [
+    32,
+    58,
+]
+frame_offset = [
+    30,
+    35,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_82]
+pos = [
+    344,
+    821,
+]
+size = [
+    32,
+    73,
+]
+frame_offset = [
+    30,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_83]
+pos = [
+    990,
+    87,
+]
+size = [
+    32,
+    85,
+]
+frame_offset = [
+    30,
+    8,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_84]
+pos = [
+    639,
+    719,
+]
+size = [
+    32,
+    49,
+]
+frame_offset = [
+    30,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_85]
+pos = [
+    841,
+    798,
+]
+size = [
+    28,
+    45,
+]
+frame_offset = [
+    30,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_86]
+pos = [
+    438,
+    953,
+]
+size = [
+    32,
+    46,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_87]
+pos = [
+    686,
+    896,
+]
+size = [
+    30,
+    44,
+]
+frame_offset = [
+    1,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_88]
+pos = [
+    997,
+    636,
+]
+size = [
+    25,
+    37,
+]
+frame_offset = [
+    37,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_89]
+pos = [
+    570,
+    792,
+]
+size = [
+    32,
+    52,
+]
+frame_offset = [
+    30,
+    55,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_9]
+pos = [
+    989,
+    317,
+]
+size = [
+    32,
+    57,
+]
+frame_offset = [
+    30,
+    27,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_90]
+pos = [
+    728,
+    508,
+]
+size = [
+    32,
+    62,
+]
+frame_offset = [
+    30,
+    45,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_91]
+pos = [
+    728,
+    572,
+]
+size = [
+    32,
+    61,
+]
+frame_offset = [
+    30,
+    45,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_92]
+pos = [
+    992,
+    706,
+]
+size = [
+    27,
+    43,
+]
+frame_offset = [
+    30,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_93]
+pos = [
+    837,
+    845,
+]
+size = [
+    27,
+    59,
+]
+frame_offset = [
+    8,
+    15,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_94]
+pos = [
+    762,
+    510,
+]
+size = [
+    32,
+    61,
+]
+frame_offset = [
+    3,
+    17,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_95]
+pos = [
+    336,
+    896,
+]
+size = [
+    32,
+    64,
+]
+frame_offset = [
+    3,
+    14,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_96]
+pos = [
+    966,
+    590,
+]
+size = [
+    31,
+    44,
+]
+frame_offset = [
+    2,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_97]
+pos = [
+    762,
+    630,
+]
+size = [
+    32,
+    46,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_98]
+pos = [
+    673,
+    719,
+]
+size = [
+    32,
+    46,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_miscbrands_01_99]
+pos = [
+    962,
+    795,
+]
+size = [
+    25,
+    36,
+]
+frame_offset = [
+    37,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_0]
+pos = [
+    182,
+    537,
+]
+size = [
+    10,
+    22,
+]
+frame_offset = [
+    51,
+    89,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_1]
+pos = [
+    506,
+    974,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    29,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_10]
+pos = [
+    871,
+    927,
+]
+size = [
+    24,
+    30,
+]
+frame_offset = [
+    2,
+    57,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_100]
+pos = [
+    932,
+    524,
+]
+size = [
+    32,
+    35,
+]
+frame_offset = [
+    1,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_101]
+pos = [
+    796,
+    662,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_102]
+pos = [
+    898,
+    567,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_103]
+pos = [
+    741,
+    730,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_104]
+pos = [
+    476,
+    511,
+]
+size = [
+    37,
+    77,
+]
+frame_offset = [
+    11,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_105]
+pos = [
+    215,
+    652,
+]
+size = [
+    42,
+    71,
+]
+frame_offset = [
+    10,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_106]
+pos = [
+    864,
+    691,
+]
+size = [
+    31,
+    47,
+]
+frame_offset = [
+    24,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_107]
+pos = [
+    93,
+    830,
+]
+size = [
+    39,
+    79,
+]
+frame_offset = [
+    17,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_108]
+pos = [
+    0,
+    894,
+]
+size = [
+    41,
+    50,
+]
+frame_offset = [
+    18,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_11]
+pos = [
+    619,
+    891,
+]
+size = [
+    32,
+    32,
+]
+frame_offset = [
+    2,
+    55,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_111]
+pos = [
+    898,
+    671,
+]
+size = [
+    31,
+    33,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_112]
+pos = [
+    151,
+    740,
+]
+size = [
+    40,
+    59,
+]
+frame_offset = [
+    20,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_113]
+pos = [
+    43,
+    933,
+]
+size = [
+    38,
+    59,
+]
+frame_offset = [
+    21,
+    59,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_114]
+pos = [
+    348,
+    506,
+]
+size = [
+    43,
+    56,
+]
+frame_offset = [
+    20,
+    59,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_116]
+pos = [
+    786,
+    885,
+]
+size = [
+    27,
+    77,
+]
+frame_offset = [
+    23,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_117]
+pos = [
+    590,
+    507,
+]
+size = [
+    33,
+    90,
+]
+frame_offset = [
+    18,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_118]
+pos = [
+    582,
+    959,
+]
+size = [
+    31,
+    60,
+]
+frame_offset = [
+    19,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_119]
+pos = [
+    724,
+    840,
+]
+size = [
+    30,
+    84,
+]
+frame_offset = [
+    18,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_12]
+pos = [
+    898,
+    603,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_120]
+pos = [
+    1000,
+    507,
+]
+size = [
+    22,
+    35,
+]
+frame_offset = [
+    11,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_121]
+pos = [
+    1000,
+    544,
+]
+size = [
+    22,
+    33,
+]
+frame_offset = [
+    1,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_122]
+pos = [
+    993,
+    470,
+]
+size = [
+    29,
+    35,
+]
+frame_offset = [
+    1,
+    52,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_123]
+pos = [
+    555,
+    846,
+]
+size = [
+    32,
+    40,
+]
+frame_offset = [
+    1,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_124]
+pos = [
+    864,
+    580,
+]
+size = [
+    32,
+    39,
+]
+frame_offset = [
+    1,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_125]
+pos = [
+    809,
+    758,
+]
+size = [
+    31,
+    36,
+]
+frame_offset = [
+    1,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_126]
+pos = [
+    961,
+    833,
+]
+size = [
+    24,
+    35,
+]
+frame_offset = [
+    9,
+    49,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_127]
+pos = [
+    965,
+    636,
+]
+size = [
+    30,
+    37,
+]
+frame_offset = [
+    1,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_13]
+pos = [
+    585,
+    888,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_14]
+pos = [
+    707,
+    769,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_15]
+pos = [
+    321,
+    589,
+]
+size = [
+    18,
+    22,
+]
+frame_offset = [
+    2,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_16]
+pos = [
+    805,
+    964,
+]
+size = [
+    25,
+    30,
+]
+frame_offset = [
+    36,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_17]
+pos = [
+    741,
+    801,
+]
+size = [
+    32,
+    30,
+]
+frame_offset = [
+    29,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_18]
+pos = [
+    672,
+    809,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    29,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_19]
+pos = [
+    548,
+    934,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    29,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_2]
+pos = [
+    966,
+    520,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    29,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_20]
+pos = [
+    209,
+    938,
+]
+size = [
+    33,
+    34,
+]
+frame_offset = [
+    28,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_21]
+pos = [
+    741,
+    766,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    29,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_22]
+pos = [
+    585,
+    924,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    29,
+    55,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_23]
+pos = [
+    234,
+    725,
+]
+size = [
+    15,
+    25,
+]
+frame_offset = [
+    29,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_24]
+pos = [
+    953,
+    897,
+]
+size = [
+    19,
+    54,
+]
+frame_offset = [
+    24,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_25]
+pos = [
+    307,
+    673,
+]
+size = [
+    38,
+    65,
+]
+frame_offset = [
+    11,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_26]
+pos = [
+    134,
+    857,
+]
+size = [
+    36,
+    66,
+]
+frame_offset = [
+    17,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_27]
+pos = [
+    748,
+    926,
+]
+size = [
+    27,
+    77,
+]
+frame_offset = [
+    24,
+    35,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_28]
+pos = [
+    552,
+    551,
+]
+size = [
+    33,
+    90,
+]
+frame_offset = [
+    19,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_29]
+pos = [
+    619,
+    925,
+]
+size = [
+    31,
+    64,
+]
+frame_offset = [
+    20,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_3]
+pos = [
+    932,
+    561,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    29,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_30]
+pos = [
+    775,
+    799,
+]
+size = [
+    30,
+    84,
+]
+frame_offset = [
+    19,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_32]
+pos = [
+    389,
+    587,
+]
+size = [
+    38,
+    110,
+]
+frame_offset = [
+    12,
+    4,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_33]
+pos = [
+    245,
+    901,
+]
+size = [
+    32,
+    72,
+]
+frame_offset = [
+    18,
+    4,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_34]
+pos = [
+    0,
+    946,
+]
+size = [
+    39,
+    75,
+]
+frame_offset = [
+    18,
+    1,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_35]
+pos = [
+    653,
+    891,
+]
+size = [
+    31,
+    71,
+]
+frame_offset = [
+    25,
+    1,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_36]
+pos = [
+    987,
+    848,
+]
+size = [
+    21,
+    104,
+]
+frame_offset = [
+    24,
+    9,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_37]
+pos = [
+    815,
+    906,
+]
+size = [
+    26,
+    47,
+]
+frame_offset = [
+    15,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_38]
+pos = [
+    435,
+    564,
+]
+size = [
+    37,
+    54,
+]
+frame_offset = [
+    9,
+    57,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_39]
+pos = [
+    347,
+    708,
+]
+size = [
+    35,
+    57,
+]
+frame_offset = [
+    14,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_4]
+pos = [
+    134,
+    830,
+]
+size = [
+    15,
+    24,
+]
+frame_offset = [
+    29,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_40]
+pos = [
+    927,
+    861,
+]
+size = [
+    24,
+    39,
+]
+frame_offset = [
+    38,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_41]
+pos = [
+    864,
+    533,
+]
+size = [
+    32,
+    45,
+]
+frame_offset = [
+    30,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_42]
+pos = [
+    604,
+    799,
+]
+size = [
+    32,
+    44,
+]
+frame_offset = [
+    30,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_43]
+pos = [
+    869,
+    984,
+]
+size = [
+    18,
+    37,
+]
+frame_offset = [
+    30,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_45]
+pos = [
+    553,
+    503,
+]
+size = [
+    35,
+    46,
+]
+frame_offset = [
+    1,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_46]
+pos = [
+    237,
+    975,
+]
+size = [
+    32,
+    47,
+]
+frame_offset = [
+    1,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_47]
+pos = [
+    515,
+    547,
+]
+size = [
+    35,
+    47,
+]
+frame_offset = [
+    1,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_48]
+pos = [
+    695,
+    497,
+]
+size = [
+    29,
+    24,
+]
+frame_offset = [
+    4,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_49]
+pos = [
+    347,
+    985,
+]
+size = [
+    32,
+    37,
+]
+frame_offset = [
+    1,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_5]
+pos = [
+    932,
+    630,
+]
+size = [
+    31,
+    42,
+]
+frame_offset = [
+    2,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_50]
+pos = [
+    638,
+    815,
+]
+size = [
+    32,
+    38,
+]
+frame_offset = [
+    1,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_51]
+pos = [
+    625,
+    507,
+]
+size = [
+    33,
+    37,
+]
+frame_offset = [
+    1,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_52]
+pos = [
+    686,
+    942,
+]
+size = [
+    28,
+    77,
+]
+frame_offset = [
+    25,
+    37,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_53]
+pos = [
+    900,
+    847,
+]
+size = [
+    25,
+    62,
+]
+frame_offset = [
+    21,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_54]
+pos = [
+    393,
+    508,
+]
+size = [
+    40,
+    77,
+]
+frame_offset = [
+    14,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_55]
+pos = [
+    931,
+    674,
+]
+size = [
+    29,
+    84,
+]
+frame_offset = [
+    22,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_56]
+pos = [
+    131,
+    925,
+]
+size = [
+    35,
+    56,
+]
+frame_offset = [
+    27,
+    45,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_57]
+pos = [
+    625,
+    546,
+]
+size = [
+    32,
+    69,
+]
+frame_offset = [
+    30,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_58]
+pos = [
+    536,
+    720,
+]
+size = [
+    32,
+    62,
+]
+frame_offset = [
+    30,
+    45,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_59]
+pos = [
+    843,
+    945,
+]
+size = [
+    24,
+    69,
+]
+frame_offset = [
+    30,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_6]
+pos = [
+    962,
+    675,
+]
+size = [
+    28,
+    40,
+]
+frame_offset = [
+    1,
+    43,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_60]
+pos = [
+    264,
+    617,
+]
+size = [
+    41,
+    69,
+]
+frame_offset = [
+    15,
+    21,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_61]
+pos = [
+    718,
+    926,
+]
+size = [
+    28,
+    36,
+]
+frame_offset = [
+    3,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_62]
+pos = [
+    904,
+    812,
+]
+size = [
+    27,
+    33,
+]
+frame_offset = [
+    3,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_63]
+pos = [
+    777,
+    964,
+]
+size = [
+    26,
+    36,
+]
+frame_offset = [
+    1,
+    52,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_64]
+pos = [
+    259,
+    688,
+]
+size = [
+    39,
+    66,
+]
+frame_offset = [
+    19,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_65]
+pos = [
+    50,
+    826,
+]
+size = [
+    41,
+    105,
+]
+frame_offset = [
+    17,
+    5,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_66]
+pos = [
+    267,
+    834,
+]
+size = [
+    33,
+    65,
+]
+frame_offset = [
+    17,
+    5,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_67]
+pos = [
+    962,
+    717,
+]
+size = [
+    27,
+    76,
+]
+frame_offset = [
+    35,
+    34,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_68]
+pos = [
+    404,
+    953,
+]
+size = [
+    32,
+    49,
+]
+frame_offset = [
+    30,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_69]
+pos = [
+    537,
+    652,
+]
+size = [
+    32,
+    66,
+]
+frame_offset = [
+    30,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_70]
+pos = [
+    933,
+    760,
+]
+size = [
+    27,
+    45,
+]
+frame_offset = [
+    30,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_72]
+pos = [
+    386,
+    699,
+]
+size = [
+    34,
+    39,
+]
+frame_offset = [
+    28,
+    38,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_73]
+pos = [
+    990,
+    174,
+]
+size = [
+    32,
+    76,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_74]
+pos = [
+    521,
+    841,
+]
+size = [
+    32,
+    47,
+]
+frame_offset = [
+    30,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_75]
+pos = [
+    279,
+    945,
+]
+size = [
+    32,
+    63,
+]
+frame_offset = [
+    30,
+    14,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_76]
+pos = [
+    415,
+    830,
+]
+size = [
+    32,
+    63,
+]
+frame_offset = [
+    30,
+    14,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_77]
+pos = [
+    571,
+    667,
+]
+size = [
+    32,
+    63,
+]
+frame_offset = [
+    30,
+    14,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_78]
+pos = [
+    659,
+    598,
+]
+size = [
+    32,
+    62,
+]
+frame_offset = [
+    30,
+    15,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_79]
+pos = [
+    517,
+    890,
+]
+size = [
+    32,
+    42,
+]
+frame_offset = [
+    30,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_8]
+pos = [
+    999,
+    590,
+]
+size = [
+    23,
+    26,
+]
+frame_offset = [
+    11,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_80]
+pos = [
+    843,
+    906,
+]
+size = [
+    26,
+    37,
+]
+frame_offset = [
+    7,
+    7,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_81]
+pos = [
+    959,
+    478,
+]
+size = [
+    32,
+    40,
+]
+frame_offset = [
+    1,
+    7,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_82]
+pos = [
+    762,
+    678,
+]
+size = [
+    32,
+    40,
+]
+frame_offset = [
+    1,
+    7,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_83]
+pos = [
+    673,
+    767,
+]
+size = [
+    32,
+    40,
+]
+frame_offset = [
+    1,
+    7,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_84]
+pos = [
+    756,
+    833,
+]
+size = [
+    16,
+    31,
+]
+frame_offset = [
+    1,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_86]
+pos = [
+    925,
+    478,
+]
+size = [
+    32,
+    44,
+]
+frame_offset = [
+    30,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_87]
+pos = [
+    310,
+    765,
+]
+size = [
+    34,
+    43,
+]
+frame_offset = [
+    30,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_88]
+pos = [
+    869,
+    959,
+]
+size = [
+    23,
+    23,
+]
+frame_offset = [
+    10,
+    83,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_89]
+pos = [
+    691,
+    845,
+]
+size = [
+    31,
+    49,
+]
+frame_offset = [
+    2,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_9]
+pos = [
+    796,
+    698,
+]
+size = [
+    32,
+    34,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_90]
+pos = [
+    830,
+    533,
+]
+size = [
+    32,
+    47,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_91]
+pos = [
+    203,
+    974,
+]
+size = [
+    32,
+    48,
+]
+frame_offset = [
+    1,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_92]
+pos = [
+    891,
+    478,
+]
+size = [
+    32,
+    45,
+]
+frame_offset = [
+    1,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_93]
+pos = [
+    843,
+    732,
+]
+size = [
+    18,
+    22,
+]
+frame_offset = [
+    1,
+    91,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_96]
+pos = [
+    866,
+    866,
+]
+size = [
+    27,
+    29,
+]
+frame_offset = [
+    6,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_97]
+pos = [
+    657,
+    855,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_98]
+pos = [
+    540,
+    974,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_01_99]
+pos = [
+    809,
+    796,
+]
+size = [
+    30,
+    28,
+]
+frame_offset = [
+    1,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[signs_one-off_02_0]
+pos = [
+    511,
+    596,
+]
+size = [
+    33,
+    54,
+]
+frame_offset = [
+    29,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]

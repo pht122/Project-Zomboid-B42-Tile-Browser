@@ -1,0 +1,1889 @@
+[furniture_tables_low_01_17]
+pos = [
+    702,
+    377,
+]
+size = [
+    98,
+    84,
+]
+frame_offset = [
+    15,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[furniture_tables_low_01_18]
+pos = [
+    602,
+    377,
+]
+size = [
+    98,
+    85,
+]
+frame_offset = [
+    15,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[furniture_tables_low_01_19]
+pos = [
+    845,
+    167,
+]
+size = [
+    98,
+    85,
+]
+frame_offset = [
+    12,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[furniture_tables_low_01_20]
+pos = [
+    374,
+    410,
+]
+size = [
+    104,
+    91,
+]
+frame_offset = [
+    13,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[furniture_tables_low_01_21]
+pos = [
+    859,
+    75,
+]
+size = [
+    101,
+    90,
+]
+frame_offset = [
+    12,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_0]
+pos = [
+    337,
+    786,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_1]
+pos = [
+    740,
+    463,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_10]
+pos = [
+    429,
+    735,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_11]
+pos = [
+    582,
+    567,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_14]
+pos = [
+    459,
+    963,
+]
+size = [
+    50,
+    53,
+]
+frame_offset = [
+    11,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_15]
+pos = [
+    405,
+    963,
+]
+size = [
+    52,
+    53,
+]
+frame_offset = [
+    62,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_2]
+pos = [
+    129,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_22]
+pos = [
+    79,
+    862,
+]
+size = [
+    68,
+    101,
+]
+frame_offset = [
+    32,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_23]
+pos = [
+    602,
+    464,
+]
+size = [
+    68,
+    101,
+]
+frame_offset = [
+    33,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_24]
+pos = [
+    945,
+    167,
+]
+size = [
+    66,
+    55,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_25]
+pos = [
+    248,
+    897,
+]
+size = [
+    66,
+    55,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_26]
+pos = [
+    117,
+    376,
+]
+size = [
+    6,
+    25,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_27]
+pos = [
+    0,
+    224,
+]
+size = [
+    126,
+    55,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_28]
+pos = [
+    0,
+    331,
+]
+size = [
+    126,
+    43,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_29]
+pos = [
+    140,
+    975,
+]
+size = [
+    66,
+    43,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_3]
+pos = [
+    497,
+    735,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_30]
+pos = [
+    208,
+    975,
+]
+size = [
+    66,
+    43,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_31]
+pos = [
+    117,
+    403,
+]
+size = [
+    6,
+    13,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_32]
+pos = [
+    1009,
+    424,
+]
+size = [
+    10,
+    197,
+]
+frame_offset = [
+    2,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_33]
+pos = [
+    1009,
+    623,
+]
+size = [
+    10,
+    197,
+]
+frame_offset = [
+    114,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_34]
+pos = [
+    1007,
+    224,
+]
+size = [
+    11,
+    198,
+]
+frame_offset = [
+    55,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_35]
+pos = [
+    703,
+    754,
+]
+size = [
+    11,
+    198,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_36]
+pos = [
+    641,
+    795,
+]
+size = [
+    6,
+    194,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_4]
+pos = [
+    965,
+    0,
+]
+size = [
+    56,
+    60,
+]
+frame_offset = [
+    53,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_40]
+pos = [
+    576,
+    795,
+]
+size = [
+    63,
+    42,
+]
+frame_offset = [
+    41,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_41]
+pos = [
+    185,
+    552,
+]
+size = [
+    83,
+    56,
+]
+frame_offset = [
+    21,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_42]
+pos = [
+    0,
+    955,
+]
+size = [
+    68,
+    49,
+]
+frame_offset = [
+    24,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_43]
+pos = [
+    912,
+    402,
+]
+size = [
+    65,
+    47,
+]
+frame_offset = [
+    38,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_44]
+pos = [
+    91,
+    685,
+]
+size = [
+    83,
+    54,
+]
+frame_offset = [
+    20,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_45]
+pos = [
+    70,
+    965,
+]
+size = [
+    68,
+    46,
+]
+frame_offset = [
+    20,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_46]
+pos = [
+    84,
+    823,
+]
+size = [
+    72,
+    37,
+]
+frame_offset = [
+    54,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_47]
+pos = [
+    508,
+    492,
+]
+size = [
+    72,
+    229,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_48]
+pos = [
+    354,
+    554,
+]
+size = [
+    73,
+    230,
+]
+frame_offset = [
+    29,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_49]
+pos = [
+    173,
+    743,
+]
+size = [
+    73,
+    230,
+]
+frame_offset = [
+    30,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_5]
+pos = [
+    962,
+    99,
+]
+size = [
+    52,
+    59,
+]
+frame_offset = [
+    22,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_50]
+pos = [
+    742,
+    126,
+]
+size = [
+    101,
+    120,
+]
+frame_offset = [
+    27,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_51]
+pos = [
+    491,
+    365,
+]
+size = [
+    109,
+    125,
+]
+frame_offset = [
+    19,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_52]
+pos = [
+    0,
+    502,
+]
+size = [
+    92,
+    109,
+]
+frame_offset = [
+    19,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_53]
+pos = [
+    491,
+    252,
+]
+size = [
+    113,
+    111,
+]
+frame_offset = [
+    15,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_54]
+pos = [
+    606,
+    252,
+]
+size = [
+    107,
+    123,
+]
+frame_offset = [
+    0,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_55]
+pos = [
+    715,
+    252,
+]
+size = [
+    99,
+    120,
+]
+frame_offset = [
+    0,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_56]
+pos = [
+    262,
+    665,
+]
+size = [
+    73,
+    230,
+]
+frame_offset = [
+    29,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_57]
+pos = [
+    433,
+    503,
+]
+size = [
+    73,
+    230,
+]
+frame_offset = [
+    30,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_58]
+pos = [
+    816,
+    254,
+]
+size = [
+    94,
+    240,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_59]
+pos = [
+    94,
+    504,
+]
+size = [
+    90,
+    46,
+]
+frame_offset = [
+    36,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_60]
+pos = [
+    0,
+    281,
+]
+size = [
+    126,
+    48,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_61]
+pos = [
+    650,
+    704,
+]
+size = [
+    64,
+    48,
+]
+frame_offset = [
+    30,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_62]
+pos = [
+    0,
+    905,
+]
+size = [
+    74,
+    48,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_63]
+pos = [
+    672,
+    464,
+]
+size = [
+    66,
+    238,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_8]
+pos = [
+    508,
+    723,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_9]
+pos = [
+    808,
+    496,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_0]
+pos = [
+    912,
+    451,
+]
+size = [
+    64,
+    71,
+]
+frame_offset = [
+    48,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_1]
+pos = [
+    245,
+    453,
+]
+size = [
+    100,
+    57,
+]
+frame_offset = [
+    13,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_10]
+pos = [
+    769,
+    724,
+]
+size = [
+    51,
+    204,
+]
+frame_offset = [
+    55,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_11]
+pos = [
+    928,
+    745,
+]
+size = [
+    51,
+    203,
+]
+frame_offset = [
+    19,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_12]
+pos = [
+    94,
+    552,
+]
+size = [
+    89,
+    63,
+]
+frame_offset = [
+    12,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_13]
+pos = [
+    0,
+    670,
+]
+size = [
+    89,
+    63,
+]
+frame_offset = [
+    23,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_14]
+pos = [
+    94,
+    617,
+]
+size = [
+    87,
+    66,
+]
+frame_offset = [
+    20,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_15]
+pos = [
+    0,
+    735,
+]
+size = [
+    87,
+    66,
+]
+frame_offset = [
+    19,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_16]
+pos = [
+    650,
+    754,
+]
+size = [
+    51,
+    220,
+]
+frame_offset = [
+    23,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_17]
+pos = [
+    876,
+    524,
+]
+size = [
+    51,
+    219,
+]
+frame_offset = [
+    51,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_18]
+pos = [
+    716,
+    704,
+]
+size = [
+    51,
+    220,
+]
+frame_offset = [
+    55,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_19]
+pos = [
+    929,
+    524,
+]
+size = [
+    51,
+    219,
+]
+frame_offset = [
+    19,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_2]
+pos = [
+    859,
+    0,
+]
+size = [
+    104,
+    73,
+]
+frame_offset = [
+    14,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_20]
+pos = [
+    183,
+    661,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    15,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_21]
+pos = [
+    0,
+    854,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    33,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_24]
+pos = [
+    979,
+    402,
+]
+size = [
+    26,
+    50,
+]
+frame_offset = [
+    76,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_25]
+pos = [
+    176,
+    712,
+]
+size = [
+    76,
+    29,
+]
+frame_offset = [
+    24,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_26]
+pos = [
+    978,
+    454,
+]
+size = [
+    26,
+    50,
+]
+frame_offset = [
+    23,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_27]
+pos = [
+    89,
+    741,
+]
+size = [
+    82,
+    29,
+]
+frame_offset = [
+    21,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_28]
+pos = [
+    185,
+    610,
+]
+size = [
+    82,
+    49,
+]
+frame_offset = [
+    21,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_29]
+pos = [
+    270,
+    563,
+]
+size = [
+    78,
+    49,
+]
+frame_offset = [
+    21,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_3]
+pos = [
+    0,
+    613,
+]
+size = [
+    92,
+    55,
+]
+frame_offset = [
+    17,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_30]
+pos = [
+    89,
+    772,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    26,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_31]
+pos = [
+    0,
+    803,
+]
+size = [
+    82,
+    49,
+]
+frame_offset = [
+    21,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_32]
+pos = [
+    354,
+    503,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    26,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_33]
+pos = [
+    269,
+    614,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    22,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_34]
+pos = [
+    982,
+    506,
+]
+size = [
+    25,
+    209,
+]
+frame_offset = [
+    52,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_35]
+pos = [
+    276,
+    954,
+]
+size = [
+    52,
+    38,
+]
+frame_offset = [
+    53,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_36]
+pos = [
+    576,
+    839,
+]
+size = [
+    51,
+    36,
+]
+frame_offset = [
+    22,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_37]
+pos = [
+    965,
+    62,
+]
+size = [
+    53,
+    35,
+]
+frame_offset = [
+    46,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_38]
+pos = [
+    186,
+    504,
+]
+size = [
+    54,
+    35,
+]
+frame_offset = [
+    26,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_39]
+pos = [
+    270,
+    512,
+]
+size = [
+    82,
+    49,
+]
+frame_offset = [
+    21,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_4]
+pos = [
+    912,
+    254,
+]
+size = [
+    93,
+    72,
+]
+frame_offset = [
+    13,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_40]
+pos = [
+    0,
+    376,
+]
+size = [
+    115,
+    124,
+]
+frame_offset = [
+    6,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_41]
+pos = [
+    508,
+    0,
+]
+size = [
+    115,
+    124,
+]
+frame_offset = [
+    5,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_42]
+pos = [
+    625,
+    0,
+]
+size = [
+    115,
+    124,
+]
+frame_offset = [
+    6,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_43]
+pos = [
+    508,
+    126,
+]
+size = [
+    115,
+    124,
+]
+frame_offset = [
+    5,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_44]
+pos = [
+    742,
+    0,
+]
+size = [
+    115,
+    124,
+]
+frame_offset = [
+    5,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_45]
+pos = [
+    625,
+    126,
+]
+size = [
+    115,
+    124,
+]
+frame_offset = [
+    6,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_46]
+pos = [
+    374,
+    225,
+]
+size = [
+    115,
+    183,
+]
+frame_offset = [
+    5,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_47]
+pos = [
+    128,
+    318,
+]
+size = [
+    115,
+    184,
+]
+frame_offset = [
+    6,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_48]
+pos = [
+    257,
+    0,
+]
+size = [
+    126,
+    222,
+]
+frame_offset = [
+    0,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_49]
+pos = [
+    252,
+    228,
+]
+size = [
+    120,
+    223,
+]
+frame_offset = [
+    1,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_5]
+pos = [
+    912,
+    328,
+]
+size = [
+    93,
+    72,
+]
+frame_offset = [
+    20,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_50]
+pos = [
+    385,
+    0,
+]
+size = [
+    121,
+    223,
+]
+frame_offset = [
+    5,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_51]
+pos = [
+    0,
+    0,
+]
+size = [
+    127,
+    222,
+]
+frame_offset = [
+    0,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_6]
+pos = [
+    128,
+    228,
+]
+size = [
+    122,
+    88,
+]
+frame_offset = [
+    1,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_8]
+pos = [
+    822,
+    724,
+]
+size = [
+    51,
+    204,
+]
+frame_offset = [
+    23,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_02_9]
+pos = [
+    875,
+    745,
+]
+size = [
+    51,
+    204,
+]
+frame_offset = [
+    51,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]

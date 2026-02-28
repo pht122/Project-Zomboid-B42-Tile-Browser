@@ -1,0 +1,2393 @@
+[floors_rugs_01_100]
+pos = [
+    260,
+    155,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_101]
+pos = [
+    0,
+    237,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_104]
+pos = [
+    899,
+    0,
+]
+size = [
+    120,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_105]
+pos = [
+    770,
+    129,
+]
+size = [
+    120,
+    64,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_106]
+pos = [
+    384,
+    419,
+]
+size = [
+    126,
+    61,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_107]
+pos = [
+    390,
+    0,
+]
+size = [
+    126,
+    61,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_108]
+pos = [
+    0,
+    303,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_109]
+pos = [
+    130,
+    234,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_112]
+pos = [
+    879,
+    325,
+]
+size = [
+    119,
+    59,
+]
+frame_offset = [
+    4,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_113]
+pos = [
+    0,
+    501,
+]
+size = [
+    118,
+    61,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_114]
+pos = [
+    0,
+    564,
+]
+size = [
+    118,
+    61,
+]
+frame_offset = [
+    8,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_115]
+pos = [
+    758,
+    449,
+]
+size = [
+    119,
+    59,
+]
+frame_offset = [
+    3,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_116]
+pos = [
+    120,
+    501,
+]
+size = [
+    118,
+    60,
+]
+frame_offset = [
+    4,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_117]
+pos = [
+    765,
+    261,
+]
+size = [
+    120,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_118]
+pos = [
+    758,
+    325,
+]
+size = [
+    119,
+    60,
+]
+frame_offset = [
+    7,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_119]
+pos = [
+    758,
+    387,
+]
+size = [
+    119,
+    60,
+]
+frame_offset = [
+    4,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_120]
+pos = [
+    512,
+    321,
+]
+size = [
+    122,
+    62,
+]
+frame_offset = [
+    4,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_121]
+pos = [
+    518,
+    126,
+]
+size = [
+    125,
+    63,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_122]
+pos = [
+    646,
+    0,
+]
+size = [
+    125,
+    63,
+]
+frame_offset = [
+    1,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_123]
+pos = [
+    642,
+    192,
+]
+size = [
+    122,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_124]
+pos = [
+    512,
+    385,
+]
+size = [
+    122,
+    62,
+]
+frame_offset = [
+    4,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_125]
+pos = [
+    0,
+    369,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_126]
+pos = [
+    516,
+    191,
+]
+size = [
+    124,
+    64,
+]
+frame_offset = [
+    2,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_127]
+pos = [
+    516,
+    257,
+]
+size = [
+    123,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_128]
+pos = [
+    120,
+    625,
+]
+size = [
+    115,
+    60,
+]
+frame_offset = [
+    11,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_129]
+pos = [
+    645,
+    129,
+]
+size = [
+    123,
+    61,
+]
+frame_offset = [
+    3,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_130]
+pos = [
+    641,
+    257,
+]
+size = [
+    122,
+    61,
+]
+frame_offset = [
+    1,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_131]
+pos = [
+    0,
+    751,
+]
+size = [
+    115,
+    60,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_132]
+pos = [
+    0,
+    813,
+]
+size = [
+    114,
+    58,
+]
+frame_offset = [
+    12,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_133]
+pos = [
+    0,
+    627,
+]
+size = [
+    118,
+    60,
+]
+frame_offset = [
+    8,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_134]
+pos = [
+    256,
+    485,
+]
+size = [
+    117,
+    60,
+]
+frame_offset = [
+    2,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_135]
+pos = [
+    240,
+    547,
+]
+size = [
+    115,
+    58,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_56]
+pos = [
+    117,
+    751,
+]
+size = [
+    112,
+    57,
+]
+frame_offset = [
+    11,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_57]
+pos = [
+    236,
+    726,
+]
+size = [
+    107,
+    55,
+]
+frame_offset = [
+    2,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_58]
+pos = [
+    114,
+    874,
+]
+size = [
+    107,
+    55,
+]
+frame_offset = [
+    17,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_59]
+pos = [
+    0,
+    873,
+]
+size = [
+    112,
+    57,
+]
+frame_offset = [
+    3,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_60]
+pos = [
+    128,
+    300,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_61]
+pos = [
+    0,
+    435,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_62]
+pos = [
+    260,
+    221,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_63]
+pos = [
+    117,
+    810,
+]
+size = [
+    110,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_64]
+pos = [
+    0,
+    932,
+]
+size = [
+    110,
+    61,
+]
+frame_offset = [
+    16,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_65]
+pos = [
+    120,
+    563,
+]
+size = [
+    118,
+    60,
+]
+frame_offset = [
+    8,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_66]
+pos = [
+    240,
+    607,
+]
+size = [
+    114,
+    57,
+]
+frame_offset = [
+    6,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_67]
+pos = [
+    646,
+    65,
+]
+size = [
+    124,
+    62,
+]
+frame_offset = [
+    2,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_68]
+pos = [
+    128,
+    366,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_69]
+pos = [
+    0,
+    689,
+]
+size = [
+    118,
+    60,
+]
+frame_offset = [
+    0,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_70]
+pos = [
+    120,
+    687,
+]
+size = [
+    114,
+    59,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_71]
+pos = [
+    773,
+    0,
+]
+size = [
+    124,
+    61,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_72]
+pos = [
+    357,
+    547,
+]
+size = [
+    112,
+    56,
+]
+frame_offset = [
+    6,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_73]
+pos = [
+    357,
+    605,
+]
+size = [
+    109,
+    56,
+]
+frame_offset = [
+    0,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_74]
+pos = [
+    512,
+    449,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    6,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_75]
+pos = [
+    888,
+    258,
+]
+size = [
+    119,
+    60,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_76]
+pos = [
+    892,
+    132,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_77]
+pos = [
+    888,
+    195,
+]
+size = [
+    120,
+    61,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_78]
+pos = [
+    237,
+    666,
+]
+size = [
+    111,
+    58,
+]
+frame_offset = [
+    15,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_79]
+pos = [
+    375,
+    485,
+]
+size = [
+    113,
+    56,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_80]
+pos = [
+    636,
+    321,
+]
+size = [
+    120,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_81]
+pos = [
+    897,
+    66,
+]
+size = [
+    120,
+    64,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_82]
+pos = [
+    390,
+    63,
+]
+size = [
+    126,
+    61,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_83]
+pos = [
+    390,
+    126,
+]
+size = [
+    126,
+    61,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_84]
+pos = [
+    258,
+    287,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_85]
+pos = [
+    128,
+    432,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_87]
+pos = [
+    256,
+    353,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_88]
+pos = [
+    879,
+    386,
+]
+size = [
+    118,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_89]
+pos = [
+    766,
+    195,
+]
+size = [
+    120,
+    64,
+]
+frame_offset = [
+    6,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_90]
+pos = [
+    518,
+    0,
+]
+size = [
+    126,
+    61,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_91]
+pos = [
+    388,
+    189,
+]
+size = [
+    126,
+    61,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_92]
+pos = [
+    256,
+    419,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_93]
+pos = [
+    384,
+    353,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_96]
+pos = [
+    636,
+    387,
+]
+size = [
+    120,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_97]
+pos = [
+    773,
+    63,
+]
+size = [
+    122,
+    64,
+]
+frame_offset = [
+    4,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_98]
+pos = [
+    518,
+    63,
+]
+size = [
+    126,
+    61,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_01_99]
+pos = [
+    388,
+    252,
+]
+size = [
+    126,
+    61,
+]
+frame_offset = [
+    0,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_02_0]
+pos = [
+    260,
+    78,
+]
+size = [
+    128,
+    75,
+]
+frame_offset = [
+    0,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_02_1]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    76,
+]
+frame_offset = [
+    0,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_02_2]
+pos = [
+    130,
+    78,
+]
+size = [
+    128,
+    76,
+]
+frame_offset = [
+    0,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_02_3]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    77,
+]
+frame_offset = [
+    0,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_02_4]
+pos = [
+    0,
+    79,
+]
+size = [
+    128,
+    77,
+]
+frame_offset = [
+    0,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_02_5]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    76,
+]
+frame_offset = [
+    0,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_02_6]
+pos = [
+    0,
+    158,
+]
+size = [
+    128,
+    77,
+]
+frame_offset = [
+    0,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_rugs_02_7]
+pos = [
+    130,
+    156,
+]
+size = [
+    128,
+    76,
+]
+frame_offset = [
+    0,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_0]
+pos = [
+    231,
+    783,
+]
+size = [
+    85,
+    109,
+]
+frame_offset = [
+    26,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_1]
+pos = [
+    634,
+    453,
+]
+size = [
+    85,
+    109,
+]
+frame_offset = [
+    15,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_10]
+pos = [
+    959,
+    452,
+]
+size = [
+    58,
+    86,
+]
+frame_offset = [
+    23,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_11]
+pos = [
+    711,
+    882,
+]
+size = [
+    57,
+    88,
+]
+frame_offset = [
+    45,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_12]
+pos = [
+    522,
+    665,
+]
+size = [
+    81,
+    110,
+]
+frame_offset = [
+    31,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_13]
+pos = [
+    865,
+    718,
+]
+size = [
+    64,
+    92,
+]
+frame_offset = [
+    34,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_16]
+pos = [
+    956,
+    568,
+]
+size = [
+    66,
+    89,
+]
+frame_offset = [
+    28,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_17]
+pos = [
+    641,
+    619,
+]
+size = [
+    79,
+    110,
+]
+frame_offset = [
+    14,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_18]
+pos = [
+    825,
+    906,
+]
+size = [
+    47,
+    87,
+]
+frame_offset = [
+    26,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_19]
+pos = [
+    560,
+    896,
+]
+size = [
+    68,
+    82,
+]
+frame_offset = [
+    45,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_2]
+pos = [
+    350,
+    666,
+]
+size = [
+    85,
+    127,
+]
+frame_offset = [
+    26,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_20]
+pos = [
+    558,
+    564,
+]
+size = [
+    81,
+    84,
+]
+frame_offset = [
+    31,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_21]
+pos = [
+    931,
+    789,
+]
+size = [
+    48,
+    72,
+]
+frame_offset = [
+    50,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_24]
+pos = [
+    879,
+    640,
+]
+size = [
+    66,
+    72,
+]
+frame_offset = [
+    39,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_25]
+pos = [
+    865,
+    812,
+]
+size = [
+    53,
+    56,
+]
+frame_offset = [
+    39,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_26]
+pos = [
+    770,
+    906,
+]
+size = [
+    53,
+    56,
+]
+frame_offset = [
+    34,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_27]
+pos = [
+    717,
+    808,
+]
+size = [
+    66,
+    72,
+]
+frame_offset = [
+    21,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_28]
+pos = [
+    551,
+    980,
+]
+size = [
+    66,
+    37,
+]
+frame_offset = [
+    39,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_29]
+pos = [
+    696,
+    972,
+]
+size = [
+    53,
+    47,
+]
+frame_offset = [
+    39,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_3]
+pos = [
+    916,
+    870,
+]
+size = [
+    36,
+    101,
+]
+frame_offset = [
+    27,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_30]
+pos = [
+    947,
+    659,
+]
+size = [
+    55,
+    47,
+]
+frame_offset = [
+    34,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_31]
+pos = [
+    931,
+    714,
+]
+size = [
+    54,
+    73,
+]
+frame_offset = [
+    24,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_32]
+pos = [
+    112,
+    932,
+]
+size = [
+    82,
+    54,
+]
+frame_offset = [
+    21,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_33]
+pos = [
+    641,
+    564,
+]
+size = [
+    81,
+    53,
+]
+frame_offset = [
+    25,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_34]
+pos = [
+    386,
+    315,
+]
+size = [
+    81,
+    31,
+]
+frame_offset = [
+    21,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_35]
+pos = [
+    307,
+    972,
+]
+size = [
+    77,
+    31,
+]
+frame_offset = [
+    28,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_36]
+pos = [
+    481,
+    955,
+]
+size = [
+    68,
+    51,
+]
+frame_offset = [
+    27,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_37]
+pos = [
+    307,
+    917,
+]
+size = [
+    81,
+    53,
+]
+frame_offset = [
+    25,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_38]
+pos = [
+    112,
+    988,
+]
+size = [
+    81,
+    30,
+]
+frame_offset = [
+    21,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_39]
+pos = [
+    490,
+    512,
+]
+size = [
+    62,
+    29,
+]
+frame_offset = [
+    28,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_40]
+pos = [
+    724,
+    510,
+]
+size = [
+    79,
+    96,
+]
+frame_offset = [
+    25,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_41]
+pos = [
+    805,
+    510,
+]
+size = [
+    78,
+    90,
+]
+frame_offset = [
+    24,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_42]
+pos = [
+    484,
+    867,
+]
+size = [
+    74,
+    86,
+]
+frame_offset = [
+    30,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_43]
+pos = [
+    401,
+    904,
+]
+size = [
+    78,
+    91,
+]
+frame_offset = [
+    21,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_44]
+pos = [
+    484,
+    777,
+]
+size = [
+    79,
+    88,
+]
+frame_offset = [
+    25,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_45]
+pos = [
+    885,
+    568,
+]
+size = [
+    69,
+    70,
+]
+frame_offset = [
+    24,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_46]
+pos = [
+    630,
+    937,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    40,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_47]
+pos = [
+    724,
+    608,
+]
+size = [
+    78,
+    86,
+]
+frame_offset = [
+    21,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_48]
+pos = [
+    223,
+    894,
+]
+size = [
+    82,
+    117,
+]
+frame_offset = [
+    28,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_49]
+pos = [
+    471,
+    543,
+]
+size = [
+    85,
+    120,
+]
+frame_offset = [
+    28,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_50]
+pos = [
+    885,
+    452,
+]
+size = [
+    72,
+    114,
+]
+frame_offset = [
+    20,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_51]
+pos = [
+    805,
+    602,
+]
+size = [
+    72,
+    114,
+]
+frame_offset = [
+    34,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_52]
+pos = [
+    318,
+    795,
+]
+size = [
+    81,
+    120,
+]
+frame_offset = [
+    17,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_53]
+pos = [
+    565,
+    777,
+]
+size = [
+    76,
+    117,
+]
+frame_offset = [
+    22,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_54]
+pos = [
+    981,
+    789,
+]
+size = [
+    40,
+    90,
+]
+frame_offset = [
+    34,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_55]
+pos = [
+    874,
+    870,
+]
+size = [
+    40,
+    90,
+]
+frame_offset = [
+    52,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_56]
+pos = [
+    796,
+    718,
+]
+size = [
+    67,
+    186,
+]
+frame_offset = [
+    37,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_57]
+pos = [
+    401,
+    795,
+]
+size = [
+    81,
+    107,
+]
+frame_offset = [
+    28,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_58]
+pos = [
+    722,
+    696,
+]
+size = [
+    72,
+    110,
+]
+frame_offset = [
+    20,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_59]
+pos = [
+    643,
+    731,
+]
+size = [
+    72,
+    110,
+]
+frame_offset = [
+    34,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_8]
+pos = [
+    643,
+    843,
+]
+size = [
+    66,
+    92,
+]
+frame_offset = [
+    28,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[food_01_9]
+pos = [
+    437,
+    665,
+]
+size = [
+    83,
+    110,
+]
+frame_offset = [
+    14,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]

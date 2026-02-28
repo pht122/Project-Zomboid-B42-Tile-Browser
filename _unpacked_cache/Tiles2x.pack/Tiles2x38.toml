@@ -1,0 +1,1827 @@
+[e_roof_snow_1_100]
+pos = [
+    650,
+    296,
+]
+size = [
+    128,
+    86,
+]
+frame_offset = [
+    0,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_101]
+pos = [
+    260,
+    871,
+]
+size = [
+    128,
+    45,
+]
+frame_offset = [
+    0,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_102]
+pos = [
+    780,
+    195,
+]
+size = [
+    128,
+    86,
+]
+frame_offset = [
+    0,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_103]
+pos = [
+    0,
+    486,
+]
+size = [
+    128,
+    83,
+]
+frame_offset = [
+    0,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_104]
+pos = [
+    910,
+    165,
+]
+size = [
+    87,
+    79,
+]
+frame_offset = [
+    41,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_105]
+pos = [
+    910,
+    388,
+]
+size = [
+    87,
+    66,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_110]
+pos = [
+    910,
+    246,
+]
+size = [
+    87,
+    69,
+]
+frame_offset = [
+    41,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_111]
+pos = [
+    910,
+    317,
+]
+size = [
+    87,
+    69,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_112]
+pos = [
+    0,
+    221,
+]
+size = [
+    128,
+    131,
+]
+frame_offset = [
+    0,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_113]
+pos = [
+    130,
+    137,
+]
+size = [
+    128,
+    131,
+]
+frame_offset = [
+    0,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_114]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    134,
+]
+frame_offset = [
+    0,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_115]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    135,
+]
+frame_offset = [
+    0,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_116]
+pos = [
+    650,
+    748,
+]
+size = [
+    126,
+    130,
+]
+frame_offset = [
+    2,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_117]
+pos = [
+    0,
+    354,
+]
+size = [
+    128,
+    130,
+]
+frame_offset = [
+    0,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_118]
+pos = [
+    649,
+    880,
+]
+size = [
+    124,
+    137,
+]
+frame_offset = [
+    0,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_119]
+pos = [
+    778,
+    787,
+]
+size = [
+    124,
+    137,
+]
+frame_offset = [
+    0,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_120]
+pos = [
+    780,
+    681,
+]
+size = [
+    126,
+    60,
+]
+frame_offset = [
+    0,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_121]
+pos = [
+    390,
+    697,
+]
+size = [
+    128,
+    53,
+]
+frame_offset = [
+    0,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_122]
+pos = [
+    0,
+    971,
+]
+size = [
+    128,
+    46,
+]
+frame_offset = [
+    0,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_123]
+pos = [
+    520,
+    620,
+]
+size = [
+    128,
+    45,
+]
+frame_offset = [
+    0,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_124]
+pos = [
+    780,
+    99,
+]
+size = [
+    128,
+    94,
+]
+frame_offset = [
+    0,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_125]
+pos = [
+    260,
+    433,
+]
+size = [
+    128,
+    82,
+]
+frame_offset = [
+    0,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_126]
+pos = [
+    650,
+    471,
+]
+size = [
+    128,
+    53,
+]
+frame_offset = [
+    0,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_127]
+pos = [
+    520,
+    558,
+]
+size = [
+    128,
+    60,
+]
+frame_offset = [
+    0,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_128]
+pos = [
+    0,
+    571,
+]
+size = [
+    128,
+    83,
+]
+frame_offset = [
+    0,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_129]
+pos = [
+    520,
+    854,
+]
+size = [
+    127,
+    94,
+]
+frame_offset = [
+    1,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_130]
+pos = [
+    390,
+    799,
+]
+size = [
+    128,
+    42,
+]
+frame_offset = [
+    0,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_131]
+pos = [
+    780,
+    743,
+]
+size = [
+    126,
+    42,
+]
+frame_offset = [
+    0,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_132]
+pos = [
+    260,
+    517,
+]
+size = [
+    128,
+    78,
+]
+frame_offset = [
+    0,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_133]
+pos = [
+    260,
+    597,
+]
+size = [
+    128,
+    71,
+]
+frame_offset = [
+    0,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_134]
+pos = [
+    130,
+    722,
+]
+size = [
+    128,
+    72,
+]
+frame_offset = [
+    0,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_135]
+pos = [
+    0,
+    825,
+]
+size = [
+    128,
+    76,
+]
+frame_offset = [
+    0,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_72]
+pos = [
+    0,
+    741,
+]
+size = [
+    128,
+    82,
+]
+frame_offset = [
+    0,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_73]
+pos = [
+    780,
+    597,
+]
+size = [
+    127,
+    82,
+]
+frame_offset = [
+    0,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_74]
+pos = [
+    130,
+    638,
+]
+size = [
+    128,
+    82,
+]
+frame_offset = [
+    0,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_75]
+pos = [
+    910,
+    456,
+]
+size = [
+    67,
+    256,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_76]
+pos = [
+    908,
+    714,
+]
+size = [
+    66,
+    64,
+]
+frame_offset = [
+    31,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_77]
+pos = [
+    908,
+    780,
+]
+size = [
+    66,
+    64,
+]
+frame_offset = [
+    31,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_78]
+pos = [
+    910,
+    82,
+]
+size = [
+    98,
+    81,
+]
+frame_offset = [
+    30,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_79]
+pos = [
+    910,
+    0,
+]
+size = [
+    104,
+    80,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_80]
+pos = [
+    130,
+    468,
+]
+size = [
+    128,
+    83,
+]
+frame_offset = [
+    0,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_81]
+pos = [
+    0,
+    656,
+]
+size = [
+    128,
+    83,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_82]
+pos = [
+    390,
+    752,
+]
+size = [
+    128,
+    45,
+]
+frame_offset = [
+    0,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_83]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    219,
+]
+
+[e_roof_snow_1_84]
+pos = [
+    650,
+    526,
+]
+size = [
+    128,
+    45,
+]
+frame_offset = [
+    0,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_85]
+pos = [
+    260,
+    918,
+]
+size = [
+    128,
+    45,
+]
+frame_offset = [
+    0,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_86]
+pos = [
+    520,
+    395,
+]
+size = [
+    128,
+    94,
+]
+frame_offset = [
+    0,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_87]
+pos = [
+    130,
+    553,
+]
+size = [
+    128,
+    83,
+]
+frame_offset = [
+    0,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_88]
+pos = [
+    520,
+    950,
+]
+size = [
+    126,
+    47,
+]
+frame_offset = [
+    2,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_89]
+pos = [
+    775,
+    926,
+]
+size = [
+    124,
+    49,
+]
+frame_offset = [
+    0,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_96]
+pos = [
+    650,
+    384,
+]
+size = [
+    128,
+    85,
+]
+frame_offset = [
+    0,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_97]
+pos = [
+    780,
+    283,
+]
+size = [
+    128,
+    85,
+]
+frame_offset = [
+    0,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_98]
+pos = [
+    520,
+    667,
+]
+size = [
+    128,
+    45,
+]
+frame_offset = [
+    0,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_1_99]
+pos = [
+    780,
+    370,
+]
+size = [
+    128,
+    85,
+]
+frame_offset = [
+    0,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_0]
+pos = [
+    260,
+    136,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_1]
+pos = [
+    390,
+    0,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_10]
+pos = [
+    130,
+    270,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_11]
+pos = [
+    260,
+    235,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_12]
+pos = [
+    130,
+    369,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_13]
+pos = [
+    260,
+    334,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_14]
+pos = [
+    1016,
+    0,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    1,
+    231,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_16]
+pos = [
+    650,
+    573,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_17]
+pos = [
+    260,
+    965,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_18]
+pos = [
+    390,
+    843,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_19]
+pos = [
+    520,
+    714,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_2]
+pos = [
+    390,
+    99,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_20]
+pos = [
+    780,
+    457,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_21]
+pos = [
+    650,
+    608,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_24]
+pos = [
+    390,
+    878,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_25]
+pos = [
+    520,
+    749,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_26]
+pos = [
+    780,
+    492,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_27]
+pos = [
+    650,
+    643,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_28]
+pos = [
+    390,
+    913,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_29]
+pos = [
+    520,
+    784,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_3]
+pos = [
+    520,
+    198,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_32]
+pos = [
+    520,
+    0,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_33]
+pos = [
+    390,
+    198,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_34]
+pos = [
+    520,
+    99,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_35]
+pos = [
+    650,
+    0,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_36]
+pos = [
+    390,
+    297,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_37]
+pos = [
+    390,
+    396,
+]
+size = [
+    128,
+    96,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_4]
+pos = [
+    650,
+    99,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_40]
+pos = [
+    130,
+    931,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_41]
+pos = [
+    390,
+    494,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_42]
+pos = [
+    0,
+    903,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_43]
+pos = [
+    130,
+    796,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_44]
+pos = [
+    260,
+    670,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_45]
+pos = [
+    390,
+    562,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_48]
+pos = [
+    780,
+    527,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_49]
+pos = [
+    650,
+    678,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_5]
+pos = [
+    520,
+    297,
+]
+size = [
+    128,
+    96,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_50]
+pos = [
+    390,
+    948,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_51]
+pos = [
+    520,
+    819,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_52]
+pos = [
+    780,
+    562,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_53]
+pos = [
+    650,
+    713,
+]
+size = [
+    128,
+    33,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_56]
+pos = [
+    260,
+    805,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_57]
+pos = [
+    130,
+    864,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_58]
+pos = [
+    260,
+    738,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_59]
+pos = [
+    520,
+    491,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_60]
+pos = [
+    390,
+    630,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_8]
+pos = [
+    650,
+    198,
+]
+size = [
+    128,
+    96,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_9]
+pos = [
+    780,
+    0,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]

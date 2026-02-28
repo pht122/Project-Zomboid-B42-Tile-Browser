@@ -1,0 +1,1125 @@
+[walls_exterior_wooden_01_37]
+pos = [
+    264,
+    368,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_38]
+pos = [
+    0,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_39]
+pos = [
+    68,
+    596,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_40]
+pos = [
+    136,
+    596,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_41]
+pos = [
+    204,
+    596,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_42]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_43]
+pos = [
+    1000,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_44]
+pos = [
+    384,
+    228,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_45]
+pos = [
+    512,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_46]
+pos = [
+    256,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_47]
+pos = [
+    1008,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_48]
+pos = [
+    332,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_49]
+pos = [
+    581,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_50]
+pos = [
+    468,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_51]
+pos = [
+    536,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_52]
+pos = [
+    272,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_53]
+pos = [
+    650,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_54]
+pos = [
+    340,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_55]
+pos = [
+    604,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_56]
+pos = [
+    68,
+    824,
+]
+size = [
+    66,
+    138,
+]
+frame_offset = [
+    0,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_57]
+pos = [
+    136,
+    824,
+]
+size = [
+    66,
+    138,
+]
+frame_offset = [
+    60,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_58]
+pos = [
+    128,
+    228,
+]
+size = [
+    126,
+    138,
+]
+frame_offset = [
+    0,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_59]
+pos = [
+    68,
+    456,
+]
+size = [
+    6,
+    108,
+]
+frame_offset = [
+    60,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_60]
+pos = [
+    204,
+    824,
+]
+size = [
+    66,
+    138,
+]
+frame_offset = [
+    0,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_61]
+pos = [
+    884,
+    684,
+]
+size = [
+    66,
+    138,
+]
+frame_offset = [
+    60,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_62]
+pos = [
+    256,
+    228,
+]
+size = [
+    126,
+    138,
+]
+frame_offset = [
+    0,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_63]
+pos = [
+    76,
+    456,
+]
+size = [
+    6,
+    108,
+]
+frame_offset = [
+    60,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_64]
+pos = [
+    672,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_65]
+pos = [
+    476,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_66]
+pos = [
+    384,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_67]
+pos = [
+    1016,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_68]
+pos = [
+    952,
+    684,
+]
+size = [
+    65,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_69]
+pos = [
+    453,
+    228,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_70]
+pos = [
+    0,
+    228,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_71]
+pos = [
+    999,
+    198,
+]
+size = [
+    4,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_72]
+pos = [
+    544,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_73]
+pos = [
+    719,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_74]
+pos = [
+    808,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_75]
+pos = [
+    612,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_76]
+pos = [
+    876,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_77]
+pos = [
+    522,
+    228,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_78]
+pos = [
+    680,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_79]
+pos = [
+    1005,
+    198,
+]
+size = [
+    4,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_0]
+pos = [
+    788,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_1]
+pos = [
+    196,
+    368,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_10]
+pos = [
+    591,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_11]
+pos = [
+    856,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_12]
+pos = [
+    659,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_13]
+pos = [
+    924,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_14]
+pos = [
+    727,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_15]
+pos = [
+    795,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_16]
+pos = [
+    863,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_17]
+pos = [
+    931,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_18]
+pos = [
+    0,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_19]
+pos = [
+    128,
+    368,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_2]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    226,
+]
+
+[walls_exterior_wooden_02_3]
+pos = [
+    992,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_4]
+pos = [
+    400,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_5]
+pos = [
+    408,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_6]
+pos = [
+    740,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_7]
+pos = [
+    944,
+    456,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_8]
+pos = [
+    748,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_9]
+pos = [
+    816,
+    684,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

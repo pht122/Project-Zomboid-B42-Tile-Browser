@@ -1,0 +1,1871 @@
+[location_shop_mall_signs_02_on_15]
+pos = [
+    464,
+    972,
+]
+size = [
+    59,
+    48,
+]
+frame_offset = [
+    60,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_16]
+pos = [
+    530,
+    970,
+]
+size = [
+    58,
+    52,
+]
+frame_offset = [
+    8,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_17]
+pos = [
+    596,
+    847,
+]
+size = [
+    64,
+    55,
+]
+frame_offset = [
+    2,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_18]
+pos = [
+    746,
+    679,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_19]
+pos = [
+    87,
+    759,
+]
+size = [
+    74,
+    63,
+]
+frame_offset = [
+    2,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_20]
+pos = [
+    0,
+    814,
+]
+size = [
+    78,
+    66,
+]
+frame_offset = [
+    46,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_21]
+pos = [
+    899,
+    523,
+]
+size = [
+    64,
+    61,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_22]
+pos = [
+    530,
+    847,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    60,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_23]
+pos = [
+    964,
+    586,
+]
+size = [
+    58,
+    55,
+]
+frame_offset = [
+    60,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_24]
+pos = [
+    720,
+    917,
+]
+size = [
+    59,
+    54,
+]
+frame_offset = [
+    7,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_25]
+pos = [
+    761,
+    594,
+]
+size = [
+    64,
+    70,
+]
+frame_offset = [
+    2,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_26]
+pos = [
+    297,
+    942,
+]
+size = [
+    64,
+    72,
+]
+frame_offset = [
+    2,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_27]
+pos = [
+    177,
+    723,
+]
+size = [
+    70,
+    54,
+]
+frame_offset = [
+    2,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_28]
+pos = [
+    0,
+    882,
+]
+size = [
+    70,
+    61,
+]
+frame_offset = [
+    54,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_29]
+pos = [
+    833,
+    588,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    60,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_30]
+pos = [
+    614,
+    769,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    60,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_31]
+pos = [
+    964,
+    643,
+]
+size = [
+    58,
+    48,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_32]
+pos = [
+    349,
+    490,
+]
+size = [
+    57,
+    47,
+]
+frame_offset = [
+    9,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_33]
+pos = [
+    746,
+    738,
+]
+size = [
+    64,
+    54,
+]
+frame_offset = [
+    2,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_34]
+pos = [
+    680,
+    679,
+]
+size = [
+    64,
+    68,
+]
+frame_offset = [
+    2,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_35]
+pos = [
+    746,
+    794,
+]
+size = [
+    60,
+    55,
+]
+frame_offset = [
+    2,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_48]
+pos = [
+    949,
+    782,
+]
+size = [
+    52,
+    148,
+]
+frame_offset = [
+    72,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_49]
+pos = [
+    416,
+    632,
+]
+size = [
+    64,
+    178,
+]
+frame_offset = [
+    60,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_50]
+pos = [
+    548,
+    677,
+]
+size = [
+    64,
+    168,
+]
+frame_offset = [
+    60,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_51]
+pos = [
+    332,
+    762,
+]
+size = [
+    64,
+    178,
+]
+frame_offset = [
+    60,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_52]
+pos = [
+    482,
+    632,
+]
+size = [
+    64,
+    175,
+]
+frame_offset = [
+    60,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_53]
+pos = [
+    398,
+    812,
+]
+size = [
+    64,
+    170,
+]
+frame_offset = [
+    60,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_54]
+pos = [
+    629,
+    499,
+]
+size = [
+    64,
+    175,
+]
+frame_offset = [
+    60,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_55]
+pos = [
+    767,
+    421,
+]
+size = [
+    64,
+    171,
+]
+frame_offset = [
+    60,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_64]
+pos = [
+    701,
+    398,
+]
+size = [
+    64,
+    176,
+]
+frame_offset = [
+    60,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_65]
+pos = [
+    563,
+    499,
+]
+size = [
+    64,
+    176,
+]
+frame_offset = [
+    60,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_66]
+pos = [
+    464,
+    812,
+]
+size = [
+    64,
+    158,
+]
+frame_offset = [
+    60,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_67]
+pos = [
+    833,
+    421,
+]
+size = [
+    64,
+    165,
+]
+frame_offset = [
+    60,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_68]
+pos = [
+    231,
+    892,
+]
+size = [
+    64,
+    125,
+]
+frame_offset = [
+    60,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_69]
+pos = [
+    899,
+    586,
+]
+size = [
+    63,
+    121,
+]
+frame_offset = [
+    60,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_70]
+pos = [
+    563,
+    404,
+]
+size = [
+    17,
+    80,
+]
+frame_offset = [
+    67,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_0]
+pos = [
+    0,
+    589,
+]
+size = [
+    87,
+    105,
+]
+frame_offset = [
+    41,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_1]
+pos = [
+    177,
+    606,
+]
+size = [
+    85,
+    115,
+]
+frame_offset = [
+    0,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_10]
+pos = [
+    421,
+    255,
+]
+size = [
+    98,
+    131,
+]
+frame_offset = [
+    14,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_11]
+pos = [
+    611,
+    367,
+]
+size = [
+    88,
+    130,
+]
+frame_offset = [
+    8,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_12]
+pos = [
+    0,
+    455,
+]
+size = [
+    87,
+    132,
+]
+frame_offset = [
+    30,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_13]
+pos = [
+    715,
+    0,
+]
+size = [
+    100,
+    131,
+]
+frame_offset = [
+    14,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_14]
+pos = [
+    817,
+    0,
+]
+size = [
+    98,
+    131,
+]
+frame_offset = [
+    14,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_15]
+pos = [
+    317,
+    251,
+]
+size = [
+    102,
+    131,
+]
+frame_offset = [
+    14,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_16]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    120,
+]
+frame_offset = [
+    1,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_17]
+pos = [
+    212,
+    244,
+]
+size = [
+    103,
+    120,
+]
+frame_offset = [
+    1,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_18]
+pos = [
+    0,
+    321,
+]
+size = [
+    103,
+    132,
+]
+frame_offset = [
+    2,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_19]
+pos = [
+    501,
+    133,
+]
+size = [
+    102,
+    120,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_2]
+pos = [
+    315,
+    384,
+]
+size = [
+    91,
+    104,
+]
+frame_offset = [
+    37,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_20]
+pos = [
+    128,
+    62,
+]
+size = [
+    122,
+    120,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_21]
+pos = [
+    611,
+    0,
+]
+size = [
+    102,
+    121,
+]
+frame_offset = [
+    22,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_22]
+pos = [
+    507,
+    0,
+]
+size = [
+    102,
+    131,
+]
+frame_offset = [
+    22,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_23]
+pos = [
+    0,
+    199,
+]
+size = [
+    104,
+    120,
+]
+frame_offset = [
+    23,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_24]
+pos = [
+    917,
+    0,
+]
+size = [
+    97,
+    172,
+]
+frame_offset = [
+    24,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_25]
+pos = [
+    611,
+    123,
+]
+size = [
+    98,
+    242,
+]
+frame_offset = [
+    27,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_26]
+pos = [
+    256,
+    0,
+]
+size = [
+    125,
+    242,
+]
+frame_offset = [
+    3,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_27]
+pos = [
+    811,
+    133,
+]
+size = [
+    96,
+    156,
+]
+frame_offset = [
+    0,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_28]
+pos = [
+    72,
+    885,
+]
+size = [
+    65,
+    65,
+]
+frame_offset = [
+    2,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_29]
+pos = [
+    349,
+    632,
+]
+size = [
+    65,
+    63,
+]
+frame_offset = [
+    60,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_3]
+pos = [
+    802,
+    291,
+]
+size = [
+    88,
+    128,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_30]
+pos = [
+    0,
+    122,
+]
+size = [
+    123,
+    75,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_31]
+pos = [
+    148,
+    824,
+]
+size = [
+    7,
+    45,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_32]
+pos = [
+    909,
+    174,
+]
+size = [
+    90,
+    256,
+]
+frame_offset = [
+    38,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_33]
+pos = [
+    892,
+    774,
+]
+size = [
+    55,
+    139,
+]
+frame_offset = [
+    64,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_34]
+pos = [
+    965,
+    432,
+]
+size = [
+    57,
+    140,
+]
+frame_offset = [
+    7,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_35]
+pos = [
+    521,
+    255,
+]
+size = [
+    88,
+    147,
+]
+frame_offset = [
+    0,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_36]
+pos = [
+    349,
+    565,
+]
+size = [
+    65,
+    65,
+]
+frame_offset = [
+    2,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_37]
+pos = [
+    68,
+    952,
+]
+size = [
+    65,
+    63,
+]
+frame_offset = [
+    60,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_38]
+pos = [
+    416,
+    565,
+]
+size = [
+    65,
+    65,
+]
+frame_offset = [
+    2,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_39]
+pos = [
+    332,
+    697,
+]
+size = [
+    65,
+    63,
+]
+frame_offset = [
+    60,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_4]
+pos = [
+    89,
+    455,
+]
+size = [
+    87,
+    126,
+]
+frame_offset = [
+    38,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_40]
+pos = [
+    163,
+    779,
+]
+size = [
+    66,
+    221,
+]
+frame_offset = [
+    5,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_41]
+pos = [
+    492,
+    404,
+]
+size = [
+    69,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_42]
+pos = [
+    827,
+    652,
+]
+size = [
+    63,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_43]
+pos = [
+    264,
+    667,
+]
+size = [
+    66,
+    223,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_44]
+pos = [
+    695,
+    576,
+]
+size = [
+    64,
+    101,
+]
+frame_offset = [
+    60,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_45]
+pos = [
+    680,
+    808,
+]
+size = [
+    63,
+    96,
+]
+frame_offset = [
+    60,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_46]
+pos = [
+    745,
+    851,
+]
+size = [
+    59,
+    64,
+]
+frame_offset = [
+    64,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_47]
+pos = [
+    892,
+    709,
+]
+size = [
+    59,
+    63,
+]
+frame_offset = [
+    6,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_48]
+pos = [
+    80,
+    824,
+]
+size = [
+    66,
+    59,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_49]
+pos = [
+    0,
+    945,
+]
+size = [
+    66,
+    59,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_5]
+pos = [
+    711,
+    264,
+]
+size = [
+    89,
+    132,
+]
+frame_offset = [
+    1,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_50]
+pos = [
+    249,
+    723,
+]
+size = [
+    7,
+    52,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_51]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    60,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_52]
+pos = [
+    680,
+    749,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_53]
+pos = [
+    530,
+    911,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    60,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_54]
+pos = [
+    212,
+    184,
+]
+size = [
+    7,
+    27,
+]
+frame_offset = [
+    59,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_55]
+pos = [
+    383,
+    0,
+]
+size = [
+    122,
+    72,
+]
+frame_offset = [
+    2,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_56]
+pos = [
+    89,
+    583,
+]
+size = [
+    86,
+    174,
+]
+frame_offset = [
+    32,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_57]
+pos = [
+    383,
+    74,
+]
+size = [
+    116,
+    175,
+]
+frame_offset = [
+    8,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_58]
+pos = [
+    106,
+    199,
+]
+size = [
+    104,
+    120,
+]
+frame_offset = [
+    23,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_59]
+pos = [
+    210,
+    366,
+]
+size = [
+    103,
+    120,
+]
+frame_offset = [
+    1,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_60]
+pos = [
+    265,
+    490,
+]
+size = [
+    82,
+    175,
+]
+frame_offset = [
+    11,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_61]
+pos = [
+    408,
+    388,
+]
+size = [
+    82,
+    175,
+]
+frame_offset = [
+    33,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_62]
+pos = [
+    0,
+    696,
+]
+size = [
+    85,
+    116,
+]
+frame_offset = [
+    1,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_63]
+pos = [
+    178,
+    488,
+]
+size = [
+    85,
+    116,
+]
+frame_offset = [
+    41,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_8]
+pos = [
+    105,
+    321,
+]
+size = [
+    103,
+    131,
+]
+frame_offset = [
+    9,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_9]
+pos = [
+    711,
+    133,
+]
+size = [
+    98,
+    129,
+]
+frame_offset = [
+    14,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_on_40]
+pos = [
+    781,
+    917,
+]
+size = [
+    55,
+    85,
+]
+frame_offset = [
+    11,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_on_41]
+pos = [
+    614,
+    677,
+]
+size = [
+    64,
+    90,
+]
+frame_offset = [
+    2,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_on_42]
+pos = [
+    596,
+    904,
+]
+size = [
+    61,
+    89,
+]
+frame_offset = [
+    2,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_on_43]
+pos = [
+    659,
+    906,
+]
+size = [
+    59,
+    87,
+]
+frame_offset = [
+    65,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_on_44]
+pos = [
+    899,
+    432,
+]
+size = [
+    64,
+    89,
+]
+frame_offset = [
+    60,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_zippee_01_on_45]
+pos = [
+    964,
+    693,
+]
+size = [
+    57,
+    87,
+]
+frame_offset = [
+    60,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]

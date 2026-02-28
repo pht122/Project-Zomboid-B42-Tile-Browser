@@ -1,0 +1,1755 @@
+[walls_exterior_roofs_30_20_10]
+pos = [
+    476,
+    867,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_11]
+pos = [
+    340,
+    916,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_12]
+pos = [
+    407,
+    948,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    1,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_13]
+pos = [
+    543,
+    984,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    1,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_16]
+pos = [
+    678,
+    984,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_17]
+pos = [
+    954,
+    784,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_18]
+pos = [
+    611,
+    920,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_19]
+pos = [
+    685,
+    852,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_20]
+pos = [
+    544,
+    820,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_21]
+pos = [
+    757,
+    492,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_24]
+pos = [
+    384,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_25]
+pos = [
+    69,
+    228,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_26]
+pos = [
+    345,
+    228,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_27]
+pos = [
+    591,
+    0,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_28]
+pos = [
+    729,
+    0,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_29]
+pos = [
+    69,
+    424,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_32]
+pos = [
+    204,
+    927,
+]
+size = [
+    66,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_33]
+pos = [
+    0,
+    948,
+]
+size = [
+    66,
+    66,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_34]
+pos = [
+    272,
+    916,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_35]
+pos = [
+    408,
+    816,
+]
+size = [
+    66,
+    130,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_36]
+pos = [
+    550,
+    524,
+]
+size = [
+    66,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_37]
+pos = [
+    272,
+    720,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_4]
+pos = [
+    408,
+    620,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_40]
+pos = [
+    0,
+    456,
+]
+size = [
+    67,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_41]
+pos = [
+    138,
+    424,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_42]
+pos = [
+    345,
+    392,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_43]
+pos = [
+    660,
+    0,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_44]
+pos = [
+    414,
+    228,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_45]
+pos = [
+    138,
+    228,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_48]
+pos = [
+    68,
+    948,
+]
+size = [
+    66,
+    66,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_49]
+pos = [
+    688,
+    556,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_5]
+pos = [
+    414,
+    392,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_50]
+pos = [
+    550,
+    688,
+]
+size = [
+    66,
+    130,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_51]
+pos = [
+    620,
+    460,
+]
+size = [
+    66,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_52]
+pos = [
+    689,
+    360,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_53]
+pos = [
+    68,
+    720,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_56]
+pos = [
+    824,
+    492,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    1,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_57]
+pos = [
+    618,
+    756,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_58]
+pos = [
+    891,
+    652,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_59]
+pos = [
+    819,
+    852,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_60]
+pos = [
+    819,
+    952,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    1,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_61]
+pos = [
+    745,
+    984,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    1,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_64]
+pos = [
+    954,
+    852,
+]
+size = [
+    65,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_65]
+pos = [
+    886,
+    884,
+]
+size = [
+    65,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_66]
+pos = [
+    887,
+    784,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_67]
+pos = [
+    752,
+    852,
+]
+size = [
+    65,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_68]
+pos = [
+    753,
+    688,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_69]
+pos = [
+    686,
+    656,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_72]
+pos = [
+    0,
+    228,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_73]
+pos = [
+    207,
+    228,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_74]
+pos = [
+    453,
+    0,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_75]
+pos = [
+    483,
+    164,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_76]
+pos = [
+    483,
+    296,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_77]
+pos = [
+    207,
+    424,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_8]
+pos = [
+    894,
+    456,
+]
+size = [
+    65,
+    194,
+]
+frame_offset = [
+    1,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_80]
+pos = [
+    204,
+    963,
+]
+size = [
+    66,
+    34,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_81]
+pos = [
+    136,
+    948,
+]
+size = [
+    66,
+    66,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_82]
+pos = [
+    476,
+    767,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_83]
+pos = [
+    618,
+    624,
+]
+size = [
+    66,
+    130,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_84]
+pos = [
+    482,
+    603,
+]
+size = [
+    66,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_85]
+pos = [
+    340,
+    720,
+]
+size = [
+    66,
+    194,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_88]
+pos = [
+    798,
+    0,
+]
+size = [
+    67,
+    34,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_89]
+pos = [
+    276,
+    424,
+]
+size = [
+    67,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_9]
+pos = [
+    820,
+    688,
+]
+size = [
+    65,
+    162,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_90]
+pos = [
+    621,
+    132,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_91]
+pos = [
+    552,
+    164,
+]
+size = [
+    67,
+    130,
+]
+frame_offset = [
+    60,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_92]
+pos = [
+    522,
+    0,
+]
+size = [
+    67,
+    162,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_roofs_30_20_93]
+pos = [
+    276,
+    228,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_0]
+pos = [
+    690,
+    132,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_1]
+pos = [
+    867,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_10]
+pos = [
+    798,
+    36,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_11]
+pos = [
+    621,
+    232,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_16]
+pos = [
+    1003,
+    197,
+]
+size = [
+    5,
+    196,
+]
+frame_offset = [
+    2,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_17]
+pos = [
+    978,
+    228,
+]
+size = [
+    5,
+    196,
+]
+frame_offset = [
+    61,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_18]
+pos = [
+    1010,
+    198,
+]
+size = [
+    5,
+    196,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_19]
+pos = [
+    985,
+    228,
+]
+size = [
+    5,
+    195,
+]
+frame_offset = [
+    119,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_2]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_20]
+pos = [
+    1003,
+    0,
+]
+size = [
+    8,
+    195,
+]
+frame_offset = [
+    59,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_24]
+pos = [
+    935,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_25]
+pos = [
+    758,
+    264,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_26]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    226,
+]
+
+[walls_exterior_wooden_01_27]
+pos = [
+    1013,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_28]
+pos = [
+    826,
+    264,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_29]
+pos = [
+    894,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_3]
+pos = [
+    970,
+    228,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_30]
+pos = [
+    256,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_31]
+pos = [
+    962,
+    228,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_32]
+pos = [
+    0,
+    492,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_33]
+pos = [
+    68,
+    492,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_34]
+pos = [
+    136,
+    492,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_35]
+pos = [
+    204,
+    492,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_36]
+pos = [
+    0,
+    720,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_4]
+pos = [
+    272,
+    492,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_5]
+pos = [
+    482,
+    396,
+]
+size = [
+    66,
+    205,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_6]
+pos = [
+    204,
+    720,
+]
+size = [
+    66,
+    205,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_7]
+pos = [
+    340,
+    492,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_8]
+pos = [
+    552,
+    296,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_01_9]
+pos = [
+    136,
+    720,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

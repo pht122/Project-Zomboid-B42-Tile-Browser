@@ -1,0 +1,1781 @@
+["books&misc_01_119"]
+pos = [
+    417,
+    863,
+]
+size = [
+    70,
+    141,
+]
+frame_offset = [
+    18,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_01_120"]
+pos = [
+    489,
+    863,
+]
+size = [
+    65,
+    88,
+]
+frame_offset = [
+    44,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_01_121"]
+pos = [
+    953,
+    611,
+]
+size = [
+    55,
+    87,
+]
+frame_offset = [
+    42,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_01_122"]
+pos = [
+    873,
+    695,
+]
+size = [
+    55,
+    87,
+]
+frame_offset = [
+    29,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_01_123"]
+pos = [
+    659,
+    693,
+]
+size = [
+    64,
+    88,
+]
+frame_offset = [
+    17,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_01_124"]
+pos = [
+    324,
+    935,
+]
+size = [
+    70,
+    85,
+]
+frame_offset = [
+    44,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_01_125"]
+pos = [
+    787,
+    816,
+]
+size = [
+    55,
+    87,
+]
+frame_offset = [
+    42,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_01_126"]
+pos = [
+    787,
+    905,
+]
+size = [
+    47,
+    77,
+]
+frame_offset = [
+    27,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_01_127"]
+pos = [
+    813,
+    590,
+]
+size = [
+    63,
+    83,
+]
+frame_offset = [
+    18,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_0"]
+pos = [
+    0,
+    203,
+]
+size = [
+    107,
+    108,
+]
+frame_offset = [
+    10,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_1"]
+pos = [
+    109,
+    350,
+]
+size = [
+    98,
+    103,
+]
+frame_offset = [
+    17,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_10"]
+pos = [
+    909,
+    186,
+]
+size = [
+    86,
+    187,
+]
+frame_offset = [
+    40,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_11"]
+pos = [
+    587,
+    693,
+]
+size = [
+    70,
+    117,
+]
+frame_offset = [
+    6,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_12"]
+pos = [
+    341,
+    811,
+]
+size = [
+    74,
+    122,
+]
+frame_offset = [
+    34,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_13"]
+pos = [
+    345,
+    486,
+]
+size = [
+    81,
+    129,
+]
+frame_offset = [
+    37,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_14"]
+pos = [
+    591,
+    569,
+]
+size = [
+    74,
+    122,
+]
+frame_offset = [
+    18,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_15"]
+pos = [
+    85,
+    753,
+]
+size = [
+    81,
+    129,
+]
+frame_offset = [
+    8,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_16"]
+pos = [
+    640,
+    111,
+]
+size = [
+    88,
+    179,
+]
+frame_offset = [
+    40,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_17"]
+pos = [
+    259,
+    652,
+]
+size = [
+    80,
+    178,
+]
+frame_offset = [
+    3,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_18"]
+pos = [
+    730,
+    283,
+]
+size = [
+    86,
+    225,
+]
+frame_offset = [
+    42,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_19"]
+pos = [
+    818,
+    310,
+]
+size = [
+    86,
+    154,
+]
+frame_offset = [
+    3,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_2"]
+pos = [
+    511,
+    460,
+]
+size = [
+    78,
+    113,
+]
+frame_offset = [
+    37,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_20"]
+pos = [
+    818,
+    466,
+]
+size = [
+    70,
+    122,
+]
+frame_offset = [
+    34,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_21"]
+pos = [
+    428,
+    529,
+]
+size = [
+    80,
+    129,
+]
+frame_offset = [
+    37,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_22"]
+pos = [
+    741,
+    605,
+]
+size = [
+    68,
+    122,
+]
+frame_offset = [
+    24,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_23"]
+pos = [
+    345,
+    617,
+]
+size = [
+    80,
+    129,
+]
+frame_offset = [
+    9,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_24"]
+pos = [
+    637,
+    292,
+]
+size = [
+    87,
+    180,
+]
+frame_offset = [
+    27,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_25"]
+pos = [
+    913,
+    0,
+]
+size = [
+    87,
+    184,
+]
+frame_offset = [
+    21,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_26"]
+pos = [
+    454,
+    0,
+]
+size = [
+    91,
+    224,
+]
+frame_offset = [
+    17,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_27"]
+pos = [
+    547,
+    0,
+]
+size = [
+    91,
+    184,
+]
+frame_offset = [
+    8,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_28"]
+pos = [
+    0,
+    721,
+]
+size = [
+    83,
+    177,
+]
+frame_offset = [
+    27,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_29"]
+pos = [
+    906,
+    375,
+]
+size = [
+    70,
+    177,
+]
+frame_offset = [
+    28,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_3"]
+pos = [
+    0,
+    900,
+]
+size = [
+    79,
+    112,
+]
+frame_offset = [
+    5,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_30"]
+pos = [
+    88,
+    455,
+]
+size = [
+    85,
+    182,
+]
+frame_offset = [
+    17,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_31"]
+pos = [
+    317,
+    313,
+]
+size = [
+    93,
+    171,
+]
+frame_offset = [
+    8,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_32"]
+pos = [
+    978,
+    375,
+]
+size = [
+    43,
+    58,
+]
+frame_offset = [
+    68,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_33"]
+pos = [
+    261,
+    486,
+]
+size = [
+    82,
+    81,
+]
+frame_offset = [
+    35,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_34"]
+pos = [
+    978,
+    495,
+]
+size = [
+    31,
+    55,
+]
+frame_offset = [
+    34,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_35"]
+pos = [
+    617,
+    949,
+]
+size = [
+    51,
+    59,
+]
+frame_offset = [
+    47,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_36"]
+pos = [
+    985,
+    700,
+]
+size = [
+    31,
+    55,
+]
+frame_offset = [
+    61,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_37"]
+pos = [
+    248,
+    832,
+]
+size = [
+    77,
+    81,
+]
+frame_offset = [
+    13,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_38"]
+pos = [
+    978,
+    435,
+]
+size = [
+    43,
+    58,
+]
+frame_offset = [
+    14,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_39"]
+pos = [
+    670,
+    949,
+]
+size = [
+    51,
+    59,
+]
+frame_offset = [
+    26,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_4"]
+pos = [
+    420,
+    756,
+]
+size = [
+    73,
+    105,
+]
+frame_offset = [
+    37,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_40"]
+pos = [
+    725,
+    729,
+]
+size = [
+    60,
+    201,
+]
+frame_offset = [
+    68,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_41"]
+pos = [
+    0,
+    0,
+]
+size = [
+    116,
+    201,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_42"]
+pos = [
+    551,
+    975,
+]
+size = [
+    27,
+    46,
+]
+frame_offset = [
+    38,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_43"]
+pos = [
+    723,
+    932,
+]
+size = [
+    51,
+    59,
+]
+frame_offset = [
+    47,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_44"]
+pos = [
+    617,
+    895,
+]
+size = [
+    27,
+    48,
+]
+frame_offset = [
+    61,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_45"]
+pos = [
+    261,
+    569,
+]
+size = [
+    82,
+    81,
+]
+frame_offset = [
+    14,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_46"]
+pos = [
+    844,
+    845,
+]
+size = [
+    41,
+    60,
+]
+frame_offset = [
+    17,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_47"]
+pos = [
+    873,
+    784,
+]
+size = [
+    51,
+    59,
+]
+frame_offset = [
+    26,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_48"]
+pos = [
+    732,
+    0,
+]
+size = [
+    89,
+    138,
+]
+frame_offset = [
+    39,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_49"]
+pos = [
+    342,
+    59,
+]
+size = [
+    107,
+    109,
+]
+frame_offset = [
+    2,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_5"]
+pos = [
+    85,
+    884,
+]
+size = [
+    79,
+    111,
+]
+frame_offset = [
+    5,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_50"]
+pos = [
+    230,
+    0,
+]
+size = [
+    110,
+    121,
+]
+frame_offset = [
+    9,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_51"]
+pos = [
+    168,
+    817,
+]
+size = [
+    78,
+    113,
+]
+frame_offset = [
+    6,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_52"]
+pos = [
+    0,
+    604,
+]
+size = [
+    85,
+    115,
+]
+frame_offset = [
+    34,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_53"]
+pos = [
+    0,
+    313,
+]
+size = [
+    107,
+    98,
+]
+frame_offset = [
+    2,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_54"]
+pos = [
+    109,
+    248,
+]
+size = [
+    106,
+    100,
+]
+frame_offset = [
+    9,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_55"]
+pos = [
+    230,
+    123,
+]
+size = [
+    109,
+    117,
+]
+frame_offset = [
+    7,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_56"]
+pos = [
+    341,
+    748,
+]
+size = [
+    77,
+    61,
+]
+frame_offset = [
+    3,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_57"]
+pos = [
+    428,
+    460,
+]
+size = [
+    81,
+    67,
+]
+frame_offset = [
+    37,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_58"]
+pos = [
+    953,
+    554,
+]
+size = [
+    56,
+    55,
+]
+frame_offset = [
+    22,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_59"]
+pos = [
+    506,
+    737,
+]
+size = [
+    71,
+    109,
+]
+frame_offset = [
+    38,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_60"]
+pos = [
+    547,
+    186,
+]
+size = [
+    88,
+    237,
+]
+frame_offset = [
+    35,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_61"]
+pos = [
+    930,
+    700,
+]
+size = [
+    53,
+    159,
+]
+frame_offset = [
+    34,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_62"]
+pos = [
+    438,
+    226,
+]
+size = [
+    89,
+    232,
+]
+frame_offset = [
+    39,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_63"]
+pos = [
+    341,
+    170,
+]
+size = [
+    95,
+    141,
+]
+frame_offset = [
+    0,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_64"]
+pos = [
+    823,
+    0,
+]
+size = [
+    88,
+    141,
+]
+frame_offset = [
+    25,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_65"]
+pos = [
+    890,
+    554,
+]
+size = [
+    61,
+    139,
+]
+frame_offset = [
+    28,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_66"]
+pos = [
+    811,
+    675,
+]
+size = [
+    60,
+    139,
+]
+frame_offset = [
+    37,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_67"]
+pos = [
+    730,
+    140,
+]
+size = [
+    88,
+    141,
+]
+frame_offset = [
+    13,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_68"]
+pos = [
+    175,
+    455,
+]
+size = [
+    84,
+    138,
+]
+frame_offset = [
+    25,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_69"]
+pos = [
+    659,
+    783,
+]
+size = [
+    61,
+    164,
+]
+frame_offset = [
+    28,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_70"]
+pos = [
+    820,
+    143,
+]
+size = [
+    87,
+    165,
+]
+frame_offset = [
+    8,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_71"]
+pos = [
+    0,
+    413,
+]
+size = [
+    86,
+    141,
+]
+frame_offset = [
+    13,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_72"]
+pos = [
+    591,
+    474,
+]
+size = [
+    76,
+    93,
+]
+frame_offset = [
+    24,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_73"]
+pos = [
+    87,
+    639,
+]
+size = [
+    83,
+    112,
+]
+frame_offset = [
+    16,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_74"]
+pos = [
+    669,
+    474,
+]
+size = [
+    59,
+    81,
+]
+frame_offset = [
+    23,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_75"]
+pos = [
+    579,
+    812,
+]
+size = [
+    64,
+    81,
+]
+frame_offset = [
+    40,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_76"]
+pos = [
+    175,
+    595,
+]
+size = [
+    82,
+    111,
+]
+frame_offset = [
+    23,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_77"]
+pos = [
+    427,
+    660,
+]
+size = [
+    77,
+    94,
+]
+frame_offset = [
+    22,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_8"]
+pos = [
+    640,
+    0,
+]
+size = [
+    90,
+    109,
+]
+frame_offset = [
+    36,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_80"]
+pos = [
+    741,
+    510,
+]
+size = [
+    70,
+    93,
+]
+frame_offset = [
+    26,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_81"]
+pos = [
+    248,
+    915,
+]
+size = [
+    74,
+    107,
+]
+frame_offset = [
+    24,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_82"]
+pos = [
+    556,
+    895,
+]
+size = [
+    59,
+    78,
+]
+frame_offset = [
+    25,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_83"]
+pos = [
+    489,
+    953,
+]
+size = [
+    60,
+    61,
+]
+frame_offset = [
+    42,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_84"]
+pos = [
+    172,
+    708,
+]
+size = [
+    81,
+    107,
+]
+frame_offset = [
+    25,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_85"]
+pos = [
+    510,
+    640,
+]
+size = [
+    75,
+    95,
+]
+frame_offset = [
+    26,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_88"]
+pos = [
+    342,
+    0,
+]
+size = [
+    110,
+    57,
+]
+frame_offset = [
+    8,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_89"]
+pos = [
+    118,
+    0,
+]
+size = [
+    110,
+    246,
+]
+frame_offset = [
+    6,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_9"]
+pos = [
+    667,
+    569,
+]
+size = [
+    72,
+    118,
+]
+frame_offset = [
+    10,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_90"]
+pos = [
+    166,
+    932,
+]
+size = [
+    74,
+    62,
+]
+frame_offset = [
+    14,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_91"]
+pos = [
+    261,
+    454,
+]
+size = [
+    25,
+    24,
+]
+frame_offset = [
+    12,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_92"]
+pos = [
+    217,
+    248,
+]
+size = [
+    98,
+    204,
+]
+frame_offset = [
+    12,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_93"]
+pos = [
+    288,
+    454,
+]
+size = [
+    25,
+    24,
+]
+frame_offset = [
+    89,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_94"]
+pos = [
+    510,
+    575,
+]
+size = [
+    78,
+    63,
+]
+frame_offset = [
+    35,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_95"]
+pos = [
+    0,
+    556,
+]
+size = [
+    86,
+    46,
+]
+frame_offset = [
+    32,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]

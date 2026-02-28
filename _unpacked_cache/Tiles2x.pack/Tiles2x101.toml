@@ -1,0 +1,1143 @@
+[location_business_office_generic_01_100]
+pos = [
+    518,
+    128,
+]
+size = [
+    126,
+    124,
+]
+frame_offset = [
+    2,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_101]
+pos = [
+    251,
+    867,
+]
+size = [
+    120,
+    125,
+]
+frame_offset = [
+    3,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_104]
+pos = [
+    618,
+    863,
+]
+size = [
+    118,
+    122,
+]
+frame_offset = [
+    9,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_105]
+pos = [
+    0,
+    257,
+]
+size = [
+    127,
+    126,
+]
+frame_offset = [
+    1,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_106]
+pos = [
+    634,
+    611,
+]
+size = [
+    119,
+    125,
+]
+frame_offset = [
+    4,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_107]
+pos = [
+    518,
+    0,
+]
+size = [
+    126,
+    126,
+]
+frame_offset = [
+    0,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_108]
+pos = [
+    876,
+    608,
+]
+size = [
+    118,
+    122,
+]
+frame_offset = [
+    0,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_112]
+pos = [
+    252,
+    612,
+]
+size = [
+    123,
+    126,
+]
+frame_offset = [
+    2,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_113]
+pos = [
+    773,
+    129,
+]
+size = [
+    125,
+    126,
+]
+frame_offset = [
+    0,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_114]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    127,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_115]
+pos = [
+    895,
+    352,
+]
+size = [
+    124,
+    128,
+]
+frame_offset = [
+    4,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_116]
+pos = [
+    375,
+    740,
+]
+size = [
+    120,
+    126,
+]
+frame_offset = [
+    3,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_120]
+pos = [
+    125,
+    894,
+]
+size = [
+    121,
+    124,
+]
+frame_offset = [
+    2,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_121]
+pos = [
+    768,
+    383,
+]
+size = [
+    125,
+    95,
+]
+frame_offset = [
+    1,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_122]
+pos = [
+    641,
+    484,
+]
+size = [
+    120,
+    125,
+]
+frame_offset = [
+    2,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_123]
+pos = [
+    0,
+    512,
+]
+size = [
+    124,
+    126,
+]
+frame_offset = [
+    3,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_124]
+pos = [
+    500,
+    638,
+]
+size = [
+    120,
+    123,
+]
+frame_offset = [
+    7,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_128]
+pos = [
+    738,
+    863,
+]
+size = [
+    117,
+    123,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_129]
+pos = [
+    514,
+    257,
+]
+size = [
+    125,
+    128,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_130]
+pos = [
+    774,
+    0,
+]
+size = [
+    125,
+    127,
+]
+frame_offset = [
+    3,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_131]
+pos = [
+    641,
+    386,
+]
+size = [
+    125,
+    96,
+]
+frame_offset = [
+    0,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_132]
+pos = [
+    386,
+    481,
+]
+size = [
+    123,
+    127,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_136]
+pos = [
+    373,
+    868,
+]
+size = [
+    120,
+    123,
+]
+frame_offset = [
+    8,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_137]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    126,
+]
+frame_offset = [
+    0,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_138]
+pos = [
+    377,
+    612,
+]
+size = [
+    121,
+    125,
+]
+frame_offset = [
+    3,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_139]
+pos = [
+    130,
+    129,
+]
+size = [
+    127,
+    126,
+]
+frame_offset = [
+    0,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_140]
+pos = [
+    622,
+    738,
+]
+size = [
+    119,
+    123,
+]
+frame_offset = [
+    0,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_144]
+pos = [
+    129,
+    257,
+]
+size = [
+    127,
+    126,
+]
+frame_offset = [
+    1,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_145]
+pos = [
+    260,
+    128,
+]
+size = [
+    128,
+    126,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_146]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    127,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_147]
+pos = [
+    646,
+    127,
+]
+size = [
+    125,
+    128,
+]
+frame_offset = [
+    3,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_148]
+pos = [
+    901,
+    0,
+]
+size = [
+    121,
+    126,
+]
+frame_offset = [
+    3,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_152]
+pos = [
+    0,
+    894,
+]
+size = [
+    123,
+    124,
+]
+frame_offset = [
+    1,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_153]
+pos = [
+    386,
+    384,
+]
+size = [
+    126,
+    95,
+]
+frame_offset = [
+    1,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_154]
+pos = [
+    252,
+    740,
+]
+size = [
+    121,
+    125,
+]
+frame_offset = [
+    2,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_155]
+pos = [
+    390,
+    129,
+]
+size = [
+    126,
+    126,
+]
+frame_offset = [
+    2,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_156]
+pos = [
+    511,
+    512,
+]
+size = [
+    121,
+    124,
+]
+frame_offset = [
+    6,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_160]
+pos = [
+    743,
+    738,
+]
+size = [
+    118,
+    123,
+]
+frame_offset = [
+    1,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_161]
+pos = [
+    258,
+    257,
+]
+size = [
+    126,
+    128,
+]
+frame_offset = [
+    1,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_162]
+pos = [
+    390,
+    0,
+]
+size = [
+    126,
+    127,
+]
+frame_offset = [
+    2,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_163]
+pos = [
+    258,
+    387,
+]
+size = [
+    126,
+    96,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_164]
+pos = [
+    641,
+    257,
+]
+size = [
+    125,
+    127,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_168]
+pos = [
+    863,
+    737,
+]
+size = [
+    118,
+    122,
+]
+frame_offset = [
+    9,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_169]
+pos = [
+    0,
+    385,
+]
+size = [
+    127,
+    125,
+]
+frame_offset = [
+    1,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_170]
+pos = [
+    129,
+    385,
+]
+size = [
+    127,
+    125,
+]
+frame_offset = [
+    1,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_171]
+pos = [
+    755,
+    611,
+]
+size = [
+    119,
+    124,
+]
+frame_offset = [
+    4,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_172]
+pos = [
+    386,
+    257,
+]
+size = [
+    126,
+    125,
+]
+frame_offset = [
+    0,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_173]
+pos = [
+    646,
+    0,
+]
+size = [
+    126,
+    125,
+]
+frame_offset = [
+    0,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_174]
+pos = [
+    495,
+    890,
+]
+size = [
+    119,
+    122,
+]
+frame_offset = [
+    0,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_176]
+pos = [
+    126,
+    767,
+]
+size = [
+    123,
+    125,
+]
+frame_offset = [
+    2,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_177]
+pos = [
+    258,
+    485,
+]
+size = [
+    124,
+    125,
+]
+frame_offset = [
+    0,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_178]
+pos = [
+    126,
+    640,
+]
+size = [
+    124,
+    125,
+]
+frame_offset = [
+    0,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_179]
+pos = [
+    0,
+    129,
+]
+size = [
+    128,
+    126,
+]
+
+[location_business_office_generic_01_180]
+pos = [
+    126,
+    512,
+]
+size = [
+    124,
+    126,
+]
+frame_offset = [
+    3,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_181]
+pos = [
+    0,
+    640,
+]
+size = [
+    124,
+    126,
+]
+frame_offset = [
+    3,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_182]
+pos = [
+    497,
+    763,
+]
+size = [
+    119,
+    125,
+]
+frame_offset = [
+    3,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_184]
+pos = [
+    900,
+    129,
+]
+size = [
+    121,
+    123,
+]
+frame_offset = [
+    2,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_185]
+pos = [
+    514,
+    387,
+]
+size = [
+    125,
+    123,
+]
+frame_offset = [
+    1,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_186]
+pos = [
+    895,
+    257,
+]
+size = [
+    125,
+    93,
+]
+frame_offset = [
+    1,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_187]
+pos = [
+    885,
+    482,
+]
+size = [
+    119,
+    124,
+]
+frame_offset = [
+    2,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_188]
+pos = [
+    768,
+    257,
+]
+size = [
+    125,
+    124,
+]
+frame_offset = [
+    2,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_189]
+pos = [
+    0,
+    768,
+]
+size = [
+    124,
+    124,
+]
+frame_offset = [
+    2,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_98]
+pos = [
+    857,
+    863,
+]
+size = [
+    117,
+    120,
+]
+frame_offset = [
+    0,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_business_office_generic_01_99]
+pos = [
+    763,
+    484,
+]
+size = [
+    120,
+    121,
+]
+frame_offset = [
+    8,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]

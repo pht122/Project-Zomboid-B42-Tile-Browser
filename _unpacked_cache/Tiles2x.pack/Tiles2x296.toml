@@ -1,0 +1,1251 @@
+[walls_exterior_wooden_02_20]
+pos = [
+    680,
+    655,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_21]
+pos = [
+    612,
+    750,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_22]
+pos = [
+    816,
+    547,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_wooden_02_23]
+pos = [
+    950,
+    456,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_0]
+pos = [
+    204,
+    258,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_1]
+pos = [
+    204,
+    486,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_10]
+pos = [
+    476,
+    456,
+]
+size = [
+    66,
+    212,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_11]
+pos = [
+    272,
+    713,
+]
+size = [
+    66,
+    212,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_12]
+pos = [
+    544,
+    659,
+]
+size = [
+    66,
+    91,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_13]
+pos = [
+    0,
+    228,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_16]
+pos = [
+    340,
+    258,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_17]
+pos = [
+    748,
+    549,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_18]
+pos = [
+    68,
+    486,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_19]
+pos = [
+    136,
+    486,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_2]
+pos = [
+    272,
+    486,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_20]
+pos = [
+    884,
+    456,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_21]
+pos = [
+    408,
+    258,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_22]
+pos = [
+    204,
+    228,
+]
+size = [
+    17,
+    16,
+]
+frame_offset = [
+    11,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_24]
+pos = [
+    460,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_25]
+pos = [
+    340,
+    916,
+]
+size = [
+    66,
+    89,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_26]
+pos = [
+    544,
+    456,
+]
+size = [
+    66,
+    201,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_27]
+pos = [
+    340,
+    713,
+]
+size = [
+    66,
+    201,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_28]
+pos = [
+    612,
+    659,
+]
+size = [
+    66,
+    89,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_29]
+pos = [
+    528,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_3]
+pos = [
+    68,
+    713,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_30]
+pos = [
+    223,
+    228,
+]
+size = [
+    17,
+    16,
+]
+frame_offset = [
+    11,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_32]
+pos = [
+    596,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_33]
+pos = [
+    664,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_34]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    226,
+]
+
+[walls_garage_01_35]
+pos = [
+    1004,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_36]
+pos = [
+    732,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_37]
+pos = [
+    476,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_38]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_39]
+pos = [
+    1012,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_4]
+pos = [
+    340,
+    486,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_40]
+pos = [
+    256,
+    0,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_41]
+pos = [
+    68,
+    228,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_42]
+pos = [
+    544,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_43]
+pos = [
+    800,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_44]
+pos = [
+    324,
+    0,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_45]
+pos = [
+    136,
+    228,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_46]
+pos = [
+    612,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_47]
+pos = [
+    868,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_48]
+pos = [
+    680,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_49]
+pos = [
+    746,
+    777,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_5]
+pos = [
+    816,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_50]
+pos = [
+    812,
+    777,
+]
+size = [
+    64,
+    225,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_51]
+pos = [
+    948,
+    684,
+]
+size = [
+    64,
+    225,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_52]
+pos = [
+    882,
+    684,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_53]
+pos = [
+    936,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_54]
+pos = [
+    204,
+    246,
+]
+size = [
+    2,
+    7,
+]
+frame_offset = [
+    72,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_56]
+pos = [
+    748,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_57]
+pos = [
+    816,
+    456,
+]
+size = [
+    66,
+    89,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_58]
+pos = [
+    612,
+    456,
+]
+size = [
+    66,
+    201,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_59]
+pos = [
+    408,
+    712,
+]
+size = [
+    66,
+    201,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_60]
+pos = [
+    544,
+    752,
+]
+size = [
+    66,
+    89,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_61]
+pos = [
+    952,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_8]
+pos = [
+    392,
+    0,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_01_9]
+pos = [
+    748,
+    456,
+]
+size = [
+    66,
+    91,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_0]
+pos = [
+    272,
+    258,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_1]
+pos = [
+    0,
+    714,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_10]
+pos = [
+    680,
+    456,
+]
+size = [
+    66,
+    197,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_11]
+pos = [
+    476,
+    670,
+]
+size = [
+    66,
+    197,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_12]
+pos = [
+    68,
+    940,
+]
+size = [
+    66,
+    69,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_2]
+pos = [
+    408,
+    486,
+]
+size = [
+    66,
+    224,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_3]
+pos = [
+    204,
+    713,
+]
+size = [
+    66,
+    224,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_4]
+pos = [
+    136,
+    713,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_5]
+pos = [
+    884,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_8]
+pos = [
+    0,
+    486,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_garage_02_9]
+pos = [
+    136,
+    940,
+]
+size = [
+    66,
+    69,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

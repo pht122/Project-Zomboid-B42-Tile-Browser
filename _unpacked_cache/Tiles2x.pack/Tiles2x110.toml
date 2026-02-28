@@ -1,0 +1,1817 @@
+[location_community_police_01_1]
+pos = [
+    140,
+    511,
+]
+size = [
+    68,
+    227,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_10]
+pos = [
+    0,
+    449,
+]
+size = [
+    68,
+    227,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_11]
+pos = [
+    70,
+    511,
+]
+size = [
+    68,
+    227,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_16]
+pos = [
+    198,
+    445,
+]
+size = [
+    50,
+    52,
+]
+frame_offset = [
+    74,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_17]
+pos = [
+    416,
+    840,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    60,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_18]
+pos = [
+    138,
+    968,
+]
+size = [
+    44,
+    53,
+]
+frame_offset = [
+    60,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_19]
+pos = [
+    70,
+    449,
+]
+size = [
+    54,
+    53,
+]
+frame_offset = [
+    12,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_2]
+pos = [
+    385,
+    0,
+]
+size = [
+    125,
+    227,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_20]
+pos = [
+    276,
+    960,
+]
+size = [
+    64,
+    61,
+]
+frame_offset = [
+    2,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_21]
+pos = [
+    977,
+    663,
+]
+size = [
+    40,
+    51,
+]
+frame_offset = [
+    2,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_24]
+pos = [
+    257,
+    0,
+]
+size = [
+    126,
+    111,
+]
+frame_offset = [
+    0,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_25]
+pos = [
+    127,
+    337,
+]
+size = [
+    124,
+    106,
+]
+frame_offset = [
+    0,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_26]
+pos = [
+    0,
+    340,
+]
+size = [
+    124,
+    107,
+]
+frame_offset = [
+    2,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_27]
+pos = [
+    257,
+    113,
+]
+size = [
+    126,
+    111,
+]
+frame_offset = [
+    0,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_28]
+pos = [
+    0,
+    0,
+]
+size = [
+    127,
+    107,
+]
+frame_offset = [
+    1,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_29]
+pos = [
+    0,
+    226,
+]
+size = [
+    125,
+    112,
+]
+frame_offset = [
+    0,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_3]
+pos = [
+    989,
+    716,
+]
+size = [
+    11,
+    198,
+]
+frame_offset = [
+    57,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_30]
+pos = [
+    0,
+    109,
+]
+size = [
+    126,
+    115,
+]
+frame_offset = [
+    2,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_31]
+pos = [
+    127,
+    228,
+]
+size = [
+    124,
+    107,
+]
+frame_offset = [
+    2,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_32]
+pos = [
+    726,
+    121,
+]
+size = [
+    102,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_33]
+pos = [
+    595,
+    243,
+]
+size = [
+    103,
+    120,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_34]
+pos = [
+    378,
+    229,
+]
+size = [
+    108,
+    122,
+]
+frame_offset = [
+    18,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_35]
+pos = [
+    830,
+    121,
+]
+size = [
+    102,
+    256,
+]
+frame_offset = [
+    24,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_36]
+pos = [
+    733,
+    379,
+]
+size = [
+    66,
+    157,
+]
+frame_offset = [
+    50,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_37]
+pos = [
+    573,
+    434,
+]
+size = [
+    66,
+    181,
+]
+frame_offset = [
+    8,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_38]
+pos = [
+    348,
+    707,
+]
+size = [
+    66,
+    161,
+]
+frame_offset = [
+    10,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_39]
+pos = [
+    278,
+    797,
+]
+size = [
+    66,
+    161,
+]
+frame_offset = [
+    48,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_4]
+pos = [
+    688,
+    671,
+]
+size = [
+    52,
+    180,
+]
+frame_offset = [
+    9,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_40]
+pos = [
+    843,
+    799,
+]
+size = [
+    47,
+    151,
+]
+frame_offset = [
+    12,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_41]
+pos = [
+    977,
+    560,
+]
+size = [
+    45,
+    101,
+]
+frame_offset = [
+    69,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_42]
+pos = [
+    934,
+    228,
+]
+size = [
+    76,
+    216,
+]
+frame_offset = [
+    16,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_43]
+pos = [
+    940,
+    0,
+]
+size = [
+    80,
+    226,
+]
+frame_offset = [
+    28,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_5]
+pos = [
+    923,
+    560,
+]
+size = [
+    52,
+    180,
+]
+frame_offset = [
+    65,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_6]
+pos = [
+    867,
+    509,
+]
+size = [
+    54,
+    180,
+]
+frame_offset = [
+    54,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_police_01_7]
+pos = [
+    775,
+    579,
+]
+size = [
+    54,
+    179,
+]
+frame_offset = [
+    18,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_0]
+pos = [
+    280,
+    569,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_1]
+pos = [
+    140,
+    740,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_10]
+pos = [
+    210,
+    641,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_11]
+pos = [
+    350,
+    479,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_12]
+pos = [
+    378,
+    353,
+]
+size = [
+    107,
+    124,
+]
+frame_offset = [
+    6,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_13]
+pos = [
+    833,
+    0,
+]
+size = [
+    105,
+    117,
+]
+frame_offset = [
+    13,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_14]
+pos = [
+    619,
+    121,
+]
+size = [
+    105,
+    118,
+]
+frame_offset = [
+    8,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_15]
+pos = [
+    619,
+    0,
+]
+size = [
+    105,
+    119,
+]
+frame_offset = [
+    13,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_16]
+pos = [
+    708,
+    885,
+]
+size = [
+    46,
+    124,
+]
+frame_offset = [
+    20,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_17]
+pos = [
+    484,
+    734,
+]
+size = [
+    64,
+    164,
+]
+frame_offset = [
+    2,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_18]
+pos = [
+    550,
+    848,
+]
+size = [
+    51,
+    125,
+]
+frame_offset = [
+    0,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_19]
+pos = [
+    742,
+    760,
+]
+size = [
+    49,
+    123,
+]
+frame_offset = [
+    75,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_2]
+pos = [
+    129,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_20]
+pos = [
+    554,
+    683,
+]
+size = [
+    64,
+    163,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_21]
+pos = [
+    756,
+    885,
+]
+size = [
+    46,
+    124,
+]
+frame_offset = [
+    60,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_22]
+pos = [
+    793,
+    760,
+]
+size = [
+    48,
+    107,
+]
+frame_offset = [
+    76,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_23]
+pos = [
+    413,
+    905,
+]
+size = [
+    58,
+    112,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_24]
+pos = [
+    482,
+    900,
+]
+size = [
+    51,
+    121,
+]
+frame_offset = [
+    75,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_25]
+pos = [
+    801,
+    446,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    62,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_26]
+pos = [
+    893,
+    742,
+]
+size = [
+    46,
+    120,
+]
+frame_offset = [
+    62,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_27]
+pos = [
+    941,
+    742,
+]
+size = [
+    46,
+    120,
+]
+frame_offset = [
+    18,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_28]
+pos = [
+    709,
+    538,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_29]
+pos = [
+    603,
+    866,
+]
+size = [
+    51,
+    121,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_3]
+pos = [
+    1012,
+    228,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_30]
+pos = [
+    928,
+    446,
+]
+size = [
+    58,
+    112,
+]
+frame_offset = [
+    8,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_31]
+pos = [
+    843,
+    691,
+]
+size = [
+    48,
+    106,
+]
+frame_offset = [
+    2,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_32]
+pos = [
+    988,
+    488,
+]
+size = [
+    33,
+    42,
+]
+frame_offset = [
+    68,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_33]
+pos = [
+    339,
+    427,
+]
+size = [
+    34,
+    42,
+]
+frame_offset = [
+    25,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_34]
+pos = [
+    988,
+    446,
+]
+size = [
+    34,
+    40,
+]
+frame_offset = [
+    17,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_35]
+pos = [
+    535,
+    975,
+]
+size = [
+    33,
+    40,
+]
+frame_offset = [
+    76,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_36]
+pos = [
+    487,
+    363,
+]
+size = [
+    84,
+    72,
+]
+frame_offset = [
+    36,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_37]
+pos = [
+    253,
+    427,
+]
+size = [
+    84,
+    74,
+]
+frame_offset = [
+    6,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_38]
+pos = [
+    487,
+    437,
+]
+size = [
+    84,
+    67,
+]
+frame_offset = [
+    2,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_39]
+pos = [
+    573,
+    365,
+]
+size = [
+    84,
+    67,
+]
+frame_offset = [
+    43,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_4]
+pos = [
+    512,
+    122,
+]
+size = [
+    105,
+    119,
+]
+frame_offset = [
+    8,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_40]
+pos = [
+    867,
+    446,
+]
+size = [
+    59,
+    61,
+]
+frame_offset = [
+    65,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_41]
+pos = [
+    280,
+    503,
+]
+size = [
+    68,
+    64,
+]
+frame_offset = [
+    56,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_42]
+pos = [
+    210,
+    575,
+]
+size = [
+    68,
+    64,
+]
+frame_offset = [
+    56,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_43]
+pos = [
+    210,
+    503,
+]
+size = [
+    68,
+    70,
+]
+frame_offset = [
+    56,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_44]
+pos = [
+    126,
+    445,
+]
+size = [
+    70,
+    64,
+]
+frame_offset = [
+    56,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_45]
+pos = [
+    70,
+    740,
+]
+size = [
+    68,
+    63,
+]
+frame_offset = [
+    56,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_46]
+pos = [
+    0,
+    807,
+]
+size = [
+    68,
+    64,
+]
+frame_offset = [
+    56,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_47]
+pos = [
+    869,
+    379,
+]
+size = [
+    62,
+    64,
+]
+frame_offset = [
+    56,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_48]
+pos = [
+    346,
+    870,
+]
+size = [
+    65,
+    64,
+]
+frame_offset = [
+    3,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_49]
+pos = [
+    554,
+    617,
+]
+size = [
+    66,
+    64,
+]
+frame_offset = [
+    2,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_5]
+pos = [
+    488,
+    243,
+]
+size = [
+    105,
+    118,
+]
+frame_offset = [
+    13,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_50]
+pos = [
+    416,
+    774,
+]
+size = [
+    66,
+    64,
+]
+frame_offset = [
+    2,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_51]
+pos = [
+    416,
+    707,
+]
+size = [
+    66,
+    65,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_52]
+pos = [
+    641,
+    473,
+]
+size = [
+    66,
+    65,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_53]
+pos = [
+    801,
+    379,
+]
+size = [
+    66,
+    65,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_54]
+pos = [
+    641,
+    540,
+]
+size = [
+    66,
+    65,
+]
+frame_offset = [
+    2,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_55]
+pos = [
+    346,
+    936,
+]
+size = [
+    62,
+    60,
+]
+frame_offset = [
+    2,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_56]
+pos = [
+    656,
+    866,
+]
+size = [
+    50,
+    111,
+]
+frame_offset = [
+    18,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_57]
+pos = [
+    0,
+    873,
+]
+size = [
+    66,
+    118,
+]
+frame_offset = [
+    2,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_58]
+pos = [
+    253,
+    228,
+]
+size = [
+    123,
+    197,
+]
+frame_offset = [
+    2,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_59]
+pos = [
+    208,
+    869,
+]
+size = [
+    66,
+    118,
+]
+frame_offset = [
+    2,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_6]
+pos = [
+    726,
+    0,
+]
+size = [
+    105,
+    119,
+]
+frame_offset = [
+    8,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_60]
+pos = [
+    831,
+    579,
+]
+size = [
+    34,
+    102,
+]
+frame_offset = [
+    3,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_61]
+pos = [
+    659,
+    379,
+]
+size = [
+    72,
+    92,
+]
+frame_offset = [
+    52,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_62]
+pos = [
+    0,
+    678,
+]
+size = [
+    68,
+    127,
+]
+frame_offset = [
+    56,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_63]
+pos = [
+    620,
+    753,
+]
+size = [
+    57,
+    111,
+]
+frame_offset = [
+    56,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_64]
+pos = [
+    70,
+    805,
+]
+size = [
+    66,
+    189,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_65]
+pos = [
+    622,
+    617,
+]
+size = [
+    64,
+    134,
+]
+frame_offset = [
+    2,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_7]
+pos = [
+    512,
+    0,
+]
+size = [
+    105,
+    120,
+]
+frame_offset = [
+    13,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_8]
+pos = [
+    418,
+    479,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_01_9]
+pos = [
+    486,
+    506,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

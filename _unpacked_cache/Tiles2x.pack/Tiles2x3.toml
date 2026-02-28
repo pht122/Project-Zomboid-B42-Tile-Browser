@@ -1,0 +1,683 @@
+[Smoke_03_13]
+pos = [
+    520,
+    0,
+]
+size = [
+    128,
+    221,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_14]
+pos = [
+    390,
+    224,
+]
+size = [
+    128,
+    221,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_15]
+pos = [
+    0,
+    449,
+]
+size = [
+    128,
+    219,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_16]
+pos = [
+    390,
+    447,
+]
+size = [
+    128,
+    218,
+]
+frame_offset = [
+    0,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_17]
+pos = [
+    260,
+    669,
+]
+size = [
+    128,
+    218,
+]
+frame_offset = [
+    0,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_18]
+pos = [
+    520,
+    446,
+]
+size = [
+    128,
+    218,
+]
+frame_offset = [
+    0,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_19]
+pos = [
+    650,
+    0,
+]
+size = [
+    128,
+    221,
+]
+frame_offset = [
+    0,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_2]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    222,
+]
+frame_offset = [
+    0,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_20]
+pos = [
+    390,
+    667,
+]
+size = [
+    128,
+    218,
+]
+frame_offset = [
+    0,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_21]
+pos = [
+    650,
+    223,
+]
+size = [
+    128,
+    220,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_22]
+pos = [
+    130,
+    449,
+]
+size = [
+    128,
+    219,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_23]
+pos = [
+    0,
+    670,
+]
+size = [
+    128,
+    219,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_24]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    223,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_25]
+pos = [
+    0,
+    225,
+]
+size = [
+    128,
+    222,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_26]
+pos = [
+    260,
+    448,
+]
+size = [
+    128,
+    219,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_27]
+pos = [
+    780,
+    223,
+]
+size = [
+    128,
+    220,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_28]
+pos = [
+    130,
+    225,
+]
+size = [
+    128,
+    222,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_29]
+pos = [
+    260,
+    224,
+]
+size = [
+    128,
+    222,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_3]
+pos = [
+    390,
+    0,
+]
+size = [
+    128,
+    222,
+]
+frame_offset = [
+    0,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_4]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    223,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_5]
+pos = [
+    520,
+    223,
+]
+size = [
+    128,
+    221,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_6]
+pos = [
+    520,
+    666,
+]
+size = [
+    127,
+    220,
+]
+frame_offset = [
+    1,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_7]
+pos = [
+    779,
+    445,
+]
+size = [
+    127,
+    220,
+]
+frame_offset = [
+    1,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_8]
+pos = [
+    130,
+    670,
+]
+size = [
+    128,
+    219,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_03_9]
+pos = [
+    780,
+    0,
+]
+size = [
+    128,
+    221,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[TileIndieStoneTentBackLeft]
+pos = [
+    975,
+    233,
+]
+size = [
+    45,
+    56,
+]
+frame_offset = [
+    1,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[TileIndieStoneTentBackRight]
+pos = [
+    910,
+    354,
+]
+size = [
+    40,
+    55,
+]
+frame_offset = [
+    18,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[TileIndieStoneTentFrontLeft]
+pos = [
+    910,
+    295,
+]
+size = [
+    61,
+    57,
+]
+frame_offset = [
+    0,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[TileIndieStoneTentFrontRight]
+pos = [
+    910,
+    233,
+]
+size = [
+    63,
+    60,
+]
+frame_offset = [
+    0,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[TileThuztorSymbolDisease_0]
+pos = [
+    65,
+    891,
+]
+size = [
+    20,
+    20,
+]
+frame_offset = [
+    7,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[TileThuztorSymbolPIXEL_0]
+pos = [
+    0,
+    891,
+]
+size = [
+    39,
+    23,
+]
+frame_offset = [
+    11,
+    101,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[TileThuztorSymbolPests_0]
+pos = [
+    41,
+    891,
+]
+size = [
+    22,
+    24,
+]
+frame_offset = [
+    37,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[TileThuztorSymbolWaterDrop_0]
+pos = [
+    87,
+    891,
+]
+size = [
+    15,
+    24,
+]
+frame_offset = [
+    24,
+    17,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[advertising_01_0]
+pos = [
+    910,
+    0,
+]
+size = [
+    112,
+    231,
+]
+frame_offset = [
+    5,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_1]
+pos = [
+    779,
+    667,
+]
+size = [
+    116,
+    235,
+]
+frame_offset = [
+    0,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_2]
+pos = [
+    650,
+    445,
+]
+size = [
+    127,
+    236,
+]
+frame_offset = [
+    0,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_3]
+pos = [
+    649,
+    683,
+]
+size = [
+    118,
+    241,
+]
+frame_offset = [
+    0,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_4]
+pos = [
+    897,
+    667,
+]
+size = [
+    116,
+    235,
+]
+frame_offset = [
+    0,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]

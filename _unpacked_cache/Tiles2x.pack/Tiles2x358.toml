@@ -1,0 +1,1439 @@
+[walls_logs_10]
+pos = [
+    0,
+    195,
+]
+size = [
+    96,
+    227,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_11]
+pos = [
+    138,
+    626,
+]
+size = [
+    65,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_12]
+pos = [
+    981,
+    0,
+]
+size = [
+    34,
+    201,
+]
+frame_offset = [
+    53,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_13]
+pos = [
+    897,
+    751,
+]
+size = [
+    43,
+    198,
+]
+frame_offset = [
+    43,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_16]
+pos = [
+    543,
+    668,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    2,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_17]
+pos = [
+    205,
+    827,
+]
+size = [
+    64,
+    169,
+]
+frame_offset = [
+    2,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_18]
+pos = [
+    275,
+    704,
+]
+size = [
+    64,
+    227,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_19]
+pos = [
+    344,
+    636,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_20]
+pos = [
+    570,
+    198,
+]
+size = [
+    77,
+    162,
+]
+frame_offset = [
+    47,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_21]
+pos = [
+    187,
+    358,
+]
+size = [
+    75,
+    98,
+]
+frame_offset = [
+    49,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_22]
+pos = [
+    710,
+    473,
+]
+size = [
+    64,
+    117,
+]
+frame_offset = [
+    60,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_23]
+pos = [
+    271,
+    933,
+]
+size = [
+    64,
+    53,
+]
+frame_offset = [
+    60,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_24]
+pos = [
+    476,
+    799,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    2,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_25]
+pos = [
+    134,
+    854,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    2,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_26]
+pos = [
+    411,
+    538,
+]
+size = [
+    64,
+    197,
+]
+frame_offset = [
+    2,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_27]
+pos = [
+    512,
+    470,
+]
+size = [
+    64,
+    195,
+]
+frame_offset = [
+    60,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_28]
+pos = [
+    477,
+    667,
+]
+size = [
+    64,
+    130,
+]
+frame_offset = [
+    60,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_29]
+pos = [
+    609,
+    668,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_3]
+pos = [
+    259,
+    100,
+]
+size = [
+    95,
+    256,
+]
+frame_offset = [
+    26,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_30]
+pos = [
+    341,
+    864,
+]
+size = [
+    64,
+    115,
+]
+frame_offset = [
+    2,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_31]
+pos = [
+    67,
+    945,
+]
+size = [
+    64,
+    51,
+]
+frame_offset = [
+    2,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_32]
+pos = [
+    644,
+    473,
+]
+size = [
+    64,
+    181,
+]
+frame_offset = [
+    2,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_33]
+pos = [
+    410,
+    737,
+]
+size = [
+    64,
+    180,
+]
+frame_offset = [
+    60,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_35]
+pos = [
+    831,
+    782,
+]
+size = [
+    45,
+    172,
+]
+frame_offset = [
+    42,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_36]
+pos = [
+    782,
+    768,
+]
+size = [
+    47,
+    181,
+]
+frame_offset = [
+    44,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_37]
+pos = [
+    775,
+    599,
+]
+size = [
+    60,
+    167,
+]
+frame_offset = [
+    27,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_38]
+pos = [
+    570,
+    0,
+]
+size = [
+    87,
+    196,
+]
+frame_offset = [
+    0,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_39]
+pos = [
+    445,
+    239,
+]
+size = [
+    84,
+    194,
+]
+frame_offset = [
+    44,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_4]
+pos = [
+    659,
+    0,
+]
+size = [
+    85,
+    256,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_40]
+pos = [
+    897,
+    571,
+]
+size = [
+    50,
+    178,
+]
+frame_offset = [
+    8,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_41]
+pos = [
+    949,
+    569,
+]
+size = [
+    50,
+    177,
+]
+frame_offset = [
+    68,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_42]
+pos = [
+    672,
+    737,
+]
+size = [
+    58,
+    215,
+]
+frame_offset = [
+    52,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_43]
+pos = [
+    837,
+    599,
+]
+size = [
+    58,
+    181,
+]
+frame_offset = [
+    16,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_46]
+pos = [
+    98,
+    200,
+]
+size = [
+    4,
+    2,
+]
+frame_offset = [
+    61,
+    253,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_47]
+pos = [
+    98,
+    195,
+]
+size = [
+    13,
+    3,
+]
+frame_offset = [
+    57,
+    253,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_48]
+pos = [
+    98,
+    230,
+]
+size = [
+    87,
+    228,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_49]
+pos = [
+    829,
+    0,
+]
+size = [
+    74,
+    228,
+]
+frame_offset = [
+    53,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_5]
+pos = [
+    746,
+    0,
+]
+size = [
+    81,
+    237,
+]
+frame_offset = [
+    43,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_50]
+pos = [
+    356,
+    239,
+]
+size = [
+    87,
+    228,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_51]
+pos = [
+    905,
+    0,
+]
+size = [
+    74,
+    228,
+]
+frame_offset = [
+    53,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_52]
+pos = [
+    481,
+    0,
+]
+size = [
+    87,
+    228,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_53]
+pos = [
+    868,
+    230,
+]
+size = [
+    69,
+    228,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_54]
+pos = [
+    130,
+    0,
+]
+size = [
+    127,
+    228,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_55]
+pos = [
+    732,
+    768,
+]
+size = [
+    48,
+    200,
+]
+frame_offset = [
+    24,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_56]
+pos = [
+    445,
+    435,
+]
+size = [
+    65,
+    101,
+]
+frame_offset = [
+    1,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_57]
+pos = [
+    344,
+    469,
+]
+size = [
+    65,
+    165,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_58]
+pos = [
+    276,
+    475,
+]
+size = [
+    66,
+    227,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_59]
+pos = [
+    939,
+    230,
+]
+size = [
+    67,
+    227,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_60]
+pos = [
+    138,
+    460,
+]
+size = [
+    67,
+    164,
+]
+frame_offset = [
+    60,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_61]
+pos = [
+    205,
+    725,
+]
+size = [
+    65,
+    100,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_62]
+pos = [
+    69,
+    642,
+]
+size = [
+    67,
+    117,
+]
+frame_offset = [
+    60,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_63]
+pos = [
+    776,
+    491,
+]
+size = [
+    64,
+    53,
+]
+frame_offset = [
+    61,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_64]
+pos = [
+    67,
+    878,
+]
+size = [
+    65,
+    65,
+]
+frame_offset = [
+    0,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_65]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    193,
+]
+frame_offset = [
+    0,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_66]
+pos = [
+    578,
+    473,
+]
+size = [
+    64,
+    193,
+]
+frame_offset = [
+    0,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_67]
+pos = [
+    0,
+    424,
+]
+size = [
+    67,
+    194,
+]
+frame_offset = [
+    60,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_68]
+pos = [
+    0,
+    620,
+]
+size = [
+    67,
+    131,
+]
+frame_offset = [
+    60,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_69]
+pos = [
+    207,
+    475,
+]
+size = [
+    67,
+    68,
+]
+frame_offset = [
+    61,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_70]
+pos = [
+    67,
+    761,
+]
+size = [
+    65,
+    115,
+]
+frame_offset = [
+    0,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_71]
+pos = [
+    776,
+    546,
+]
+size = [
+    63,
+    51,
+]
+frame_offset = [
+    0,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_72]
+pos = [
+    207,
+    545,
+]
+size = [
+    66,
+    178,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_73]
+pos = [
+    69,
+    460,
+]
+size = [
+    67,
+    180,
+]
+frame_offset = [
+    60,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_8]
+pos = [
+    383,
+    0,
+]
+size = [
+    96,
+    237,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_80]
+pos = [
+    540,
+    886,
+]
+size = [
+    58,
+    107,
+]
+frame_offset = [
+    6,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_81]
+pos = [
+    649,
+    258,
+]
+size = [
+    73,
+    107,
+]
+frame_offset = [
+    0,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_82]
+pos = [
+    724,
+    258,
+]
+size = [
+    71,
+    105,
+]
+frame_offset = [
+    55,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_83]
+pos = [
+    609,
+    737,
+]
+size = [
+    61,
+    109,
+]
+frame_offset = [
+    62,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_84]
+pos = [
+    531,
+    362,
+]
+size = [
+    71,
+    106,
+]
+frame_offset = [
+    55,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_85]
+pos = [
+    932,
+    460,
+]
+size = [
+    60,
+    107,
+]
+frame_offset = [
+    62,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_86]
+pos = [
+    868,
+    460,
+]
+size = [
+    62,
+    109,
+]
+frame_offset = [
+    2,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_87]
+pos = [
+    187,
+    230,
+]
+size = [
+    69,
+    105,
+]
+frame_offset = [
+    0,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_88]
+pos = [
+    710,
+    592,
+]
+size = [
+    63,
+    110,
+]
+frame_offset = [
+    3,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_89]
+pos = [
+    604,
+    367,
+]
+size = [
+    68,
+    104,
+]
+frame_offset = [
+    2,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_9]
+pos = [
+    0,
+    753,
+]
+size = [
+    65,
+    236,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_90]
+pos = [
+    674,
+    367,
+]
+size = [
+    68,
+    104,
+]
+frame_offset = [
+    55,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_91]
+pos = [
+    543,
+    775,
+]
+size = [
+    63,
+    109,
+]
+frame_offset = [
+    59,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_92]
+pos = [
+    476,
+    868,
+]
+size = [
+    62,
+    101,
+]
+frame_offset = [
+    2,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_93]
+pos = [
+    797,
+    239,
+]
+size = [
+    69,
+    250,
+]
+frame_offset = [
+    0,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_94]
+pos = [
+    264,
+    358,
+]
+size = [
+    73,
+    115,
+]
+frame_offset = [
+    55,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_95]
+pos = [
+    259,
+    0,
+]
+size = [
+    122,
+    98,
+]
+frame_offset = [
+    0,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]

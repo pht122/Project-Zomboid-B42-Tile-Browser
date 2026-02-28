@@ -1,0 +1,2483 @@
+[floors_exterior_tilesandstone_01_61]
+pos = [
+    256,
+    792,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_62]
+pos = [
+    128,
+    925,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_63]
+pos = [
+    640,
+    462,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_64]
+pos = [
+    811,
+    839,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    63,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_65]
+pos = [
+    936,
+    738,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    63,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_66]
+pos = [
+    749,
+    943,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    63,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_67]
+pos = [
+    876,
+    839,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    63,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_68]
+pos = [
+    814,
+    905,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    63,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_69]
+pos = [
+    941,
+    804,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    63,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_70]
+pos = [
+    879,
+    905,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    63,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_71]
+pos = [
+    944,
+    870,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    63,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_72]
+pos = [
+    384,
+    924,
+]
+size = [
+    126,
+    38,
+]
+frame_offset = [
+    0,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_73]
+pos = [
+    384,
+    964,
+]
+size = [
+    126,
+    38,
+]
+frame_offset = [
+    0,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_74]
+pos = [
+    640,
+    711,
+]
+size = [
+    126,
+    38,
+]
+frame_offset = [
+    0,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_75]
+pos = [
+    512,
+    842,
+]
+size = [
+    126,
+    38,
+]
+frame_offset = [
+    0,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_76]
+pos = [
+    896,
+    462,
+]
+size = [
+    126,
+    38,
+]
+frame_offset = [
+    0,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_77]
+pos = [
+    768,
+    594,
+]
+size = [
+    126,
+    38,
+]
+frame_offset = [
+    0,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_78]
+pos = [
+    640,
+    751,
+]
+size = [
+    126,
+    38,
+]
+frame_offset = [
+    0,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_exterior_tilesandstone_01_79]
+pos = [
+    512,
+    882,
+]
+size = [
+    126,
+    38,
+]
+frame_offset = [
+    0,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_0]
+pos = [
+    258,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_1]
+pos = [
+    386,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_10]
+pos = [
+    384,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_11]
+pos = [
+    0,
+    265,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_12]
+pos = [
+    0,
+    331,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_13]
+pos = [
+    0,
+    397,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_14]
+pos = [
+    256,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_15]
+pos = [
+    384,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_2]
+pos = [
+    512,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_24]
+pos = [
+    770,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_3]
+pos = [
+    0,
+    529,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_4]
+pos = [
+    0,
+    925,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_5]
+pos = [
+    512,
+    528,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_6]
+pos = [
+    512,
+    594,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_7]
+pos = [
+    512,
+    660,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_8]
+pos = [
+    640,
+    594,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_carpet_01_9]
+pos = [
+    384,
+    858,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_0]
+pos = [
+    258,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_1]
+pos = [
+    386,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_10]
+pos = [
+    0,
+    199,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_11]
+pos = [
+    128,
+    199,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_12]
+pos = [
+    128,
+    265,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_13]
+pos = [
+    256,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_14]
+pos = [
+    128,
+    397,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_15]
+pos = [
+    256,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_16]
+pos = [
+    384,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_17]
+pos = [
+    256,
+    396,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_18]
+pos = [
+    384,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_19]
+pos = [
+    384,
+    396,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_2]
+pos = [
+    768,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_20]
+pos = [
+    514,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_21]
+pos = [
+    514,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_22]
+pos = [
+    642,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_23]
+pos = [
+    642,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_24]
+pos = [
+    640,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_25]
+pos = [
+    512,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_26]
+pos = [
+    770,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_27]
+pos = [
+    640,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_28]
+pos = [
+    0,
+    132,
+]
+size = [
+    126,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_29]
+pos = [
+    128,
+    132,
+]
+size = [
+    126,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_3]
+pos = [
+    128,
+    463,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_30]
+pos = [
+    640,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_31]
+pos = [
+    512,
+    396,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_32]
+pos = [
+    768,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_33]
+pos = [
+    0,
+    66,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_34]
+pos = [
+    640,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_35]
+pos = [
+    896,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_37]
+pos = [
+    768,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_38]
+pos = [
+    896,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_39]
+pos = [
+    896,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_4]
+pos = [
+    512,
+    462,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_40]
+pos = [
+    0,
+    595,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_41]
+pos = [
+    128,
+    529,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_42]
+pos = [
+    0,
+    661,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_43]
+pos = [
+    256,
+    462,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_44]
+pos = [
+    128,
+    595,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_45]
+pos = [
+    256,
+    528,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_46]
+pos = [
+    0,
+    793,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_47]
+pos = [
+    128,
+    727,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_48]
+pos = [
+    256,
+    660,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_49]
+pos = [
+    128,
+    793,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_5]
+pos = [
+    384,
+    660,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_50]
+pos = [
+    384,
+    594,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_51]
+pos = [
+    256,
+    726,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_52]
+pos = [
+    128,
+    859,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_56]
+pos = [
+    896,
+    603,
+]
+size = [
+    88,
+    44,
+]
+frame_offset = [
+    17,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_57]
+pos = [
+    640,
+    889,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    31,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_58]
+pos = [
+    860,
+    685,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    31,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_59]
+pos = [
+    604,
+    957,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    31,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_6]
+pos = [
+    384,
+    726,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_60]
+pos = [
+    732,
+    842,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    18,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_61]
+pos = [
+    512,
+    957,
+]
+size = [
+    90,
+    49,
+]
+frame_offset = [
+    14,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_62]
+pos = [
+    857,
+    737,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    31,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_63]
+pos = [
+    822,
+    788,
+]
+size = [
+    77,
+    49,
+]
+frame_offset = [
+    18,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_7]
+pos = [
+    384,
+    792,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_8]
+pos = [
+    512,
+    726,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[floors_interior_tilesandwood_01_9]
+pos = [
+    768,
+    528,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_12]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_13]
+pos = [
+    128,
+    331,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_16]
+pos = [
+    896,
+    553,
+]
+size = [
+    94,
+    48,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_17]
+pos = [
+    768,
+    685,
+]
+size = [
+    90,
+    50,
+]
+frame_offset = [
+    36,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_18]
+pos = [
+    512,
+    792,
+]
+size = [
+    126,
+    48,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_19]
+pos = [
+    683,
+    943,
+]
+size = [
+    64,
+    48,
+]
+frame_offset = [
+    30,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_20]
+pos = [
+    719,
+    893,
+]
+size = [
+    74,
+    48,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_21]
+pos = [
+    939,
+    690,
+]
+size = [
+    66,
+    46,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_37]
+pos = [
+    640,
+    396,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_38]
+pos = [
+    768,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_39]
+pos = [
+    130,
+    0,
+]
+size = [
+    126,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_6]
+pos = [
+    256,
+    858,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_01_7]
+pos = [
+    256,
+    924,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_6]
+pos = [
+    640,
+    528,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_bunker_01_7]
+pos = [
+    768,
+    462,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_0]
+pos = [
+    129,
+    67,
+]
+size = [
+    126,
+    49,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_1]
+pos = [
+    896,
+    502,
+]
+size = [
+    96,
+    49,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_2]
+pos = [
+    768,
+    634,
+]
+size = [
+    96,
+    49,
+]
+frame_offset = [
+    30,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_22]
+pos = [
+    512,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_23]
+pos = [
+    512,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_3]
+pos = [
+    640,
+    791,
+]
+size = [
+    96,
+    49,
+]
+frame_offset = [
+    30,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_38]
+pos = [
+    896,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_39]
+pos = [
+    896,
+    396,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_4]
+pos = [
+    640,
+    660,
+]
+size = [
+    126,
+    49,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_44]
+pos = [
+    0,
+    727,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_45]
+pos = [
+    128,
+    661,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_46]
+pos = [
+    384,
+    462,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_47]
+pos = [
+    0,
+    859,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_5]
+pos = [
+    512,
+    922,
+]
+size = [
+    96,
+    33,
+]
+frame_offset = [
+    30,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_6]
+pos = [
+    814,
+    971,
+]
+size = [
+    63,
+    47,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_railroad_05_7]
+pos = [
+    879,
+    971,
+]
+size = [
+    63,
+    47,
+]
+frame_offset = [
+    63,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_38]
+pos = [
+    768,
+    396,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_39]
+pos = [
+    0,
+    463,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_46]
+pos = [
+    256,
+    594,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_47]
+pos = [
+    384,
+    528,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[invisible_01_0]
+pos = [
+    256,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    2,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_0]
+pos = [
+    768,
+    737,
+]
+size = [
+    87,
+    45,
+]
+frame_offset = [
+    38,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_1]
+pos = [
+    898,
+    0,
+]
+size = [
+    109,
+    54,
+]
+frame_offset = [
+    5,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_2]
+pos = [
+    640,
+    842,
+]
+size = [
+    90,
+    45,
+]
+frame_offset = [
+    8,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_3]
+pos = [
+    738,
+    791,
+]
+size = [
+    82,
+    43,
+]
+frame_offset = [
+    35,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_4]
+pos = [
+    898,
+    56,
+]
+size = [
+    105,
+    54,
+]
+frame_offset = [
+    18,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_community_school_02_5]
+pos = [
+    939,
+    649,
+]
+size = [
+    76,
+    39,
+]
+frame_offset = [
+    6,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,1899 @@
+[fixtures_windows_white_100]
+pos = [
+    227,
+    714,
+]
+size = [
+    54,
+    153,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_101]
+pos = [
+    782,
+    462,
+]
+size = [
+    53,
+    154,
+]
+frame_offset = [
+    57,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_102]
+pos = [
+    222,
+    225,
+]
+size = [
+    66,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_103]
+pos = [
+    150,
+    0,
+]
+size = [
+    70,
+    256,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_104]
+pos = [
+    582,
+    661,
+]
+size = [
+    53,
+    149,
+]
+frame_offset = [
+    7,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_105]
+pos = [
+    470,
+    569,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    65,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_106]
+pos = [
+    113,
+    895,
+]
+size = [
+    54,
+    118,
+]
+frame_offset = [
+    8,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_107]
+pos = [
+    283,
+    869,
+]
+size = [
+    54,
+    117,
+]
+frame_offset = [
+    64,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_108]
+pos = [
+    692,
+    780,
+]
+size = [
+    52,
+    216,
+]
+frame_offset = [
+    16,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_109]
+pos = [
+    250,
+    493,
+]
+size = [
+    54,
+    219,
+]
+frame_offset = [
+    71,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_110]
+pos = [
+    451,
+    721,
+]
+size = [
+    53,
+    218,
+]
+frame_offset = [
+    2,
+    8,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_111]
+pos = [
+    114,
+    674,
+]
+size = [
+    54,
+    219,
+]
+frame_offset = [
+    57,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_112]
+pos = [
+    837,
+    673,
+]
+size = [
+    52,
+    98,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_113]
+pos = [
+    824,
+    773,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    73,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_114]
+pos = [
+    499,
+    0,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_115]
+pos = [
+    565,
+    0,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_116]
+pos = [
+    800,
+    873,
+]
+size = [
+    51,
+    98,
+]
+frame_offset = [
+    2,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_117]
+pos = [
+    561,
+    812,
+]
+size = [
+    53,
+    99,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_118]
+pos = [
+    339,
+    937,
+]
+size = [
+    51,
+    66,
+]
+frame_offset = [
+    8,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_119]
+pos = [
+    931,
+    867,
+]
+size = [
+    51,
+    65,
+]
+frame_offset = [
+    68,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_80]
+pos = [
+    892,
+    572,
+]
+size = [
+    53,
+    98,
+]
+frame_offset = [
+    13,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_81]
+pos = [
+    746,
+    873,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    73,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_82]
+pos = [
+    358,
+    324,
+]
+size = [
+    65,
+    105,
+]
+frame_offset = [
+    1,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_83]
+pos = [
+    290,
+    386,
+]
+size = [
+    66,
+    105,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_84]
+pos = [
+    892,
+    672,
+]
+size = [
+    52,
+    98,
+]
+frame_offset = [
+    1,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_85]
+pos = [
+    782,
+    618,
+]
+size = [
+    53,
+    99,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_86]
+pos = [
+    853,
+    928,
+]
+size = [
+    51,
+    66,
+]
+frame_offset = [
+    8,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_87]
+pos = [
+    906,
+    934,
+]
+size = [
+    51,
+    65,
+]
+frame_offset = [
+    68,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_88]
+pos = [
+    629,
+    156,
+]
+size = [
+    57,
+    153,
+]
+frame_offset = [
+    15,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_89]
+pos = [
+    892,
+    439,
+]
+size = [
+    53,
+    131,
+]
+frame_offset = [
+    71,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_90]
+pos = [
+    837,
+    439,
+]
+size = [
+    53,
+    132,
+]
+frame_offset = [
+    1,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_91]
+pos = [
+    754,
+    155,
+]
+size = [
+    56,
+    153,
+]
+frame_offset = [
+    54,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_92]
+pos = [
+    695,
+    0,
+]
+size = [
+    57,
+    218,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_93]
+pos = [
+    57,
+    488,
+]
+size = [
+    55,
+    197,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_94]
+pos = [
+    492,
+    369,
+]
+size = [
+    54,
+    198,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_95]
+pos = [
+    871,
+    0,
+]
+size = [
+    56,
+    217,
+]
+frame_offset = [
+    56,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_96]
+pos = [
+    361,
+    0,
+]
+size = [
+    67,
+    161,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_97]
+pos = [
+    361,
+    163,
+]
+size = [
+    66,
+    159,
+]
+frame_offset = [
+    58,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_98]
+pos = [
+    283,
+    714,
+]
+size = [
+    54,
+    153,
+]
+frame_offset = [
+    14,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_white_99]
+pos = [
+    946,
+    712,
+]
+size = [
+    51,
+    153,
+]
+frame_offset = [
+    72,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_0]
+pos = [
+    0,
+    0,
+]
+size = [
+    73,
+    154,
+]
+
+[fixtures_windows_wood_1]
+pos = [
+    170,
+    889,
+]
+size = [
+    54,
+    133,
+]
+frame_offset = [
+    71,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_10]
+pos = [
+    631,
+    0,
+]
+size = [
+    62,
+    154,
+]
+frame_offset = [
+    12,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_11]
+pos = [
+    616,
+    850,
+]
+size = [
+    52,
+    153,
+]
+frame_offset = [
+    73,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_12]
+pos = [
+    770,
+    719,
+]
+size = [
+    52,
+    152,
+]
+frame_offset = [
+    1,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_13]
+pos = [
+    660,
+    575,
+]
+size = [
+    53,
+    154,
+]
+frame_offset = [
+    57,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_14]
+pos = [
+    0,
+    156,
+]
+size = [
+    68,
+    223,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_15]
+pos = [
+    70,
+    156,
+]
+size = [
+    67,
+    223,
+]
+frame_offset = [
+    57,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_16]
+pos = [
+    745,
+    310,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    7,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_17]
+pos = [
+    339,
+    649,
+]
+size = [
+    54,
+    151,
+]
+frame_offset = [
+    65,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_18]
+pos = [
+    947,
+    439,
+]
+size = [
+    53,
+    117,
+]
+frame_offset = [
+    8,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_19]
+pos = [
+    193,
+    451,
+]
+size = [
+    55,
+    117,
+]
+frame_offset = [
+    64,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_2]
+pos = [
+    136,
+    420,
+]
+size = [
+    55,
+    133,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_20]
+pos = [
+    358,
+    431,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_21]
+pos = [
+    812,
+    220,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    71,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_22]
+pos = [
+    171,
+    671,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_23]
+pos = [
+    869,
+    220,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    55,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_24]
+pos = [
+    57,
+    687,
+]
+size = [
+    55,
+    99,
+]
+frame_offset = [
+    13,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_25]
+pos = [
+    837,
+    573,
+]
+size = [
+    53,
+    98,
+]
+frame_offset = [
+    72,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_26]
+pos = [
+    0,
+    381,
+]
+size = [
+    66,
+    105,
+]
+frame_offset = [
+    1,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_27]
+pos = [
+    68,
+    381,
+]
+size = [
+    66,
+    105,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_28]
+pos = [
+    526,
+    636,
+]
+size = [
+    54,
+    98,
+]
+frame_offset = [
+    1,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_29]
+pos = [
+    506,
+    892,
+]
+size = [
+    53,
+    99,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_3]
+pos = [
+    498,
+    214,
+]
+size = [
+    57,
+    153,
+]
+frame_offset = [
+    54,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_30]
+pos = [
+    306,
+    493,
+]
+size = [
+    50,
+    66,
+]
+frame_offset = [
+    9,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_31]
+pos = [
+    450,
+    941,
+]
+size = [
+    51,
+    66,
+]
+frame_offset = [
+    68,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_4]
+pos = [
+    813,
+    0,
+]
+size = [
+    56,
+    218,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_47]
+pos = [
+    139,
+    156,
+]
+size = [
+    3,
+    16,
+]
+frame_offset = [
+    125,
+    240,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_48]
+pos = [
+    227,
+    869,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    7,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_49]
+pos = [
+    548,
+    483,
+]
+size = [
+    54,
+    151,
+]
+frame_offset = [
+    65,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_5]
+pos = [
+    0,
+    826,
+]
+size = [
+    54,
+    196,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_50]
+pos = [
+    715,
+    661,
+]
+size = [
+    53,
+    117,
+]
+frame_offset = [
+    8,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_51]
+pos = [
+    114,
+    555,
+]
+size = [
+    55,
+    117,
+]
+frame_offset = [
+    64,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_55]
+pos = [
+    144,
+    156,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    127,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_56]
+pos = [
+    75,
+    0,
+]
+size = [
+    73,
+    154,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_57]
+pos = [
+    671,
+    440,
+]
+size = [
+    54,
+    133,
+]
+frame_offset = [
+    71,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_58]
+pos = [
+    339,
+    802,
+]
+size = [
+    54,
+    133,
+]
+frame_offset = [
+    1,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_59]
+pos = [
+    754,
+    0,
+]
+size = [
+    57,
+    153,
+]
+frame_offset = [
+    54,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_6]
+pos = [
+    727,
+    462,
+]
+size = [
+    53,
+    197,
+]
+frame_offset = [
+    3,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_60]
+pos = [
+    557,
+    263,
+]
+size = [
+    56,
+    218,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_61]
+pos = [
+    615,
+    311,
+]
+size = [
+    54,
+    196,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_62]
+pos = [
+    395,
+    802,
+]
+size = [
+    53,
+    197,
+]
+frame_offset = [
+    3,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_63]
+pos = [
+    688,
+    220,
+]
+size = [
+    55,
+    218,
+]
+frame_offset = [
+    54,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_64]
+pos = [
+    139,
+    258,
+]
+size = [
+    67,
+    160,
+]
+frame_offset = [
+    0,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_65]
+pos = [
+    290,
+    225,
+]
+size = [
+    66,
+    159,
+]
+frame_offset = [
+    59,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_66]
+pos = [
+    565,
+    107,
+]
+size = [
+    62,
+    154,
+]
+frame_offset = [
+    12,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_67]
+pos = [
+    878,
+    773,
+]
+size = [
+    51,
+    153,
+]
+frame_offset = [
+    73,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_68]
+pos = [
+    947,
+    558,
+]
+size = [
+    52,
+    152,
+]
+frame_offset = [
+    1,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_69]
+pos = [
+    506,
+    736,
+]
+size = [
+    53,
+    154,
+]
+frame_offset = [
+    57,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_7]
+pos = [
+    929,
+    0,
+]
+size = [
+    55,
+    218,
+]
+frame_offset = [
+    54,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_70]
+pos = [
+    222,
+    0,
+]
+size = [
+    68,
+    223,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_71]
+pos = [
+    292,
+    0,
+]
+size = [
+    67,
+    223,
+]
+frame_offset = [
+    57,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_72]
+pos = [
+    604,
+    509,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    7,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_73]
+pos = [
+    395,
+    649,
+]
+size = [
+    54,
+    151,
+]
+frame_offset = [
+    65,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_74]
+pos = [
+    637,
+    731,
+]
+size = [
+    53,
+    117,
+]
+frame_offset = [
+    8,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_75]
+pos = [
+    0,
+    707,
+]
+size = [
+    55,
+    117,
+]
+frame_offset = [
+    64,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_76]
+pos = [
+    57,
+    788,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_77]
+pos = [
+    926,
+    220,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    71,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_78]
+pos = [
+    414,
+    431,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_79]
+pos = [
+    0,
+    488,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    55,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_8]
+pos = [
+    430,
+    0,
+]
+size = [
+    67,
+    160,
+]
+frame_offset = [
+    0,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_80]
+pos = [
+    171,
+    570,
+]
+size = [
+    55,
+    99,
+]
+frame_offset = [
+    13,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_81]
+pos = [
+    561,
+    913,
+]
+size = [
+    53,
+    98,
+]
+frame_offset = [
+    72,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_82]
+pos = [
+    425,
+    324,
+]
+size = [
+    65,
+    105,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_83]
+pos = [
+    499,
+    107,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_wood_9]
+pos = [
+    430,
+    162,
+]
+size = [
+    66,
+    159,
+]
+frame_offset = [
+    59,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]

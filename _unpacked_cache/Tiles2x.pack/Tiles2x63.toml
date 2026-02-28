@@ -1,0 +1,1493 @@
+[fixtures_doors_01_104]
+pos = [
+    140,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_105]
+pos = [
+    208,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_106]
+pos = [
+    310,
+    135,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_107]
+pos = [
+    379,
+    113,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_108]
+pos = [
+    0,
+    113,
+]
+size = [
+    68,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_109]
+pos = [
+    170,
+    0,
+]
+size = [
+    68,
+    226,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_110]
+pos = [
+    448,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_111]
+pos = [
+    516,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_112]
+pos = [
+    584,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_113]
+pos = [
+    652,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_114]
+pos = [
+    447,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_115]
+pos = [
+    720,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_116]
+pos = [
+    70,
+    113,
+]
+size = [
+    68,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_117]
+pos = [
+    240,
+    0,
+]
+size = [
+    68,
+    226,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_118]
+pos = [
+    515,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_119]
+pos = [
+    788,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_62]
+pos = [
+    583,
+    228,
+]
+size = [
+    57,
+    182,
+]
+frame_offset = [
+    52,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_63]
+pos = [
+    184,
+    456,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_64]
+pos = [
+    758,
+    228,
+]
+size = [
+    55,
+    212,
+]
+frame_offset = [
+    8,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_65]
+pos = [
+    609,
+    780,
+]
+size = [
+    51,
+    179,
+]
+frame_offset = [
+    68,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_66]
+pos = [
+    0,
+    667,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    54,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_67]
+pos = [
+    333,
+    504,
+]
+size = [
+    54,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_68]
+pos = [
+    855,
+    548,
+]
+size = [
+    51,
+    179,
+]
+frame_offset = [
+    7,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_69]
+pos = [
+    556,
+    780,
+]
+size = [
+    51,
+    213,
+]
+frame_offset = [
+    68,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_70]
+pos = [
+    446,
+    638,
+]
+size = [
+    53,
+    181,
+]
+frame_offset = [
+    54,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_01_71]
+pos = [
+    869,
+    366,
+]
+size = [
+    52,
+    180,
+]
+frame_offset = [
+    20,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_0]
+pos = [
+    972,
+    0,
+]
+size = [
+    50,
+    179,
+]
+frame_offset = [
+    8,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_1]
+pos = [
+    774,
+    731,
+]
+size = [
+    50,
+    179,
+]
+frame_offset = [
+    68,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_10]
+pos = [
+    856,
+    183,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    54,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_11]
+pos = [
+    856,
+    0,
+]
+size = [
+    56,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_12]
+pos = [
+    282,
+    729,
+]
+size = [
+    53,
+    181,
+]
+frame_offset = [
+    7,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_13]
+pos = [
+    613,
+    597,
+]
+size = [
+    52,
+    180,
+]
+frame_offset = [
+    66,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_14]
+pos = [
+    642,
+    228,
+]
+size = [
+    56,
+    181,
+]
+frame_offset = [
+    53,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_15]
+pos = [
+    913,
+    183,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_16]
+pos = [
+    337,
+    848,
+]
+size = [
+    51,
+    139,
+]
+frame_offset = [
+    8,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_17]
+pos = [
+    390,
+    848,
+]
+size = [
+    51,
+    139,
+]
+frame_offset = [
+    67,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_18]
+pos = [
+    333,
+    363,
+]
+size = [
+    55,
+    139,
+]
+frame_offset = [
+    54,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_19]
+pos = [
+    0,
+    850,
+]
+size = [
+    54,
+    139,
+]
+frame_offset = [
+    18,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_2]
+pos = [
+    70,
+    341,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    54,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_20]
+pos = [
+    662,
+    779,
+]
+size = [
+    51,
+    139,
+]
+frame_offset = [
+    8,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_21]
+pos = [
+    908,
+    548,
+]
+size = [
+    51,
+    139,
+]
+frame_offset = [
+    67,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_22]
+pos = [
+    390,
+    341,
+]
+size = [
+    55,
+    139,
+]
+frame_offset = [
+    54,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_23]
+pos = [
+    57,
+    848,
+]
+size = [
+    54,
+    139,
+]
+frame_offset = [
+    18,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_24]
+pos = [
+    961,
+    547,
+]
+size = [
+    51,
+    139,
+]
+frame_offset = [
+    8,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_25]
+pos = [
+    715,
+    806,
+]
+size = [
+    51,
+    139,
+]
+frame_offset = [
+    67,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_26]
+pos = [
+    57,
+    707,
+]
+size = [
+    55,
+    139,
+]
+frame_offset = [
+    54,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_27]
+pos = [
+    170,
+    822,
+]
+size = [
+    54,
+    139,
+]
+frame_offset = [
+    18,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_3]
+pos = [
+    114,
+    639,
+]
+size = [
+    54,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_4]
+pos = [
+    826,
+    731,
+]
+size = [
+    50,
+    179,
+]
+frame_offset = [
+    8,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_40]
+pos = [
+    667,
+    595,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_41]
+pos = [
+    226,
+    729,
+]
+size = [
+    54,
+    179,
+]
+frame_offset = [
+    74,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_42]
+pos = [
+    0,
+    484,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    48,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_43]
+pos = [
+    170,
+    639,
+]
+size = [
+    54,
+    181,
+]
+frame_offset = [
+    26,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_44]
+pos = [
+    501,
+    638,
+]
+size = [
+    53,
+    179,
+]
+frame_offset = [
+    16,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_45]
+pos = [
+    444,
+    821,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    58,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_46]
+pos = [
+    638,
+    412,
+]
+size = [
+    53,
+    181,
+]
+frame_offset = [
+    16,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_47]
+pos = [
+    970,
+    183,
+]
+size = [
+    52,
+    181,
+]
+frame_offset = [
+    58,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_48]
+pos = [
+    923,
+    366,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_49]
+pos = [
+    583,
+    412,
+]
+size = [
+    53,
+    183,
+]
+frame_offset = [
+    74,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_5]
+pos = [
+    908,
+    689,
+]
+size = [
+    50,
+    179,
+]
+frame_offset = [
+    68,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_50]
+pos = [
+    57,
+    524,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    48,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_51]
+pos = [
+    241,
+    546,
+]
+size = [
+    54,
+    181,
+]
+frame_offset = [
+    26,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_52]
+pos = [
+    721,
+    625,
+]
+size = [
+    51,
+    179,
+]
+frame_offset = [
+    16,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_53]
+pos = [
+    498,
+    821,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    59,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_54]
+pos = [
+    389,
+    665,
+]
+size = [
+    53,
+    181,
+]
+frame_offset = [
+    16,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_55]
+pos = [
+    559,
+    597,
+]
+size = [
+    52,
+    181,
+]
+frame_offset = [
+    58,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_56]
+pos = [
+    447,
+    456,
+]
+size = [
+    54,
+    180,
+]
+frame_offset = [
+    0,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_57]
+pos = [
+    700,
+    228,
+]
+size = [
+    56,
+    180,
+]
+frame_offset = [
+    71,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_58]
+pos = [
+    127,
+    456,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    48,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_59]
+pos = [
+    914,
+    0,
+]
+size = [
+    56,
+    181,
+]
+frame_offset = [
+    26,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_6]
+pos = [
+    276,
+    363,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    54,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_60]
+pos = [
+    815,
+    366,
+]
+size = [
+    52,
+    180,
+]
+frame_offset = [
+    16,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_61]
+pos = [
+    114,
+    822,
+]
+size = [
+    54,
+    180,
+]
+frame_offset = [
+    56,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_62]
+pos = [
+    748,
+    442,
+]
+size = [
+    52,
+    181,
+]
+frame_offset = [
+    16,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_63]
+pos = [
+    802,
+    548,
+]
+size = [
+    51,
+    181,
+]
+frame_offset = [
+    59,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_7]
+pos = [
+    390,
+    482,
+]
+size = [
+    54,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_8]
+pos = [
+    503,
+    456,
+]
+size = [
+    54,
+    180,
+]
+frame_offset = [
+    7,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_02_9]
+pos = [
+    693,
+    411,
+]
+size = [
+    53,
+    180,
+]
+frame_offset = [
+    65,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_fences_01_0]
+pos = [
+    0,
+    371,
+]
+size = [
+    67,
+    111,
+]
+frame_offset = [
+    2,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_fences_01_1]
+pos = [
+    379,
+    0,
+]
+size = [
+    67,
+    111,
+]
+frame_offset = [
+    57,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_fences_01_2]
+pos = [
+    0,
+    0,
+]
+size = [
+    83,
+    111,
+]
+frame_offset = [
+    42,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_fences_01_3]
+pos = [
+    85,
+    0,
+]
+size = [
+    83,
+    111,
+]
+frame_offset = [
+    1,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_doors_fences_01_4]
+pos = [
+    310,
+    0,
+]
+size = [
+    67,
+    133,
+]
+frame_offset = [
+    2,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,3005 @@
+[overlay_grime_floor_01_72]
+pos = [
+    384,
+    661,
+]
+size = [
+    126,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_73]
+pos = [
+    128,
+    943,
+]
+size = [
+    126,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_74]
+pos = [
+    897,
+    396,
+]
+size = [
+    125,
+    62,
+]
+frame_offset = [
+    1,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_75]
+pos = [
+    640,
+    463,
+]
+size = [
+    126,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_76]
+pos = [
+    512,
+    595,
+]
+size = [
+    126,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_77]
+pos = [
+    384,
+    725,
+]
+size = [
+    126,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_78]
+pos = [
+    256,
+    855,
+]
+size = [
+    126,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_79]
+pos = [
+    640,
+    527,
+]
+size = [
+    126,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_80]
+pos = [
+    256,
+    919,
+]
+size = [
+    126,
+    54,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_81]
+pos = [
+    900,
+    129,
+]
+size = [
+    117,
+    60,
+]
+frame_offset = [
+    9,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_82]
+pos = [
+    512,
+    659,
+]
+size = [
+    126,
+    62,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_83]
+pos = [
+    0,
+    545,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_84]
+pos = [
+    384,
+    789,
+]
+size = [
+    126,
+    62,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_85]
+pos = [
+    128,
+    481,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_88]
+pos = [
+    769,
+    462,
+]
+size = [
+    126,
+    54,
+]
+frame_offset = [
+    0,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_floor_01_89]
+pos = [
+    898,
+    245,
+]
+size = [
+    117,
+    60,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_88]
+pos = [
+    0,
+    611,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_89]
+pos = [
+    128,
+    547,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_90]
+pos = [
+    0,
+    677,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_91]
+pos = [
+    0,
+    809,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_92]
+pos = [
+    0,
+    875,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_93]
+pos = [
+    256,
+    723,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_94]
+pos = [
+    256,
+    789,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_108]
+pos = [
+    898,
+    307,
+]
+size = [
+    96,
+    78,
+]
+frame_offset = [
+    30,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_109]
+pos = [
+    847,
+    638,
+]
+size = [
+    71,
+    255,
+]
+frame_offset = [
+    33,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_110]
+pos = [
+    992,
+    691,
+]
+size = [
+    18,
+    46,
+]
+frame_offset = [
+    0,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_111]
+pos = [
+    822,
+    974,
+]
+size = [
+    48,
+    45,
+]
+frame_offset = [
+    63,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_112]
+pos = [
+    128,
+    1007,
+]
+size = [
+    30,
+    8,
+]
+frame_offset = [
+    48,
+    248,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_113]
+pos = [
+    897,
+    460,
+]
+size = [
+    96,
+    29,
+]
+frame_offset = [
+    0,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_114]
+pos = [
+    721,
+    732,
+]
+size = [
+    42,
+    47,
+]
+frame_offset = [
+    22,
+    208,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_115]
+pos = [
+    833,
+    785,
+]
+size = [
+    12,
+    71,
+]
+frame_offset = [
+    114,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_116]
+pos = [
+    914,
+    914,
+]
+size = [
+    61,
+    78,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_117]
+pos = [
+    900,
+    11,
+]
+size = [
+    119,
+    116,
+]
+frame_offset = [
+    0,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_118]
+pos = [
+    768,
+    660,
+]
+size = [
+    76,
+    123,
+]
+frame_offset = [
+    6,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_119]
+pos = [
+    768,
+    593,
+]
+size = [
+    89,
+    24,
+]
+frame_offset = [
+    37,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_22]
+pos = [
+    514,
+    199,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_23]
+pos = [
+    642,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_56]
+pos = [
+    859,
+    594,
+]
+size = [
+    76,
+    42,
+]
+frame_offset = [
+    0,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_57]
+pos = [
+    594,
+    851,
+]
+size = [
+    76,
+    38,
+]
+frame_offset = [
+    50,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_58]
+pos = [
+    0,
+    1007,
+]
+size = [
+    90,
+    9,
+]
+frame_offset = [
+    32,
+    224,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_59]
+pos = [
+    992,
+    643,
+]
+size = [
+    21,
+    46,
+]
+frame_offset = [
+    46,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_63]
+pos = [
+    0,
+    479,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_106]
+pos = [
+    388,
+    67,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_107]
+pos = [
+    516,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_108]
+pos = [
+    0,
+    99,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_109]
+pos = [
+    388,
+    133,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_22]
+pos = [
+    386,
+    331,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_23]
+pos = [
+    514,
+    331,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_54]
+pos = [
+    770,
+    198,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_55]
+pos = [
+    770,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_90]
+pos = [
+    256,
+    459,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_91]
+pos = [
+    256,
+    591,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_92]
+pos = [
+    256,
+    657,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_01_93]
+pos = [
+    384,
+    595,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_22]
+pos = [
+    772,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_23]
+pos = [
+    772,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_50]
+pos = [
+    128,
+    414,
+]
+size = [
+    126,
+    65,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_51]
+pos = [
+    258,
+    198,
+]
+size = [
+    126,
+    192,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_54]
+pos = [
+    257,
+    392,
+]
+size = [
+    126,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_55]
+pos = [
+    388,
+    0,
+]
+size = [
+    126,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_90]
+pos = [
+    128,
+    613,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_91]
+pos = [
+    384,
+    463,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_92]
+pos = [
+    384,
+    529,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_02_93]
+pos = [
+    128,
+    877,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_122]
+pos = [
+    516,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_123]
+pos = [
+    130,
+    0,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_124]
+pos = [
+    516,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_125]
+pos = [
+    130,
+    66,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_22]
+pos = [
+    644,
+    132,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_23]
+pos = [
+    259,
+    0,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_54]
+pos = [
+    642,
+    330,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_55]
+pos = [
+    259,
+    132,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_90]
+pos = [
+    0,
+    743,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_91]
+pos = [
+    0,
+    263,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_92]
+pos = [
+    128,
+    811,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_03_93]
+pos = [
+    0,
+    329,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_22]
+pos = [
+    514,
+    265,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_23]
+pos = [
+    130,
+    132,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_48]
+pos = [
+    0,
+    395,
+]
+size = [
+    126,
+    82,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_49]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_50]
+pos = [
+    129,
+    330,
+]
+size = [
+    126,
+    82,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_51]
+pos = [
+    259,
+    66,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_54]
+pos = [
+    770,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_55]
+pos = [
+    0,
+    197,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_90]
+pos = [
+    256,
+    525,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_91]
+pos = [
+    129,
+    198,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_92]
+pos = [
+    0,
+    941,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_04_93]
+pos = [
+    129,
+    264,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_122]
+pos = [
+    386,
+    199,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_123]
+pos = [
+    644,
+    0,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_124]
+pos = [
+    386,
+    265,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_125]
+pos = [
+    644,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_22]
+pos = [
+    385,
+    397,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_23]
+pos = [
+    642,
+    264,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_54]
+pos = [
+    641,
+    397,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_55]
+pos = [
+    769,
+    396,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_90]
+pos = [
+    128,
+    679,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_91]
+pos = [
+    128,
+    745,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_92]
+pos = [
+    512,
+    463,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_05_93]
+pos = [
+    512,
+    529,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_burnt_01_22]
+pos = [
+    772,
+    66,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_burnt_01_23]
+pos = [
+    513,
+    397,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_0]
+pos = [
+    256,
+    975,
+]
+size = [
+    126,
+    39,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_1]
+pos = [
+    192,
+    1007,
+]
+size = [
+    28,
+    13,
+]
+frame_offset = [
+    49,
+    243,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_10]
+pos = [
+    761,
+    830,
+]
+size = [
+    70,
+    36,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_11]
+pos = [
+    920,
+    684,
+]
+size = [
+    70,
+    36,
+]
+frame_offset = [
+    56,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_12]
+pos = [
+    664,
+    891,
+]
+size = [
+    70,
+    39,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_13]
+pos = [
+    633,
+    932,
+]
+size = [
+    70,
+    39,
+]
+frame_offset = [
+    56,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_14]
+pos = [
+    768,
+    619,
+]
+size = [
+    77,
+    39,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_15]
+pos = [
+    897,
+    491,
+]
+size = [
+    77,
+    39,
+]
+frame_offset = [
+    49,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_16]
+pos = [
+    512,
+    850,
+]
+size = [
+    80,
+    34,
+]
+frame_offset = [
+    46,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_17]
+pos = [
+    384,
+    978,
+]
+size = [
+    80,
+    34,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_18]
+pos = [
+    466,
+    979,
+]
+size = [
+    71,
+    39,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_19]
+pos = [
+    591,
+    891,
+]
+size = [
+    71,
+    39,
+]
+frame_offset = [
+    55,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_2]
+pos = [
+    768,
+    518,
+]
+size = [
+    126,
+    36,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_20]
+pos = [
+    866,
+    556,
+]
+size = [
+    77,
+    36,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_21]
+pos = [
+    640,
+    732,
+]
+size = [
+    79,
+    36,
+]
+frame_offset = [
+    49,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_22]
+pos = [
+    992,
+    739,
+]
+size = [
+    15,
+    68,
+]
+frame_offset = [
+    55,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_23]
+pos = [
+    987,
+    809,
+]
+size = [
+    15,
+    68,
+]
+frame_offset = [
+    56,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_24]
+pos = [
+    920,
+    797,
+]
+size = [
+    65,
+    36,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_25]
+pos = [
+    755,
+    970,
+]
+size = [
+    65,
+    36,
+]
+frame_offset = [
+    61,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_26]
+pos = [
+    920,
+    835,
+]
+size = [
+    63,
+    39,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_27]
+pos = [
+    849,
+    895,
+]
+size = [
+    63,
+    39,
+]
+frame_offset = [
+    63,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_3]
+pos = [
+    898,
+    387,
+]
+size = [
+    14,
+    7,
+]
+frame_offset = [
+    56,
+    249,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_32]
+pos = [
+    561,
+    932,
+]
+size = [
+    70,
+    43,
+]
+frame_offset = [
+    0,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_33]
+pos = [
+    610,
+    813,
+]
+size = [
+    77,
+    36,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_34]
+pos = [
+    482,
+    941,
+]
+size = [
+    77,
+    36,
+]
+frame_offset = [
+    49,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_35]
+pos = [
+    539,
+    979,
+]
+size = [
+    70,
+    43,
+]
+frame_offset = [
+    56,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_36]
+pos = [
+    937,
+    598,
+]
+size = [
+    70,
+    43,
+]
+frame_offset = [
+    0,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_37]
+pos = [
+    920,
+    760,
+]
+size = [
+    70,
+    35,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_38]
+pos = [
+    761,
+    785,
+]
+size = [
+    70,
+    43,
+]
+frame_offset = [
+    56,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_39]
+pos = [
+    777,
+    915,
+]
+size = [
+    70,
+    35,
+]
+frame_offset = [
+    56,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_4]
+pos = [
+    849,
+    936,
+]
+size = [
+    63,
+    36,
+]
+frame_offset = [
+    63,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_40]
+pos = [
+    736,
+    877,
+]
+size = [
+    70,
+    36,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_41]
+pos = [
+    705,
+    932,
+]
+size = [
+    70,
+    36,
+]
+frame_offset = [
+    56,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_42]
+pos = [
+    920,
+    722,
+]
+size = [
+    70,
+    36,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_43]
+pos = [
+    683,
+    973,
+]
+size = [
+    70,
+    36,
+]
+frame_offset = [
+    56,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_44]
+pos = [
+    512,
+    775,
+]
+size = [
+    126,
+    36,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_45]
+pos = [
+    945,
+    532,
+]
+size = [
+    70,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_46]
+pos = [
+    689,
+    811,
+]
+size = [
+    70,
+    64,
+]
+frame_offset = [
+    56,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_48]
+pos = [
+    996,
+    318,
+]
+size = [
+    22,
+    68,
+]
+frame_offset = [
+    55,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_49]
+pos = [
+    1012,
+    691,
+]
+size = [
+    8,
+    68,
+]
+frame_offset = [
+    55,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_5]
+pos = [
+    920,
+    876,
+]
+size = [
+    63,
+    36,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_50]
+pos = [
+    1009,
+    761,
+]
+size = [
+    8,
+    68,
+]
+frame_offset = [
+    63,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_51]
+pos = [
+    995,
+    460,
+]
+size = [
+    22,
+    68,
+]
+frame_offset = [
+    49,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_52]
+pos = [
+    0,
+    165,
+]
+size = [
+    128,
+    16,
+]
+frame_offset = [
+    0,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_53]
+pos = [
+    384,
+    905,
+]
+size = [
+    126,
+    16,
+]
+frame_offset = [
+    0,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_54]
+pos = [
+    384,
+    923,
+]
+size = [
+    126,
+    16,
+]
+frame_offset = [
+    0,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_56]
+pos = [
+    0,
+    183,
+]
+size = [
+    128,
+    12,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_57]
+pos = [
+    900,
+    0,
+]
+size = [
+    122,
+    9,
+]
+frame_offset = [
+    4,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_59]
+pos = [
+    160,
+    1007,
+]
+size = [
+    30,
+    8,
+]
+frame_offset = [
+    48,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_6]
+pos = [
+    920,
+    643,
+]
+size = [
+    70,
+    39,
+]
+frame_offset = [
+    56,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_60]
+pos = [
+    222,
+    1007,
+]
+size = [
+    25,
+    9,
+]
+frame_offset = [
+    46,
+    247,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_61]
+pos = [
+    996,
+    307,
+]
+size = [
+    25,
+    9,
+]
+frame_offset = [
+    55,
+    247,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_62]
+pos = [
+    92,
+    1007,
+]
+size = [
+    34,
+    7,
+]
+frame_offset = [
+    46,
+    247,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_7]
+pos = [
+    611,
+    977,
+]
+size = [
+    70,
+    39,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_8]
+pos = [
+    512,
+    886,
+]
+size = [
+    77,
+    39,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_9]
+pos = [
+    640,
+    770,
+]
+size = [
+    77,
+    39,
+]
+frame_offset = [
+    49,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_blend_dark_grass_0]
+pos = [
+    640,
+    591,
+]
+size = [
+    126,
+    50,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_blend_dark_grass_1]
+pos = [
+    768,
+    556,
+]
+size = [
+    96,
+    35,
+]
+frame_offset = [
+    30,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_blend_dark_grass_2]
+pos = [
+    512,
+    813,
+]
+size = [
+    96,
+    35,
+]
+frame_offset = [
+    0,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_blend_dark_grass_3]
+pos = [
+    512,
+    723,
+]
+size = [
+    126,
+    50,
+]
+frame_offset = [
+    0,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_blend_dark_grass_4]
+pos = [
+    384,
+    853,
+]
+size = [
+    126,
+    50,
+]
+frame_offset = [
+    0,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_blend_dark_grass_5]
+pos = [
+    384,
+    941,
+]
+size = [
+    96,
+    35,
+]
+frame_offset = [
+    30,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_blend_dark_grass_6]
+pos = [
+    640,
+    695,
+]
+size = [
+    96,
+    35,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_blend_dark_grass_7]
+pos = [
+    640,
+    643,
+]
+size = [
+    126,
+    50,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_blend_dark_grass_8]
+pos = [
+    898,
+    198,
+]
+size = [
+    124,
+    45,
+]
+frame_offset = [
+    2,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]

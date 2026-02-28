@@ -1,0 +1,1223 @@
+[location_farm_accesories_01_100]
+pos = [
+    371,
+    462,
+]
+size = [
+    110,
+    196,
+]
+frame_offset = [
+    9,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_101]
+pos = [
+    386,
+    0,
+]
+size = [
+    123,
+    203,
+]
+frame_offset = [
+    4,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_102]
+pos = [
+    0,
+    937,
+]
+size = [
+    52,
+    24,
+]
+frame_offset = [
+    48,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_104]
+pos = [
+    0,
+    0,
+]
+size = [
+    127,
+    196,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_105]
+pos = [
+    509,
+    257,
+]
+size = [
+    121,
+    188,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_106]
+pos = [
+    880,
+    119,
+]
+size = [
+    118,
+    189,
+]
+frame_offset = [
+    4,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_107]
+pos = [
+    129,
+    0,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_108]
+pos = [
+    0,
+    650,
+]
+size = [
+    115,
+    210,
+]
+frame_offset = [
+    0,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_109]
+pos = [
+    117,
+    782,
+]
+size = [
+    91,
+    189,
+]
+frame_offset = [
+    27,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_110]
+pos = [
+    0,
+    963,
+]
+size = [
+    49,
+    21,
+]
+frame_offset = [
+    30,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_112]
+pos = [
+    0,
+    198,
+]
+size = [
+    125,
+    201,
+]
+frame_offset = [
+    0,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_113]
+pos = [
+    234,
+    601,
+]
+size = [
+    101,
+    73,
+]
+frame_offset = [
+    6,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_114]
+pos = [
+    0,
+    401,
+]
+size = [
+    115,
+    247,
+]
+frame_offset = [
+    9,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_115]
+pos = [
+    634,
+    0,
+]
+size = [
+    121,
+    192,
+]
+frame_offset = [
+    7,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_116]
+pos = [
+    880,
+    0,
+]
+size = [
+    119,
+    117,
+]
+frame_offset = [
+    0,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_117]
+pos = [
+    386,
+    205,
+]
+size = [
+    121,
+    255,
+]
+frame_offset = [
+    7,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_118]
+pos = [
+    117,
+    401,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    0,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_120]
+pos = [
+    210,
+    782,
+]
+size = [
+    21,
+    70,
+]
+frame_offset = [
+    106,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_121]
+pos = [
+    337,
+    601,
+]
+size = [
+    27,
+    72,
+]
+frame_offset = [
+    63,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_122]
+pos = [
+    587,
+    903,
+]
+size = [
+    23,
+    70,
+]
+frame_offset = [
+    104,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_123]
+pos = [
+    508,
+    720,
+]
+size = [
+    27,
+    72,
+]
+frame_offset = [
+    63,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_124]
+pos = [
+    960,
+    565,
+]
+size = [
+    21,
+    70,
+]
+frame_offset = [
+    106,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_125]
+pos = [
+    508,
+    794,
+]
+size = [
+    27,
+    72,
+]
+frame_offset = [
+    63,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_126]
+pos = [
+    612,
+    903,
+]
+size = [
+    23,
+    70,
+]
+frame_offset = [
+    104,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_127]
+pos = [
+    558,
+    903,
+]
+size = [
+    27,
+    72,
+]
+frame_offset = [
+    63,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_128]
+pos = [
+    960,
+    310,
+]
+size = [
+    48,
+    83,
+]
+frame_offset = [
+    27,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_129]
+pos = [
+    960,
+    395,
+]
+size = [
+    48,
+    83,
+]
+frame_offset = [
+    27,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_130]
+pos = [
+    960,
+    480,
+]
+size = [
+    48,
+    83,
+]
+frame_offset = [
+    26,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_131]
+pos = [
+    508,
+    903,
+]
+size = [
+    48,
+    83,
+]
+frame_offset = [
+    26,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_132]
+pos = [
+    210,
+    904,
+]
+size = [
+    51,
+    83,
+]
+frame_offset = [
+    77,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_133]
+pos = [
+    263,
+    904,
+]
+size = [
+    51,
+    83,
+]
+frame_offset = [
+    77,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_134]
+pos = [
+    316,
+    904,
+]
+size = [
+    51,
+    83,
+]
+frame_offset = [
+    77,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_135]
+pos = [
+    372,
+    888,
+]
+size = [
+    51,
+    83,
+]
+frame_offset = [
+    77,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_88]
+pos = [
+    127,
+    295,
+]
+size = [
+    125,
+    201,
+]
+frame_offset = [
+    0,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_89]
+pos = [
+    0,
+    862,
+]
+size = [
+    101,
+    73,
+]
+frame_offset = [
+    6,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_90]
+pos = [
+    117,
+    498,
+]
+size = [
+    115,
+    247,
+]
+frame_offset = [
+    9,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_91]
+pos = [
+    757,
+    0,
+]
+size = [
+    121,
+    192,
+]
+frame_offset = [
+    7,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_92]
+pos = [
+    756,
+    194,
+]
+size = [
+    119,
+    117,
+]
+frame_offset = [
+    0,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_93]
+pos = [
+    511,
+    0,
+]
+size = [
+    121,
+    255,
+]
+frame_offset = [
+    7,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_94]
+pos = [
+    120,
+    401,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    0,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_96]
+pos = [
+    634,
+    194,
+]
+size = [
+    120,
+    247,
+]
+frame_offset = [
+    7,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_97]
+pos = [
+    254,
+    410,
+]
+size = [
+    115,
+    189,
+]
+frame_offset = [
+    12,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_98]
+pos = [
+    257,
+    228,
+]
+size = [
+    125,
+    180,
+]
+frame_offset = [
+    1,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_farm_accesories_01_99]
+pos = [
+    117,
+    747,
+]
+size = [
+    100,
+    33,
+]
+frame_offset = [
+    1,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_0]
+pos = [
+    304,
+    676,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_1]
+pos = [
+    551,
+    675,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_10]
+pos = [
+    551,
+    447,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_11]
+pos = [
+    372,
+    660,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_12]
+pos = [
+    619,
+    447,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_13]
+pos = [
+    756,
+    313,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_14]
+pos = [
+    687,
+    443,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_15]
+pos = [
+    824,
+    313,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_16]
+pos = [
+    440,
+    720,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_17]
+pos = [
+    891,
+    766,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_18]
+pos = [
+    892,
+    310,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_19]
+pos = [
+    234,
+    676,
+]
+size = [
+    68,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_2]
+pos = [
+    258,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_20]
+pos = [
+    619,
+    675,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_21]
+pos = [
+    755,
+    541,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_22]
+pos = [
+    687,
+    671,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_23]
+pos = [
+    823,
+    541,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_3]
+pos = [
+    1001,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_4]
+pos = [
+    892,
+    538,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_5]
+pos = [
+    755,
+    769,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_6]
+pos = [
+    129,
+    67,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_7]
+pos = [
+    983,
+    565,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_8]
+pos = [
+    483,
+    462,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_01_9]
+pos = [
+    823,
+    769,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

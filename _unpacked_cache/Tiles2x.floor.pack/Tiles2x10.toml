@@ -1,0 +1,3969 @@
+[street_trafficlines_curb_yellow_faded_105]
+pos = [
+    421,
+    411,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    52,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_106]
+pos = [
+    130,
+    29,
+]
+size = [
+    105,
+    21,
+]
+frame_offset = [
+    20,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_107]
+pos = [
+    856,
+    137,
+]
+size = [
+    30,
+    10,
+]
+frame_offset = [
+    54,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_108]
+pos = [
+    130,
+    0,
+]
+size = [
+    122,
+    5,
+]
+frame_offset = [
+    2,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_109]
+pos = [
+    169,
+    404,
+]
+size = [
+    22,
+    5,
+]
+frame_offset = [
+    52,
+    250,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_110]
+pos = [
+    172,
+    317,
+]
+size = [
+    20,
+    5,
+]
+frame_offset = [
+    54,
+    250,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_111]
+pos = [
+    282,
+    442,
+]
+size = [
+    20,
+    5,
+]
+frame_offset = [
+    52,
+    250,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_112]
+pos = [
+    911,
+    161,
+]
+size = [
+    28,
+    10,
+]
+frame_offset = [
+    42,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_113]
+pos = [
+    130,
+    52,
+]
+size = [
+    105,
+    21,
+]
+frame_offset = [
+    1,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_114]
+pos = [
+    421,
+    435,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    42,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_115]
+pos = [
+    336,
+    0,
+]
+size = [
+    91,
+    21,
+]
+frame_offset = [
+    33,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_116]
+pos = [
+    657,
+    420,
+]
+size = [
+    30,
+    10,
+]
+frame_offset = [
+    42,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_117]
+pos = [
+    834,
+    254,
+]
+size = [
+    30,
+    10,
+]
+frame_offset = [
+    54,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_118]
+pos = [
+    455,
+    423,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    42,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_119]
+pos = [
+    489,
+    431,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    52,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_120]
+pos = [
+    280,
+    256,
+]
+size = [
+    73,
+    35,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_121]
+pos = [
+    428,
+    149,
+]
+size = [
+    73,
+    35,
+]
+frame_offset = [
+    52,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_122]
+pos = [
+    172,
+    289,
+]
+size = [
+    21,
+    5,
+]
+frame_offset = [
+    53,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_123]
+pos = [
+    172,
+    303,
+]
+size = [
+    21,
+    5,
+]
+frame_offset = [
+    52,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_124]
+pos = [
+    799,
+    387,
+]
+size = [
+    7,
+    62,
+]
+frame_offset = [
+    63,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_125]
+pos = [
+    845,
+    349,
+]
+size = [
+    7,
+    62,
+]
+frame_offset = [
+    56,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_126]
+pos = [
+    898,
+    337,
+]
+size = [
+    6,
+    58,
+]
+frame_offset = [
+    72,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_127]
+pos = [
+    915,
+    335,
+]
+size = [
+    6,
+    58,
+]
+frame_offset = [
+    48,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_128]
+pos = [
+    293,
+    188,
+]
+size = [
+    35,
+    43,
+]
+frame_offset = [
+    22,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_129]
+pos = [
+    618,
+    251,
+]
+size = [
+    38,
+    51,
+]
+frame_offset = [
+    54,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_130]
+pos = [
+    108,
+    155,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    108,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_131]
+pos = [
+    174,
+    265,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    108,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_132]
+pos = [
+    780,
+    45,
+]
+size = [
+    41,
+    49,
+]
+frame_offset = [
+    30,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_133]
+pos = [
+    901,
+    53,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    56,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_134]
+pos = [
+    666,
+    304,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    64,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_136]
+pos = [
+    698,
+    251,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    2,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_137]
+pos = [
+    588,
+    304,
+]
+size = [
+    38,
+    51,
+]
+frame_offset = [
+    34,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_138]
+pos = [
+    834,
+    209,
+]
+size = [
+    35,
+    43,
+]
+frame_offset = [
+    69,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_139]
+pos = [
+    591,
+    431,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    108,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_140]
+pos = [
+    846,
+    0,
+]
+size = [
+    41,
+    49,
+]
+frame_offset = [
+    30,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_141]
+pos = [
+    718,
+    224,
+]
+size = [
+    36,
+    56,
+]
+frame_offset = [
+    56,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_142]
+pos = [
+    836,
+    155,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    64,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_144]
+pos = [
+    580,
+    38,
+]
+size = [
+    66,
+    37,
+]
+frame_offset = [
+    58,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_145]
+pos = [
+    430,
+    259,
+]
+size = [
+    68,
+    36,
+]
+frame_offset = [
+    2,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_146]
+pos = [
+    896,
+    270,
+]
+size = [
+    9,
+    65,
+]
+frame_offset = [
+    64,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_147]
+pos = [
+    823,
+    309,
+]
+size = [
+    9,
+    69,
+]
+frame_offset = [
+    56,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_148]
+pos = [
+    796,
+    209,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    26,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_149]
+pos = [
+    756,
+    252,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    34,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_150]
+pos = [
+    545,
+    304,
+]
+size = [
+    41,
+    49,
+]
+frame_offset = [
+    55,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_151]
+pos = [
+    911,
+    197,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    2,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_152]
+pos = [
+    874,
+    270,
+]
+size = [
+    9,
+    69,
+]
+frame_offset = [
+    61,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_153]
+pos = [
+    862,
+    324,
+]
+size = [
+    9,
+    65,
+]
+frame_offset = [
+    53,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_154]
+pos = [
+    427,
+    297,
+]
+size = [
+    68,
+    36,
+]
+frame_offset = [
+    56,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_155]
+pos = [
+    649,
+    0,
+]
+size = [
+    66,
+    37,
+]
+frame_offset = [
+    2,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_156]
+pos = [
+    874,
+    161,
+]
+size = [
+    35,
+    43,
+]
+frame_offset = [
+    22,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_157]
+pos = [
+    541,
+    355,
+]
+size = [
+    38,
+    51,
+]
+frame_offset = [
+    54,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_faded_158]
+pos = [
+    805,
+    308,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    108,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_0]
+pos = [
+    758,
+    147,
+]
+size = [
+    38,
+    49,
+]
+frame_offset = [
+    62,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_1]
+pos = [
+    128,
+    122,
+]
+size = [
+    96,
+    51,
+]
+frame_offset = [
+    30,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_10]
+pos = [
+    564,
+    284,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    42,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_100]
+pos = [
+    854,
+    349,
+]
+size = [
+    6,
+    66,
+]
+frame_offset = [
+    64,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_101]
+pos = [
+    836,
+    380,
+]
+size = [
+    6,
+    66,
+]
+frame_offset = [
+    56,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_102]
+pos = [
+    571,
+    168,
+]
+size = [
+    7,
+    15,
+]
+frame_offset = [
+    8,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_103]
+pos = [
+    758,
+    120,
+]
+size = [
+    7,
+    15,
+]
+frame_offset = [
+    111,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_104]
+pos = [
+    107,
+    219,
+]
+size = [
+    91,
+    21,
+]
+frame_offset = [
+    2,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_105]
+pos = [
+    421,
+    423,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    52,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_106]
+pos = [
+    0,
+    162,
+]
+size = [
+    105,
+    21,
+]
+frame_offset = [
+    20,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_107]
+pos = [
+    657,
+    408,
+]
+size = [
+    30,
+    10,
+]
+frame_offset = [
+    54,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_108]
+pos = [
+    130,
+    7,
+]
+size = [
+    122,
+    5,
+]
+frame_offset = [
+    2,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_109]
+pos = [
+    169,
+    411,
+]
+size = [
+    22,
+    5,
+]
+frame_offset = [
+    52,
+    250,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_11]
+pos = [
+    523,
+    431,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    52,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_110]
+pos = [
+    260,
+    443,
+]
+size = [
+    20,
+    5,
+]
+frame_offset = [
+    54,
+    250,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_111]
+pos = [
+    304,
+    442,
+]
+size = [
+    20,
+    5,
+]
+frame_offset = [
+    52,
+    250,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_112]
+pos = [
+    911,
+    173,
+]
+size = [
+    28,
+    10,
+]
+frame_offset = [
+    42,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_113]
+pos = [
+    0,
+    185,
+]
+size = [
+    105,
+    21,
+]
+frame_offset = [
+    1,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_114]
+pos = [
+    455,
+    411,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    42,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_115]
+pos = [
+    336,
+    23,
+]
+size = [
+    91,
+    21,
+]
+frame_offset = [
+    33,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_116]
+pos = [
+    704,
+    381,
+]
+size = [
+    30,
+    10,
+]
+frame_offset = [
+    42,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_117]
+pos = [
+    657,
+    432,
+]
+size = [
+    30,
+    10,
+]
+frame_offset = [
+    54,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_118]
+pos = [
+    455,
+    435,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    42,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_119]
+pos = [
+    537,
+    408,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    52,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_12]
+pos = [
+    107,
+    175,
+]
+size = [
+    92,
+    20,
+]
+frame_offset = [
+    2,
+    225,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_120]
+pos = [
+    280,
+    293,
+]
+size = [
+    73,
+    35,
+]
+frame_offset = [
+    0,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_121]
+pos = [
+    280,
+    330,
+]
+size = [
+    73,
+    35,
+]
+frame_offset = [
+    52,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_122]
+pos = [
+    172,
+    296,
+]
+size = [
+    21,
+    5,
+]
+frame_offset = [
+    53,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_123]
+pos = [
+    172,
+    310,
+]
+size = [
+    21,
+    5,
+]
+frame_offset = [
+    52,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_124]
+pos = [
+    808,
+    386,
+]
+size = [
+    7,
+    62,
+]
+frame_offset = [
+    63,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_125]
+pos = [
+    818,
+    380,
+]
+size = [
+    7,
+    62,
+]
+frame_offset = [
+    56,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_126]
+pos = [
+    907,
+    335,
+]
+size = [
+    6,
+    58,
+]
+frame_offset = [
+    72,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_127]
+pos = [
+    862,
+    391,
+]
+size = [
+    6,
+    58,
+]
+frame_offset = [
+    48,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_128]
+pos = [
+    704,
+    336,
+]
+size = [
+    35,
+    43,
+]
+frame_offset = [
+    22,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_129]
+pos = [
+    889,
+    0,
+]
+size = [
+    38,
+    51,
+]
+frame_offset = [
+    54,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_13]
+pos = [
+    128,
+    75,
+]
+size = [
+    105,
+    21,
+]
+frame_offset = [
+    21,
+    208,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_130]
+pos = [
+    174,
+    249,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    108,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_131]
+pos = [
+    598,
+    284,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    108,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_132]
+pos = [
+    715,
+    120,
+]
+size = [
+    41,
+    49,
+]
+frame_offset = [
+    30,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_133]
+pos = [
+    758,
+    198,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    56,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_134]
+pos = [
+    798,
+    155,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    64,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_136]
+pos = [
+    591,
+    415,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    2,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_137]
+pos = [
+    823,
+    51,
+]
+size = [
+    38,
+    51,
+]
+frame_offset = [
+    34,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_138]
+pos = [
+    794,
+    263,
+]
+size = [
+    35,
+    43,
+]
+frame_offset = [
+    69,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_139]
+pos = [
+    831,
+    277,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    108,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_14]
+pos = [
+    103,
+    242,
+]
+size = [
+    90,
+    5,
+]
+frame_offset = [
+    18,
+    233,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_140]
+pos = [
+    632,
+    200,
+]
+size = [
+    41,
+    49,
+]
+frame_offset = [
+    30,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_141]
+pos = [
+    581,
+    357,
+]
+size = [
+    36,
+    56,
+]
+frame_offset = [
+    56,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_142]
+pos = [
+    704,
+    282,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    64,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_144]
+pos = [
+    505,
+    111,
+]
+size = [
+    66,
+    37,
+]
+frame_offset = [
+    58,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_145]
+pos = [
+    355,
+    365,
+]
+size = [
+    68,
+    36,
+]
+frame_offset = [
+    2,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_146]
+pos = [
+    907,
+    268,
+]
+size = [
+    9,
+    65,
+]
+frame_offset = [
+    64,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_147]
+pos = [
+    834,
+    309,
+]
+size = [
+    9,
+    69,
+]
+frame_offset = [
+    56,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_148]
+pos = [
+    901,
+    107,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    26,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_149]
+pos = [
+    619,
+    389,
+]
+size = [
+    36,
+    52,
+]
+frame_offset = [
+    34,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_15]
+pos = [
+    180,
+    443,
+]
+size = [
+    54,
+    5,
+]
+frame_offset = [
+    36,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_150]
+pos = [
+    675,
+    200,
+]
+size = [
+    41,
+    49,
+]
+frame_offset = [
+    55,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_151]
+pos = [
+    689,
+    420,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    2,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_152]
+pos = [
+    885,
+    270,
+]
+size = [
+    9,
+    69,
+]
+frame_offset = [
+    61,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_153]
+pos = [
+    918,
+    268,
+]
+size = [
+    9,
+    65,
+]
+frame_offset = [
+    53,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_154]
+pos = [
+    351,
+    404,
+]
+size = [
+    68,
+    36,
+]
+frame_offset = [
+    56,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_155]
+pos = [
+    503,
+    150,
+]
+size = [
+    66,
+    37,
+]
+frame_offset = [
+    2,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_156]
+pos = [
+    742,
+    306,
+]
+size = [
+    35,
+    43,
+]
+frame_offset = [
+    22,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_157]
+pos = [
+    658,
+    251,
+]
+size = [
+    38,
+    51,
+]
+frame_offset = [
+    54,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_158]
+pos = [
+    831,
+    293,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    108,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_16]
+pos = [
+    280,
+    404,
+]
+size = [
+    69,
+    36,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_17]
+pos = [
+    699,
+    152,
+]
+size = [
+    14,
+    11,
+]
+frame_offset = [
+    0,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_18]
+pos = [
+    849,
+    277,
+]
+size = [
+    11,
+    70,
+]
+frame_offset = [
+    67,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_19]
+pos = [
+    201,
+    188,
+]
+size = [
+    90,
+    27,
+]
+frame_offset = [
+    0,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_2]
+pos = [
+    280,
+    246,
+]
+size = [
+    9,
+    8,
+]
+frame_offset = [
+    0,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_20]
+pos = [
+    428,
+    186,
+]
+size = [
+    72,
+    35,
+]
+frame_offset = [
+    0,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_21]
+pos = [
+    0,
+    368,
+]
+size = [
+    82,
+    34,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_22]
+pos = [
+    0,
+    422,
+]
+size = [
+    75,
+    13,
+]
+frame_offset = [
+    33,
+    233,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_23]
+pos = [
+    62,
+    437,
+]
+size = [
+    57,
+    6,
+]
+frame_offset = [
+    33,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_24]
+pos = [
+    580,
+    0,
+]
+size = [
+    67,
+    36,
+]
+frame_offset = [
+    57,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_25]
+pos = [
+    618,
+    233,
+]
+size = [
+    12,
+    11,
+]
+frame_offset = [
+    112,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_26]
+pos = [
+    929,
+    267,
+]
+size = [
+    8,
+    67,
+]
+frame_offset = [
+    48,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_27]
+pos = [
+    201,
+    217,
+]
+size = [
+    88,
+    27,
+]
+frame_offset = [
+    36,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_28]
+pos = [
+    280,
+    367,
+]
+size = [
+    72,
+    35,
+]
+frame_offset = [
+    52,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_29]
+pos = [
+    429,
+    0,
+]
+size = [
+    80,
+    34,
+]
+frame_offset = [
+    44,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_3]
+pos = [
+    718,
+    171,
+]
+size = [
+    38,
+    51,
+]
+frame_offset = [
+    58,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_30]
+pos = [
+    77,
+    422,
+]
+size = [
+    75,
+    13,
+]
+frame_offset = [
+    18,
+    233,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_31]
+pos = [
+    121,
+    437,
+]
+size = [
+    57,
+    6,
+]
+frame_offset = [
+    36,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_32]
+pos = [
+    774,
+    96,
+]
+size = [
+    40,
+    49,
+]
+frame_offset = [
+    30,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_33]
+pos = [
+    779,
+    387,
+]
+size = [
+    8,
+    61,
+]
+frame_offset = [
+    64,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_34]
+pos = [
+    426,
+    335,
+]
+size = [
+    68,
+    36,
+]
+frame_offset = [
+    2,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_35]
+pos = [
+    689,
+    408,
+]
+size = [
+    29,
+    10,
+]
+frame_offset = [
+    42,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_36]
+pos = [
+    154,
+    422,
+]
+size = [
+    34,
+    13,
+]
+frame_offset = [
+    36,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_37]
+pos = [
+    571,
+    150,
+]
+size = [
+    7,
+    16,
+]
+frame_offset = [
+    0,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_38]
+pos = [
+    827,
+    380,
+]
+size = [
+    7,
+    62,
+]
+frame_offset = [
+    71,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_39]
+pos = [
+    873,
+    341,
+]
+size = [
+    7,
+    62,
+]
+frame_offset = [
+    48,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_4]
+pos = [
+    816,
+    104,
+]
+size = [
+    38,
+    49,
+]
+frame_offset = [
+    26,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_40]
+pos = [
+    495,
+    380,
+]
+size = [
+    40,
+    49,
+]
+frame_offset = [
+    56,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_41]
+pos = [
+    789,
+    387,
+]
+size = [
+    8,
+    61,
+]
+frame_offset = [
+    54,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_42]
+pos = [
+    425,
+    373,
+]
+size = [
+    68,
+    36,
+]
+frame_offset = [
+    56,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_43]
+pos = [
+    704,
+    393,
+]
+size = [
+    29,
+    10,
+]
+frame_offset = [
+    55,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_44]
+pos = [
+    381,
+    236,
+]
+size = [
+    34,
+    13,
+]
+frame_offset = [
+    56,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_45]
+pos = [
+    699,
+    175,
+]
+size = [
+    8,
+    17,
+]
+frame_offset = [
+    117,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_47]
+pos = [
+    428,
+    105,
+]
+size = [
+    75,
+    42,
+]
+frame_offset = [
+    0,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_48]
+pos = [
+    568,
+    233,
+]
+size = [
+    48,
+    49,
+]
+frame_offset = [
+    26,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_49]
+pos = [
+    355,
+    293,
+]
+size = [
+    70,
+    31,
+]
+frame_offset = [
+    0,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_5]
+pos = [
+    699,
+    165,
+]
+size = [
+    9,
+    8,
+]
+frame_offset = [
+    117,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_50]
+pos = [
+    502,
+    189,
+]
+size = [
+    64,
+    46,
+]
+frame_offset = [
+    0,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_51]
+pos = [
+    417,
+    236,
+]
+size = [
+    10,
+    9,
+]
+frame_offset = [
+    80,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_52]
+pos = [
+    568,
+    192,
+]
+size = [
+    62,
+    39,
+]
+frame_offset = [
+    8,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_53]
+pos = [
+    647,
+    152,
+]
+size = [
+    50,
+    46,
+]
+frame_offset = [
+    58,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_54]
+pos = [
+    871,
+    209,
+]
+size = [
+    32,
+    59,
+]
+frame_offset = [
+    64,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_55]
+pos = [
+    741,
+    363,
+]
+size = [
+    23,
+    39,
+]
+frame_offset = [
+    42,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_56]
+pos = [
+    497,
+    304,
+]
+size = [
+    46,
+    23,
+]
+frame_offset = [
+    18,
+    233,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_57]
+pos = [
+    929,
+    197,
+]
+size = [
+    10,
+    68,
+]
+frame_offset = [
+    52,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_58]
+pos = [
+    666,
+    358,
+]
+size = [
+    36,
+    48,
+]
+frame_offset = [
+    26,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_59]
+pos = [
+    882,
+    341,
+]
+size = [
+    6,
+    66,
+]
+frame_offset = [
+    56,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_6]
+pos = [
+    429,
+    36,
+]
+size = [
+    78,
+    67,
+]
+frame_offset = [
+    0,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_60]
+pos = [
+    890,
+    341,
+]
+size = [
+    6,
+    66,
+]
+frame_offset = [
+    64,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_61]
+pos = [
+    497,
+    329,
+]
+size = [
+    42,
+    49,
+]
+frame_offset = [
+    54,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_62]
+pos = [
+    0,
+    313,
+]
+size = [
+    84,
+    34,
+]
+frame_offset = [
+    8,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_63]
+pos = [
+    628,
+    304,
+]
+size = [
+    36,
+    83,
+]
+frame_offset = [
+    46,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_64]
+pos = [
+    741,
+    351,
+]
+size = [
+    30,
+    10,
+]
+frame_offset = [
+    54,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_65]
+pos = [
+    766,
+    363,
+]
+size = [
+    11,
+    60,
+]
+frame_offset = [
+    51,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_66]
+pos = [
+    128,
+    98,
+]
+size = [
+    101,
+    22,
+]
+frame_offset = [
+    21,
+    208,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_67]
+pos = [
+    88,
+    255,
+]
+size = [
+    84,
+    32,
+]
+frame_offset = [
+    0,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_68]
+pos = [
+    0,
+    294,
+]
+size = [
+    86,
+    17,
+]
+frame_offset = [
+    8,
+    228,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_69]
+pos = [
+    911,
+    185,
+]
+size = [
+    28,
+    10,
+]
+frame_offset = [
+    54,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_7]
+pos = [
+    328,
+    101,
+]
+size = [
+    6,
+    67,
+]
+frame_offset = [
+    48,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_70]
+pos = [
+    130,
+    14,
+]
+size = [
+    107,
+    13,
+]
+frame_offset = [
+    2,
+    225,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_71]
+pos = [
+    862,
+    270,
+]
+size = [
+    10,
+    52,
+]
+frame_offset = [
+    74,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_72]
+pos = [
+    0,
+    349,
+]
+size = [
+    83,
+    17,
+]
+frame_offset = [
+    11,
+    228,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_73]
+pos = [
+    169,
+    324,
+]
+size = [
+    24,
+    78,
+]
+frame_offset = [
+    54,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_74]
+pos = [
+    174,
+    281,
+]
+size = [
+    16,
+    6,
+]
+frame_offset = [
+    54,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_75]
+pos = [
+    500,
+    271,
+]
+size = [
+    62,
+    31,
+]
+frame_offset = [
+    8,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_76]
+pos = [
+    291,
+    236,
+]
+size = [
+    88,
+    18,
+]
+frame_offset = [
+    32,
+    227,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_77]
+pos = [
+    88,
+    289,
+]
+size = [
+    82,
+    33,
+]
+frame_offset = [
+    42,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_78]
+pos = [
+    905,
+    213,
+]
+size = [
+    12,
+    53,
+]
+frame_offset = [
+    42,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_79]
+pos = [
+    0,
+    404,
+]
+size = [
+    82,
+    16,
+]
+frame_offset = [
+    32,
+    229,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_8]
+pos = [
+    0,
+    208,
+]
+size = [
+    105,
+    21,
+]
+
+[street_trafficlines_curb_yellow_full_80]
+pos = [
+    783,
+    0,
+]
+size = [
+    61,
+    43,
+]
+frame_offset = [
+    0,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_81]
+pos = [
+    254,
+    0,
+]
+size = [
+    74,
+    12,
+]
+frame_offset = [
+    34,
+    233,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_82]
+pos = [
+    0,
+    437,
+]
+size = [
+    60,
+    8,
+]
+frame_offset = [
+    30,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_83]
+pos = [
+    201,
+    175,
+]
+size = [
+    28,
+    11,
+]
+frame_offset = [
+    42,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_84]
+pos = [
+    863,
+    53,
+]
+size = [
+    36,
+    82,
+]
+frame_offset = [
+    42,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_85]
+pos = [
+    0,
+    255,
+]
+size = [
+    86,
+    37,
+]
+frame_offset = [
+    32,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_86]
+pos = [
+    779,
+    308,
+]
+size = [
+    24,
+    77,
+]
+frame_offset = [
+    48,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_87]
+pos = [
+    831,
+    266,
+]
+size = [
+    29,
+    9,
+]
+frame_offset = [
+    44,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_88]
+pos = [
+    0,
+    147,
+]
+size = [
+    106,
+    13,
+]
+frame_offset = [
+    18,
+    225,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_89]
+pos = [
+    355,
+    256,
+]
+size = [
+    73,
+    35,
+]
+frame_offset = [
+    1,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_9]
+pos = [
+    107,
+    197,
+]
+size = [
+    92,
+    20,
+]
+frame_offset = [
+    32,
+    225,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_90]
+pos = [
+    108,
+    147,
+]
+size = [
+    18,
+    6,
+]
+frame_offset = [
+    54,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_91]
+pos = [
+    805,
+    324,
+]
+size = [
+    11,
+    60,
+]
+frame_offset = [
+    64,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_92]
+pos = [
+    0,
+    231,
+]
+size = [
+    101,
+    22,
+]
+frame_offset = [
+    4,
+    208,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_93]
+pos = [
+    501,
+    237,
+]
+size = [
+    64,
+    32,
+]
+frame_offset = [
+    54,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_94]
+pos = [
+    715,
+    77,
+]
+size = [
+    57,
+    41,
+]
+frame_offset = [
+    67,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_96]
+pos = [
+    0,
+    140,
+]
+size = [
+    122,
+    5,
+]
+frame_offset = [
+    2,
+    225,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_97]
+pos = [
+    236,
+    443,
+]
+size = [
+    22,
+    5,
+]
+frame_offset = [
+    52,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_98]
+pos = [
+    557,
+    420,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    52,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_trafficlines_curb_yellow_full_99]
+pos = [
+    557,
+    432,
+]
+size = [
+    32,
+    10,
+]
+frame_offset = [
+    42,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farm_01_12]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    68,
+]
+frame_offset = [
+    0,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farm_01_13]
+pos = [
+    0,
+    70,
+]
+size = [
+    126,
+    68,
+]
+frame_offset = [
+    0,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farm_01_20]
+pos = [
+    715,
+    39,
+]
+size = [
+    63,
+    36,
+]
+frame_offset = [
+    62,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farm_01_21]
+pos = [
+    717,
+    0,
+]
+size = [
+    64,
+    35,
+]
+frame_offset = [
+    2,
+    221,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farm_01_22]
+pos = [
+    355,
+    326,
+]
+size = [
+    69,
+    37,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_farm_01_23]
+pos = [
+    430,
+    223,
+]
+size = [
+    69,
+    34,
+]
+frame_offset = [
+    59,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_ornamental_01_24]
+pos = [
+    511,
+    0,
+]
+size = [
+    67,
+    109,
+]
+frame_offset = [
+    28,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_ornamental_01_25]
+pos = [
+    195,
+    246,
+]
+size = [
+    83,
+    195,
+]
+frame_offset = [
+    32,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_ornamental_01_26]
+pos = [
+    648,
+    39,
+]
+size = [
+    65,
+    111,
+]
+frame_offset = [
+    29,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_ornamental_01_27]
+pos = [
+    580,
+    77,
+]
+size = [
+    65,
+    113,
+]
+frame_offset = [
+    32,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_ornamental_01_40]
+pos = [
+    86,
+    324,
+]
+size = [
+    81,
+    96,
+]
+frame_offset = [
+    21,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_ornamental_01_41]
+pos = [
+    336,
+    46,
+]
+size = [
+    90,
+    188,
+]
+frame_offset = [
+    25,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_ornamental_01_42]
+pos = [
+    239,
+    14,
+]
+size = [
+    95,
+    85,
+]
+frame_offset = [
+    7,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[vegetation_ornamental_01_43]
+pos = [
+    231,
+    101,
+]
+size = [
+    95,
+    85,
+]
+frame_offset = [
+    25,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]

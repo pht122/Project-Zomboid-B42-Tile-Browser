@@ -1,0 +1,3095 @@
+[overlay_graffiti_wall_01_10]
+pos = [
+    451,
+    0,
+]
+size = [
+    59,
+    72,
+]
+frame_offset = [
+    6,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_100]
+pos = [
+    380,
+    0,
+]
+size = [
+    69,
+    74,
+]
+frame_offset = [
+    54,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_101]
+pos = [
+    0,
+    189,
+]
+size = [
+    74,
+    60,
+]
+frame_offset = [
+    46,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_102]
+pos = [
+    299,
+    0,
+]
+size = [
+    79,
+    76,
+]
+frame_offset = [
+    42,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_103]
+pos = [
+    62,
+    765,
+]
+size = [
+    60,
+    62,
+]
+frame_offset = [
+    60,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_104]
+pos = [
+    842,
+    277,
+]
+size = [
+    62,
+    118,
+]
+frame_offset = [
+    62,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_105]
+pos = [
+    336,
+    378,
+]
+size = [
+    64,
+    124,
+]
+frame_offset = [
+    60,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_106]
+pos = [
+    553,
+    276,
+]
+size = [
+    64,
+    116,
+]
+frame_offset = [
+    60,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_107]
+pos = [
+    487,
+    395,
+]
+size = [
+    64,
+    96,
+]
+frame_offset = [
+    60,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_108]
+pos = [
+    867,
+    923,
+]
+size = [
+    27,
+    77,
+]
+frame_offset = [
+    60,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_11]
+pos = [
+    448,
+    589,
+]
+size = [
+    56,
+    85,
+]
+frame_offset = [
+    10,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_112]
+pos = [
+    389,
+    510,
+]
+size = [
+    57,
+    144,
+]
+frame_offset = [
+    67,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_113]
+pos = [
+    355,
+    222,
+]
+size = [
+    64,
+    154,
+]
+frame_offset = [
+    60,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_114]
+pos = [
+    204,
+    325,
+]
+size = [
+    64,
+    155,
+]
+frame_offset = [
+    60,
+    28,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_115]
+pos = [
+    619,
+    861,
+]
+size = [
+    43,
+    128,
+]
+frame_offset = [
+    60,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_12]
+pos = [
+    776,
+    124,
+]
+size = [
+    64,
+    95,
+]
+frame_offset = [
+    2,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_13]
+pos = [
+    677,
+    492,
+]
+size = [
+    54,
+    73,
+]
+frame_offset = [
+    2,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_14]
+pos = [
+    181,
+    940,
+]
+size = [
+    54,
+    82,
+]
+frame_offset = [
+    12,
+    28,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_15]
+pos = [
+    124,
+    76,
+]
+size = [
+    85,
+    94,
+]
+frame_offset = [
+    2,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_16]
+pos = [
+    733,
+    550,
+]
+size = [
+    52,
+    96,
+]
+frame_offset = [
+    72,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_17]
+pos = [
+    619,
+    261,
+]
+size = [
+    64,
+    96,
+]
+frame_offset = [
+    60,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_18]
+pos = [
+    563,
+    671,
+]
+size = [
+    53,
+    102,
+]
+frame_offset = [
+    60,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_19]
+pos = [
+    488,
+    764,
+]
+size = [
+    53,
+    96,
+]
+frame_offset = [
+    71,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_20]
+pos = [
+    360,
+    895,
+]
+size = [
+    53,
+    80,
+]
+frame_offset = [
+    60,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_21]
+pos = [
+    664,
+    928,
+]
+size = [
+    39,
+    67,
+]
+frame_offset = [
+    85,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_22]
+pos = [
+    553,
+    394,
+]
+size = [
+    64,
+    83,
+]
+frame_offset = [
+    60,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_23]
+pos = [
+    515,
+    971,
+]
+size = [
+    35,
+    50,
+]
+frame_offset = [
+    60,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_24]
+pos = [
+    915,
+    422,
+]
+size = [
+    51,
+    69,
+]
+frame_offset = [
+    73,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_25]
+pos = [
+    710,
+    231,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    60,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_26]
+pos = [
+    708,
+    841,
+]
+size = [
+    41,
+    70,
+]
+frame_offset = [
+    60,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_27]
+pos = [
+    676,
+    667,
+]
+size = [
+    50,
+    104,
+]
+frame_offset = [
+    74,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_28]
+pos = [
+    644,
+    0,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    60,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_29]
+pos = [
+    270,
+    373,
+]
+size = [
+    64,
+    128,
+]
+frame_offset = [
+    60,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_30]
+pos = [
+    710,
+    128,
+]
+size = [
+    64,
+    101,
+]
+frame_offset = [
+    60,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_31]
+pos = [
+    416,
+    854,
+]
+size = [
+    52,
+    83,
+]
+frame_offset = [
+    60,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_32]
+pos = [
+    138,
+    251,
+]
+size = [
+    66,
+    72,
+]
+frame_offset = [
+    58,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_33]
+pos = [
+    619,
+    359,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    60,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_34]
+pos = [
+    119,
+    943,
+]
+size = [
+    54,
+    74,
+]
+frame_offset = [
+    60,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_35]
+pos = [
+    507,
+    549,
+]
+size = [
+    56,
+    55,
+]
+frame_offset = [
+    68,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_36]
+pos = [
+    415,
+    939,
+]
+size = [
+    50,
+    58,
+]
+frame_offset = [
+    60,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_37]
+pos = [
+    862,
+    422,
+]
+size = [
+    51,
+    76,
+]
+frame_offset = [
+    73,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_38]
+pos = [
+    402,
+    417,
+]
+size = [
+    64,
+    91,
+]
+frame_offset = [
+    60,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_39]
+pos = [
+    963,
+    532,
+]
+size = [
+    42,
+    81,
+]
+frame_offset = [
+    60,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_40]
+pos = [
+    124,
+    0,
+]
+size = [
+    89,
+    74,
+]
+frame_offset = [
+    8,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_41]
+pos = [
+    124,
+    801,
+]
+size = [
+    57,
+    81,
+]
+frame_offset = [
+    9,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_42]
+pos = [
+    842,
+    101,
+]
+size = [
+    64,
+    85,
+]
+frame_offset = [
+    2,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_43]
+pos = [
+    241,
+    898,
+]
+size = [
+    54,
+    94,
+]
+frame_offset = [
+    2,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_44]
+pos = [
+    0,
+    358,
+]
+size = [
+    66,
+    78,
+]
+frame_offset = [
+    0,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_45]
+pos = [
+    842,
+    0,
+]
+size = [
+    64,
+    99,
+]
+frame_offset = [
+    2,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_46]
+pos = [
+    781,
+    707,
+]
+size = [
+    43,
+    76,
+]
+frame_offset = [
+    2,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_47]
+pos = [
+    571,
+    861,
+]
+size = [
+    46,
+    62,
+]
+frame_offset = [
+    2,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_48]
+pos = [
+    565,
+    549,
+]
+size = [
+    54,
+    120,
+]
+frame_offset = [
+    70,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_49]
+pos = [
+    421,
+    265,
+]
+size = [
+    64,
+    150,
+]
+frame_offset = [
+    60,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_50]
+pos = [
+    908,
+    92,
+]
+size = [
+    63,
+    104,
+]
+frame_offset = [
+    60,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_51]
+pos = [
+    328,
+    504,
+]
+size = [
+    59,
+    126,
+]
+frame_offset = [
+    67,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_52]
+pos = [
+    619,
+    439,
+]
+size = [
+    55,
+    107,
+]
+frame_offset = [
+    69,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_53]
+pos = [
+    432,
+    676,
+]
+size = [
+    54,
+    110,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_54]
+pos = [
+    64,
+    601,
+]
+size = [
+    61,
+    56,
+]
+frame_offset = [
+    5,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_55]
+pos = [
+    0,
+    438,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    2,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_56]
+pos = [
+    0,
+    507,
+]
+size = [
+    62,
+    118,
+]
+frame_offset = [
+    4,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_57]
+pos = [
+    578,
+    134,
+]
+size = [
+    64,
+    125,
+]
+frame_offset = [
+    2,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_58]
+pos = [
+    883,
+    587,
+]
+size = [
+    44,
+    99,
+]
+frame_offset = [
+    2,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_59]
+pos = [
+    215,
+    0,
+]
+size = [
+    82,
+    127,
+]
+frame_offset = [
+    42,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_60]
+pos = [
+    971,
+    615,
+]
+size = [
+    39,
+    109,
+]
+frame_offset = [
+    85,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_61]
+pos = [
+    776,
+    0,
+]
+size = [
+    64,
+    122,
+]
+frame_offset = [
+    60,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_62]
+pos = [
+    512,
+    0,
+]
+size = [
+    64,
+    141,
+]
+frame_offset = [
+    60,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_63]
+pos = [
+    127,
+    628,
+]
+size = [
+    60,
+    101,
+]
+frame_offset = [
+    60,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_64]
+pos = [
+    506,
+    606,
+]
+size = [
+    55,
+    87,
+]
+frame_offset = [
+    11,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_65]
+pos = [
+    596,
+    775,
+]
+size = [
+    50,
+    84,
+]
+frame_offset = [
+    2,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_66]
+pos = [
+    677,
+    567,
+]
+size = [
+    53,
+    98,
+]
+frame_offset = [
+    71,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_67]
+pos = [
+    910,
+    786,
+]
+size = [
+    30,
+    216,
+]
+frame_offset = [
+    60,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_68]
+pos = [
+    0,
+    685,
+]
+size = [
+    60,
+    112,
+]
+frame_offset = [
+    64,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_69]
+pos = [
+    487,
+    276,
+]
+size = [
+    64,
+    117,
+]
+frame_offset = [
+    60,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_70]
+pos = [
+    710,
+    0,
+]
+size = [
+    64,
+    126,
+]
+frame_offset = [
+    60,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_71]
+pos = [
+    130,
+    510,
+]
+size = [
+    61,
+    116,
+]
+frame_offset = [
+    60,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_72]
+pos = [
+    942,
+    850,
+]
+size = [
+    29,
+    104,
+]
+frame_offset = [
+    37,
+    80,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_73]
+pos = [
+    618,
+    695,
+]
+size = [
+    52,
+    64,
+]
+frame_offset = [
+    2,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_74]
+pos = [
+    842,
+    188,
+]
+size = [
+    63,
+    87,
+]
+frame_offset = [
+    3,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_75]
+pos = [
+    644,
+    133,
+]
+size = [
+    64,
+    121,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_76]
+pos = [
+    922,
+    688,
+]
+size = [
+    38,
+    96,
+]
+frame_offset = [
+    2,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_77]
+pos = [
+    751,
+    785,
+]
+size = [
+    40,
+    78,
+]
+frame_offset = [
+    84,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_78]
+pos = [
+    908,
+    0,
+]
+size = [
+    64,
+    90,
+]
+frame_offset = [
+    60,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_79]
+pos = [
+    62,
+    829,
+]
+size = [
+    58,
+    71,
+]
+frame_offset = [
+    60,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_8]
+pos = [
+    0,
+    627,
+]
+size = [
+    62,
+    56,
+]
+frame_offset = [
+    4,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_80]
+pos = [
+    373,
+    722,
+]
+size = [
+    55,
+    96,
+]
+frame_offset = [
+    11,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_81]
+pos = [
+    907,
+    198,
+]
+size = [
+    62,
+    222,
+]
+frame_offset = [
+    2,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_82]
+pos = [
+    543,
+    775,
+]
+size = [
+    51,
+    68,
+]
+frame_offset = [
+    15,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_83]
+pos = [
+    776,
+    221,
+]
+size = [
+    64,
+    75,
+]
+frame_offset = [
+    2,
+    80,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_84]
+pos = [
+    871,
+    834,
+]
+size = [
+    32,
+    87,
+]
+frame_offset = [
+    2,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_85]
+pos = [
+    377,
+    78,
+]
+size = [
+    67,
+    142,
+]
+frame_offset = [
+    0,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_86]
+pos = [
+    69,
+    251,
+]
+size = [
+    67,
+    90,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_87]
+pos = [
+    299,
+    78,
+]
+size = [
+    76,
+    97,
+]
+frame_offset = [
+    0,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_88]
+pos = [
+    968,
+    434,
+]
+size = [
+    46,
+    96,
+]
+frame_offset = [
+    78,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_89]
+pos = [
+    289,
+    177,
+]
+size = [
+    64,
+    194,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_9]
+pos = [
+    685,
+    411,
+]
+size = [
+    63,
+    79,
+]
+frame_offset = [
+    2,
+    106,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_90]
+pos = [
+    255,
+    594,
+]
+size = [
+    58,
+    190,
+]
+frame_offset = [
+    60,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_91]
+pos = [
+    124,
+    172,
+]
+size = [
+    82,
+    77,
+]
+frame_offset = [
+    39,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_92]
+pos = [
+    211,
+    129,
+]
+size = [
+    76,
+    100,
+]
+frame_offset = [
+    1,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_93]
+pos = [
+    189,
+    668,
+]
+size = [
+    58,
+    120,
+]
+frame_offset = [
+    8,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_94]
+pos = [
+    512,
+    143,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    2,
+    8,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_95]
+pos = [
+    806,
+    469,
+]
+size = [
+    52,
+    112,
+]
+frame_offset = [
+    2,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_96]
+pos = [
+    0,
+    251,
+]
+size = [
+    67,
+    105,
+]
+frame_offset = [
+    57,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_97]
+pos = [
+    578,
+    0,
+]
+size = [
+    64,
+    132,
+]
+frame_offset = [
+    60,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_98]
+pos = [
+    0,
+    871,
+]
+size = [
+    58,
+    107,
+]
+frame_offset = [
+    60,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_0]
+pos = [
+    732,
+    648,
+]
+size = [
+    47,
+    121,
+]
+frame_offset = [
+    72,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_1]
+pos = [
+    66,
+    441,
+]
+size = [
+    62,
+    83,
+]
+frame_offset = [
+    61,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_10]
+pos = [
+    507,
+    493,
+]
+size = [
+    57,
+    54,
+]
+frame_offset = [
+    66,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_11]
+pos = [
+    566,
+    479,
+]
+size = [
+    44,
+    54,
+]
+frame_offset = [
+    72,
+    78,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_12]
+pos = [
+    122,
+    884,
+]
+size = [
+    57,
+    57,
+]
+frame_offset = [
+    67,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_13]
+pos = [
+    974,
+    0,
+]
+size = [
+    47,
+    69,
+]
+frame_offset = [
+    67,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_14]
+pos = [
+    915,
+    493,
+]
+size = [
+    46,
+    83,
+]
+frame_offset = [
+    67,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_15]
+pos = [
+    880,
+    688,
+]
+size = [
+    40,
+    75,
+]
+frame_offset = [
+    70,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_16]
+pos = [
+    806,
+    401,
+]
+size = [
+    54,
+    66,
+]
+frame_offset = [
+    69,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_17]
+pos = [
+    648,
+    773,
+]
+size = [
+    46,
+    81,
+]
+frame_offset = [
+    69,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_18]
+pos = [
+    60,
+    971,
+]
+size = [
+    49,
+    45,
+]
+frame_offset = [
+    65,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_19]
+pos = [
+    266,
+    503,
+]
+size = [
+    60,
+    89,
+]
+frame_offset = [
+    61,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_2]
+pos = [
+    470,
+    862,
+]
+size = [
+    50,
+    86,
+]
+frame_offset = [
+    71,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_20]
+pos = [
+    696,
+    773,
+]
+size = [
+    45,
+    66,
+]
+frame_offset = [
+    68,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_21]
+pos = [
+    448,
+    510,
+]
+size = [
+    57,
+    77,
+]
+frame_offset = [
+    63,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_22]
+pos = [
+    871,
+    765,
+]
+size = [
+    37,
+    67,
+]
+frame_offset = [
+    70,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_23]
+pos = [
+    793,
+    786,
+]
+size = [
+    37,
+    102,
+]
+frame_offset = [
+    73,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_24]
+pos = [
+    835,
+    662,
+]
+size = [
+    43,
+    57,
+]
+frame_offset = [
+    73,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_25]
+pos = [
+    832,
+    786,
+]
+size = [
+    37,
+    70,
+]
+frame_offset = [
+    73,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_26]
+pos = [
+    971,
+    317,
+]
+size = [
+    51,
+    115,
+]
+frame_offset = [
+    67,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_27]
+pos = [
+    685,
+    320,
+]
+size = [
+    63,
+    89,
+]
+frame_offset = [
+    61,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_28]
+pos = [
+    183,
+    854,
+]
+size = [
+    56,
+    84,
+]
+frame_offset = [
+    67,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_29]
+pos = [
+    621,
+    548,
+]
+size = [
+    54,
+    85,
+]
+frame_offset = [
+    68,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_3]
+pos = [
+    430,
+    788,
+]
+size = [
+    54,
+    64,
+]
+frame_offset = [
+    66,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_30]
+pos = [
+    297,
+    931,
+]
+size = [
+    53,
+    89,
+]
+frame_offset = [
+    68,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_31]
+pos = [
+    664,
+    856,
+]
+size = [
+    42,
+    70,
+]
+frame_offset = [
+    74,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_32]
+pos = [
+    522,
+    862,
+]
+size = [
+    47,
+    107,
+]
+frame_offset = [
+    11,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_33]
+pos = [
+    64,
+    526,
+]
+size = [
+    62,
+    73,
+]
+frame_offset = [
+    2,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_34]
+pos = [
+    860,
+    500,
+]
+size = [
+    50,
+    85,
+]
+frame_offset = [
+    7,
+    78,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_35]
+pos = [
+    360,
+    826,
+]
+size = [
+    54,
+    67,
+]
+frame_offset = [
+    6,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_36]
+pos = [
+    64,
+    659,
+]
+size = [
+    60,
+    104,
+]
+frame_offset = [
+    5,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_37]
+pos = [
+    246,
+    790,
+]
+size = [
+    56,
+    106,
+]
+frame_offset = [
+    5,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_38]
+pos = [
+    0,
+    799,
+]
+size = [
+    60,
+    70,
+]
+frame_offset = [
+    3,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_39]
+pos = [
+    488,
+    695,
+]
+size = [
+    54,
+    67,
+]
+frame_offset = [
+    6,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_4]
+pos = [
+    204,
+    482,
+]
+size = [
+    60,
+    106,
+]
+frame_offset = [
+    62,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_40]
+pos = [
+    208,
+    231,
+]
+size = [
+    65,
+    89,
+]
+frame_offset = [
+    1,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_41]
+pos = [
+    962,
+    726,
+]
+size = [
+    33,
+    122,
+]
+frame_offset = [
+    24,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_42]
+pos = [
+    187,
+    790,
+]
+size = [
+    57,
+    62,
+]
+frame_offset = [
+    8,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_43]
+pos = [
+    76,
+    189,
+]
+size = [
+    44,
+    58,
+]
+frame_offset = [
+    12,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_44]
+pos = [
+    60,
+    902,
+]
+size = [
+    57,
+    67,
+]
+frame_offset = [
+    5,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_45]
+pos = [
+    787,
+    583,
+]
+size = [
+    47,
+    55,
+]
+frame_offset = [
+    11,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_46]
+pos = [
+    787,
+    640,
+]
+size = [
+    46,
+    65,
+]
+frame_offset = [
+    12,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_47]
+pos = [
+    929,
+    615,
+]
+size = [
+    40,
+    69,
+]
+frame_offset = [
+    15,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_48]
+pos = [
+    733,
+    492,
+]
+size = [
+    54,
+    56,
+]
+frame_offset = [
+    5,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_49]
+pos = [
+    467,
+    950,
+]
+size = [
+    46,
+    72,
+]
+frame_offset = [
+    13,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_5]
+pos = [
+    315,
+    708,
+]
+size = [
+    56,
+    116,
+]
+frame_offset = [
+    65,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_50]
+pos = [
+    973,
+    92,
+]
+size = [
+    49,
+    71,
+]
+frame_offset = [
+    11,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_51]
+pos = [
+    126,
+    731,
+]
+size = [
+    59,
+    68,
+]
+frame_offset = [
+    4,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_52]
+pos = [
+    836,
+    587,
+]
+size = [
+    45,
+    73,
+]
+frame_offset = [
+    12,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_53]
+pos = [
+    315,
+    632,
+]
+size = [
+    57,
+    74,
+]
+frame_offset = [
+    6,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_54]
+pos = [
+    708,
+    913,
+]
+size = [
+    37,
+    70,
+]
+frame_offset = [
+    19,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_55]
+pos = [
+    751,
+    865,
+]
+size = [
+    37,
+    101,
+]
+frame_offset = [
+    10,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_56]
+pos = [
+    571,
+    925,
+]
+size = [
+    43,
+    68,
+]
+frame_offset = [
+    10,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_57]
+pos = [
+    790,
+    890,
+]
+size = [
+    37,
+    64,
+]
+frame_offset = [
+    12,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_58]
+pos = [
+    971,
+    198,
+]
+size = [
+    51,
+    117,
+]
+frame_offset = [
+    9,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_59]
+pos = [
+    750,
+    320,
+]
+size = [
+    63,
+    79,
+]
+frame_offset = [
+    4,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_6]
+pos = [
+    193,
+    590,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    63,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_60]
+pos = [
+    374,
+    656,
+]
+size = [
+    56,
+    64,
+]
+frame_offset = [
+    7,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_61]
+pos = [
+    304,
+    826,
+]
+size = [
+    54,
+    103,
+]
+frame_offset = [
+    5,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_62]
+pos = [
+    621,
+    635,
+]
+size = [
+    53,
+    58,
+]
+frame_offset = [
+    6,
+    80,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_63]
+pos = [
+    826,
+    721,
+]
+size = [
+    42,
+    63,
+]
+frame_offset = [
+    12,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_7]
+pos = [
+    750,
+    401,
+]
+size = [
+    54,
+    88,
+]
+frame_offset = [
+    66,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_8]
+pos = [
+    69,
+    343,
+]
+size = [
+    65,
+    96,
+]
+frame_offset = [
+    60,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_02_9]
+pos = [
+    832,
+    858,
+]
+size = [
+    33,
+    128,
+]
+frame_offset = [
+    80,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_0]
+pos = [
+    138,
+    325,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    2,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_1]
+pos = [
+    446,
+    76,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_2]
+pos = [
+    0,
+    0,
+]
+size = [
+    122,
+    187,
+]
+frame_offset = [
+    2,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_grime_wall_01_3]
+pos = [
+    1016,
+    434,
+]
+size = [
+    6,
+    157,
+]
+frame_offset = [
+    60,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]

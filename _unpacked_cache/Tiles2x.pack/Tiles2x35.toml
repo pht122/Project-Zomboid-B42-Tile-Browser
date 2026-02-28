@@ -1,0 +1,1835 @@
+[e_newgrass_1_100]
+pos = [
+    390,
+    411,
+]
+size = [
+    126,
+    87,
+]
+frame_offset = [
+    0,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_101]
+pos = [
+    518,
+    411,
+]
+size = [
+    124,
+    79,
+]
+frame_offset = [
+    1,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_104]
+pos = [
+    904,
+    241,
+]
+size = [
+    113,
+    81,
+]
+frame_offset = [
+    6,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_105]
+pos = [
+    488,
+    688,
+]
+size = [
+    113,
+    75,
+]
+frame_offset = [
+    4,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_106]
+pos = [
+    907,
+    0,
+]
+size = [
+    115,
+    71,
+]
+frame_offset = [
+    0,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_107]
+pos = [
+    390,
+    246,
+]
+size = [
+    128,
+    71,
+]
+frame_offset = [
+    0,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_108]
+pos = [
+    369,
+    656,
+]
+size = [
+    117,
+    73,
+]
+frame_offset = [
+    3,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_109]
+pos = [
+    904,
+    168,
+]
+size = [
+    117,
+    71,
+]
+frame_offset = [
+    0,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_112]
+pos = [
+    834,
+    670,
+]
+size = [
+    101,
+    64,
+]
+frame_offset = [
+    11,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_113]
+pos = [
+    848,
+    594,
+]
+size = [
+    103,
+    63,
+]
+frame_offset = [
+    14,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_114]
+pos = [
+    473,
+    906,
+]
+size = [
+    107,
+    55,
+]
+frame_offset = [
+    8,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_115]
+pos = [
+    715,
+    738,
+]
+size = [
+    101,
+    65,
+]
+frame_offset = [
+    11,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_116]
+pos = [
+    919,
+    809,
+]
+size = [
+    95,
+    59,
+]
+frame_offset = [
+    22,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_117]
+pos = [
+    706,
+    805,
+]
+size = [
+    100,
+    63,
+]
+frame_offset = [
+    12,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_82]
+pos = [
+    253,
+    535,
+]
+size = [
+    121,
+    66,
+]
+frame_offset = [
+    7,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_83]
+pos = [
+    0,
+    500,
+]
+size = [
+    122,
+    75,
+]
+frame_offset = [
+    0,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_84]
+pos = [
+    0,
+    878,
+]
+size = [
+    119,
+    83,
+]
+frame_offset = [
+    9,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_85]
+pos = [
+    0,
+    654,
+]
+size = [
+    121,
+    81,
+]
+frame_offset = [
+    2,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_88]
+pos = [
+    884,
+    445,
+]
+size = [
+    107,
+    77,
+]
+frame_offset = [
+    5,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_89]
+pos = [
+    365,
+    820,
+]
+size = [
+    113,
+    65,
+]
+frame_offset = [
+    7,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_90]
+pos = [
+    360,
+    887,
+]
+size = [
+    111,
+    72,
+]
+frame_offset = [
+    8,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_91]
+pos = [
+    615,
+    642,
+]
+size = [
+    111,
+    69,
+]
+frame_offset = [
+    10,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_92]
+pos = [
+    696,
+    874,
+]
+size = [
+    99,
+    65,
+]
+frame_offset = [
+    14,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_93]
+pos = [
+    123,
+    820,
+]
+size = [
+    119,
+    69,
+]
+frame_offset = [
+    2,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_96]
+pos = [
+    390,
+    167,
+]
+size = [
+    128,
+    77,
+]
+frame_offset = [
+    0,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_97]
+pos = [
+    260,
+    286,
+]
+size = [
+    128,
+    84,
+]
+frame_offset = [
+    0,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_98]
+pos = [
+    124,
+    641,
+]
+size = [
+    121,
+    71,
+]
+frame_offset = [
+    5,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_99]
+pos = [
+    0,
+    406,
+]
+size = [
+    128,
+    92,
+]
+frame_offset = [
+    0,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_0]
+pos = [
+    130,
+    199,
+]
+size = [
+    128,
+    93,
+]
+frame_offset = [
+    0,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_1]
+pos = [
+    520,
+    160,
+]
+size = [
+    127,
+    91,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_10]
+pos = [
+    130,
+    471,
+]
+size = [
+    121,
+    85,
+]
+frame_offset = [
+    0,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_11]
+pos = [
+    0,
+    737,
+]
+size = [
+    121,
+    71,
+]
+frame_offset = [
+    2,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_12]
+pos = [
+    130,
+    385,
+]
+size = [
+    128,
+    84,
+]
+frame_offset = [
+    0,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_13]
+pos = [
+    650,
+    95,
+]
+size = [
+    127,
+    85,
+]
+frame_offset = [
+    1,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_16]
+pos = [
+    907,
+    73,
+]
+size = [
+    115,
+    67,
+]
+frame_offset = [
+    7,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_17]
+pos = [
+    593,
+    874,
+]
+size = [
+    101,
+    65,
+]
+frame_offset = [
+    10,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_18]
+pos = [
+    728,
+    670,
+]
+size = [
+    104,
+    66,
+]
+frame_offset = [
+    14,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_19]
+pos = [
+    121,
+    891,
+]
+size = [
+    118,
+    61,
+]
+frame_offset = [
+    1,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_2]
+pos = [
+    390,
+    0,
+]
+size = [
+    128,
+    83,
+]
+frame_offset = [
+    0,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_20]
+pos = [
+    853,
+    524,
+]
+size = [
+    105,
+    68,
+]
+frame_offset = [
+    13,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_21]
+pos = [
+    797,
+    882,
+]
+size = [
+    95,
+    67,
+]
+frame_offset = [
+    13,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_24]
+pos = [
+    779,
+    0,
+]
+size = [
+    126,
+    105,
+]
+frame_offset = [
+    2,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_25]
+pos = [
+    0,
+    113,
+]
+size = [
+    128,
+    98,
+]
+frame_offset = [
+    0,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_26]
+pos = [
+    130,
+    100,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_27]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    111,
+]
+frame_offset = [
+    0,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_28]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    98,
+]
+frame_offset = [
+    0,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_29]
+pos = [
+    0,
+    213,
+]
+size = [
+    128,
+    95,
+]
+frame_offset = [
+    0,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_3]
+pos = [
+    0,
+    310,
+]
+size = [
+    128,
+    94,
+]
+frame_offset = [
+    0,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_32]
+pos = [
+    260,
+    197,
+]
+size = [
+    128,
+    87,
+]
+frame_offset = [
+    0,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_33]
+pos = [
+    130,
+    294,
+]
+size = [
+    128,
+    89,
+]
+frame_offset = [
+    0,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_34]
+pos = [
+    368,
+    731,
+]
+size = [
+    116,
+    87,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_35]
+pos = [
+    900,
+    362,
+]
+size = [
+    122,
+    78,
+]
+frame_offset = [
+    6,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_36]
+pos = [
+    775,
+    362,
+]
+size = [
+    123,
+    81,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_37]
+pos = [
+    624,
+    492,
+]
+size = [
+    114,
+    81,
+]
+frame_offset = [
+    1,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_4]
+pos = [
+    520,
+    0,
+]
+size = [
+    128,
+    79,
+]
+frame_offset = [
+    0,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_40]
+pos = [
+    469,
+    963,
+]
+size = [
+    103,
+    58,
+]
+frame_offset = [
+    11,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_41]
+pos = [
+    241,
+    943,
+]
+size = [
+    113,
+    75,
+]
+frame_offset = [
+    0,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_42]
+pos = [
+    599,
+    798,
+]
+size = [
+    105,
+    74,
+]
+frame_offset = [
+    8,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_43]
+pos = [
+    582,
+    941,
+]
+size = [
+    99,
+    77,
+]
+frame_offset = [
+    10,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_44]
+pos = [
+    480,
+    839,
+]
+size = [
+    111,
+    65,
+]
+frame_offset = [
+    4,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_45]
+pos = [
+    784,
+    951,
+]
+size = [
+    94,
+    70,
+]
+frame_offset = [
+    11,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_48]
+pos = [
+    245,
+    751,
+]
+size = [
+    118,
+    103,
+]
+frame_offset = [
+    10,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_49]
+pos = [
+    123,
+    714,
+]
+size = [
+    120,
+    104,
+]
+frame_offset = [
+    0,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_5]
+pos = [
+    650,
+    0,
+]
+size = [
+    127,
+    93,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_50]
+pos = [
+    779,
+    168,
+]
+size = [
+    123,
+    103,
+]
+frame_offset = [
+    0,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_51]
+pos = [
+    649,
+    282,
+]
+size = [
+    124,
+    102,
+]
+frame_offset = [
+    4,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_52]
+pos = [
+    497,
+    586,
+]
+size = [
+    116,
+    100,
+]
+frame_offset = [
+    3,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_53]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_56]
+pos = [
+    776,
+    273,
+]
+size = [
+    123,
+    87,
+]
+frame_offset = [
+    0,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_57]
+pos = [
+    603,
+    713,
+]
+size = [
+    110,
+    83,
+]
+frame_offset = [
+    9,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_58]
+pos = [
+    504,
+    500,
+]
+size = [
+    118,
+    84,
+]
+frame_offset = [
+    0,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_59]
+pos = [
+    771,
+    445,
+]
+size = [
+    111,
+    73,
+]
+frame_offset = [
+    11,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_60]
+pos = [
+    244,
+    856,
+]
+size = [
+    114,
+    85,
+]
+frame_offset = [
+    5,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_61]
+pos = [
+    818,
+    738,
+]
+size = [
+    99,
+    83,
+]
+frame_offset = [
+    13,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_64]
+pos = [
+    0,
+    963,
+]
+size = [
+    113,
+    59,
+]
+frame_offset = [
+    7,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_65]
+pos = [
+    919,
+    736,
+]
+size = [
+    97,
+    71,
+]
+frame_offset = [
+    12,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_66]
+pos = [
+    356,
+    961,
+]
+size = [
+    111,
+    61,
+]
+frame_offset = [
+    9,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_67]
+pos = [
+    808,
+    823,
+]
+size = [
+    99,
+    57,
+]
+frame_offset = [
+    12,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_68]
+pos = [
+    121,
+    954,
+]
+size = [
+    117,
+    63,
+]
+frame_offset = [
+    5,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_69]
+pos = [
+    779,
+    107,
+]
+size = [
+    125,
+    59,
+]
+frame_offset = [
+    3,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_72]
+pos = [
+    260,
+    99,
+]
+size = [
+    128,
+    96,
+]
+frame_offset = [
+    0,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_73]
+pos = [
+    646,
+    386,
+]
+size = [
+    123,
+    103,
+]
+frame_offset = [
+    3,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_74]
+pos = [
+    649,
+    182,
+]
+size = [
+    125,
+    98,
+]
+frame_offset = [
+    3,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_75]
+pos = [
+    390,
+    85,
+]
+size = [
+    128,
+    80,
+]
+frame_offset = [
+    0,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_76]
+pos = [
+    520,
+    253,
+]
+size = [
+    127,
+    79,
+]
+frame_offset = [
+    0,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_77]
+pos = [
+    390,
+    319,
+]
+size = [
+    127,
+    90,
+]
+frame_offset = [
+    1,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_8]
+pos = [
+    260,
+    458,
+]
+size = [
+    121,
+    75,
+]
+frame_offset = [
+    1,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_80]
+pos = [
+    247,
+    674,
+]
+size = [
+    119,
+    75,
+]
+frame_offset = [
+    4,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_81]
+pos = [
+    247,
+    603,
+]
+size = [
+    120,
+    69,
+]
+frame_offset = [
+    0,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_82]
+pos = [
+    0,
+    810,
+]
+size = [
+    121,
+    66,
+]
+frame_offset = [
+    7,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_83]
+pos = [
+    0,
+    577,
+]
+size = [
+    122,
+    75,
+]
+frame_offset = [
+    0,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_84]
+pos = [
+    383,
+    500,
+]
+size = [
+    119,
+    83,
+]
+frame_offset = [
+    9,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_85]
+pos = [
+    124,
+    558,
+]
+size = [
+    121,
+    81,
+]
+frame_offset = [
+    2,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_88]
+pos = [
+    739,
+    591,
+]
+size = [
+    107,
+    77,
+]
+frame_offset = [
+    5,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_89]
+pos = [
+    624,
+    575,
+]
+size = [
+    113,
+    65,
+]
+frame_offset = [
+    7,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_9]
+pos = [
+    519,
+    334,
+]
+size = [
+    125,
+    75,
+]
+frame_offset = [
+    3,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_90]
+pos = [
+    486,
+    765,
+]
+size = [
+    111,
+    72,
+]
+frame_offset = [
+    8,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_91]
+pos = [
+    740,
+    520,
+]
+size = [
+    111,
+    69,
+]
+frame_offset = [
+    10,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_92]
+pos = [
+    683,
+    941,
+]
+size = [
+    99,
+    65,
+]
+frame_offset = [
+    14,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_93]
+pos = [
+    376,
+    585,
+]
+size = [
+    119,
+    69,
+]
+frame_offset = [
+    2,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_96]
+pos = [
+    520,
+    81,
+]
+size = [
+    128,
+    77,
+]
+frame_offset = [
+    0,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_newgrass_1_depth_97]
+pos = [
+    260,
+    372,
+]
+size = [
+    128,
+    84,
+]
+frame_offset = [
+    0,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]

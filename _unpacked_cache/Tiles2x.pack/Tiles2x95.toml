@@ -1,0 +1,2565 @@
+[industry_trucks_01_34]
+pos = [
+    677,
+    228,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_35]
+pos = [
+    72,
+    228,
+]
+size = [
+    69,
+    225,
+]
+frame_offset = [
+    57,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_36]
+pos = [
+    478,
+    0,
+]
+size = [
+    67,
+    225,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_37]
+pos = [
+    143,
+    226,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_40]
+pos = [
+    547,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_41]
+pos = [
+    404,
+    86,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_42]
+pos = [
+    615,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_43]
+pos = [
+    683,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_44]
+pos = [
+    212,
+    245,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_45]
+pos = [
+    330,
+    173,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_48]
+pos = [
+    473,
+    227,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_49]
+pos = [
+    751,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_50]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    226,
+]
+
+[industry_trucks_01_51]
+pos = [
+    893,
+    772,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_52]
+pos = [
+    813,
+    228,
+]
+size = [
+    66,
+    211,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_53]
+pos = [
+    881,
+    228,
+]
+size = [
+    66,
+    211,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_54]
+pos = [
+    969,
+    771,
+]
+size = [
+    8,
+    173,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_55]
+pos = [
+    937,
+    830,
+]
+size = [
+    8,
+    173,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_56]
+pos = [
+    541,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_57]
+pos = [
+    819,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_58]
+pos = [
+    609,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_59]
+pos = [
+    887,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_60]
+pos = [
+    949,
+    228,
+]
+size = [
+    66,
+    211,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_61]
+pos = [
+    0,
+    405,
+]
+size = [
+    66,
+    211,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_62]
+pos = [
+    947,
+    830,
+]
+size = [
+    8,
+    173,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_63]
+pos = [
+    979,
+    798,
+]
+size = [
+    8,
+    173,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_64]
+pos = [
+    68,
+    455,
+]
+size = [
+    66,
+    211,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_65]
+pos = [
+    136,
+    455,
+]
+size = [
+    66,
+    211,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_66]
+pos = [
+    957,
+    830,
+]
+size = [
+    8,
+    173,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_67]
+pos = [
+    0,
+    228,
+]
+size = [
+    70,
+    175,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_68]
+pos = [
+    0,
+    618,
+]
+size = [
+    66,
+    211,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_69]
+pos = [
+    204,
+    473,
+]
+size = [
+    66,
+    211,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_70]
+pos = [
+    989,
+    798,
+]
+size = [
+    8,
+    173,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_01_71]
+pos = [
+    999,
+    798,
+]
+size = [
+    8,
+    173,
+]
+frame_offset = [
+    58,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_0]
+pos = [
+    415,
+    455,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_1]
+pos = [
+    349,
+    402,
+]
+size = [
+    64,
+    225,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_10]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_11]
+pos = [
+    955,
+    0,
+]
+size = [
+    66,
+    224,
+]
+frame_offset = [
+    0,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_12]
+pos = [
+    338,
+    629,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_13]
+pos = [
+    481,
+    456,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_14]
+pos = [
+    547,
+    456,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_15]
+pos = [
+    613,
+    456,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_2]
+pos = [
+    136,
+    668,
+]
+size = [
+    64,
+    225,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_3]
+pos = [
+    404,
+    681,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_4]
+pos = [
+    68,
+    754,
+]
+size = [
+    64,
+    225,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_5]
+pos = [
+    272,
+    572,
+]
+size = [
+    64,
+    225,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_6]
+pos = [
+    679,
+    455,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_7]
+pos = [
+    202,
+    686,
+]
+size = [
+    64,
+    225,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_8]
+pos = [
+    470,
+    682,
+]
+size = [
+    64,
+    224,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[industry_trucks_02_9]
+pos = [
+    745,
+    228,
+]
+size = [
+    66,
+    224,
+]
+frame_offset = [
+    0,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_0]
+pos = [
+    30,
+    993,
+]
+size = [
+    13,
+    27,
+]
+frame_offset = [
+    106,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_1]
+pos = [
+    45,
+    993,
+]
+size = [
+    13,
+    27,
+]
+frame_offset = [
+    7,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_10]
+pos = [
+    557,
+    966,
+]
+size = [
+    38,
+    56,
+]
+frame_offset = [
+    38,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_11]
+pos = [
+    256,
+    0,
+]
+size = [
+    72,
+    157,
+]
+frame_offset = [
+    2,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_12]
+pos = [
+    901,
+    668,
+]
+size = [
+    38,
+    55,
+]
+frame_offset = [
+    38,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_13]
+pos = [
+    745,
+    757,
+]
+size = [
+    38,
+    65,
+]
+frame_offset = [
+    34,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_16]
+pos = [
+    700,
+    757,
+]
+size = [
+    43,
+    54,
+]
+frame_offset = [
+    13,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_17]
+pos = [
+    557,
+    910,
+]
+size = [
+    43,
+    54,
+]
+frame_offset = [
+    68,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_18]
+pos = [
+    642,
+    889,
+]
+size = [
+    38,
+    62,
+]
+frame_offset = [
+    66,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_19]
+pos = [
+    598,
+    760,
+]
+size = [
+    51,
+    112,
+]
+frame_offset = [
+    8,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_2]
+pos = [
+    0,
+    993,
+]
+size = [
+    13,
+    28,
+]
+frame_offset = [
+    111,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_20]
+pos = [
+    259,
+    958,
+]
+size = [
+    44,
+    54,
+]
+frame_offset = [
+    12,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_21]
+pos = [
+    651,
+    833,
+]
+size = [
+    43,
+    54,
+]
+frame_offset = [
+    67,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_22]
+pos = [
+    785,
+    757,
+]
+size = [
+    38,
+    62,
+]
+frame_offset = [
+    65,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_23]
+pos = [
+    970,
+    517,
+]
+size = [
+    40,
+    62,
+]
+frame_offset = [
+    19,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_24]
+pos = [
+    682,
+    946,
+]
+size = [
+    34,
+    42,
+]
+frame_offset = [
+    16,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_25]
+pos = [
+    819,
+    676,
+]
+size = [
+    34,
+    44,
+]
+frame_offset = [
+    76,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_3]
+pos = [
+    181,
+    976,
+]
+size = [
+    13,
+    27,
+]
+frame_offset = [
+    2,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_32]
+pos = [
+    989,
+    441,
+]
+size = [
+    30,
+    58,
+]
+frame_offset = [
+    59,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_33]
+pos = [
+    722,
+    938,
+]
+size = [
+    30,
+    57,
+]
+frame_offset = [
+    59,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_34]
+pos = [
+    941,
+    597,
+]
+size = [
+    38,
+    56,
+]
+frame_offset = [
+    59,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_35]
+pos = [
+    941,
+    655,
+]
+size = [
+    38,
+    54,
+]
+frame_offset = [
+    57,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_36]
+pos = [
+    682,
+    889,
+]
+size = [
+    38,
+    55,
+]
+frame_offset = [
+    59,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_37]
+pos = [
+    901,
+    601,
+]
+size = [
+    38,
+    65,
+]
+frame_offset = [
+    55,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_4]
+pos = [
+    305,
+    958,
+]
+size = [
+    13,
+    27,
+]
+frame_offset = [
+    66,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_40]
+pos = [
+    861,
+    772,
+]
+size = [
+    30,
+    58,
+]
+frame_offset = [
+    61,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_41]
+pos = [
+    861,
+    832,
+]
+size = [
+    30,
+    57,
+]
+frame_offset = [
+    61,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_42]
+pos = [
+    602,
+    941,
+]
+size = [
+    38,
+    56,
+]
+frame_offset = [
+    61,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_43]
+pos = [
+    780,
+    824,
+]
+size = [
+    38,
+    54,
+]
+frame_offset = [
+    59,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_44]
+pos = [
+    981,
+    581,
+]
+size = [
+    38,
+    55,
+]
+frame_offset = [
+    61,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_45]
+pos = [
+    602,
+    874,
+]
+size = [
+    38,
+    65,
+]
+frame_offset = [
+    57,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_48]
+pos = [
+    762,
+    882,
+]
+size = [
+    30,
+    58,
+]
+frame_offset = [
+    34,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_49]
+pos = [
+    754,
+    942,
+]
+size = [
+    30,
+    57,
+]
+frame_offset = [
+    34,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_5]
+pos = [
+    305,
+    987,
+]
+size = [
+    13,
+    27,
+]
+frame_offset = [
+    47,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_50]
+pos = [
+    740,
+    824,
+]
+size = [
+    38,
+    56,
+]
+frame_offset = [
+    34,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_51]
+pos = [
+    722,
+    882,
+]
+size = [
+    38,
+    54,
+]
+frame_offset = [
+    32,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_52]
+pos = [
+    642,
+    953,
+]
+size = [
+    38,
+    55,
+]
+frame_offset = [
+    34,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_53]
+pos = [
+    700,
+    813,
+]
+size = [
+    38,
+    65,
+]
+frame_offset = [
+    30,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_56]
+pos = [
+    901,
+    725,
+]
+size = [
+    34,
+    166,
+]
+frame_offset = [
+    47,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_57]
+pos = [
+    825,
+    772,
+]
+size = [
+    34,
+    166,
+]
+frame_offset = [
+    47,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_58]
+pos = [
+    981,
+    638,
+]
+size = [
+    35,
+    158,
+]
+frame_offset = [
+    47,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_6]
+pos = [
+    432,
+    981,
+]
+size = [
+    13,
+    27,
+]
+frame_offset = [
+    42,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_7]
+pos = [
+    15,
+    993,
+]
+size = [
+    13,
+    28,
+]
+frame_offset = [
+    71,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_8]
+pos = [
+    941,
+    711,
+]
+size = [
+    30,
+    58,
+]
+frame_offset = [
+    38,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_9]
+pos = [
+    937,
+    771,
+]
+size = [
+    30,
+    57,
+]
+frame_offset = [
+    38,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_0]
+pos = [
+    212,
+    226,
+]
+size = [
+    3,
+    5,
+]
+frame_offset = [
+    109,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_1]
+pos = [
+    217,
+    226,
+]
+size = [
+    3,
+    5,
+]
+frame_offset = [
+    14,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_10]
+pos = [
+    268,
+    880,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    26,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_11]
+pos = [
+    331,
+    855,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    24,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_12]
+pos = [
+    536,
+    834,
+]
+size = [
+    51,
+    74,
+]
+frame_offset = [
+    30,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_13]
+pos = [
+    0,
+    831,
+]
+size = [
+    61,
+    79,
+]
+frame_offset = [
+    21,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_16]
+pos = [
+    330,
+    0,
+]
+size = [
+    72,
+    86,
+]
+frame_offset = [
+    4,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_17]
+pos = [
+    330,
+    88,
+]
+size = [
+    72,
+    83,
+]
+frame_offset = [
+    48,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_18]
+pos = [
+    404,
+    0,
+]
+size = [
+    72,
+    84,
+]
+frame_offset = [
+    46,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_19]
+pos = [
+    256,
+    159,
+]
+size = [
+    72,
+    84,
+]
+frame_offset = [
+    7,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_20]
+pos = [
+    399,
+    314,
+]
+size = [
+    66,
+    86,
+]
+frame_offset = [
+    5,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_21]
+pos = [
+    272,
+    487,
+]
+size = [
+    66,
+    83,
+]
+frame_offset = [
+    50,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_22]
+pos = [
+    281,
+    401,
+]
+size = [
+    66,
+    84,
+]
+frame_offset = [
+    48,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_23]
+pos = [
+    68,
+    668,
+]
+size = [
+    66,
+    84,
+]
+frame_offset = [
+    9,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_24]
+pos = [
+    415,
+    402,
+]
+size = [
+    42,
+    47,
+]
+frame_offset = [
+    13,
+    17,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_25]
+pos = [
+    392,
+    981,
+]
+size = [
+    38,
+    39,
+]
+frame_offset = [
+    72,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_32]
+pos = [
+    281,
+    245,
+]
+size = [
+    47,
+    71,
+]
+frame_offset = [
+    51,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_33]
+pos = [
+    721,
+    685,
+]
+size = [
+    47,
+    70,
+]
+frame_offset = [
+    51,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_34]
+pos = [
+    745,
+    454,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    47,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_35]
+pos = [
+    536,
+    682,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    45,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_36]
+pos = [
+    936,
+    441,
+]
+size = [
+    51,
+    74,
+]
+frame_offset = [
+    51,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_37]
+pos = [
+    0,
+    912,
+]
+size = [
+    61,
+    79,
+]
+frame_offset = [
+    42,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_4]
+pos = [
+    212,
+    233,
+]
+size = [
+    3,
+    5,
+]
+frame_offset = [
+    69,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_40]
+pos = [
+    281,
+    318,
+]
+size = [
+    47,
+    71,
+]
+frame_offset = [
+    53,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_41]
+pos = [
+    508,
+    910,
+]
+size = [
+    47,
+    70,
+]
+frame_offset = [
+    53,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_42]
+pos = [
+    813,
+    441,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    49,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_43]
+pos = [
+    330,
+    933,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    47,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_44]
+pos = [
+    455,
+    908,
+]
+size = [
+    51,
+    74,
+]
+frame_offset = [
+    53,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_45]
+pos = [
+    134,
+    895,
+]
+size = [
+    61,
+    79,
+]
+frame_offset = [
+    44,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_48]
+pos = [
+    807,
+    603,
+]
+size = [
+    47,
+    71,
+]
+frame_offset = [
+    26,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_49]
+pos = [
+    921,
+    525,
+]
+size = [
+    47,
+    70,
+]
+frame_offset = [
+    26,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_5]
+pos = [
+    222,
+    226,
+]
+size = [
+    3,
+    5,
+]
+frame_offset = [
+    54,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_50]
+pos = [
+    745,
+    532,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    22,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_51]
+pos = [
+    598,
+    682,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    20,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_52]
+pos = [
+    868,
+    525,
+]
+size = [
+    51,
+    74,
+]
+frame_offset = [
+    26,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_53]
+pos = [
+    268,
+    799,
+]
+size = [
+    61,
+    79,
+]
+frame_offset = [
+    17,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_56]
+pos = [
+    63,
+    981,
+]
+size = [
+    57,
+    41,
+]
+frame_offset = [
+    35,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_57]
+pos = [
+    122,
+    981,
+]
+size = [
+    57,
+    41,
+]
+frame_offset = [
+    35,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_58]
+pos = [
+    856,
+    603,
+]
+size = [
+    43,
+    167,
+]
+frame_offset = [
+    44,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_8]
+pos = [
+    651,
+    760,
+]
+size = [
+    47,
+    71,
+]
+frame_offset = [
+    30,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_01_on_9]
+pos = [
+    770,
+    685,
+]
+size = [
+    47,
+    70,
+]
+frame_offset = [
+    30,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_02_0]
+pos = [
+    875,
+    441,
+]
+size = [
+    59,
+    82,
+]
+frame_offset = [
+    17,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_02_1]
+pos = [
+    536,
+    760,
+]
+size = [
+    60,
+    72,
+]
+frame_offset = [
+    16,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_02_2]
+pos = [
+    660,
+    682,
+]
+size = [
+    59,
+    73,
+]
+frame_offset = [
+    50,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_02_3]
+pos = [
+    197,
+    913,
+]
+size = [
+    60,
+    82,
+]
+frame_offset = [
+    51,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_02_4]
+pos = [
+    807,
+    519,
+]
+size = [
+    59,
+    82,
+]
+frame_offset = [
+    17,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_02_5]
+pos = [
+    393,
+    907,
+]
+size = [
+    60,
+    72,
+]
+frame_offset = [
+    18,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[lighting_indoor_02_6]
+pos = [
+    745,
+    610,
+]
+size = [
+    59,
+    73,
+]
+frame_offset = [
+    45,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,1655 @@
+[e_roof_snow_30_01_100]
+pos = [
+    260,
+    206,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_101]
+pos = [
+    130,
+    352,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_104]
+pos = [
+    780,
+    0,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_105]
+pos = [
+    0,
+    216,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_106]
+pos = [
+    0,
+    284,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_107]
+pos = [
+    130,
+    216,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_108]
+pos = [
+    0,
+    352,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_109]
+pos = [
+    130,
+    284,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_112]
+pos = [
+    650,
+    134,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_113]
+pos = [
+    0,
+    420,
+]
+size = [
+    128,
+    66,
+]
+frame_offset = [
+    0,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_114]
+pos = [
+    520,
+    268,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_115]
+pos = [
+    390,
+    402,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_116]
+pos = [
+    780,
+    66,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_117]
+pos = [
+    650,
+    200,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_61]
+pos = [
+    260,
+    273,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_64]
+pos = [
+    260,
+    107,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_65]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    106,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_66]
+pos = [
+    0,
+    108,
+]
+size = [
+    128,
+    106,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_67]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    106,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_68]
+pos = [
+    130,
+    108,
+]
+size = [
+    128,
+    106,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_69]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    105,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_70]
+pos = [
+    257,
+    486,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    1,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_72]
+pos = [
+    130,
+    419,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_73]
+pos = [
+    260,
+    340,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_74]
+pos = [
+    260,
+    407,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_75]
+pos = [
+    390,
+    0,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_76]
+pos = [
+    390,
+    67,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_77]
+pos = [
+    520,
+    0,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_78]
+pos = [
+    257,
+    490,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    1,
+    231,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_80]
+pos = [
+    390,
+    134,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_81]
+pos = [
+    520,
+    67,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_82]
+pos = [
+    390,
+    201,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_83]
+pos = [
+    650,
+    0,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_84]
+pos = [
+    520,
+    134,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_85]
+pos = [
+    520,
+    334,
+]
+size = [
+    128,
+    64,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_88]
+pos = [
+    260,
+    474,
+]
+size = [
+    128,
+    32,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_89]
+pos = [
+    390,
+    468,
+]
+size = [
+    128,
+    32,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_90]
+pos = [
+    780,
+    132,
+]
+size = [
+    128,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_91]
+pos = [
+    650,
+    266,
+]
+size = [
+    128,
+    32,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_92]
+pos = [
+    520,
+    400,
+]
+size = [
+    128,
+    32,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_93]
+pos = [
+    780,
+    166,
+]
+size = [
+    128,
+    32,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_96]
+pos = [
+    390,
+    268,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_97]
+pos = [
+    650,
+    67,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_98]
+pos = [
+    520,
+    201,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_roof_snow_30_01_99]
+pos = [
+    390,
+    335,
+]
+size = [
+    128,
+    65,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_virginiapine_1_0]
+pos = [
+    150,
+    940,
+]
+size = [
+    43,
+    72,
+]
+frame_offset = [
+    39,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_virginiapine_1_1]
+pos = [
+    504,
+    836,
+]
+size = [
+    81,
+    125,
+]
+frame_offset = [
+    23,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_virginiapine_1_2]
+pos = [
+    910,
+    0,
+]
+size = [
+    100,
+    175,
+]
+frame_offset = [
+    12,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_virginiapine_1_3]
+pos = [
+    780,
+    200,
+]
+size = [
+    126,
+    233,
+]
+frame_offset = [
+    0,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_virginiapine_1_4]
+pos = [
+    681,
+    912,
+]
+size = [
+    38,
+    100,
+]
+frame_offset = [
+    42,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_virginiapine_1_5]
+pos = [
+    949,
+    573,
+]
+size = [
+    62,
+    128,
+]
+frame_offset = [
+    30,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_virginiapine_1_6]
+pos = [
+    910,
+    177,
+]
+size = [
+    97,
+    180,
+]
+frame_offset = [
+    12,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_virginiapine_1_7]
+pos = [
+    0,
+    488,
+]
+size = [
+    126,
+    227,
+]
+frame_offset = [
+    0,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_virginiapine_1_8]
+pos = [
+    384,
+    508,
+]
+size = [
+    2,
+    1,
+]
+frame_offset = [
+    62,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_0]
+pos = [
+    472,
+    932,
+]
+size = [
+    26,
+    71,
+]
+frame_offset = [
+    48,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_1]
+pos = [
+    636,
+    911,
+]
+size = [
+    43,
+    109,
+]
+frame_offset = [
+    35,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_10]
+pos = [
+    257,
+    719,
+]
+size = [
+    121,
+    175,
+]
+frame_offset = [
+    5,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_11]
+pos = [
+    257,
+    508,
+]
+size = [
+    125,
+    209,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_12]
+pos = [
+    356,
+    932,
+]
+size = [
+    37,
+    72,
+]
+frame_offset = [
+    43,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_13]
+pos = [
+    712,
+    816,
+]
+size = [
+    49,
+    94,
+]
+frame_offset = [
+    32,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_14]
+pos = [
+    650,
+    300,
+]
+size = [
+    125,
+    174,
+]
+frame_offset = [
+    1,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_15]
+pos = [
+    127,
+    731,
+]
+size = [
+    125,
+    207,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_16]
+pos = [
+    721,
+    912,
+]
+size = [
+    37,
+    102,
+]
+frame_offset = [
+    43,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_17]
+pos = [
+    0,
+    929,
+]
+size = [
+    49,
+    88,
+]
+frame_offset = [
+    32,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_18]
+pos = [
+    390,
+    502,
+]
+size = [
+    125,
+    178,
+]
+frame_offset = [
+    1,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_19]
+pos = [
+    0,
+    717,
+]
+size = [
+    125,
+    210,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_2]
+pos = [
+    630,
+    717,
+]
+size = [
+    80,
+    192,
+]
+frame_offset = [
+    17,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_20]
+pos = [
+    195,
+    940,
+]
+size = [
+    37,
+    74,
+]
+frame_offset = [
+    43,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_21]
+pos = [
+    254,
+    896,
+]
+size = [
+    49,
+    110,
+]
+frame_offset = [
+    32,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_22]
+pos = [
+    520,
+    434,
+]
+size = [
+    121,
+    206,
+]
+frame_offset = [
+    5,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_23]
+pos = [
+    130,
+    486,
+]
+size = [
+    125,
+    243,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_3]
+pos = [
+    384,
+    682,
+]
+size = [
+    118,
+    248,
+]
+frame_offset = [
+    0,
+    8,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_4]
+pos = [
+    873,
+    435,
+]
+size = [
+    26,
+    73,
+]
+frame_offset = [
+    48,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_5]
+pos = [
+    763,
+    854,
+]
+size = [
+    43,
+    111,
+]
+frame_offset = [
+    35,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_6]
+pos = [
+    517,
+    642,
+]
+size = [
+    111,
+    192,
+]
+frame_offset = [
+    17,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_7]
+pos = [
+    643,
+    476,
+]
+size = [
+    118,
+    239,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_8]
+pos = [
+    395,
+    932,
+]
+size = [
+    37,
+    60,
+]
+frame_offset = [
+    43,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[e_yellowwood_1_9]
+pos = [
+    712,
+    717,
+]
+size = [
+    49,
+    97,
+]
+frame_offset = [
+    32,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_0]
+pos = [
+    305,
+    896,
+]
+size = [
+    49,
+    100,
+]
+frame_offset = [
+    26,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_1]
+pos = [
+    908,
+    359,
+]
+size = [
+    93,
+    212,
+]
+frame_offset = [
+    7,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_10]
+pos = [
+    51,
+    929,
+]
+size = [
+    48,
+    82,
+]
+frame_offset = [
+    52,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_11]
+pos = [
+    777,
+    435,
+]
+size = [
+    94,
+    213,
+]
+frame_offset = [
+    25,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_12]
+pos = [
+    763,
+    650,
+]
+size = [
+    75,
+    202,
+]
+frame_offset = [
+    6,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_13]
+pos = [
+    949,
+    703,
+]
+size = [
+    52,
+    199,
+]
+frame_offset = [
+    3,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_2]
+pos = [
+    101,
+    940,
+]
+size = [
+    47,
+    79,
+]
+frame_offset = [
+    29,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_3]
+pos = [
+    873,
+    573,
+]
+size = [
+    74,
+    230,
+]
+frame_offset = [
+    27,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_4]
+pos = [
+    954,
+    904,
+]
+size = [
+    35,
+    106,
+]
+frame_offset = [
+    64,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_5]
+pos = [
+    916,
+    904,
+]
+size = [
+    36,
+    108,
+]
+frame_offset = [
+    29,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_6]
+pos = [
+    840,
+    805,
+]
+size = [
+    74,
+    193,
+]
+frame_offset = [
+    25,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_7]
+pos = [
+    587,
+    836,
+]
+size = [
+    35,
+    71,
+]
+frame_offset = [
+    27,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_8]
+pos = [
+    434,
+    932,
+]
+size = [
+    36,
+    72,
+]
+frame_offset = [
+    62,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_9]
+pos = [
+    587,
+    911,
+]
+size = [
+    47,
+    96,
+]
+frame_offset = [
+    51,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,1781 @@
+[walls_logs_100]
+pos = [
+    202,
+    499,
+]
+size = [
+    4,
+    1,
+]
+frame_offset = [
+    124,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_101]
+pos = [
+    208,
+    499,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    0,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_104]
+pos = [
+    333,
+    722,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_105]
+pos = [
+    556,
+    506,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_106]
+pos = [
+    414,
+    694,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_107]
+pos = [
+    624,
+    479,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_96]
+pos = [
+    482,
+    734,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_97]
+pos = [
+    760,
+    485,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_98]
+pos = [
+    601,
+    187,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_logs_99]
+pos = [
+    970,
+    425,
+]
+size = [
+    12,
+    196,
+]
+frame_offset = [
+    54,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_special_01_0]
+pos = [
+    158,
+    924,
+]
+size = [
+    66,
+    33,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_special_01_1]
+pos = [
+    226,
+    921,
+]
+size = [
+    66,
+    33,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_special_01_10]
+pos = [
+    260,
+    428,
+]
+size = [
+    126,
+    33,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_special_01_11]
+pos = [
+    202,
+    494,
+]
+size = [
+    6,
+    3,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_special_01_2]
+pos = [
+    260,
+    463,
+]
+size = [
+    126,
+    33,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_special_01_3]
+pos = [
+    210,
+    494,
+]
+size = [
+    6,
+    3,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_special_01_8]
+pos = [
+    624,
+    707,
+]
+size = [
+    66,
+    33,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_special_01_9]
+pos = [
+    401,
+    922,
+]
+size = [
+    66,
+    33,
+]
+frame_offset = [
+    60,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_0]
+pos = [
+    897,
+    486,
+]
+size = [
+    59,
+    85,
+]
+frame_offset = [
+    69,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_1]
+pos = [
+    0,
+    363,
+]
+size = [
+    128,
+    113,
+]
+frame_offset = [
+    0,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_10]
+pos = [
+    259,
+    630,
+]
+size = [
+    72,
+    185,
+]
+frame_offset = [
+    0,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_11]
+pos = [
+    294,
+    869,
+]
+size = [
+    35,
+    64,
+]
+frame_offset = [
+    93,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_12]
+pos = [
+    260,
+    363,
+]
+size = [
+    128,
+    63,
+]
+frame_offset = [
+    0,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_13]
+pos = [
+    944,
+    264,
+]
+size = [
+    34,
+    93,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_14]
+pos = [
+    853,
+    725,
+]
+size = [
+    21,
+    176,
+]
+frame_offset = [
+    16,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_16]
+pos = [
+    883,
+    656,
+]
+size = [
+    45,
+    183,
+]
+frame_offset = [
+    75,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_17]
+pos = [
+    82,
+    752,
+]
+size = [
+    74,
+    212,
+]
+frame_offset = [
+    28,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_18]
+pos = [
+    0,
+    503,
+]
+size = [
+    85,
+    177,
+]
+frame_offset = [
+    37,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_19]
+pos = [
+    174,
+    502,
+]
+size = [
+    83,
+    175,
+]
+frame_offset = [
+    0,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_2]
+pos = [
+    692,
+    713,
+]
+size = [
+    57,
+    84,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_20]
+pos = [
+    810,
+    725,
+]
+size = [
+    41,
+    208,
+]
+frame_offset = [
+    10,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_21]
+pos = [
+    87,
+    503,
+]
+size = [
+    85,
+    171,
+]
+frame_offset = [
+    37,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_22]
+pos = [
+    0,
+    823,
+]
+size = [
+    77,
+    121,
+]
+frame_offset = [
+    0,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_23]
+pos = [
+    930,
+    647,
+]
+size = [
+    37,
+    148,
+]
+frame_offset = [
+    83,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_24]
+pos = [
+    339,
+    535,
+]
+size = [
+    73,
+    185,
+]
+frame_offset = [
+    55,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_25]
+pos = [
+    601,
+    0,
+]
+size = [
+    128,
+    185,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_26]
+pos = [
+    414,
+    511,
+]
+size = [
+    72,
+    181,
+]
+frame_offset = [
+    0,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_27]
+pos = [
+    729,
+    228,
+]
+size = [
+    120,
+    125,
+]
+frame_offset = [
+    6,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_28]
+pos = [
+    859,
+    0,
+]
+size = [
+    121,
+    125,
+]
+frame_offset = [
+    0,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_29]
+pos = [
+    751,
+    713,
+]
+size = [
+    57,
+    82,
+]
+frame_offset = [
+    71,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_3]
+pos = [
+    388,
+    428,
+]
+size = [
+    101,
+    47,
+]
+frame_offset = [
+    25,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_30]
+pos = [
+    130,
+    363,
+]
+size = [
+    128,
+    113,
+]
+frame_offset = [
+    0,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_31]
+pos = [
+    897,
+    573,
+]
+size = [
+    57,
+    72,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_33]
+pos = [
+    618,
+    742,
+]
+size = [
+    63,
+    181,
+]
+frame_offset = [
+    39,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_4]
+pos = [
+    491,
+    417,
+]
+size = [
+    101,
+    47,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_40]
+pos = [
+    388,
+    477,
+]
+size = [
+    91,
+    32,
+]
+frame_offset = [
+    35,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_41]
+pos = [
+    851,
+    264,
+]
+size = [
+    91,
+    32,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_42]
+pos = [
+    851,
+    298,
+]
+size = [
+    91,
+    32,
+]
+frame_offset = [
+    35,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_43]
+pos = [
+    851,
+    332,
+]
+size = [
+    91,
+    32,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_44]
+pos = [
+    294,
+    950,
+]
+size = [
+    58,
+    16,
+]
+frame_offset = [
+    34,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_45]
+pos = [
+    202,
+    478,
+]
+size = [
+    48,
+    14,
+]
+frame_offset = [
+    40,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_5]
+pos = [
+    859,
+    127,
+]
+size = [
+    98,
+    135,
+]
+frame_offset = [
+    0,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_6]
+pos = [
+    732,
+    799,
+]
+size = [
+    44,
+    88,
+]
+frame_offset = [
+    84,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_7]
+pos = [
+    729,
+    355,
+]
+size = [
+    98,
+    128,
+]
+frame_offset = [
+    0,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_8]
+pos = [
+    169,
+    679,
+]
+size = [
+    73,
+    186,
+]
+frame_offset = [
+    55,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[water_tank_9]
+pos = [
+    471,
+    0,
+]
+size = [
+    128,
+    187,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_0]
+pos = [
+    491,
+    466,
+]
+size = [
+    91,
+    38,
+]
+frame_offset = [
+    17,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_1]
+pos = [
+    259,
+    585,
+]
+size = [
+    74,
+    43,
+]
+frame_offset = [
+    16,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_10]
+pos = [
+    688,
+    442,
+]
+size = [
+    28,
+    28,
+]
+frame_offset = [
+    45,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_11]
+pos = [
+    244,
+    679,
+]
+size = [
+    13,
+    11,
+]
+frame_offset = [
+    24,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_12]
+pos = [
+    918,
+    425,
+]
+size = [
+    24,
+    23,
+]
+frame_offset = [
+    89,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_13]
+pos = [
+    374,
+    511,
+]
+size = [
+    24,
+    20,
+]
+frame_offset = [
+    88,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_14]
+pos = [
+    918,
+    396,
+]
+size = [
+    51,
+    27,
+]
+frame_offset = [
+    43,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_15]
+pos = [
+    87,
+    676,
+]
+size = [
+    80,
+    21,
+]
+frame_offset = [
+    38,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_16]
+pos = [
+    594,
+    417,
+]
+size = [
+    92,
+    60,
+]
+frame_offset = [
+    15,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_17]
+pos = [
+    829,
+    366,
+]
+size = [
+    87,
+    45,
+]
+frame_offset = [
+    9,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_18]
+pos = [
+    0,
+    770,
+]
+size = [
+    78,
+    51,
+]
+frame_offset = [
+    12,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_19]
+pos = [
+    584,
+    479,
+]
+size = [
+    26,
+    15,
+]
+frame_offset = [
+    12,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_2]
+pos = [
+    259,
+    535,
+]
+size = [
+    78,
+    48,
+]
+frame_offset = [
+    12,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_20]
+pos = [
+    101,
+    478,
+]
+size = [
+    99,
+    22,
+]
+frame_offset = [
+    14,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_21]
+pos = [
+    341,
+    498,
+]
+size = [
+    31,
+    25,
+]
+frame_offset = [
+    89,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_22]
+pos = [
+    828,
+    656,
+]
+size = [
+    53,
+    67,
+]
+frame_offset = [
+    39,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_23]
+pos = [
+    0,
+    682,
+]
+size = [
+    81,
+    42,
+]
+frame_offset = [
+    36,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_24]
+pos = [
+    390,
+    363,
+]
+size = [
+    79,
+    60,
+]
+frame_offset = [
+    16,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_25]
+pos = [
+    829,
+    413,
+]
+size = [
+    87,
+    44,
+]
+frame_offset = [
+    9,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_26]
+pos = [
+    83,
+    699,
+]
+size = [
+    78,
+    51,
+]
+frame_offset = [
+    12,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_27]
+pos = [
+    354,
+    950,
+]
+size = [
+    25,
+    16,
+]
+frame_offset = [
+    12,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_28]
+pos = [
+    0,
+    946,
+]
+size = [
+    66,
+    14,
+]
+frame_offset = [
+    14,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_29]
+pos = [
+    688,
+    415,
+]
+size = [
+    30,
+    25,
+]
+frame_offset = [
+    90,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_3]
+pos = [
+    959,
+    127,
+]
+size = [
+    23,
+    22,
+]
+frame_offset = [
+    14,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_30]
+pos = [
+    683,
+    799,
+]
+size = [
+    47,
+    54,
+]
+frame_offset = [
+    45,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_31]
+pos = [
+    0,
+    726,
+]
+size = [
+    80,
+    42,
+]
+frame_offset = [
+    37,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_4]
+pos = [
+    0,
+    478,
+]
+size = [
+    99,
+    23,
+]
+frame_offset = [
+    14,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_5]
+pos = [
+    944,
+    425,
+]
+size = [
+    24,
+    20,
+]
+frame_offset = [
+    88,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_6]
+pos = [
+    158,
+    867,
+]
+size = [
+    66,
+    55,
+]
+frame_offset = [
+    44,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_7]
+pos = [
+    259,
+    498,
+]
+size = [
+    80,
+    35,
+]
+frame_offset = [
+    38,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_8]
+pos = [
+    897,
+    459,
+]
+size = [
+    66,
+    25,
+]
+frame_offset = [
+    44,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[weapons_01_9]
+pos = [
+    918,
+    366,
+]
+size = [
+    62,
+    28,
+]
+frame_offset = [
+    28,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_letterboard]
+pos = [
+    0,
+    0,
+]
+size = [
+    469,
+    361,
+]
+frame_offset = [
+    78,
+    76,
+]
+frame_size = [
+    628,
+    466,
+]
+
+[z_templates_wallcutaways_0]
+pos = [
+    488,
+    506,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_wallcutaways_1]
+pos = [
+    692,
+    485,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_wallcutaways_2]
+pos = [
+    550,
+    734,
+]
+size = [
+    66,
+    196,
+]
+frame_offset = [
+    0,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_wallcutaways_3]
+pos = [
+    829,
+    459,
+]
+size = [
+    66,
+    195,
+]
+frame_offset = [
+    60,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_wallcutaways_4]
+pos = [
+    244,
+    817,
+]
+size = [
+    66,
+    50,
+]
+frame_offset = [
+    0,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_wallcutaways_5]
+pos = [
+    226,
+    869,
+]
+size = [
+    66,
+    50,
+]
+frame_offset = [
+    60,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_wallcutaways_6]
+pos = [
+    471,
+    189,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_wallcutaways_7]
+pos = [
+    731,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_wallcutaways_8]
+pos = [
+    158,
+    752,
+]
+size = [
+    6,
+    20,
+]
+frame_offset = [
+    60,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[z_templates_wallcutaways_9]
+pos = [
+    401,
+    722,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

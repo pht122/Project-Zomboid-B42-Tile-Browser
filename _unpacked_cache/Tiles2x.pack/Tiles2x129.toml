@@ -1,0 +1,1161 @@
+[location_restaurant_seahorse_01_76]
+pos = [
+    408,
+    929,
+]
+size = [
+    64,
+    88,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_77]
+pos = [
+    695,
+    685,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    1,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_78]
+pos = [
+    649,
+    0,
+]
+size = [
+    67,
+    88,
+]
+frame_offset = [
+    57,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_79]
+pos = [
+    317,
+    393,
+]
+size = [
+    67,
+    88,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_0]
+pos = [
+    422,
+    245,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_1]
+pos = [
+    68,
+    487,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_10]
+pos = [
+    922,
+    0,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_11]
+pos = [
+    717,
+    229,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_12]
+pos = [
+    785,
+    229,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_13]
+pos = [
+    718,
+    0,
+]
+size = [
+    66,
+    227,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_14]
+pos = [
+    491,
+    245,
+]
+size = [
+    66,
+    227,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_15]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    227,
+]
+
+[location_restaurant_spiffos_01_16]
+pos = [
+    853,
+    229,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_17]
+pos = [
+    922,
+    228,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_18]
+pos = [
+    0,
+    485,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_19]
+pos = [
+    649,
+    90,
+]
+size = [
+    66,
+    227,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_2]
+pos = [
+    408,
+    473,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_20]
+pos = [
+    786,
+    0,
+]
+size = [
+    66,
+    227,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_21]
+pos = [
+    136,
+    487,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_22]
+pos = [
+    990,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_23]
+pos = [
+    998,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_24]
+pos = [
+    204,
+    499,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_25]
+pos = [
+    0,
+    713,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_26]
+pos = [
+    272,
+    499,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_27]
+pos = [
+    68,
+    715,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_28]
+pos = [
+    340,
+    483,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_29]
+pos = [
+    136,
+    715,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_3]
+pos = [
+    272,
+    727,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_30]
+pos = [
+    320,
+    245,
+]
+size = [
+    100,
+    146,
+]
+frame_offset = [
+    17,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_31]
+pos = [
+    214,
+    350,
+]
+size = [
+    101,
+    147,
+]
+frame_offset = [
+    8,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_32]
+pos = [
+    204,
+    727,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_33]
+pos = [
+    559,
+    228,
+]
+size = [
+    66,
+    227,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_34]
+pos = [
+    854,
+    0,
+]
+size = [
+    66,
+    227,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_35]
+pos = [
+    511,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_36]
+pos = [
+    476,
+    474,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_37]
+pos = [
+    627,
+    319,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_4]
+pos = [
+    763,
+    457,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_40]
+pos = [
+    559,
+    457,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_41]
+pos = [
+    340,
+    711,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_42]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_43]
+pos = [
+    1006,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_44]
+pos = [
+    408,
+    701,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_45]
+pos = [
+    695,
+    457,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_46]
+pos = [
+    627,
+    547,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_47]
+pos = [
+    476,
+    702,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_48]
+pos = [
+    967,
+    639,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    7,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_49]
+pos = [
+    930,
+    820,
+]
+size = [
+    51,
+    179,
+]
+frame_offset = [
+    67,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_5]
+pos = [
+    544,
+    685,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_50]
+pos = [
+    612,
+    775,
+]
+size = [
+    56,
+    181,
+]
+frame_offset = [
+    53,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_51]
+pos = [
+    967,
+    456,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_52]
+pos = [
+    818,
+    685,
+]
+size = [
+    54,
+    180,
+]
+frame_offset = [
+    7,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_53]
+pos = [
+    874,
+    685,
+]
+size = [
+    54,
+    180,
+]
+frame_offset = [
+    65,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_54]
+pos = [
+    761,
+    685,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    54,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_55]
+pos = [
+    670,
+    775,
+]
+size = [
+    56,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_56]
+pos = [
+    384,
+    0,
+]
+size = [
+    125,
+    119,
+]
+frame_offset = [
+    1,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_57]
+pos = [
+    214,
+    228,
+]
+size = [
+    104,
+    120,
+]
+frame_offset = [
+    0,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_58]
+pos = [
+    107,
+    353,
+]
+size = [
+    102,
+    132,
+]
+frame_offset = [
+    2,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_59]
+pos = [
+    107,
+    229,
+]
+size = [
+    105,
+    122,
+]
+frame_offset = [
+    1,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_6]
+pos = [
+    831,
+    457,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_60]
+pos = [
+    384,
+    121,
+]
+size = [
+    124,
+    122,
+]
+frame_offset = [
+    1,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_61]
+pos = [
+    0,
+    362,
+]
+size = [
+    105,
+    121,
+]
+frame_offset = [
+    20,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_62]
+pos = [
+    0,
+    229,
+]
+size = [
+    105,
+    131,
+]
+frame_offset = [
+    20,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_7]
+pos = [
+    256,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_8]
+pos = [
+    580,
+    0,
+]
+size = [
+    67,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_spiffos_01_9]
+pos = [
+    899,
+    457,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

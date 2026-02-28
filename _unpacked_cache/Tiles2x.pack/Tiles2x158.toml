@@ -1,0 +1,1817 @@
+[recreational_01_108]
+pos = [
+    258,
+    225,
+]
+size = [
+    118,
+    153,
+]
+frame_offset = [
+    5,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_109]
+pos = [
+    387,
+    67,
+]
+size = [
+    119,
+    156,
+]
+frame_offset = [
+    0,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_0]
+pos = [
+    665,
+    718,
+]
+size = [
+    58,
+    132,
+]
+frame_offset = [
+    47,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_1]
+pos = [
+    906,
+    483,
+]
+size = [
+    58,
+    132,
+]
+frame_offset = [
+    21,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_24]
+pos = [
+    83,
+    890,
+]
+size = [
+    80,
+    46,
+]
+frame_offset = [
+    46,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_25]
+pos = [
+    458,
+    408,
+]
+size = [
+    89,
+    92,
+]
+frame_offset = [
+    19,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_26]
+pos = [
+    728,
+    144,
+]
+size = [
+    90,
+    91,
+]
+frame_offset = [
+    18,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_27]
+pos = [
+    438,
+    502,
+]
+size = [
+    81,
+    44,
+]
+frame_offset = [
+    0,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_84]
+pos = [
+    549,
+    966,
+]
+size = [
+    51,
+    48,
+]
+frame_offset = [
+    46,
+    80,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_85]
+pos = [
+    943,
+    195,
+]
+size = [
+    61,
+    47,
+]
+frame_offset = [
+    33,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_86]
+pos = [
+    660,
+    852,
+]
+size = [
+    51,
+    48,
+]
+frame_offset = [
+    48,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_87]
+pos = [
+    236,
+    967,
+]
+size = [
+    61,
+    47,
+]
+frame_offset = [
+    35,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_88]
+pos = [
+    130,
+    144,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_89]
+pos = [
+    258,
+    159,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_90]
+pos = [
+    0,
+    235,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_91]
+pos = [
+    0,
+    301,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_92]
+pos = [
+    130,
+    210,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_93]
+pos = [
+    0,
+    367,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_on_94]
+pos = [
+    128,
+    276,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_0]
+pos = [
+    178,
+    464,
+]
+size = [
+    60,
+    38,
+]
+frame_offset = [
+    31,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_1]
+pos = [
+    549,
+    896,
+]
+size = [
+    53,
+    33,
+]
+frame_offset = [
+    33,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_10]
+pos = [
+    175,
+    713,
+]
+size = [
+    81,
+    66,
+]
+frame_offset = [
+    25,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_11]
+pos = [
+    171,
+    781,
+]
+size = [
+    81,
+    58,
+]
+frame_offset = [
+    25,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_12]
+pos = [
+    966,
+    483,
+]
+size = [
+    55,
+    199,
+]
+frame_offset = [
+    25,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_13]
+pos = [
+    859,
+    617,
+]
+size = [
+    55,
+    199,
+]
+frame_offset = [
+    46,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_14]
+pos = [
+    261,
+    691,
+]
+size = [
+    81,
+    66,
+]
+frame_offset = [
+    20,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_15]
+pos = [
+    261,
+    622,
+]
+size = [
+    81,
+    67,
+]
+frame_offset = [
+    20,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_16]
+pos = [
+    906,
+    248,
+]
+size = [
+    86,
+    233,
+]
+frame_offset = [
+    20,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_17]
+pos = [
+    361,
+    385,
+]
+size = [
+    95,
+    48,
+]
+frame_offset = [
+    11,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_18]
+pos = [
+    258,
+    759,
+]
+size = [
+    75,
+    206,
+]
+frame_offset = [
+    11,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_19]
+pos = [
+    521,
+    502,
+]
+size = [
+    74,
+    209,
+]
+frame_offset = [
+    41,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_2]
+pos = [
+    549,
+    863,
+]
+size = [
+    54,
+    31,
+]
+frame_offset = [
+    41,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_20]
+pos = [
+    361,
+    435,
+]
+size = [
+    95,
+    48,
+]
+frame_offset = [
+    20,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_21]
+pos = [
+    508,
+    187,
+]
+size = [
+    106,
+    219,
+]
+frame_offset = [
+    20,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_24]
+pos = [
+    415,
+    811,
+]
+size = [
+    66,
+    88,
+]
+frame_offset = [
+    24,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_25]
+pos = [
+    705,
+    440,
+]
+size = [
+    67,
+    88,
+]
+frame_offset = [
+    35,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_26]
+pos = [
+    665,
+    642,
+]
+size = [
+    66,
+    74,
+]
+frame_offset = [
+    40,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_27]
+pos = [
+    817,
+    363,
+]
+size = [
+    67,
+    74,
+]
+frame_offset = [
+    19,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_28]
+pos = [
+    254,
+    380,
+]
+size = [
+    105,
+    66,
+]
+frame_offset = [
+    12,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_29]
+pos = [
+    732,
+    0,
+]
+size = [
+    105,
+    142,
+]
+frame_offset = [
+    3,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_3]
+pos = [
+    604,
+    896,
+]
+size = [
+    52,
+    32,
+]
+frame_offset = [
+    33,
+    208,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_30]
+pos = [
+    623,
+    0,
+]
+size = [
+    107,
+    135,
+]
+frame_offset = [
+    17,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_31]
+pos = [
+    0,
+    433,
+]
+size = [
+    108,
+    66,
+]
+frame_offset = [
+    6,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_32]
+pos = [
+    971,
+    684,
+]
+size = [
+    13,
+    215,
+]
+frame_offset = [
+    56,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_33]
+pos = [
+    986,
+    684,
+]
+size = [
+    13,
+    215,
+]
+frame_offset = [
+    56,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_34]
+pos = [
+    0,
+    165,
+]
+size = [
+    128,
+    68,
+]
+frame_offset = [
+    0,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_35]
+pos = [
+    387,
+    0,
+]
+size = [
+    122,
+    65,
+]
+frame_offset = [
+    2,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_36]
+pos = [
+    623,
+    137,
+]
+size = [
+    103,
+    157,
+]
+frame_offset = [
+    14,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_37]
+pos = [
+    839,
+    0,
+]
+size = [
+    102,
+    246,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_38]
+pos = [
+    254,
+    448,
+]
+size = [
+    99,
+    61,
+]
+frame_offset = [
+    24,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_39]
+pos = [
+    378,
+    225,
+]
+size = [
+    112,
+    158,
+]
+frame_offset = [
+    5,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_4]
+pos = [
+    549,
+    931,
+]
+size = [
+    52,
+    33,
+]
+frame_offset = [
+    41,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_40]
+pos = [
+    943,
+    0,
+]
+size = [
+    79,
+    71,
+]
+frame_offset = [
+    28,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_41]
+pos = [
+    817,
+    248,
+]
+size = [
+    87,
+    113,
+]
+frame_offset = [
+    9,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_42]
+pos = [
+    88,
+    777,
+]
+size = [
+    81,
+    111,
+]
+frame_offset = [
+    35,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_43]
+pos = [
+    88,
+    702,
+]
+size = [
+    85,
+    73,
+]
+frame_offset = [
+    18,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_44]
+pos = [
+    264,
+    511,
+]
+size = [
+    85,
+    109,
+]
+frame_offset = [
+    19,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_45]
+pos = [
+    171,
+    841,
+]
+size = [
+    78,
+    66,
+]
+frame_offset = [
+    8,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_46]
+pos = [
+    438,
+    548,
+]
+size = [
+    79,
+    67,
+]
+frame_offset = [
+    37,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_47]
+pos = [
+    0,
+    718,
+]
+size = [
+    86,
+    109,
+]
+frame_offset = [
+    19,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_48]
+pos = [
+    839,
+    797,
+]
+size = [
+    16,
+    176,
+]
+frame_offset = [
+    56,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_49]
+pos = [
+    403,
+    901,
+]
+size = [
+    64,
+    109,
+]
+frame_offset = [
+    61,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_5]
+pos = [
+    605,
+    863,
+]
+size = [
+    53,
+    31,
+]
+frame_offset = [
+    36,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_50]
+pos = [
+    597,
+    614,
+]
+size = [
+    66,
+    136,
+]
+frame_offset = [
+    59,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_51]
+pos = [
+    165,
+    909,
+]
+size = [
+    69,
+    106,
+]
+frame_offset = [
+    59,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_52]
+pos = [
+    597,
+    506,
+]
+size = [
+    67,
+    106,
+]
+frame_offset = [
+    0,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_53]
+pos = [
+    335,
+    897,
+]
+size = [
+    66,
+    102,
+]
+frame_offset = [
+    1,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_54]
+pos = [
+    577,
+    752,
+]
+size = [
+    64,
+    109,
+]
+frame_offset = [
+    1,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_6]
+pos = [
+    603,
+    931,
+]
+size = [
+    51,
+    31,
+]
+frame_offset = [
+    40,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_60]
+pos = [
+    110,
+    464,
+]
+size = [
+    66,
+    34,
+]
+frame_offset = [
+    61,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_61]
+pos = [
+    83,
+    938,
+]
+size = [
+    74,
+    70,
+]
+frame_offset = [
+    0,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_62]
+pos = [
+    176,
+    621,
+]
+size = [
+    83,
+    90,
+]
+frame_offset = [
+    1,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_64]
+pos = [
+    511,
+    0,
+]
+size = [
+    110,
+    185,
+]
+frame_offset = [
+    10,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_65]
+pos = [
+    549,
+    408,
+]
+size = [
+    64,
+    82,
+]
+frame_offset = [
+    56,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_7]
+pos = [
+    355,
+    485,
+]
+size = [
+    81,
+    200,
+]
+frame_offset = [
+    20,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_72]
+pos = [
+    176,
+    511,
+]
+size = [
+    86,
+    53,
+]
+frame_offset = [
+    2,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_73]
+pos = [
+    176,
+    566,
+]
+size = [
+    86,
+    53,
+]
+frame_offset = [
+    32,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_74]
+pos = [
+    800,
+    617,
+]
+size = [
+    57,
+    178,
+]
+frame_offset = [
+    67,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_75]
+pos = [
+    784,
+    797,
+]
+size = [
+    53,
+    178,
+]
+frame_offset = [
+    60,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_76]
+pos = [
+    734,
+    552,
+]
+size = [
+    64,
+    185,
+]
+frame_offset = [
+    60,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_77]
+pos = [
+    483,
+    825,
+]
+size = [
+    64,
+    185,
+]
+frame_offset = [
+    2,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_78]
+pos = [
+    916,
+    684,
+]
+size = [
+    53,
+    178,
+]
+frame_offset = [
+    13,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_79]
+pos = [
+    725,
+    739,
+]
+size = [
+    57,
+    178,
+]
+frame_offset = [
+    2,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_8]
+pos = [
+    994,
+    244,
+]
+size = [
+    28,
+    187,
+]
+frame_offset = [
+    54,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_80]
+pos = [
+    774,
+    440,
+]
+size = [
+    66,
+    110,
+]
+frame_offset = [
+    59,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_81]
+pos = [
+    509,
+    713,
+]
+size = [
+    66,
+    110,
+]
+frame_offset = [
+    1,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_82]
+pos = [
+    666,
+    530,
+]
+size = [
+    66,
+    110,
+]
+frame_offset = [
+    59,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_83]
+pos = [
+    130,
+    0,
+]
+size = [
+    127,
+    142,
+]
+frame_offset = [
+    1,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_84]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    163,
+]
+frame_offset = [
+    0,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_85]
+pos = [
+    259,
+    0,
+]
+size = [
+    126,
+    157,
+]
+frame_offset = [
+    0,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_86]
+pos = [
+    943,
+    73,
+]
+size = [
+    77,
+    120,
+]
+frame_offset = [
+    0,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_87]
+pos = [
+    128,
+    342,
+]
+size = [
+    124,
+    120,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_88]
+pos = [
+    0,
+    501,
+]
+size = [
+    86,
+    215,
+]
+frame_offset = [
+    15,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_89]
+pos = [
+    344,
+    687,
+]
+size = [
+    69,
+    208,
+]
+frame_offset = [
+    32,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_9]
+pos = [
+    0,
+    829,
+]
+size = [
+    81,
+    191,
+]
+frame_offset = [
+    25,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_90]
+pos = [
+    616,
+    296,
+]
+size = [
+    87,
+    208,
+]
+frame_offset = [
+    32,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_91]
+pos = [
+    728,
+    237,
+]
+size = [
+    87,
+    201,
+]
+frame_offset = [
+    7,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_92]
+pos = [
+    438,
+    617,
+]
+size = [
+    69,
+    192,
+]
+frame_offset = [
+    25,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_93]
+pos = [
+    88,
+    501,
+]
+size = [
+    86,
+    199,
+]
+frame_offset = [
+    25,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_95]
+pos = [
+    705,
+    296,
+]
+size = [
+    16,
+    116,
+]
+frame_offset = [
+    54,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_sports_01_96]
+pos = [
+    842,
+    439,
+]
+size = [
+    62,
+    176,
+]
+frame_offset = [
+    62,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

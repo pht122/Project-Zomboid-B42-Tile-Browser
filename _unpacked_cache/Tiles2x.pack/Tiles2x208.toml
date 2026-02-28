@@ -1,0 +1,2015 @@
+[steamboat_11]
+pos = [
+    693,
+    441,
+]
+size = [
+    64,
+    217,
+]
+frame_offset = [
+    1,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_12]
+pos = [
+    957,
+    468,
+]
+size = [
+    63,
+    218,
+]
+frame_offset = [
+    1,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_13]
+pos = [
+    239,
+    0,
+]
+size = [
+    112,
+    240,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_16]
+pos = [
+    566,
+    0,
+]
+size = [
+    100,
+    221,
+]
+frame_offset = [
+    28,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_17]
+pos = [
+    210,
+    387,
+]
+size = [
+    97,
+    122,
+]
+frame_offset = [
+    0,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_18]
+pos = [
+    78,
+    625,
+]
+size = [
+    74,
+    89,
+]
+frame_offset = [
+    10,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_19]
+pos = [
+    184,
+    511,
+]
+size = [
+    74,
+    255,
+]
+frame_offset = [
+    6,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_20]
+pos = [
+    482,
+    475,
+]
+size = [
+    69,
+    153,
+]
+frame_offset = [
+    15,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_21]
+pos = [
+    224,
+    885,
+]
+size = [
+    65,
+    90,
+]
+frame_offset = [
+    20,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_22]
+pos = [
+    689,
+    755,
+]
+size = [
+    63,
+    135,
+]
+frame_offset = [
+    47,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_23]
+pos = [
+    336,
+    540,
+]
+size = [
+    71,
+    85,
+]
+frame_offset = [
+    46,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_24]
+pos = [
+    124,
+    0,
+]
+size = [
+    113,
+    219,
+]
+frame_offset = [
+    15,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_25]
+pos = [
+    482,
+    630,
+]
+size = [
+    64,
+    231,
+]
+frame_offset = [
+    64,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_26]
+pos = [
+    553,
+    599,
+]
+size = [
+    64,
+    216,
+]
+frame_offset = [
+    64,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_27]
+pos = [
+    825,
+    456,
+]
+size = [
+    64,
+    183,
+]
+frame_offset = [
+    64,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_28]
+pos = [
+    469,
+    863,
+]
+size = [
+    64,
+    132,
+]
+frame_offset = [
+    64,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_29]
+pos = [
+    106,
+    375,
+]
+size = [
+    102,
+    100,
+]
+frame_offset = [
+    0,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_32]
+pos = [
+    0,
+    0,
+]
+size = [
+    122,
+    208,
+]
+frame_offset = [
+    6,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_33]
+pos = [
+    403,
+    786,
+]
+size = [
+    64,
+    216,
+]
+frame_offset = [
+    64,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_34]
+pos = [
+    759,
+    456,
+]
+size = [
+    64,
+    211,
+]
+frame_offset = [
+    64,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_35]
+pos = [
+    333,
+    804,
+]
+size = [
+    64,
+    208,
+]
+frame_offset = [
+    64,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_36]
+pos = [
+    623,
+    569,
+]
+size = [
+    64,
+    216,
+]
+frame_offset = [
+    64,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[steamboat_37]
+pos = [
+    754,
+    756,
+]
+size = [
+    54,
+    197,
+]
+frame_offset = [
+    64,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_diag_2_55]
+pos = [
+    319,
+    255,
+]
+size = [
+    2,
+    11,
+]
+frame_offset = [
+    62,
+    245,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_curbs_01_diag_6]
+pos = [
+    107,
+    210,
+]
+size = [
+    9,
+    6,
+]
+frame_offset = [
+    21,
+    235,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_0]
+pos = [
+    955,
+    688,
+]
+size = [
+    42,
+    154,
+]
+frame_offset = [
+    42,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_1]
+pos = [
+    862,
+    768,
+]
+size = [
+    40,
+    154,
+]
+frame_offset = [
+    17,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_10]
+pos = [
+    333,
+    627,
+]
+size = [
+    68,
+    126,
+]
+frame_offset = [
+    21,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_11]
+pos = [
+    553,
+    471,
+]
+size = [
+    68,
+    126,
+]
+frame_offset = [
+    39,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_12]
+pos = [
+    825,
+    641,
+]
+size = [
+    57,
+    74,
+]
+frame_offset = [
+    42,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_13]
+pos = [
+    78,
+    716,
+]
+size = [
+    74,
+    40,
+]
+frame_offset = [
+    12,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_14]
+pos = [
+    336,
+    499,
+]
+size = [
+    72,
+    39,
+]
+frame_offset = [
+    42,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_15]
+pos = [
+    309,
+    453,
+]
+size = [
+    79,
+    44,
+]
+frame_offset = [
+    23,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_16]
+pos = [
+    154,
+    625,
+]
+size = [
+    18,
+    93,
+]
+frame_offset = [
+    59,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_18]
+pos = [
+    695,
+    892,
+]
+size = [
+    40,
+    87,
+]
+frame_offset = [
+    44,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_19]
+pos = [
+    904,
+    768,
+]
+size = [
+    40,
+    87,
+]
+frame_offset = [
+    38,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_2]
+pos = [
+    904,
+    857,
+]
+size = [
+    39,
+    154,
+]
+frame_offset = [
+    48,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_20]
+pos = [
+    652,
+    913,
+]
+size = [
+    41,
+    88,
+]
+frame_offset = [
+    46,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_21]
+pos = [
+    291,
+    885,
+]
+size = [
+    40,
+    92,
+]
+frame_offset = [
+    35,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_22]
+pos = [
+    814,
+    717,
+]
+size = [
+    46,
+    167,
+]
+frame_offset = [
+    37,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_24]
+pos = [
+    999,
+    688,
+]
+size = [
+    18,
+    200,
+]
+frame_offset = [
+    55,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_26]
+pos = [
+    600,
+    913,
+]
+size = [
+    50,
+    57,
+]
+frame_offset = [
+    39,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_27]
+pos = [
+    535,
+    911,
+]
+size = [
+    63,
+    83,
+]
+frame_offset = [
+    30,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_28]
+pos = [
+    458,
+    145,
+]
+size = [
+    91,
+    76,
+]
+frame_offset = [
+    18,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_29]
+pos = [
+    458,
+    223,
+]
+size = [
+    90,
+    76,
+]
+frame_offset = [
+    18,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_3]
+pos = [
+    946,
+    844,
+]
+size = [
+    39,
+    154,
+]
+frame_offset = [
+    47,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_30]
+pos = [
+    0,
+    811,
+]
+size = [
+    74,
+    39,
+]
+frame_offset = [
+    46,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_31]
+pos = [
+    0,
+    852,
+]
+size = [
+    72,
+    39,
+]
+frame_offset = [
+    8,
+    214,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_32]
+pos = [
+    0,
+    893,
+]
+size = [
+    68,
+    47,
+]
+frame_offset = [
+    43,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_33]
+pos = [
+    0,
+    657,
+]
+size = [
+    76,
+    50,
+]
+frame_offset = [
+    35,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_34]
+pos = [
+    260,
+    561,
+]
+size = [
+    73,
+    48,
+]
+frame_offset = [
+    35,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_35]
+pos = [
+    0,
+    761,
+]
+size = [
+    74,
+    48,
+]
+frame_offset = [
+    16,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_36]
+pos = [
+    424,
+    419,
+]
+size = [
+    77,
+    54,
+]
+frame_offset = [
+    13,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_37]
+pos = [
+    0,
+    942,
+]
+size = [
+    68,
+    47,
+]
+frame_offset = [
+    13,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_38]
+pos = [
+    668,
+    116,
+]
+size = [
+    85,
+    175,
+]
+frame_offset = [
+    2,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_39]
+pos = [
+    550,
+    223,
+]
+size = [
+    86,
+    175,
+]
+frame_offset = [
+    39,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_4]
+pos = [
+    513,
+    301,
+]
+size = [
+    17,
+    110,
+]
+frame_offset = [
+    72,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_40]
+pos = [
+    333,
+    755,
+]
+size = [
+    68,
+    47,
+]
+frame_offset = [
+    15,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_41]
+pos = [
+    0,
+    709,
+]
+size = [
+    76,
+    50,
+]
+frame_offset = [
+    7,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_42]
+pos = [
+    78,
+    758,
+]
+size = [
+    73,
+    48,
+]
+frame_offset = [
+    7,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_43]
+pos = [
+    260,
+    511,
+]
+size = [
+    74,
+    48,
+]
+frame_offset = [
+    46,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_44]
+pos = [
+    503,
+    419,
+]
+size = [
+    77,
+    50,
+]
+frame_offset = [
+    43,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_45]
+pos = [
+    224,
+    836,
+]
+size = [
+    68,
+    47,
+]
+frame_offset = [
+    43,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_46]
+pos = [
+    849,
+    0,
+]
+size = [
+    85,
+    166,
+]
+frame_offset = [
+    41,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_47]
+pos = [
+    755,
+    116,
+]
+size = [
+    84,
+    165,
+]
+frame_offset = [
+    1,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_48]
+pos = [
+    224,
+    977,
+]
+size = [
+    58,
+    36,
+]
+frame_offset = [
+    55,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_49]
+pos = [
+    755,
+    715,
+]
+size = [
+    57,
+    39,
+]
+frame_offset = [
+    55,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_5]
+pos = [
+    810,
+    886,
+]
+size = [
+    17,
+    110,
+]
+frame_offset = [
+    38,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_50]
+pos = [
+    601,
+    872,
+]
+size = [
+    57,
+    39,
+]
+frame_offset = [
+    12,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_51]
+pos = [
+    614,
+    834,
+]
+size = [
+    58,
+    36,
+]
+frame_offset = [
+    11,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_56]
+pos = [
+    760,
+    0,
+]
+size = [
+    87,
+    114,
+]
+frame_offset = [
+    37,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_57]
+pos = [
+    548,
+    817,
+]
+size = [
+    64,
+    45,
+]
+frame_offset = [
+    60,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_58]
+pos = [
+    891,
+    468,
+]
+size = [
+    64,
+    44,
+]
+frame_offset = [
+    60,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_59]
+pos = [
+    213,
+    221,
+]
+size = [
+    10,
+    12,
+]
+frame_offset = [
+    60,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_6]
+pos = [
+    829,
+    886,
+]
+size = [
+    17,
+    110,
+]
+frame_offset = [
+    36,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_60]
+pos = [
+    225,
+    221,
+]
+size = [
+    10,
+    12,
+]
+frame_offset = [
+    54,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_61]
+pos = [
+    891,
+    514,
+]
+size = [
+    64,
+    44,
+]
+frame_offset = [
+    0,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_62]
+pos = [
+    689,
+    708,
+]
+size = [
+    64,
+    45,
+]
+frame_offset = [
+    0,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_63]
+pos = [
+    668,
+    0,
+]
+size = [
+    90,
+    114,
+]
+frame_offset = [
+    0,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_64]
+pos = [
+    936,
+    0,
+]
+size = [
+    84,
+    114,
+]
+frame_offset = [
+    40,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_65]
+pos = [
+    619,
+    787,
+]
+size = [
+    64,
+    45,
+]
+frame_offset = [
+    60,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_66]
+pos = [
+    535,
+    864,
+]
+size = [
+    64,
+    45,
+]
+frame_offset = [
+    60,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_67]
+pos = [
+    327,
+    242,
+]
+size = [
+    4,
+    12,
+]
+frame_offset = [
+    60,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_68]
+pos = [
+    319,
+    242,
+]
+size = [
+    6,
+    11,
+]
+frame_offset = [
+    58,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_69]
+pos = [
+    755,
+    669,
+]
+size = [
+    64,
+    44,
+]
+frame_offset = [
+    0,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_7]
+pos = [
+    78,
+    509,
+]
+size = [
+    18,
+    110,
+]
+frame_offset = [
+    76,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_70]
+pos = [
+    689,
+    660,
+]
+size = [
+    64,
+    46,
+]
+frame_offset = [
+    0,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_71]
+pos = [
+    424,
+    301,
+]
+size = [
+    87,
+    116,
+]
+frame_offset = [
+    0,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_8]
+pos = [
+    403,
+    658,
+]
+size = [
+    68,
+    126,
+]
+frame_offset = [
+    39,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_80]
+pos = [
+    0,
+    509,
+]
+size = [
+    76,
+    146,
+]
+frame_offset = [
+    35,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_81]
+pos = [
+    638,
+    293,
+]
+size = [
+    77,
+    146,
+]
+frame_offset = [
+    30,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_82]
+pos = [
+    841,
+    168,
+]
+size = [
+    77,
+    142,
+]
+frame_offset = [
+    31,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_83]
+pos = [
+    936,
+    116,
+]
+size = [
+    77,
+    142,
+]
+frame_offset = [
+    29,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_84]
+pos = [
+    461,
+    0,
+]
+size = [
+    103,
+    143,
+]
+frame_offset = [
+    21,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_85]
+pos = [
+    0,
+    210,
+]
+size = [
+    105,
+    143,
+]
+frame_offset = [
+    15,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_86]
+pos = [
+    353,
+    145,
+]
+size = [
+    103,
+    152,
+]
+frame_offset = [
+    20,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_87]
+pos = [
+    319,
+    299,
+]
+size = [
+    103,
+    152,
+]
+frame_offset = [
+    20,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_88]
+pos = [
+    106,
+    477,
+]
+size = [
+    76,
+    146,
+]
+frame_offset = [
+    35,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_89]
+pos = [
+    717,
+    293,
+]
+size = [
+    77,
+    146,
+]
+frame_offset = [
+    30,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_9]
+pos = [
+    623,
+    441,
+]
+size = [
+    68,
+    126,
+]
+frame_offset = [
+    20,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_90]
+pos = [
+    796,
+    312,
+]
+size = [
+    77,
+    142,
+]
+frame_offset = [
+    31,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_91]
+pos = [
+    875,
+    312,
+]
+size = [
+    77,
+    142,
+]
+frame_offset = [
+    29,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_92]
+pos = [
+    213,
+    242,
+]
+size = [
+    104,
+    143,
+]
+frame_offset = [
+    20,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_93]
+pos = [
+    353,
+    0,
+]
+size = [
+    106,
+    143,
+]
+frame_offset = [
+    14,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_94]
+pos = [
+    107,
+    221,
+]
+size = [
+    104,
+    152,
+]
+frame_offset = [
+    19,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_decoration_01_95]
+pos = [
+    0,
+    355,
+]
+size = [
+    104,
+    152,
+]
+frame_offset = [
+    19,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_roadsigns_01_0]
+pos = [
+    260,
+    611,
+]
+size = [
+    71,
+    223,
+]
+frame_offset = [
+    26,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_roadsigns_01_1]
+pos = [
+    891,
+    560,
+]
+size = [
+    62,
+    206,
+]
+frame_offset = [
+    33,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_roadsigns_01_2]
+pos = [
+    954,
+    260,
+]
+size = [
+    64,
+    206,
+]
+frame_offset = [
+    31,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_roadsigns_01_3]
+pos = [
+    153,
+    768,
+]
+size = [
+    69,
+    221,
+]
+frame_offset = [
+    31,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_roadsigns_01_4]
+pos = [
+    76,
+    808,
+]
+size = [
+    70,
+    181,
+]
+frame_offset = [
+    28,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[street_roadsigns_01_5]
+pos = [
+    410,
+    475,
+]
+size = [
+    70,
+    181,
+]
+frame_offset = [
+    26,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]

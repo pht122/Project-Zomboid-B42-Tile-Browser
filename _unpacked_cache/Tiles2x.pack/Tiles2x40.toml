@@ -1,0 +1,1961 @@
+[electricity_pylon_100]
+pos = [
+    385,
+    0,
+]
+size = [
+    120,
+    104,
+]
+frame_offset = [
+    8,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_101]
+pos = [
+    225,
+    474,
+]
+size = [
+    72,
+    98,
+]
+frame_offset = [
+    0,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_102]
+pos = [
+    958,
+    443,
+]
+size = [
+    53,
+    116,
+]
+frame_offset = [
+    4,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_103]
+pos = [
+    585,
+    891,
+]
+size = [
+    38,
+    121,
+]
+frame_offset = [
+    55,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_104]
+pos = [
+    536,
+    891,
+]
+size = [
+    47,
+    93,
+]
+frame_offset = [
+    49,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_105]
+pos = [
+    288,
+    379,
+]
+size = [
+    77,
+    67,
+]
+frame_offset = [
+    49,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_106]
+pos = [
+    978,
+    290,
+]
+size = [
+    40,
+    29,
+]
+frame_offset = [
+    78,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_107]
+pos = [
+    299,
+    486,
+]
+size = [
+    66,
+    35,
+]
+frame_offset = [
+    30,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_108]
+pos = [
+    637,
+    797,
+]
+size = [
+    50,
+    142,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_109]
+pos = [
+    297,
+    747,
+]
+size = [
+    68,
+    64,
+]
+frame_offset = [
+    12,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_110]
+pos = [
+    479,
+    895,
+]
+size = [
+    55,
+    94,
+]
+frame_offset = [
+    12,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_111]
+pos = [
+    289,
+    813,
+]
+size = [
+    67,
+    89,
+]
+frame_offset = [
+    59,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_112]
+pos = [
+    604,
+    435,
+]
+size = [
+    68,
+    93,
+]
+frame_offset = [
+    47,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_113]
+pos = [
+    646,
+    681,
+]
+size = [
+    58,
+    114,
+]
+frame_offset = [
+    61,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_114]
+pos = [
+    450,
+    335,
+]
+size = [
+    53,
+    44,
+]
+frame_offset = [
+    46,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_115]
+pos = [
+    299,
+    448,
+]
+size = [
+    66,
+    36,
+]
+frame_offset = [
+    32,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_116]
+pos = [
+    715,
+    569,
+]
+size = [
+    59,
+    113,
+]
+frame_offset = [
+    23,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_117]
+pos = [
+    0,
+    643,
+]
+size = [
+    73,
+    93,
+]
+frame_offset = [
+    3,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_118]
+pos = [
+    681,
+    380,
+]
+size = [
+    41,
+    47,
+]
+frame_offset = [
+    8,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_119]
+pos = [
+    219,
+    926,
+]
+size = [
+    67,
+    88,
+]
+frame_offset = [
+    3,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_120]
+pos = [
+    260,
+    136,
+]
+size = [
+    104,
+    97,
+]
+frame_offset = [
+    14,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_121]
+pos = [
+    577,
+    700,
+]
+size = [
+    61,
+    48,
+]
+frame_offset = [
+    50,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_122]
+pos = [
+    260,
+    0,
+]
+size = [
+    123,
+    134,
+]
+frame_offset = [
+    5,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_123]
+pos = [
+    219,
+    801,
+]
+size = [
+    68,
+    123,
+]
+frame_offset = [
+    0,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_124]
+pos = [
+    440,
+    620,
+]
+size = [
+    67,
+    118,
+]
+frame_offset = [
+    35,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_14]
+pos = [
+    972,
+    561,
+]
+size = [
+    39,
+    220,
+]
+frame_offset = [
+    44,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_15]
+pos = [
+    587,
+    143,
+]
+size = [
+    76,
+    221,
+]
+frame_offset = [
+    9,
+    8,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_16]
+pos = [
+    824,
+    182,
+]
+size = [
+    75,
+    180,
+]
+frame_offset = [
+    42,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_17]
+pos = [
+    757,
+    825,
+]
+size = [
+    38,
+    174,
+]
+frame_offset = [
+    44,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_18]
+pos = [
+    824,
+    0,
+]
+size = [
+    76,
+    180,
+]
+frame_offset = [
+    7,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_19]
+pos = [
+    746,
+    0,
+]
+size = [
+    76,
+    199,
+]
+frame_offset = [
+    45,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_20]
+pos = [
+    776,
+    630,
+]
+size = [
+    50,
+    193,
+]
+frame_offset = [
+    72,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_21]
+pos = [
+    743,
+    202,
+]
+size = [
+    75,
+    202,
+]
+frame_offset = [
+    46,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_22]
+pos = [
+    587,
+    0,
+]
+size = [
+    78,
+    141,
+]
+frame_offset = [
+    4,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_23]
+pos = [
+    667,
+    0,
+]
+size = [
+    77,
+    200,
+]
+frame_offset = [
+    4,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_24]
+pos = [
+    506,
+    158,
+]
+size = [
+    77,
+    221,
+]
+frame_offset = [
+    42,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_25]
+pos = [
+    370,
+    239,
+]
+size = [
+    78,
+    157,
+]
+frame_offset = [
+    7,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_26]
+pos = [
+    288,
+    235,
+]
+size = [
+    80,
+    142,
+]
+frame_offset = [
+    42,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_27]
+pos = [
+    507,
+    0,
+]
+size = [
+    78,
+    156,
+]
+frame_offset = [
+    43,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_28]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    229,
+]
+frame_offset = [
+    0,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_29]
+pos = [
+    367,
+    398,
+]
+size = [
+    75,
+    111,
+]
+frame_offset = [
+    0,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_30]
+pos = [
+    580,
+    633,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    4,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_31]
+pos = [
+    289,
+    904,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    0,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_32]
+pos = [
+    0,
+    447,
+]
+size = [
+    73,
+    194,
+]
+frame_offset = [
+    55,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_33]
+pos = [
+    649,
+    554,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    59,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_34]
+pos = [
+    438,
+    740,
+]
+size = [
+    64,
+    93,
+]
+frame_offset = [
+    0,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_35]
+pos = [
+    438,
+    835,
+]
+size = [
+    62,
+    58,
+]
+frame_offset = [
+    0,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_36]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    181,
+]
+frame_offset = [
+    0,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_37]
+pos = [
+    743,
+    496,
+]
+size = [
+    63,
+    71,
+]
+frame_offset = [
+    2,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_38]
+pos = [
+    440,
+    511,
+]
+size = [
+    69,
+    107,
+]
+frame_offset = [
+    59,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_39]
+pos = [
+    896,
+    403,
+]
+size = [
+    60,
+    75,
+]
+frame_offset = [
+    68,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_40]
+pos = [
+    902,
+    134,
+]
+size = [
+    74,
+    191,
+]
+frame_offset = [
+    0,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_41]
+pos = [
+    901,
+    327,
+]
+size = [
+    63,
+    74,
+]
+frame_offset = [
+    0,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_42]
+pos = [
+    366,
+    136,
+]
+size = [
+    10,
+    45,
+]
+frame_offset = [
+    0,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_43]
+pos = [
+    0,
+    330,
+]
+size = [
+    101,
+    115,
+]
+frame_offset = [
+    0,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_44]
+pos = [
+    649,
+    620,
+]
+size = [
+    62,
+    59,
+]
+frame_offset = [
+    66,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_45]
+pos = [
+    237,
+    183,
+]
+size = [
+    14,
+    53,
+]
+frame_offset = [
+    114,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_48]
+pos = [
+    509,
+    662,
+]
+size = [
+    66,
+    216,
+]
+frame_offset = [
+    31,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_49]
+pos = [
+    665,
+    202,
+]
+size = [
+    76,
+    132,
+]
+frame_offset = [
+    18,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_50]
+pos = [
+    106,
+    256,
+]
+size = [
+    90,
+    225,
+]
+frame_offset = [
+    18,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_51]
+pos = [
+    902,
+    0,
+]
+size = [
+    76,
+    132,
+]
+frame_offset = [
+    33,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_52]
+pos = [
+    369,
+    690,
+]
+size = [
+    67,
+    215,
+]
+frame_offset = [
+    28,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_53]
+pos = [
+    198,
+    256,
+]
+size = [
+    88,
+    189,
+]
+frame_offset = [
+    18,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_54]
+pos = [
+    820,
+    364,
+]
+size = [
+    74,
+    122,
+]
+frame_offset = [
+    18,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_55]
+pos = [
+    450,
+    381,
+]
+size = [
+    75,
+    122,
+]
+frame_offset = [
+    31,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_56]
+pos = [
+    879,
+    750,
+]
+size = [
+    38,
+    203,
+]
+frame_offset = [
+    75,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_57]
+pos = [
+    828,
+    630,
+]
+size = [
+    49,
+    206,
+]
+frame_offset = [
+    38,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_58]
+pos = [
+    706,
+    779,
+]
+size = [
+    49,
+    191,
+]
+frame_offset = [
+    37,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_59]
+pos = [
+    297,
+    574,
+]
+size = [
+    70,
+    171,
+]
+frame_offset = [
+    43,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_60]
+pos = [
+    980,
+    32,
+]
+size = [
+    41,
+    208,
+]
+frame_offset = [
+    10,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_61]
+pos = [
+    150,
+    609,
+]
+size = [
+    71,
+    175,
+]
+frame_offset = [
+    12,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_62]
+pos = [
+    75,
+    483,
+]
+size = [
+    73,
+    171,
+]
+frame_offset = [
+    11,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_63]
+pos = [
+    369,
+    511,
+]
+size = [
+    69,
+    177,
+]
+frame_offset = [
+    43,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_64]
+pos = [
+    0,
+    738,
+]
+size = [
+    71,
+    227,
+]
+frame_offset = [
+    11,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_65]
+pos = [
+    75,
+    656,
+]
+size = [
+    71,
+    228,
+]
+frame_offset = [
+    42,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_66]
+pos = [
+    927,
+    561,
+]
+size = [
+    43,
+    204,
+]
+frame_offset = [
+    39,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_67]
+pos = [
+    981,
+    783,
+]
+size = [
+    22,
+    213,
+]
+frame_offset = [
+    9,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_68]
+pos = [
+    148,
+    786,
+]
+size = [
+    69,
+    225,
+]
+frame_offset = [
+    10,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_69]
+pos = [
+    956,
+    783,
+]
+size = [
+    23,
+    211,
+]
+frame_offset = [
+    93,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_70]
+pos = [
+    225,
+    574,
+]
+size = [
+    70,
+    225,
+]
+frame_offset = [
+    46,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_71]
+pos = [
+    919,
+    767,
+]
+size = [
+    35,
+    203,
+]
+frame_offset = [
+    45,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_72]
+pos = [
+    706,
+    684,
+]
+size = [
+    55,
+    93,
+]
+frame_offset = [
+    23,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_73]
+pos = [
+    604,
+    366,
+]
+size = [
+    75,
+    67,
+]
+frame_offset = [
+    3,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_74]
+pos = [
+    450,
+    239,
+]
+size = [
+    54,
+    94,
+]
+frame_offset = [
+    62,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_75]
+pos = [
+    527,
+    476,
+]
+size = [
+    69,
+    64,
+]
+frame_offset = [
+    47,
+    76,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_76]
+pos = [
+    198,
+    447,
+]
+size = [
+    73,
+    25,
+]
+frame_offset = [
+    25,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_77]
+pos = [
+    299,
+    523,
+]
+size = [
+    66,
+    35,
+]
+frame_offset = [
+    32,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_78]
+pos = [
+    743,
+    406,
+]
+size = [
+    67,
+    88,
+]
+frame_offset = [
+    3,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_79]
+pos = [
+    980,
+    0,
+]
+size = [
+    42,
+    30,
+]
+frame_offset = [
+    9,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_80]
+pos = [
+    978,
+    242,
+]
+size = [
+    40,
+    46,
+]
+frame_offset = [
+    75,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_81]
+pos = [
+    527,
+    381,
+]
+size = [
+    75,
+    93,
+]
+frame_offset = [
+    46,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_82]
+pos = [
+    966,
+    327,
+]
+size = [
+    56,
+    114,
+]
+frame_offset = [
+    46,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_83]
+pos = [
+    580,
+    542,
+]
+size = [
+    67,
+    89,
+]
+frame_offset = [
+    53,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_84]
+pos = [
+    0,
+    967,
+]
+size = [
+    66,
+    35,
+]
+frame_offset = [
+    25,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_85]
+pos = [
+    869,
+    488,
+]
+size = [
+    56,
+    114,
+]
+frame_offset = [
+    8,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_86]
+pos = [
+    73,
+    886,
+]
+size = [
+    69,
+    94,
+]
+frame_offset = [
+    8,
+    25,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_87]
+pos = [
+    681,
+    336,
+]
+size = [
+    51,
+    42,
+]
+frame_offset = [
+    25,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_88]
+pos = [
+    879,
+    604,
+]
+size = [
+    46,
+    144,
+]
+frame_offset = [
+    26,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_89]
+pos = [
+    808,
+    496,
+]
+size = [
+    59,
+    132,
+]
+frame_offset = [
+    69,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_90]
+pos = [
+    577,
+    750,
+]
+size = [
+    58,
+    139,
+]
+frame_offset = [
+    64,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_91]
+pos = [
+    150,
+    483,
+]
+size = [
+    73,
+    124,
+]
+frame_offset = [
+    55,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_92]
+pos = [
+    385,
+    106,
+]
+size = [
+    119,
+    131,
+]
+frame_offset = [
+    0,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_93]
+pos = [
+    0,
+    231,
+]
+size = [
+    104,
+    97,
+]
+frame_offset = [
+    6,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_94]
+pos = [
+    355,
+    907,
+]
+size = [
+    61,
+    49,
+]
+frame_offset = [
+    12,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_95]
+pos = [
+    511,
+    542,
+]
+size = [
+    67,
+    118,
+]
+frame_offset = [
+    22,
+    117,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_96]
+pos = [
+    418,
+    907,
+]
+size = [
+    59,
+    107,
+]
+frame_offset = [
+    63,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_97]
+pos = [
+    674,
+    435,
+]
+size = [
+    67,
+    117,
+]
+frame_offset = [
+    39,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_98]
+pos = [
+    68,
+    982,
+]
+size = [
+    64,
+    37,
+]
+frame_offset = [
+    50,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[electricity_pylon_99]
+pos = [
+    130,
+    183,
+]
+size = [
+    105,
+    71,
+]
+frame_offset = [
+    16,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]

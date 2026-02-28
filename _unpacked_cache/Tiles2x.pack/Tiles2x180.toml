@@ -1,0 +1,2195 @@
+[signs_church_0]
+pos = [
+    828,
+    0,
+]
+size = [
+    77,
+    151,
+]
+frame_offset = [
+    25,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_1]
+pos = [
+    258,
+    0,
+]
+size = [
+    82,
+    140,
+]
+frame_offset = [
+    24,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_10]
+pos = [
+    246,
+    303,
+]
+size = [
+    79,
+    140,
+]
+frame_offset = [
+    33,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_11]
+pos = [
+    408,
+    297,
+]
+size = [
+    78,
+    152,
+]
+frame_offset = [
+    36,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_12]
+pos = [
+    809,
+    308,
+]
+size = [
+    70,
+    149,
+]
+frame_offset = [
+    27,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_13]
+pos = [
+    0,
+    0,
+]
+size = [
+    85,
+    144,
+]
+frame_offset = [
+    23,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_14]
+pos = [
+    669,
+    0,
+]
+size = [
+    78,
+    139,
+]
+frame_offset = [
+    29,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_15]
+pos = [
+    258,
+    142,
+]
+size = [
+    79,
+    153,
+]
+frame_offset = [
+    31,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_16]
+pos = [
+    749,
+    0,
+]
+size = [
+    77,
+    153,
+]
+frame_offset = [
+    19,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_17]
+pos = [
+    501,
+    155,
+]
+size = [
+    78,
+    140,
+]
+frame_offset = [
+    22,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_18]
+pos = [
+    327,
+    297,
+]
+size = [
+    79,
+    139,
+]
+frame_offset = [
+    27,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_19]
+pos = [
+    165,
+    303,
+]
+size = [
+    79,
+    152,
+]
+frame_offset = [
+    29,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_2]
+pos = [
+    87,
+    0,
+]
+size = [
+    84,
+    142,
+]
+frame_offset = [
+    8,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_20]
+pos = [
+    426,
+    0,
+]
+size = [
+    81,
+    153,
+]
+frame_offset = [
+    11,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_21]
+pos = [
+    907,
+    0,
+]
+size = [
+    77,
+    138,
+]
+frame_offset = [
+    15,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_22]
+pos = [
+    166,
+    157,
+]
+size = [
+    80,
+    144,
+]
+frame_offset = [
+    27,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_23]
+pos = [
+    488,
+    297,
+]
+size = [
+    77,
+    152,
+]
+frame_offset = [
+    31,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_24]
+pos = [
+    581,
+    265,
+]
+size = [
+    77,
+    151,
+]
+frame_offset = [
+    21,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_25]
+pos = [
+    0,
+    146,
+]
+size = [
+    81,
+    140,
+]
+frame_offset = [
+    21,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_26]
+pos = [
+    0,
+    288,
+]
+size = [
+    81,
+    139,
+]
+frame_offset = [
+    24,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_27]
+pos = [
+    339,
+    142,
+]
+size = [
+    79,
+    151,
+]
+frame_offset = [
+    26,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_28]
+pos = [
+    669,
+    141,
+]
+size = [
+    77,
+    152,
+]
+frame_offset = [
+    19,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_29]
+pos = [
+    420,
+    155,
+]
+size = [
+    79,
+    140,
+]
+frame_offset = [
+    21,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_3]
+pos = [
+    828,
+    153,
+]
+size = [
+    73,
+    150,
+]
+frame_offset = [
+    16,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_30]
+pos = [
+    342,
+    0,
+]
+size = [
+    82,
+    140,
+]
+frame_offset = [
+    25,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_31]
+pos = [
+    748,
+    155,
+]
+size = [
+    77,
+    151,
+]
+frame_offset = [
+    29,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_4]
+pos = [
+    589,
+    0,
+]
+size = [
+    78,
+    151,
+]
+frame_offset = [
+    26,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_5]
+pos = [
+    83,
+    146,
+]
+size = [
+    81,
+    140,
+]
+frame_offset = [
+    26,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_6]
+pos = [
+    660,
+    295,
+]
+size = [
+    74,
+    137,
+]
+frame_offset = [
+    32,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_7]
+pos = [
+    173,
+    0,
+]
+size = [
+    83,
+    155,
+]
+frame_offset = [
+    30,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_8]
+pos = [
+    509,
+    0,
+]
+size = [
+    78,
+    152,
+]
+frame_offset = [
+    21,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_9]
+pos = [
+    83,
+    288,
+]
+size = [
+    80,
+    140,
+]
+frame_offset = [
+    22,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_0]
+pos = [
+    807,
+    771,
+]
+size = [
+    59,
+    118,
+]
+frame_offset = [
+    29,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_1]
+pos = [
+    0,
+    511,
+]
+size = [
+    69,
+    123,
+]
+frame_offset = [
+    24,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_10]
+pos = [
+    216,
+    512,
+]
+size = [
+    66,
+    122,
+]
+frame_offset = [
+    46,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_11]
+pos = [
+    915,
+    462,
+]
+size = [
+    62,
+    120,
+]
+frame_offset = [
+    48,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_12]
+pos = [
+    868,
+    825,
+]
+size = [
+    56,
+    117,
+]
+frame_offset = [
+    31,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_13]
+pos = [
+    907,
+    140,
+]
+size = [
+    72,
+    125,
+]
+frame_offset = [
+    23,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_14]
+pos = [
+    138,
+    706,
+]
+size = [
+    65,
+    122,
+]
+frame_offset = [
+    42,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_15]
+pos = [
+    542,
+    813,
+]
+size = [
+    63,
+    121,
+]
+frame_offset = [
+    43,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_16]
+pos = [
+    849,
+    527,
+]
+size = [
+    63,
+    120,
+]
+frame_offset = [
+    23,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_17]
+pos = [
+    386,
+    451,
+]
+size = [
+    65,
+    121,
+]
+frame_offset = [
+    22,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_18]
+pos = [
+    0,
+    761,
+]
+size = [
+    66,
+    122,
+]
+frame_offset = [
+    40,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_19]
+pos = [
+    783,
+    605,
+]
+size = [
+    62,
+    120,
+]
+frame_offset = [
+    42,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_2]
+pos = [
+    736,
+    308,
+]
+size = [
+    71,
+    125,
+]
+frame_offset = [
+    21,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_20]
+pos = [
+    344,
+    704,
+]
+size = [
+    64,
+    121,
+]
+frame_offset = [
+    15,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_21]
+pos = [
+    483,
+    584,
+]
+size = [
+    64,
+    121,
+]
+frame_offset = [
+    15,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_22]
+pos = [
+    0,
+    636,
+]
+size = [
+    67,
+    123,
+]
+frame_offset = [
+    40,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_23]
+pos = [
+    608,
+    808,
+]
+size = [
+    61,
+    120,
+]
+frame_offset = [
+    43,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_24]
+pos = [
+    745,
+    727,
+]
+size = [
+    60,
+    119,
+]
+frame_offset = [
+    25,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_25]
+pos = [
+    146,
+    457,
+]
+size = [
+    68,
+    123,
+]
+frame_offset = [
+    21,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_26]
+pos = [
+    211,
+    636,
+]
+size = [
+    65,
+    122,
+]
+frame_offset = [
+    40,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_27]
+pos = [
+    469,
+    887,
+]
+size = [
+    63,
+    121,
+]
+frame_offset = [
+    41,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_28]
+pos = [
+    681,
+    708,
+]
+size = [
+    62,
+    120,
+]
+frame_offset = [
+    23,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_29]
+pos = [
+    318,
+    445,
+]
+size = [
+    66,
+    122,
+]
+frame_offset = [
+    21,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_3]
+pos = [
+    794,
+    891,
+]
+size = [
+    57,
+    118,
+]
+frame_offset = [
+    28,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_30]
+pos = [
+    903,
+    267,
+]
+size = [
+    69,
+    124,
+]
+frame_offset = [
+    38,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_31]
+pos = [
+    733,
+    848,
+]
+size = [
+    59,
+    119,
+]
+frame_offset = [
+    43,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_4]
+pos = [
+    910,
+    705,
+]
+size = [
+    59,
+    118,
+]
+frame_offset = [
+    31,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_5]
+pos = [
+    71,
+    512,
+]
+size = [
+    69,
+    123,
+]
+frame_offset = [
+    26,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_6]
+pos = [
+    847,
+    649,
+]
+size = [
+    61,
+    120,
+]
+frame_offset = [
+    45,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_7]
+pos = [
+    69,
+    637,
+]
+size = [
+    67,
+    123,
+]
+frame_offset = [
+    42,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_8]
+pos = [
+    914,
+    584,
+]
+size = [
+    61,
+    119,
+]
+frame_offset = [
+    25,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_church_on_9]
+pos = [
+    142,
+    582,
+]
+size = [
+    67,
+    122,
+]
+frame_offset = [
+    22,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_0]
+pos = [
+    68,
+    762,
+]
+size = [
+    66,
+    72,
+]
+frame_offset = [
+    58,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_1]
+pos = [
+    881,
+    393,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    60,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_10]
+pos = [
+    410,
+    707,
+]
+size = [
+    64,
+    114,
+]
+frame_offset = [
+    60,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_11]
+pos = [
+    585,
+    546,
+]
+size = [
+    64,
+    113,
+]
+frame_offset = [
+    60,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_12]
+pos = [
+    519,
+    451,
+]
+size = [
+    64,
+    127,
+]
+frame_offset = [
+    60,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_13]
+pos = [
+    351,
+    574,
+]
+size = [
+    64,
+    128,
+]
+frame_offset = [
+    60,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_14]
+pos = [
+    278,
+    669,
+]
+size = [
+    64,
+    130,
+]
+frame_offset = [
+    60,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_15]
+pos = [
+    417,
+    584,
+]
+size = [
+    64,
+    121,
+]
+frame_offset = [
+    60,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_16]
+pos = [
+    74,
+    430,
+]
+size = [
+    70,
+    80,
+]
+frame_offset = [
+    54,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_17]
+pos = [
+    403,
+    827,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    60,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_18]
+pos = [
+    549,
+    661,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    60,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_19]
+pos = [
+    671,
+    830,
+]
+size = [
+    60,
+    76,
+]
+frame_offset = [
+    60,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_2]
+pos = [
+    403,
+    909,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    60,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_20]
+pos = [
+    284,
+    569,
+]
+size = [
+    65,
+    98,
+]
+frame_offset = [
+    59,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_21]
+pos = [
+    271,
+    801,
+]
+size = [
+    64,
+    119,
+]
+frame_offset = [
+    60,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_22]
+pos = [
+    671,
+    908,
+]
+size = [
+    58,
+    110,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_23]
+pos = [
+    146,
+    430,
+]
+size = [
+    9,
+    6,
+]
+frame_offset = [
+    54,
+    229,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_24]
+pos = [
+    983,
+    764,
+]
+size = [
+    37,
+    88,
+]
+frame_offset = [
+    87,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_25]
+pos = [
+    337,
+    827,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_26]
+pos = [
+    476,
+    707,
+]
+size = [
+    64,
+    104,
+]
+frame_offset = [
+    60,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_27]
+pos = [
+    983,
+    854,
+]
+size = [
+    26,
+    83,
+]
+frame_offset = [
+    60,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_28]
+pos = [
+    986,
+    0,
+]
+size = [
+    36,
+    71,
+]
+frame_offset = [
+    30,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_29]
+pos = [
+    268,
+    922,
+]
+size = [
+    64,
+    88,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_3]
+pos = [
+    542,
+    743,
+]
+size = [
+    64,
+    68,
+]
+frame_offset = [
+    60,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_30]
+pos = [
+    651,
+    554,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    2,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_31]
+pos = [
+    981,
+    140,
+]
+size = [
+    41,
+    72,
+]
+frame_offset = [
+    2,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_32]
+pos = [
+    0,
+    429,
+]
+size = [
+    72,
+    80,
+]
+frame_offset = [
+    52,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_33]
+pos = [
+    717,
+    550,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_34]
+pos = [
+    334,
+    934,
+]
+size = [
+    64,
+    77,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_35]
+pos = [
+    783,
+    459,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    60,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_36]
+pos = [
+    476,
+    813,
+]
+size = [
+    64,
+    72,
+]
+frame_offset = [
+    60,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_37]
+pos = [
+    926,
+    825,
+]
+size = [
+    55,
+    65,
+]
+frame_offset = [
+    60,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_4]
+pos = [
+    615,
+    661,
+]
+size = [
+    64,
+    74,
+]
+frame_offset = [
+    60,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_40]
+pos = [
+    971,
+    705,
+]
+size = [
+    50,
+    57,
+]
+frame_offset = [
+    74,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_41]
+pos = [
+    783,
+    540,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    60,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_42]
+pos = [
+    134,
+    960,
+]
+size = [
+    64,
+    61,
+]
+frame_offset = [
+    60,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_43]
+pos = [
+    67,
+    976,
+]
+size = [
+    56,
+    46,
+]
+frame_offset = [
+    60,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_44]
+pos = [
+    68,
+    836,
+]
+size = [
+    64,
+    138,
+]
+frame_offset = [
+    2,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_45]
+pos = [
+    453,
+    451,
+]
+size = [
+    64,
+    131,
+]
+frame_offset = [
+    2,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_46]
+pos = [
+    974,
+    267,
+]
+size = [
+    47,
+    95,
+]
+frame_offset = [
+    2,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_48]
+pos = [
+    246,
+    445,
+]
+size = [
+    70,
+    65,
+]
+frame_offset = [
+    54,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_49]
+pos = [
+    597,
+    936,
+]
+size = [
+    56,
+    57,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_5]
+pos = [
+    979,
+    458,
+]
+size = [
+    38,
+    61,
+]
+frame_offset = [
+    60,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_50]
+pos = [
+    534,
+    936,
+]
+size = [
+    61,
+    60,
+]
+frame_offset = [
+    63,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_51]
+pos = [
+    947,
+    393,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_52]
+pos = [
+    681,
+    643,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_53]
+pos = [
+    849,
+    462,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_54]
+pos = [
+    608,
+    743,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_55]
+pos = [
+    977,
+    584,
+]
+size = [
+    44,
+    49,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_56]
+pos = [
+    926,
+    892,
+]
+size = [
+    46,
+    99,
+]
+frame_offset = [
+    20,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_57]
+pos = [
+    585,
+    418,
+]
+size = [
+    64,
+    126,
+]
+frame_offset = [
+    2,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_58]
+pos = [
+    136,
+    830,
+]
+size = [
+    64,
+    128,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_59]
+pos = [
+    205,
+    760,
+]
+size = [
+    64,
+    127,
+]
+frame_offset = [
+    2,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_60]
+pos = [
+    717,
+    435,
+]
+size = [
+    64,
+    113,
+]
+frame_offset = [
+    2,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_61]
+pos = [
+    651,
+    434,
+]
+size = [
+    64,
+    118,
+]
+frame_offset = [
+    2,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_7]
+pos = [
+    0,
+    885,
+]
+size = [
+    65,
+    103,
+]
+frame_offset = [
+    60,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_8]
+pos = [
+    581,
+    154,
+]
+size = [
+    78,
+    109,
+]
+frame_offset = [
+    46,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_miscbrands_01_9]
+pos = [
+    202,
+    889,
+]
+size = [
+    64,
+    115,
+]
+frame_offset = [
+    60,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]

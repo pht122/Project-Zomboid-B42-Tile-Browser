@@ -1,0 +1,3509 @@
+[advertising_01_100]
+pos = [
+    491,
+    837,
+]
+size = [
+    61,
+    155,
+]
+frame_offset = [
+    37,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_101]
+pos = [
+    816,
+    713,
+]
+size = [
+    53,
+    151,
+]
+frame_offset = [
+    34,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_104]
+pos = [
+    744,
+    865,
+]
+size = [
+    50,
+    149,
+]
+frame_offset = [
+    39,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_105]
+pos = [
+    362,
+    833,
+]
+size = [
+    63,
+    155,
+]
+frame_offset = [
+    25,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_106]
+pos = [
+    233,
+    299,
+]
+size = [
+    104,
+    155,
+]
+frame_offset = [
+    24,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_107]
+pos = [
+    298,
+    594,
+]
+size = [
+    64,
+    155,
+]
+frame_offset = [
+    24,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_108]
+pos = [
+    69,
+    829,
+]
+size = [
+    64,
+    155,
+]
+frame_offset = [
+    24,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_109]
+pos = [
+    796,
+    866,
+]
+size = [
+    47,
+    147,
+]
+frame_offset = [
+    24,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_112]
+pos = [
+    976,
+    352,
+]
+size = [
+    28,
+    82,
+]
+frame_offset = [
+    61,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_113]
+pos = [
+    698,
+    563,
+]
+size = [
+    63,
+    83,
+]
+frame_offset = [
+    25,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_114]
+pos = [
+    135,
+    937,
+]
+size = [
+    64,
+    82,
+]
+frame_offset = [
+    24,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_115]
+pos = [
+    201,
+    939,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    24,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_116]
+pos = [
+    632,
+    477,
+]
+size = [
+    64,
+    95,
+]
+frame_offset = [
+    24,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_117]
+pos = [
+    871,
+    928,
+]
+size = [
+    20,
+    82,
+]
+frame_offset = [
+    24,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_on_15]
+pos = [
+    976,
+    230,
+]
+size = [
+    45,
+    34,
+]
+frame_offset = [
+    68,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_on_23]
+pos = [
+    80,
+    486,
+]
+size = [
+    10,
+    1,
+]
+frame_offset = [
+    88,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_01_on_7]
+pos = [
+    976,
+    193,
+]
+size = [
+    45,
+    35,
+]
+frame_offset = [
+    8,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_02_0]
+pos = [
+    77,
+    571,
+]
+size = [
+    74,
+    170,
+]
+frame_offset = [
+    24,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_02_1]
+pos = [
+    154,
+    492,
+]
+size = [
+    74,
+    170,
+]
+frame_offset = [
+    28,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_02_on_0]
+pos = [
+    688,
+    931,
+]
+size = [
+    49,
+    86,
+]
+frame_offset = [
+    43,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[advertising_02_on_1]
+pos = [
+    926,
+    696,
+]
+size = [
+    49,
+    86,
+]
+frame_offset = [
+    34,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_10]
+pos = [
+    893,
+    471,
+]
+size = [
+    58,
+    68,
+]
+frame_offset = [
+    8,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_11]
+pos = [
+    554,
+    946,
+]
+size = [
+    54,
+    66,
+]
+frame_offset = [
+    2,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_12]
+pos = [
+    566,
+    578,
+]
+size = [
+    64,
+    95,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_13]
+pos = [
+    434,
+    653,
+]
+size = [
+    64,
+    102,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_14]
+pos = [
+    871,
+    735,
+]
+size = [
+    52,
+    89,
+]
+frame_offset = [
+    2,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_162]
+pos = [
+    962,
+    20,
+]
+size = [
+    59,
+    120,
+]
+frame_offset = [
+    63,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_163]
+pos = [
+    427,
+    837,
+]
+size = [
+    62,
+    82,
+]
+frame_offset = [
+    61,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_170]
+pos = [
+    763,
+    591,
+]
+size = [
+    59,
+    120,
+]
+frame_offset = [
+    5,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_171]
+pos = [
+    829,
+    471,
+]
+size = [
+    62,
+    82,
+]
+frame_offset = [
+    3,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_24]
+pos = [
+    565,
+    807,
+]
+size = [
+    57,
+    137,
+]
+frame_offset = [
+    7,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_25]
+pos = [
+    500,
+    503,
+]
+size = [
+    64,
+    146,
+]
+frame_offset = [
+    0,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_26]
+pos = [
+    368,
+    562,
+]
+size = [
+    64,
+    152,
+]
+frame_offset = [
+    0,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_27]
+pos = [
+    203,
+    792,
+]
+size = [
+    64,
+    145,
+]
+frame_offset = [
+    0,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_28]
+pos = [
+    137,
+    783,
+]
+size = [
+    64,
+    152,
+]
+frame_offset = [
+    0,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_29]
+pos = [
+    0,
+    868,
+]
+size = [
+    64,
+    151,
+]
+frame_offset = [
+    0,
+    78,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_30]
+pos = [
+    697,
+    648,
+]
+size = [
+    61,
+    130,
+]
+frame_offset = [
+    0,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_32]
+pos = [
+    764,
+    471,
+]
+size = [
+    63,
+    118,
+]
+frame_offset = [
+    61,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_33]
+pos = [
+    632,
+    574,
+]
+size = [
+    63,
+    187,
+]
+frame_offset = [
+    60,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_34]
+pos = [
+    566,
+    675,
+]
+size = [
+    63,
+    130,
+]
+frame_offset = [
+    61,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_35]
+pos = [
+    566,
+    449,
+]
+size = [
+    64,
+    127,
+]
+frame_offset = [
+    59,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_36]
+pos = [
+    296,
+    751,
+]
+size = [
+    64,
+    132,
+]
+frame_offset = [
+    60,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_37]
+pos = [
+    153,
+    664,
+]
+size = [
+    65,
+    117,
+]
+frame_offset = [
+    59,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_38]
+pos = [
+    876,
+    0,
+]
+size = [
+    84,
+    193,
+]
+frame_offset = [
+    44,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_39]
+pos = [
+    117,
+    162,
+]
+size = [
+    5,
+    11,
+]
+frame_offset = [
+    0,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_40]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    160,
+]
+frame_offset = [
+    2,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_41]
+pos = [
+    255,
+    0,
+]
+size = [
+    123,
+    179,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_42]
+pos = [
+    434,
+    503,
+]
+size = [
+    64,
+    148,
+]
+frame_offset = [
+    2,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_43]
+pos = [
+    217,
+    423,
+]
+size = [
+    10,
+    16,
+]
+frame_offset = [
+    2,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_45]
+pos = [
+    233,
+    281,
+]
+size = [
+    16,
+    3,
+]
+frame_offset = [
+    101,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_48]
+pos = [
+    500,
+    744,
+]
+size = [
+    63,
+    90,
+]
+frame_offset = [
+    62,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_49]
+pos = [
+    698,
+    477,
+]
+size = [
+    64,
+    84,
+]
+frame_offset = [
+    60,
+    108,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_50]
+pos = [
+    430,
+    757,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    61,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_51]
+pos = [
+    500,
+    651,
+]
+size = [
+    64,
+    91,
+]
+frame_offset = [
+    60,
+    108,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_52]
+pos = [
+    70,
+    743,
+]
+size = [
+    65,
+    84,
+]
+frame_offset = [
+    60,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_53]
+pos = [
+    269,
+    885,
+]
+size = [
+    64,
+    81,
+]
+frame_offset = [
+    60,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_54]
+pos = [
+    364,
+    716,
+]
+size = [
+    64,
+    115,
+]
+frame_offset = [
+    60,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_55]
+pos = [
+    301,
+    482,
+]
+size = [
+    67,
+    78,
+]
+frame_offset = [
+    59,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_8]
+pos = [
+    427,
+    921,
+]
+size = [
+    59,
+    69,
+]
+frame_offset = [
+    7,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[alokin_test_sheet_9]
+pos = [
+    949,
+    625,
+]
+size = [
+    53,
+    66,
+]
+frame_offset = [
+    2,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_0]
+pos = [
+    184,
+    456,
+]
+size = [
+    71,
+    25,
+]
+frame_offset = [
+    20,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_1]
+pos = [
+    691,
+    175,
+]
+size = [
+    86,
+    58,
+]
+frame_offset = [
+    4,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_10]
+pos = [
+    370,
+    536,
+]
+size = [
+    54,
+    19,
+]
+frame_offset = [
+    36,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_11]
+pos = [
+    962,
+    142,
+]
+size = [
+    55,
+    28,
+]
+frame_offset = [
+    35,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_12]
+pos = [
+    962,
+    0,
+]
+size = [
+    60,
+    18,
+]
+frame_offset = [
+    32,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_13]
+pos = [
+    128,
+    492,
+]
+size = [
+    13,
+    8,
+]
+frame_offset = [
+    23,
+    220,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_14]
+pos = [
+    267,
+    968,
+]
+size = [
+    61,
+    18,
+]
+frame_offset = [
+    43,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_15]
+pos = [
+    442,
+    994,
+]
+size = [
+    50,
+    14,
+]
+frame_offset = [
+    51,
+    231,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_16]
+pos = [
+    976,
+    310,
+]
+size = [
+    29,
+    40,
+]
+frame_offset = [
+    49,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_17]
+pos = [
+    0,
+    725,
+]
+size = [
+    68,
+    25,
+]
+frame_offset = [
+    42,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_18]
+pos = [
+    339,
+    383,
+]
+size = [
+    15,
+    14,
+]
+frame_offset = [
+    56,
+    219,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_19]
+pos = [
+    0,
+    699,
+]
+size = [
+    70,
+    24,
+]
+frame_offset = [
+    15,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_2]
+pos = [
+    845,
+    924,
+]
+size = [
+    24,
+    48,
+]
+frame_offset = [
+    49,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_20]
+pos = [
+    515,
+    446,
+]
+size = [
+    38,
+    38,
+]
+frame_offset = [
+    53,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_21]
+pos = [
+    113,
+    492,
+]
+size = [
+    13,
+    10,
+]
+frame_offset = [
+    49,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_22]
+pos = [
+    871,
+    703,
+]
+size = [
+    53,
+    30,
+]
+frame_offset = [
+    37,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_23]
+pos = [
+    184,
+    429,
+]
+size = [
+    31,
+    14,
+]
+frame_offset = [
+    37,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_24]
+pos = [
+    976,
+    266,
+]
+size = [
+    31,
+    42,
+]
+frame_offset = [
+    45,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_25]
+pos = [
+    269,
+    850,
+]
+size = [
+    24,
+    28,
+]
+frame_offset = [
+    52,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_26]
+pos = [
+    217,
+    441,
+]
+size = [
+    10,
+    12,
+]
+frame_offset = [
+    45,
+    230,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_27]
+pos = [
+    610,
+    990,
+]
+size = [
+    18,
+    26,
+]
+frame_offset = [
+    53,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_28]
+pos = [
+    665,
+    958,
+]
+size = [
+    21,
+    44,
+]
+frame_offset = [
+    52,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_29]
+pos = [
+    977,
+    693,
+]
+size = [
+    28,
+    42,
+]
+frame_offset = [
+    44,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_3]
+pos = [
+    1001,
+    436,
+]
+size = [
+    19,
+    19,
+]
+frame_offset = [
+    53,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_30]
+pos = [
+    209,
+    367,
+]
+size = [
+    22,
+    26,
+]
+frame_offset = [
+    44,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_31]
+pos = [
+    339,
+    299,
+]
+size = [
+    30,
+    40,
+]
+frame_offset = [
+    43,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_32]
+pos = [
+    953,
+    842,
+]
+size = [
+    23,
+    46,
+]
+frame_offset = [
+    52,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_33]
+pos = [
+    370,
+    509,
+]
+size = [
+    57,
+    25,
+]
+frame_offset = [
+    33,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_34]
+pos = [
+    137,
+    743,
+]
+size = [
+    13,
+    27,
+]
+frame_offset = [
+    53,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_35]
+pos = [
+    925,
+    784,
+]
+size = [
+    28,
+    40,
+]
+frame_offset = [
+    49,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_36]
+pos = [
+    230,
+    601,
+]
+size = [
+    65,
+    30,
+]
+frame_offset = [
+    17,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_37]
+pos = [
+    93,
+    407,
+]
+size = [
+    19,
+    19,
+]
+frame_offset = [
+    51,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_38]
+pos = [
+    897,
+    884,
+]
+size = [
+    24,
+    48,
+]
+frame_offset = [
+    50,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_39]
+pos = [
+    370,
+    464,
+]
+size = [
+    57,
+    43,
+]
+frame_offset = [
+    33,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_4]
+pos = [
+    515,
+    414,
+]
+size = [
+    42,
+    30,
+]
+frame_offset = [
+    40,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_40]
+pos = [
+    494,
+    994,
+]
+size = [
+    50,
+    14,
+]
+frame_offset = [
+    46,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_41]
+pos = [
+    267,
+    988,
+]
+size = [
+    61,
+    18,
+]
+frame_offset = [
+    25,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_42]
+pos = [
+    184,
+    445,
+]
+size = [
+    13,
+    8,
+]
+frame_offset = [
+    93,
+    218,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_43]
+pos = [
+    0,
+    469,
+]
+size = [
+    80,
+    15,
+]
+frame_offset = [
+    33,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_44]
+pos = [
+    230,
+    574,
+]
+size = [
+    66,
+    25,
+]
+frame_offset = [
+    36,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_45]
+pos = [
+    330,
+    990,
+]
+size = [
+    55,
+    28,
+]
+frame_offset = [
+    35,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_46]
+pos = [
+    962,
+    172,
+]
+size = [
+    54,
+    19,
+]
+frame_offset = [
+    35,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_47]
+pos = [
+    503,
+    0,
+]
+size = [
+    96,
+    229,
+]
+frame_offset = [
+    23,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_48]
+pos = [
+    983,
+    921,
+]
+size = [
+    18,
+    39,
+]
+frame_offset = [
+    56,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_49]
+pos = [
+    387,
+    992,
+]
+size = [
+    53,
+    15,
+]
+frame_offset = [
+    33,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_5]
+pos = [
+    301,
+    562,
+]
+size = [
+    65,
+    30,
+]
+frame_offset = [
+    37,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_50]
+pos = [
+    80,
+    492,
+]
+size = [
+    31,
+    13,
+]
+frame_offset = [
+    59,
+    224,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_51]
+pos = [
+    610,
+    958,
+]
+size = [
+    53,
+    30,
+]
+frame_offset = [
+    37,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_52]
+pos = [
+    233,
+    286,
+]
+size = [
+    14,
+    10,
+]
+frame_offset = [
+    64,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_53]
+pos = [
+    257,
+    456,
+]
+size = [
+    70,
+    24,
+]
+frame_offset = [
+    44,
+    208,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_54]
+pos = [
+    329,
+    464,
+]
+size = [
+    15,
+    14,
+]
+frame_offset = [
+    58,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_55]
+pos = [
+    0,
+    752,
+]
+size = [
+    68,
+    25,
+]
+frame_offset = [
+    19,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_56]
+pos = [
+    871,
+    826,
+]
+size = [
+    28,
+    42,
+]
+frame_offset = [
+    52,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_57]
+pos = [
+    209,
+    395,
+]
+size = [
+    22,
+    26,
+]
+frame_offset = [
+    52,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_58]
+pos = [
+    339,
+    341,
+]
+size = [
+    30,
+    40,
+]
+frame_offset = [
+    51,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_59]
+pos = [
+    356,
+    383,
+]
+size = [
+    10,
+    14,
+]
+frame_offset = [
+    67,
+    229,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_6]
+pos = [
+    977,
+    737,
+]
+size = [
+    28,
+    40,
+]
+frame_offset = [
+    42,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_60]
+pos = [
+    975,
+    436,
+]
+size = [
+    24,
+    26,
+]
+frame_offset = [
+    54,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_61]
+pos = [
+    335,
+    943,
+]
+size = [
+    24,
+    28,
+]
+frame_offset = [
+    51,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_62]
+pos = [
+    346,
+    464,
+]
+size = [
+    10,
+    12,
+]
+frame_offset = [
+    44,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_63]
+pos = [
+    630,
+    990,
+]
+size = [
+    18,
+    26,
+]
+frame_offset = [
+    52,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_7]
+pos = [
+    720,
+    413,
+]
+size = [
+    13,
+    27,
+]
+frame_offset = [
+    53,
+    208,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_8]
+pos = [
+    66,
+    986,
+]
+size = [
+    62,
+    20,
+]
+frame_offset = [
+    30,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[animaltracks_large_01_9]
+pos = [
+    0,
+    486,
+]
+size = [
+    78,
+    19,
+]
+frame_offset = [
+    24,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_0]
+pos = [
+    821,
+    215,
+]
+size = [
+    76,
+    62,
+]
+frame_offset = [
+    32,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_1]
+pos = [
+    899,
+    195,
+]
+size = [
+    75,
+    145,
+]
+frame_offset = [
+    19,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_10]
+pos = [
+    0,
+    407,
+]
+size = [
+    91,
+    60,
+]
+frame_offset = [
+    19,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_11]
+pos = [
+    471,
+    231,
+]
+size = [
+    89,
+    58,
+]
+frame_offset = [
+    16,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_12]
+pos = [
+    642,
+    413,
+]
+size = [
+    76,
+    62,
+]
+frame_offset = [
+    32,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_13]
+pos = [
+    821,
+    343,
+]
+size = [
+    75,
+    62,
+]
+frame_offset = [
+    19,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_14]
+pos = [
+    116,
+    367,
+]
+size = [
+    91,
+    60,
+]
+frame_offset = [
+    19,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_15]
+pos = [
+    471,
+    291,
+]
+size = [
+    89,
+    58,
+]
+frame_offset = [
+    16,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_16]
+pos = [
+    893,
+    977,
+]
+size = [
+    18,
+    39,
+]
+frame_offset = [
+    51,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_17]
+pos = [
+    913,
+    948,
+]
+size = [
+    18,
+    39,
+]
+frame_offset = [
+    57,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_18]
+pos = [
+    1004,
+    625,
+]
+size = [
+    18,
+    62,
+]
+frame_offset = [
+    51,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_19]
+pos = [
+    943,
+    933,
+]
+size = [
+    18,
+    39,
+]
+frame_offset = [
+    57,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_2]
+pos = [
+    339,
+    401,
+]
+size = [
+    88,
+    61,
+]
+frame_offset = [
+    22,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_20]
+pos = [
+    230,
+    483,
+]
+size = [
+    69,
+    89,
+]
+frame_offset = [
+    39,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_21]
+pos = [
+    0,
+    779,
+]
+size = [
+    67,
+    87,
+]
+frame_offset = [
+    18,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_24]
+pos = [
+    1001,
+    880,
+]
+size = [
+    18,
+    39,
+]
+frame_offset = [
+    51,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_25]
+pos = [
+    963,
+    901,
+]
+size = [
+    18,
+    39,
+]
+frame_offset = [
+    57,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_26]
+pos = [
+    963,
+    942,
+]
+size = [
+    18,
+    39,
+]
+frame_offset = [
+    51,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_27]
+pos = [
+    933,
+    974,
+]
+size = [
+    18,
+    39,
+]
+frame_offset = [
+    57,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_28]
+pos = [
+    631,
+    763,
+]
+size = [
+    55,
+    193,
+]
+frame_offset = [
+    9,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_29]
+pos = [
+    230,
+    633,
+]
+size = [
+    64,
+    157,
+]
+frame_offset = [
+    0,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_3]
+pos = [
+    93,
+    429,
+]
+size = [
+    89,
+    61,
+]
+frame_offset = [
+    16,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_30]
+pos = [
+    829,
+    555,
+]
+size = [
+    56,
+    146,
+]
+frame_offset = [
+    0,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_32]
+pos = [
+    845,
+    974,
+]
+size = [
+    18,
+    41,
+]
+frame_offset = [
+    51,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_33]
+pos = [
+    893,
+    934,
+]
+size = [
+    18,
+    41,
+]
+frame_offset = [
+    57,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_34]
+pos = [
+    1001,
+    837,
+]
+size = [
+    18,
+    41,
+]
+frame_offset = [
+    51,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_35]
+pos = [
+    943,
+    890,
+]
+size = [
+    18,
+    41,
+]
+frame_offset = [
+    57,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_36]
+pos = [
+    380,
+    0,
+]
+size = [
+    121,
+    224,
+]
+frame_offset = [
+    5,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_37]
+pos = [
+    128,
+    0,
+]
+size = [
+    125,
+    238,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_38]
+pos = [
+    738,
+    235,
+]
+size = [
+    81,
+    229,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_4]
+pos = [
+    821,
+    279,
+]
+size = [
+    76,
+    62,
+]
+frame_offset = [
+    32,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_40]
+pos = [
+    269,
+    792,
+]
+size = [
+    24,
+    56,
+]
+frame_offset = [
+    52,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_41]
+pos = [
+    335,
+    885,
+]
+size = [
+    24,
+    56,
+]
+frame_offset = [
+    50,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_42]
+pos = [
+    845,
+    866,
+]
+size = [
+    24,
+    56,
+]
+frame_offset = [
+    52,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_43]
+pos = [
+    901,
+    826,
+]
+size = [
+    24,
+    56,
+]
+frame_offset = [
+    50,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_44]
+pos = [
+    371,
+    226,
+]
+size = [
+    98,
+    173,
+]
+frame_offset = [
+    4,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_45]
+pos = [
+    601,
+    0,
+]
+size = [
+    92,
+    173,
+]
+frame_offset = [
+    30,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_46]
+pos = [
+    695,
+    0,
+]
+size = [
+    89,
+    173,
+]
+frame_offset = [
+    12,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_47]
+pos = [
+    652,
+    238,
+]
+size = [
+    84,
+    173,
+]
+frame_offset = [
+    30,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_48]
+pos = [
+    955,
+    784,
+]
+size = [
+    24,
+    56,
+]
+frame_offset = [
+    52,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_49]
+pos = [
+    871,
+    870,
+]
+size = [
+    24,
+    56,
+]
+frame_offset = [
+    50,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_5]
+pos = [
+    898,
+    406,
+]
+size = [
+    75,
+    62,
+]
+frame_offset = [
+    19,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_50]
+pos = [
+    927,
+    826,
+]
+size = [
+    24,
+    56,
+]
+frame_offset = [
+    52,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_51]
+pos = [
+    981,
+    779,
+]
+size = [
+    24,
+    56,
+]
+frame_offset = [
+    50,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_52]
+pos = [
+    0,
+    280,
+]
+size = [
+    114,
+    125,
+]
+frame_offset = [
+    9,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_53]
+pos = [
+    117,
+    240,
+]
+size = [
+    114,
+    125,
+]
+frame_offset = [
+    3,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_54]
+pos = [
+    0,
+    162,
+]
+size = [
+    115,
+    116,
+]
+frame_offset = [
+    2,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_55]
+pos = [
+    255,
+    181,
+]
+size = [
+    114,
+    116,
+]
+frame_offset = [
+    9,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_56]
+pos = [
+    821,
+    407,
+]
+size = [
+    75,
+    62,
+]
+frame_offset = [
+    32,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_57]
+pos = [
+    899,
+    342,
+]
+size = [
+    75,
+    62,
+]
+frame_offset = [
+    19,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_58]
+pos = [
+    601,
+    175,
+]
+size = [
+    88,
+    61,
+]
+frame_offset = [
+    22,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_59]
+pos = [
+    786,
+    0,
+]
+size = [
+    88,
+    61,
+]
+frame_offset = [
+    16,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_6]
+pos = [
+    786,
+    63,
+]
+size = [
+    88,
+    61,
+]
+frame_offset = [
+    22,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_60]
+pos = [
+    0,
+    507,
+]
+size = [
+    75,
+    62,
+]
+frame_offset = [
+    32,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_61]
+pos = [
+    0,
+    571,
+]
+size = [
+    75,
+    62,
+]
+frame_offset = [
+    19,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_62]
+pos = [
+    471,
+    351,
+]
+size = [
+    88,
+    61,
+]
+frame_offset = [
+    22,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_63]
+pos = [
+    562,
+    238,
+]
+size = [
+    88,
+    61,
+]
+frame_offset = [
+    16,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_64]
+pos = [
+    1003,
+    921,
+]
+size = [
+    18,
+    39,
+]
+frame_offset = [
+    51,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_65]
+pos = [
+    233,
+    240,
+]
+size = [
+    20,
+    39,
+]
+frame_offset = [
+    57,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_66]
+pos = [
+    923,
+    884,
+]
+size = [
+    18,
+    62,
+]
+frame_offset = [
+    51,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_67]
+pos = [
+    981,
+    837,
+]
+size = [
+    18,
+    62,
+]
+frame_offset = [
+    57,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_68]
+pos = [
+    953,
+    470,
+]
+size = [
+    54,
+    153,
+]
+frame_offset = [
+    34,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_69]
+pos = [
+    893,
+    541,
+]
+size = [
+    54,
+    153,
+]
+frame_offset = [
+    31,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_7]
+pos = [
+    562,
+    301,
+]
+size = [
+    88,
+    61,
+]
+frame_offset = [
+    16,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_70]
+pos = [
+    688,
+    780,
+]
+size = [
+    54,
+    149,
+]
+frame_offset = [
+    34,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_71]
+pos = [
+    760,
+    713,
+]
+size = [
+    54,
+    150,
+]
+frame_offset = [
+    31,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_72]
+pos = [
+    429,
+    414,
+]
+size = [
+    84,
+    87,
+]
+frame_offset = [
+    23,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_73]
+pos = [
+    786,
+    126,
+]
+size = [
+    84,
+    87,
+]
+frame_offset = [
+    19,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_74]
+pos = [
+    561,
+    364,
+]
+size = [
+    79,
+    83,
+]
+frame_offset = [
+    25,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_8]
+pos = [
+    77,
+    507,
+]
+size = [
+    75,
+    62,
+]
+frame_offset = [
+    32,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[appliances_com_01_9]
+pos = [
+    0,
+    635,
+]
+size = [
+    75,
+    62,
+]
+frame_offset = [
+    19,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,1367 @@
+[location_hospitality_sunstarmotel_02_46]
+pos = [
+    822,
+    261,
+]
+size = [
+    101,
+    102,
+]
+frame_offset = [
+    23,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_47]
+pos = [
+    0,
+    397,
+]
+size = [
+    103,
+    101,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_48]
+pos = [
+    387,
+    0,
+]
+size = [
+    122,
+    99,
+]
+frame_offset = [
+    2,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_49]
+pos = [
+    822,
+    365,
+]
+size = [
+    99,
+    114,
+]
+frame_offset = [
+    4,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_50]
+pos = [
+    0,
+    154,
+]
+size = [
+    127,
+    99,
+]
+frame_offset = [
+    1,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_51]
+pos = [
+    480,
+    384,
+]
+size = [
+    101,
+    111,
+]
+frame_offset = [
+    23,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_52]
+pos = [
+    130,
+    0,
+]
+size = [
+    127,
+    119,
+]
+frame_offset = [
+    0,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_53]
+pos = [
+    848,
+    128,
+]
+size = [
+    105,
+    131,
+]
+frame_offset = [
+    0,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_54]
+pos = [
+    130,
+    121,
+]
+size = [
+    127,
+    118,
+]
+frame_offset = [
+    0,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_55]
+pos = [
+    259,
+    0,
+]
+size = [
+    126,
+    130,
+]
+frame_offset = [
+    0,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_on_2]
+pos = [
+    638,
+    815,
+]
+size = [
+    57,
+    112,
+]
+frame_offset = [
+    55,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_on_3]
+pos = [
+    955,
+    128,
+]
+size = [
+    63,
+    119,
+]
+frame_offset = [
+    48,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_on_4]
+pos = [
+    921,
+    496,
+]
+size = [
+    63,
+    119,
+]
+frame_offset = [
+    47,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_on_5]
+pos = [
+    921,
+    617,
+]
+size = [
+    53,
+    109,
+]
+frame_offset = [
+    45,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_on_6]
+pos = [
+    963,
+    0,
+]
+size = [
+    59,
+    118,
+]
+frame_offset = [
+    31,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_hospitality_sunstarmotel_02_on_7]
+pos = [
+    715,
+    511,
+]
+size = [
+    69,
+    124,
+]
+frame_offset = [
+    26,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_0]
+pos = [
+    126,
+    383,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    8,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_1]
+pos = [
+    624,
+    0,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    9,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_10]
+pos = [
+    254,
+    287,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    8,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_11]
+pos = [
+    381,
+    243,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    9,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_12]
+pos = [
+    367,
+    371,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    8,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_13]
+pos = [
+    511,
+    0,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    9,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_14]
+pos = [
+    371,
+    875,
+]
+size = [
+    68,
+    116,
+]
+frame_offset = [
+    30,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_15]
+pos = [
+    786,
+    511,
+]
+size = [
+    68,
+    255,
+]
+frame_offset = [
+    30,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_16]
+pos = [
+    920,
+    809,
+]
+size = [
+    40,
+    91,
+]
+frame_offset = [
+    85,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_17]
+pos = [
+    441,
+    917,
+]
+size = [
+    58,
+    101,
+]
+frame_offset = [
+    61,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_18]
+pos = [
+    697,
+    835,
+]
+size = [
+    53,
+    90,
+]
+frame_offset = [
+    70,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_19]
+pos = [
+    920,
+    728,
+]
+size = [
+    47,
+    79,
+]
+frame_offset = [
+    75,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_2]
+pos = [
+    509,
+    128,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    8,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_20]
+pos = [
+    699,
+    927,
+]
+size = [
+    48,
+    81,
+]
+frame_offset = [
+    53,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_21]
+pos = [
+    189,
+    953,
+]
+size = [
+    51,
+    59,
+]
+frame_offset = [
+    69,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_22]
+pos = [
+    289,
+    540,
+]
+size = [
+    89,
+    239,
+]
+frame_offset = [
+    33,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_23]
+pos = [
+    98,
+    769,
+]
+size = [
+    89,
+    239,
+]
+frame_offset = [
+    4,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_24]
+pos = [
+    752,
+    860,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    15,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_25]
+pos = [
+    976,
+    617,
+]
+size = [
+    46,
+    95,
+]
+frame_offset = [
+    3,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_26]
+pos = [
+    783,
+    768,
+]
+size = [
+    53,
+    90,
+]
+frame_offset = [
+    9,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_27]
+pos = [
+    647,
+    929,
+]
+size = [
+    50,
+    83,
+]
+frame_offset = [
+    24,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_28]
+pos = [
+    806,
+    860,
+]
+size = [
+    47,
+    77,
+]
+frame_offset = [
+    3,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_29]
+pos = [
+    594,
+    929,
+]
+size = [
+    51,
+    59,
+]
+frame_offset = [
+    8,
+    56,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_3]
+pos = [
+    737,
+    0,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    9,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_30]
+pos = [
+    0,
+    796,
+]
+size = [
+    89,
+    206,
+]
+frame_offset = [
+    3,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_31]
+pos = [
+    380,
+    499,
+]
+size = [
+    89,
+    206,
+]
+frame_offset = [
+    34,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_32]
+pos = [
+    387,
+    101,
+]
+size = [
+    120,
+    140,
+]
+frame_offset = [
+    8,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_33]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    152,
+]
+frame_offset = [
+    0,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_34]
+pos = [
+    129,
+    241,
+]
+size = [
+    123,
+    140,
+]
+frame_offset = [
+    0,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_35]
+pos = [
+    239,
+    415,
+]
+size = [
+    95,
+    123,
+]
+frame_offset = [
+    2,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_36]
+pos = [
+    0,
+    500,
+]
+size = [
+    97,
+    124,
+]
+frame_offset = [
+    29,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_37]
+pos = [
+    0,
+    255,
+]
+size = [
+    124,
+    140,
+]
+frame_offset = [
+    3,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_38]
+pos = [
+    259,
+    132,
+]
+size = [
+    120,
+    153,
+]
+frame_offset = [
+    4,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_39]
+pos = [
+    638,
+    672,
+]
+size = [
+    67,
+    141,
+]
+frame_offset = [
+    51,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_4]
+pos = [
+    622,
+    128,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    8,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_40]
+pos = [
+    99,
+    511,
+]
+size = [
+    96,
+    128,
+]
+frame_offset = [
+    27,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_41]
+pos = [
+    639,
+    500,
+]
+size = [
+    74,
+    170,
+]
+frame_offset = [
+    49,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_42]
+pos = [
+    607,
+    256,
+]
+size = [
+    106,
+    242,
+]
+frame_offset = [
+    20,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_43]
+pos = [
+    194,
+    716,
+]
+size = [
+    89,
+    235,
+]
+frame_offset = [
+    39,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_44]
+pos = [
+    285,
+    781,
+]
+size = [
+    84,
+    124,
+]
+frame_offset = [
+    0,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_45]
+pos = [
+    923,
+    365,
+]
+size = [
+    98,
+    129,
+]
+frame_offset = [
+    5,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_46]
+pos = [
+    561,
+    605,
+]
+size = [
+    75,
+    253,
+]
+frame_offset = [
+    3,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_47]
+pos = [
+    98,
+    641,
+]
+size = [
+    94,
+    126,
+]
+frame_offset = [
+    2,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_48]
+pos = [
+    471,
+    499,
+]
+size = [
+    88,
+    253,
+]
+frame_offset = [
+    33,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_49]
+pos = [
+    380,
+    707,
+]
+size = [
+    78,
+    166,
+]
+frame_offset = [
+    45,
+    58,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_5]
+pos = [
+    494,
+    256,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    9,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_50]
+pos = [
+    460,
+    754,
+]
+size = [
+    73,
+    161,
+]
+frame_offset = [
+    49,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_51]
+pos = [
+    535,
+    860,
+]
+size = [
+    57,
+    155,
+]
+frame_offset = [
+    47,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_52]
+pos = [
+    197,
+    540,
+]
+size = [
+    90,
+    174,
+]
+frame_offset = [
+    33,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_53]
+pos = [
+    561,
+    500,
+]
+size = [
+    76,
+    103,
+]
+frame_offset = [
+    48,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_54]
+pos = [
+    0,
+    626,
+]
+size = [
+    96,
+    168,
+]
+frame_offset = [
+    26,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_55]
+pos = [
+    976,
+    714,
+]
+size = [
+    45,
+    137,
+]
+frame_offset = [
+    47,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_56]
+pos = [
+    715,
+    256,
+]
+size = [
+    105,
+    253,
+]
+frame_offset = [
+    16,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_57]
+pos = [
+    715,
+    637,
+]
+size = [
+    66,
+    196,
+]
+frame_offset = [
+    57,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_58]
+pos = [
+    856,
+    481,
+]
+size = [
+    63,
+    194,
+]
+frame_offset = [
+    59,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_59]
+pos = [
+    856,
+    677,
+]
+size = [
+    62,
+    209,
+]
+frame_offset = [
+    58,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_6]
+pos = [
+    925,
+    261,
+]
+size = [
+    69,
+    102,
+]
+frame_offset = [
+    30,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_7]
+pos = [
+    285,
+    907,
+]
+size = [
+    69,
+    103,
+]
+frame_offset = [
+    30,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_8]
+pos = [
+    850,
+    0,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    8,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_military_generic_01_9]
+pos = [
+    735,
+    128,
+]
+size = [
+    111,
+    126,
+]
+frame_offset = [
+    9,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]

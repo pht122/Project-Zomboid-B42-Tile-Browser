@@ -1,0 +1,5111 @@
+[furniture_seating_indoor_03_100]
+pos = [
+    369,
+    183,
+]
+size = [
+    57,
+    54,
+]
+frame_offset = [
+    2,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_101]
+pos = [
+    430,
+    118,
+]
+size = [
+    57,
+    54,
+]
+frame_offset = [
+    5,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_102]
+pos = [
+    0,
+    268,
+]
+size = [
+    57,
+    53,
+]
+frame_offset = [
+    1,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_103]
+pos = [
+    117,
+    357,
+]
+size = [
+    56,
+    54,
+]
+frame_offset = [
+    5,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_104]
+pos = [
+    724,
+    50,
+]
+size = [
+    53,
+    69,
+]
+frame_offset = [
+    3,
+    52,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_105]
+pos = [
+    890,
+    51,
+]
+size = [
+    52,
+    58,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_106]
+pos = [
+    945,
+    0,
+]
+size = [
+    52,
+    58,
+]
+frame_offset = [
+    11,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_107]
+pos = [
+    574,
+    436,
+]
+size = [
+    51,
+    69,
+]
+frame_offset = [
+    9,
+    52,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_108]
+pos = [
+    109,
+    527,
+]
+size = [
+    49,
+    53,
+]
+frame_offset = [
+    5,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_109]
+pos = [
+    890,
+    0,
+]
+size = [
+    53,
+    49,
+]
+frame_offset = [
+    1,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_110]
+pos = [
+    776,
+    218,
+]
+size = [
+    52,
+    50,
+]
+frame_offset = [
+    8,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_111]
+pos = [
+    0,
+    871,
+]
+size = [
+    48,
+    52,
+]
+frame_offset = [
+    9,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_112]
+pos = [
+    371,
+    123,
+]
+size = [
+    57,
+    56,
+]
+frame_offset = [
+    2,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_113]
+pos = [
+    176,
+    308,
+]
+size = [
+    56,
+    54,
+]
+frame_offset = [
+    1,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_114]
+pos = [
+    118,
+    300,
+]
+size = [
+    56,
+    55,
+]
+frame_offset = [
+    7,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_115]
+pos = [
+    489,
+    166,
+]
+size = [
+    54,
+    56,
+]
+frame_offset = [
+    7,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_116]
+pos = [
+    575,
+    285,
+]
+size = [
+    53,
+    53,
+]
+frame_offset = [
+    2,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_117]
+pos = [
+    175,
+    364,
+]
+size = [
+    56,
+    46,
+]
+frame_offset = [
+    0,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_118]
+pos = [
+    293,
+    295,
+]
+size = [
+    56,
+    44,
+]
+frame_offset = [
+    7,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_119]
+pos = [
+    59,
+    428,
+]
+size = [
+    56,
+    53,
+]
+frame_offset = [
+    6,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_120]
+pos = [
+    59,
+    225,
+]
+size = [
+    57,
+    53,
+]
+frame_offset = [
+    1,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_121]
+pos = [
+    117,
+    413,
+]
+size = [
+    56,
+    53,
+]
+frame_offset = [
+    5,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_122]
+pos = [
+    0,
+    323,
+]
+size = [
+    57,
+    53,
+]
+frame_offset = [
+    1,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_123]
+pos = [
+    59,
+    280,
+]
+size = [
+    57,
+    53,
+]
+frame_offset = [
+    5,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_124]
+pos = [
+    118,
+    245,
+]
+size = [
+    57,
+    53,
+]
+frame_offset = [
+    3,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_125]
+pos = [
+    0,
+    378,
+]
+size = [
+    57,
+    53,
+]
+frame_offset = [
+    6,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_126]
+pos = [
+    430,
+    174,
+]
+size = [
+    57,
+    54,
+]
+frame_offset = [
+    2,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_127]
+pos = [
+    0,
+    212,
+]
+size = [
+    57,
+    54,
+]
+frame_offset = [
+    5,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_128]
+pos = [
+    439,
+    59,
+]
+size = [
+    57,
+    56,
+]
+frame_offset = [
+    1,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_129]
+pos = [
+    348,
+    430,
+]
+size = [
+    55,
+    54,
+]
+frame_offset = [
+    1,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_130]
+pos = [
+    0,
+    433,
+]
+size = [
+    56,
+    55,
+]
+frame_offset = [
+    7,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_131]
+pos = [
+    349,
+    372,
+]
+size = [
+    55,
+    56,
+]
+frame_offset = [
+    6,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_132]
+pos = [
+    612,
+    62,
+]
+size = [
+    54,
+    53,
+]
+frame_offset = [
+    2,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_133]
+pos = [
+    234,
+    308,
+]
+size = [
+    56,
+    45,
+]
+frame_offset = [
+    0,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_134]
+pos = [
+    293,
+    248,
+]
+size = [
+    56,
+    45,
+]
+frame_offset = [
+    7,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_135]
+pos = [
+    406,
+    421,
+]
+size = [
+    55,
+    54,
+]
+frame_offset = [
+    7,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_136]
+pos = [
+    378,
+    61,
+]
+size = [
+    58,
+    55,
+]
+frame_offset = [
+    1,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_137]
+pos = [
+    499,
+    0,
+]
+size = [
+    55,
+    54,
+]
+frame_offset = [
+    1,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_138]
+pos = [
+    408,
+    364,
+]
+size = [
+    55,
+    55,
+]
+frame_offset = [
+    8,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_139]
+pos = [
+    177,
+    251,
+]
+size = [
+    56,
+    55,
+]
+frame_offset = [
+    6,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_140]
+pos = [
+    520,
+    350,
+]
+size = [
+    53,
+    53,
+]
+frame_offset = [
+    2,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_141]
+pos = [
+    175,
+    412,
+]
+size = [
+    56,
+    45,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_142]
+pos = [
+    499,
+    56,
+]
+size = [
+    55,
+    45,
+]
+frame_offset = [
+    8,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_143]
+pos = [
+    235,
+    251,
+]
+size = [
+    56,
+    54,
+]
+frame_offset = [
+    7,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_83]
+pos = [
+    554,
+    126,
+]
+size = [
+    54,
+    53,
+]
+frame_offset = [
+    7,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_84]
+pos = [
+    556,
+    0,
+]
+size = [
+    54,
+    63,
+]
+frame_offset = [
+    3,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_85]
+pos = [
+    780,
+    0,
+]
+size = [
+    53,
+    63,
+]
+frame_offset = [
+    7,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_86]
+pos = [
+    668,
+    0,
+]
+size = [
+    54,
+    54,
+]
+frame_offset = [
+    4,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_87]
+pos = [
+    779,
+    65,
+]
+size = [
+    53,
+    54,
+]
+frame_offset = [
+    7,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_88]
+pos = [
+    465,
+    285,
+]
+size = [
+    53,
+    70,
+]
+frame_offset = [
+    4,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_89]
+pos = [
+    723,
+    121,
+]
+size = [
+    53,
+    59,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_90]
+pos = [
+    520,
+    405,
+]
+size = [
+    52,
+    59,
+]
+frame_offset = [
+    12,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_91]
+pos = [
+    668,
+    106,
+]
+size = [
+    53,
+    69,
+]
+frame_offset = [
+    8,
+    52,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_92]
+pos = [
+    430,
+    576,
+]
+size = [
+    47,
+    53,
+]
+frame_offset = [
+    5,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_93]
+pos = [
+    668,
+    56,
+]
+size = [
+    54,
+    48,
+]
+frame_offset = [
+    0,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_94]
+pos = [
+    682,
+    408,
+]
+size = [
+    51,
+    48,
+]
+frame_offset = [
+    11,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_95]
+pos = [
+    149,
+    867,
+]
+size = [
+    47,
+    52,
+]
+frame_offset = [
+    12,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_96]
+pos = [
+    520,
+    285,
+]
+size = [
+    53,
+    63,
+]
+frame_offset = [
+    2,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_97]
+pos = [
+    465,
+    357,
+]
+size = [
+    53,
+    63,
+]
+frame_offset = [
+    8,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_98]
+pos = [
+    463,
+    422,
+]
+size = [
+    53,
+    53,
+]
+frame_offset = [
+    3,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_indoor_03_99]
+pos = [
+    465,
+    230,
+]
+size = [
+    54,
+    53,
+]
+frame_offset = [
+    7,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_0]
+pos = [
+    814,
+    447,
+]
+size = [
+    50,
+    56,
+]
+frame_offset = [
+    6,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_1]
+pos = [
+    888,
+    162,
+]
+size = [
+    51,
+    56,
+]
+frame_offset = [
+    5,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_10]
+pos = [
+    835,
+    0,
+]
+size = [
+    53,
+    59,
+]
+frame_offset = [
+    7,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_11]
+pos = [
+    600,
+    224,
+]
+size = [
+    53,
+    59,
+]
+frame_offset = [
+    9,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_12]
+pos = [
+    629,
+    340,
+]
+size = [
+    52,
+    51,
+]
+frame_offset = [
+    2,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_13]
+pos = [
+    941,
+    172,
+]
+size = [
+    51,
+    50,
+]
+frame_offset = [
+    2,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_14]
+pos = [
+    885,
+    220,
+]
+size = [
+    51,
+    52,
+]
+frame_offset = [
+    11,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_15]
+pos = [
+    815,
+    282,
+]
+size = [
+    51,
+    52,
+]
+frame_offset = [
+    11,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_16]
+pos = [
+    676,
+    958,
+]
+size = [
+    38,
+    51,
+]
+frame_offset = [
+    13,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_17]
+pos = [
+    716,
+    958,
+]
+size = [
+    37,
+    51,
+]
+frame_offset = [
+    14,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_18]
+pos = [
+    881,
+    938,
+]
+size = [
+    36,
+    45,
+]
+frame_offset = [
+    14,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_19]
+pos = [
+    919,
+    938,
+]
+size = [
+    36,
+    45,
+]
+frame_offset = [
+    13,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_2]
+pos = [
+    667,
+    177,
+]
+size = [
+    53,
+    55,
+]
+frame_offset = [
+    6,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_20]
+pos = [
+    260,
+    646,
+]
+size = [
+    48,
+    36,
+]
+frame_offset = [
+    8,
+    89,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_21]
+pos = [
+    109,
+    582,
+]
+size = [
+    49,
+    37,
+]
+frame_offset = [
+    5,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_22]
+pos = [
+    0,
+    539,
+]
+size = [
+    50,
+    36,
+]
+frame_offset = [
+    9,
+    88,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_23]
+pos = [
+    310,
+    600,
+]
+size = [
+    48,
+    36,
+]
+frame_offset = [
+    8,
+    89,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_24]
+pos = [
+    591,
+    816,
+]
+size = [
+    42,
+    30,
+]
+frame_offset = [
+    17,
+    89,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_25]
+pos = [
+    0,
+    490,
+]
+size = [
+    50,
+    47,
+]
+frame_offset = [
+    2,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_26]
+pos = [
+    971,
+    443,
+]
+size = [
+    50,
+    49,
+]
+frame_offset = [
+    10,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_27]
+pos = [
+    485,
+    949,
+]
+size = [
+    41,
+    31,
+]
+frame_offset = [
+    5,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_28]
+pos = [
+    168,
+    509,
+]
+size = [
+    49,
+    45,
+]
+frame_offset = [
+    14,
+    78,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_29]
+pos = [
+    547,
+    722,
+]
+size = [
+    43,
+    34,
+]
+frame_offset = [
+    6,
+    93,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_3]
+pos = [
+    762,
+    340,
+]
+size = [
+    51,
+    56,
+]
+frame_offset = [
+    6,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_30]
+pos = [
+    243,
+    940,
+]
+size = [
+    44,
+    34,
+]
+frame_offset = [
+    16,
+    92,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_31]
+pos = [
+    260,
+    600,
+]
+size = [
+    48,
+    44,
+]
+frame_offset = [
+    4,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_32]
+pos = [
+    243,
+    976,
+]
+size = [
+    43,
+    37,
+]
+frame_offset = [
+    14,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_33]
+pos = [
+    143,
+    976,
+]
+size = [
+    44,
+    35,
+]
+frame_offset = [
+    9,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_34]
+pos = [
+    96,
+    972,
+]
+size = [
+    45,
+    35,
+]
+frame_offset = [
+    10,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_35]
+pos = [
+    49,
+    972,
+]
+size = [
+    45,
+    37,
+]
+frame_offset = [
+    7,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_4]
+pos = [
+    175,
+    459,
+]
+size = [
+    54,
+    48,
+]
+frame_offset = [
+    4,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_5]
+pos = [
+    724,
+    0,
+]
+size = [
+    54,
+    48,
+]
+frame_offset = [
+    3,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_6]
+pos = [
+    888,
+    111,
+]
+size = [
+    52,
+    49,
+]
+frame_offset = [
+    9,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_7]
+pos = [
+    835,
+    61,
+]
+size = [
+    53,
+    48,
+]
+frame_offset = [
+    7,
+    77,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_8]
+pos = [
+    556,
+    65,
+]
+size = [
+    54,
+    59,
+]
+frame_offset = [
+    3,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_seating_outdoor_01_9]
+pos = [
+    834,
+    111,
+]
+size = [
+    52,
+    58,
+]
+frame_offset = [
+    2,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_0]
+pos = [
+    0,
+    157,
+]
+size = [
+    61,
+    53,
+]
+frame_offset = [
+    1,
+    38,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_1]
+pos = [
+    503,
+    654,
+]
+size = [
+    44,
+    53,
+]
+frame_offset = [
+    18,
+    38,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_10]
+pos = [
+    920,
+    335,
+]
+size = [
+    50,
+    102,
+]
+frame_offset = [
+    0,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_16]
+pos = [
+    971,
+    885,
+]
+size = [
+    34,
+    47,
+]
+frame_offset = [
+    30,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_17]
+pos = [
+    0,
+    103,
+]
+size = [
+    62,
+    52,
+]
+frame_offset = [
+    0,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_18]
+pos = [
+    803,
+    978,
+]
+size = [
+    29,
+    44,
+]
+frame_offset = [
+    16,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_19]
+pos = [
+    889,
+    886,
+]
+size = [
+    37,
+    50,
+]
+frame_offset = [
+    19,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_2]
+pos = [
+    456,
+    708,
+]
+size = [
+    44,
+    54,
+]
+frame_offset = [
+    2,
+    37,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_20]
+pos = [
+    990,
+    273,
+]
+size = [
+    30,
+    45,
+]
+frame_offset = [
+    18,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_21]
+pos = [
+    148,
+    921,
+]
+size = [
+    46,
+    53,
+]
+frame_offset = [
+    2,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_22]
+pos = [
+    990,
+    224,
+]
+size = [
+    32,
+    47,
+]
+frame_offset = [
+    1,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_23]
+pos = [
+    803,
+    925,
+]
+size = [
+    37,
+    51,
+]
+frame_offset = [
+    6,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_24]
+pos = [
+    545,
+    181,
+]
+size = [
+    53,
+    91,
+]
+frame_offset = [
+    8,
+    34,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_25]
+pos = [
+    612,
+    117,
+]
+size = [
+    53,
+    105,
+]
+frame_offset = [
+    5,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_26]
+pos = [
+    629,
+    393,
+]
+size = [
+    51,
+    104,
+]
+frame_offset = [
+    6,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_27]
+pos = [
+    59,
+    335,
+]
+size = [
+    56,
+    91,
+]
+frame_offset = [
+    0,
+    34,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_28]
+pos = [
+    198,
+    868,
+]
+size = [
+    46,
+    56,
+]
+frame_offset = [
+    16,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_29]
+pos = [
+    246,
+    882,
+]
+size = [
+    45,
+    56,
+]
+frame_offset = [
+    2,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_3]
+pos = [
+    575,
+    611,
+]
+size = [
+    44,
+    53,
+]
+frame_offset = [
+    18,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_30]
+pos = [
+    359,
+    692,
+]
+size = [
+    46,
+    60,
+]
+frame_offset = [
+    17,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_31]
+pos = [
+    301,
+    763,
+]
+size = [
+    46,
+    60,
+]
+frame_offset = [
+    1,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_32]
+pos = [
+    808,
+    603,
+]
+size = [
+    42,
+    26,
+]
+frame_offset = [
+    2,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_33]
+pos = [
+    288,
+    986,
+]
+size = [
+    43,
+    27,
+]
+frame_offset = [
+    18,
+    38,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_34]
+pos = [
+    636,
+    781,
+]
+size = [
+    42,
+    26,
+]
+frame_offset = [
+    2,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_35]
+pos = [
+    764,
+    509,
+]
+size = [
+    43,
+    28,
+]
+frame_offset = [
+    18,
+    38,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_36]
+pos = [
+    529,
+    523,
+]
+size = [
+    42,
+    25,
+]
+frame_offset = [
+    2,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_37]
+pos = [
+    667,
+    612,
+]
+size = [
+    43,
+    26,
+]
+frame_offset = [
+    18,
+    38,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_4]
+pos = [
+    456,
+    653,
+]
+size = [
+    45,
+    53,
+]
+frame_offset = [
+    1,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_40]
+pos = [
+    528,
+    550,
+]
+size = [
+    45,
+    102,
+]
+frame_offset = [
+    16,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_41]
+pos = [
+    349,
+    763,
+]
+size = [
+    45,
+    102,
+]
+frame_offset = [
+    2,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_42]
+pos = [
+    407,
+    713,
+]
+size = [
+    45,
+    102,
+]
+frame_offset = [
+    16,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_43]
+pos = [
+    251,
+    778,
+]
+size = [
+    46,
+    102,
+]
+frame_offset = [
+    2,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_44]
+pos = [
+    575,
+    507,
+]
+size = [
+    45,
+    102,
+]
+frame_offset = [
+    16,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_45]
+pos = [
+    299,
+    825,
+]
+size = [
+    45,
+    102,
+]
+frame_offset = [
+    2,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_46]
+pos = [
+    627,
+    499,
+]
+size = [
+    45,
+    102,
+]
+frame_offset = [
+    16,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_47]
+pos = [
+    480,
+    550,
+]
+size = [
+    46,
+    101,
+]
+frame_offset = [
+    2,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_48]
+pos = [
+    933,
+    876,
+]
+size = [
+    36,
+    47,
+]
+frame_offset = [
+    15,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_49]
+pos = [
+    100,
+    772,
+]
+size = [
+    48,
+    52,
+]
+frame_offset = [
+    1,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_50]
+pos = [
+    957,
+    934,
+]
+size = [
+    29,
+    44,
+]
+frame_offset = [
+    1,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_51]
+pos = [
+    974,
+    783,
+]
+size = [
+    37,
+    51,
+]
+frame_offset = [
+    6,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_52]
+pos = [
+    988,
+    934,
+]
+size = [
+    29,
+    44,
+]
+frame_offset = [
+    33,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_53]
+pos = [
+    200,
+    814,
+]
+size = [
+    47,
+    52,
+]
+frame_offset = [
+    15,
+    75,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_54]
+pos = [
+    974,
+    836,
+]
+size = [
+    36,
+    47,
+]
+frame_offset = [
+    12,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_55]
+pos = [
+    842,
+    926,
+]
+size = [
+    37,
+    51,
+]
+frame_offset = [
+    21,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_8]
+pos = [
+    66,
+    0,
+]
+size = [
+    63,
+    100,
+]
+frame_offset = [
+    1,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_shelving_01_9]
+pos = [
+    0,
+    0,
+]
+size = [
+    64,
+    101,
+]
+frame_offset = [
+    0,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_0]
+pos = [
+    674,
+    512,
+]
+size = [
+    43,
+    98,
+]
+frame_offset = [
+    14,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_1]
+pos = [
+    636,
+    809,
+]
+size = [
+    41,
+    97,
+]
+frame_offset = [
+    3,
+    27,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_10]
+pos = [
+    709,
+    279,
+]
+size = [
+    51,
+    127,
+]
+frame_offset = [
+    13,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_11]
+pos = [
+    231,
+    466,
+]
+size = [
+    48,
+    127,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_12]
+pos = [
+    152,
+    646,
+]
+size = [
+    48,
+    60,
+]
+frame_offset = [
+    2,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_13]
+pos = [
+    50,
+    758,
+]
+size = [
+    48,
+    59,
+]
+frame_offset = [
+    13,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_14]
+pos = [
+    762,
+    279,
+]
+size = [
+    51,
+    59,
+]
+frame_offset = [
+    13,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_15]
+pos = [
+    0,
+    810,
+]
+size = [
+    48,
+    59,
+]
+frame_offset = [
+    2,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_16]
+pos = [
+    502,
+    709,
+]
+size = [
+    43,
+    98,
+]
+frame_offset = [
+    14,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_17]
+pos = [
+    808,
+    631,
+]
+size = [
+    41,
+    97,
+]
+frame_offset = [
+    3,
+    27,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_18]
+pos = [
+    941,
+    494,
+]
+size = [
+    41,
+    97,
+]
+frame_offset = [
+    20,
+    27,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_19]
+pos = [
+    346,
+    867,
+]
+size = [
+    43,
+    98,
+]
+frame_offset = [
+    7,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_2]
+pos = [
+    591,
+    848,
+]
+size = [
+    41,
+    101,
+]
+frame_offset = [
+    20,
+    27,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_20]
+pos = [
+    454,
+    764,
+]
+size = [
+    43,
+    97,
+]
+frame_offset = [
+    20,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_21]
+pos = [
+    853,
+    599,
+]
+size = [
+    41,
+    97,
+]
+frame_offset = [
+    9,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_22]
+pos = [
+    680,
+    762,
+]
+size = [
+    41,
+    97,
+]
+frame_offset = [
+    14,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_23]
+pos = [
+    764,
+    539,
+]
+size = [
+    42,
+    97,
+]
+frame_offset = [
+    1,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_24]
+pos = [
+    897,
+    598,
+]
+size = [
+    41,
+    96,
+]
+frame_offset = [
+    16,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_25]
+pos = [
+    941,
+    593,
+]
+size = [
+    41,
+    95,
+]
+frame_offset = [
+    4,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_26]
+pos = [
+    679,
+    861,
+]
+size = [
+    41,
+    95,
+]
+frame_offset = [
+    18,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_27]
+pos = [
+    766,
+    732,
+]
+size = [
+    41,
+    96,
+]
+frame_offset = [
+    6,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_28]
+pos = [
+    893,
+    698,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    16,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_29]
+pos = [
+    622,
+    603,
+]
+size = [
+    43,
+    96,
+]
+frame_offset = [
+    2,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_3]
+pos = [
+    51,
+    649,
+]
+size = [
+    48,
+    107,
+]
+frame_offset = [
+    2,
+    21,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_30]
+pos = [
+    196,
+    926,
+]
+size = [
+    45,
+    96,
+]
+frame_offset = [
+    19,
+    27,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_31]
+pos = [
+    766,
+    830,
+]
+size = [
+    39,
+    93,
+]
+frame_offset = [
+    9,
+    34,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_32]
+pos = [
+    281,
+    540,
+]
+size = [
+    48,
+    58,
+]
+frame_offset = [
+    3,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_33]
+pos = [
+    210,
+    595,
+]
+size = [
+    48,
+    58,
+]
+frame_offset = [
+    12,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_34]
+pos = [
+    331,
+    486,
+]
+size = [
+    48,
+    58,
+]
+frame_offset = [
+    13,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_35]
+pos = [
+    152,
+    708,
+]
+size = [
+    48,
+    58,
+]
+frame_offset = [
+    2,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_36]
+pos = [
+    868,
+    282,
+]
+size = [
+    50,
+    110,
+]
+frame_offset = [
+    9,
+    12,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_37]
+pos = [
+    944,
+    60,
+]
+size = [
+    51,
+    110,
+]
+frame_offset = [
+    1,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_38]
+pos = [
+    938,
+    224,
+]
+size = [
+    50,
+    109,
+]
+frame_offset = [
+    12,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_39]
+pos = [
+    867,
+    394,
+]
+size = [
+    50,
+    108,
+]
+frame_offset = [
+    5,
+    13,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_4]
+pos = [
+    396,
+    817,
+]
+size = [
+    43,
+    97,
+]
+frame_offset = [
+    20,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_40]
+pos = [
+    160,
+    556,
+]
+size = [
+    48,
+    88,
+]
+frame_offset = [
+    12,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_41]
+pos = [
+    102,
+    621,
+]
+size = [
+    48,
+    88,
+]
+frame_offset = [
+    3,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_42]
+pos = [
+    0,
+    704,
+]
+size = [
+    48,
+    104,
+]
+frame_offset = [
+    3,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_43]
+pos = [
+    58,
+    483,
+]
+size = [
+    49,
+    111,
+]
+frame_offset = [
+    12,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_44]
+pos = [
+    202,
+    655,
+]
+size = [
+    48,
+    58,
+]
+frame_offset = [
+    12,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_45]
+pos = [
+    50,
+    819,
+]
+size = [
+    48,
+    57,
+]
+frame_offset = [
+    3,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_46]
+pos = [
+    381,
+    486,
+]
+size = [
+    48,
+    58,
+]
+frame_offset = [
+    3,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_47]
+pos = [
+    117,
+    468,
+]
+size = [
+    49,
+    57,
+]
+frame_offset = [
+    12,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_48]
+pos = [
+    529,
+    466,
+]
+size = [
+    43,
+    55,
+]
+frame_offset = [
+    14,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_49]
+pos = [
+    719,
+    512,
+]
+size = [
+    43,
+    54,
+]
+frame_offset = [
+    6,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_5]
+pos = [
+    723,
+    762,
+]
+size = [
+    41,
+    97,
+]
+frame_offset = [
+    9,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_50]
+pos = [
+    549,
+    666,
+]
+size = [
+    43,
+    54,
+]
+frame_offset = [
+    14,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_51]
+pos = [
+    293,
+    929,
+]
+size = [
+    43,
+    55,
+]
+frame_offset = [
+    7,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_52]
+pos = [
+    435,
+    957,
+]
+size = [
+    42,
+    42,
+]
+frame_offset = [
+    12,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_53]
+pos = [
+    636,
+    738,
+]
+size = [
+    42,
+    41,
+]
+frame_offset = [
+    9,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_54]
+pos = [
+    485,
+    906,
+]
+size = [
+    42,
+    41,
+]
+frame_offset = [
+    10,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_55]
+pos = [
+    338,
+    967,
+]
+size = [
+    42,
+    43,
+]
+frame_offset = [
+    12,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_56]
+pos = [
+    711,
+    668,
+]
+size = [
+    42,
+    92,
+]
+frame_offset = [
+    17,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_57]
+pos = [
+    940,
+    690,
+]
+size = [
+    39,
+    91,
+]
+frame_offset = [
+    5,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_58]
+pos = [
+    807,
+    830,
+]
+size = [
+    39,
+    91,
+]
+frame_offset = [
+    20,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_59]
+pos = [
+    543,
+    856,
+]
+size = [
+    42,
+    91,
+]
+frame_offset = [
+    5,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_6]
+pos = [
+    809,
+    730,
+]
+size = [
+    40,
+    98,
+]
+frame_offset = [
+    14,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_60]
+pos = [
+    763,
+    638,
+]
+size = [
+    42,
+    92,
+]
+frame_offset = [
+    21,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_61]
+pos = [
+    981,
+    690,
+]
+size = [
+    39,
+    91,
+]
+frame_offset = [
+    9,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_62]
+pos = [
+    848,
+    833,
+]
+size = [
+    39,
+    91,
+]
+frame_offset = [
+    16,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_63]
+pos = [
+    897,
+    504,
+]
+size = [
+    42,
+    92,
+]
+frame_offset = [
+    1,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_7]
+pos = [
+    719,
+    568,
+]
+size = [
+    42,
+    98,
+]
+frame_offset = [
+    1,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_8]
+pos = [
+    101,
+    711,
+]
+size = [
+    48,
+    59,
+]
+frame_offset = [
+    2,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_01_9]
+pos = [
+    281,
+    467,
+]
+size = [
+    48,
+    71,
+]
+frame_offset = [
+    13,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_0]
+pos = [
+    778,
+    121,
+]
+size = [
+    52,
+    95,
+]
+frame_offset = [
+    9,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_1]
+pos = [
+    575,
+    340,
+]
+size = [
+    52,
+    94,
+]
+frame_offset = [
+    2,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_10]
+pos = [
+    310,
+    638,
+]
+size = [
+    47,
+    71,
+]
+frame_offset = [
+    0,
+    57,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_11]
+pos = [
+    0,
+    577,
+]
+size = [
+    49,
+    71,
+]
+frame_offset = [
+    15,
+    57,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_12]
+pos = [
+    202,
+    715,
+]
+size = [
+    47,
+    97,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_13]
+pos = [
+    431,
+    477,
+]
+size = [
+    47,
+    97,
+]
+frame_offset = [
+    17,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_14]
+pos = [
+    100,
+    826,
+]
+size = [
+    47,
+    92,
+]
+frame_offset = [
+    17,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_15]
+pos = [
+    381,
+    546,
+]
+size = [
+    47,
+    92,
+]
+frame_offset = [
+    0,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_16]
+pos = [
+    292,
+    341,
+]
+size = [
+    55,
+    61,
+]
+frame_offset = [
+    4,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_17]
+pos = [
+    408,
+    239,
+]
+size = [
+    55,
+    61,
+]
+frame_offset = [
+    4,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_18]
+pos = [
+    351,
+    309,
+]
+size = [
+    55,
+    61,
+]
+frame_offset = [
+    4,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_19]
+pos = [
+    291,
+    404,
+]
+size = [
+    55,
+    61,
+]
+frame_offset = [
+    3,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_2]
+pos = [
+    655,
+    234,
+]
+size = [
+    52,
+    95,
+]
+frame_offset = [
+    1,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_20]
+pos = [
+    234,
+    355,
+]
+size = [
+    55,
+    109,
+]
+frame_offset = [
+    9,
+    15,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_21]
+pos = [
+    832,
+    171,
+]
+size = [
+    51,
+    109,
+]
+frame_offset = [
+    5,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_22]
+pos = [
+    815,
+    336,
+]
+size = [
+    50,
+    109,
+]
+frame_offset = [
+    8,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_23]
+pos = [
+    762,
+    398,
+]
+size = [
+    50,
+    109,
+]
+frame_offset = [
+    1,
+    15,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_24]
+pos = [
+    408,
+    302,
+]
+size = [
+    55,
+    60,
+]
+frame_offset = [
+    4,
+    34,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_25]
+pos = [
+    498,
+    103,
+]
+size = [
+    54,
+    61,
+]
+frame_offset = [
+    5,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_26]
+pos = [
+    351,
+    245,
+]
+size = [
+    55,
+    62,
+]
+frame_offset = [
+    4,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_27]
+pos = [
+    612,
+    0,
+]
+size = [
+    54,
+    60,
+]
+frame_offset = [
+    4,
+    34,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_28]
+pos = [
+    479,
+    982,
+]
+size = [
+    40,
+    36,
+]
+frame_offset = [
+    14,
+    84,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_29]
+pos = [
+    528,
+    949,
+]
+size = [
+    40,
+    36,
+]
+frame_offset = [
+    8,
+    84,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_3]
+pos = [
+    722,
+    182,
+]
+size = [
+    52,
+    95,
+]
+frame_offset = [
+    11,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_30]
+pos = [
+    570,
+    951,
+]
+size = [
+    40,
+    36,
+]
+frame_offset = [
+    6,
+    89,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_31]
+pos = [
+    851,
+    698,
+]
+size = [
+    40,
+    36,
+]
+frame_offset = [
+    18,
+    88,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_32]
+pos = [
+    547,
+    758,
+]
+size = [
+    42,
+    96,
+]
+frame_offset = [
+    15,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_33]
+pos = [
+    722,
+    861,
+]
+size = [
+    39,
+    95,
+]
+frame_offset = [
+    3,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_34]
+pos = [
+    851,
+    736,
+]
+size = [
+    39,
+    95,
+]
+frame_offset = [
+    22,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_35]
+pos = [
+    667,
+    640,
+]
+size = [
+    42,
+    96,
+]
+frame_offset = [
+    7,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_36]
+pos = [
+    391,
+    916,
+]
+size = [
+    42,
+    94,
+]
+frame_offset = [
+    18,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_37]
+pos = [
+    892,
+    794,
+]
+size = [
+    39,
+    90,
+]
+frame_offset = [
+    7,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_38]
+pos = [
+    634,
+    908,
+]
+size = [
+    40,
+    90,
+]
+frame_offset = [
+    17,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_39]
+pos = [
+    499,
+    809,
+]
+size = [
+    42,
+    95,
+]
+frame_offset = [
+    4,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_4]
+pos = [
+    151,
+    768,
+]
+size = [
+    47,
+    97,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_40]
+pos = [
+    592,
+    722,
+]
+size = [
+    42,
+    92,
+]
+frame_offset = [
+    18,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_41]
+pos = [
+    984,
+    494,
+]
+size = [
+    38,
+    91,
+]
+frame_offset = [
+    7,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_42]
+pos = [
+    984,
+    587,
+]
+size = [
+    38,
+    91,
+]
+frame_offset = [
+    18,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_43]
+pos = [
+    441,
+    863,
+]
+size = [
+    42,
+    92,
+]
+frame_offset = [
+    3,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_44]
+pos = [
+    809,
+    509,
+]
+size = [
+    42,
+    92,
+]
+frame_offset = [
+    20,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_45]
+pos = [
+    763,
+    925,
+]
+size = [
+    38,
+    91,
+]
+frame_offset = [
+    9,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_46]
+pos = [
+    934,
+    783,
+]
+size = [
+    38,
+    91,
+]
+frame_offset = [
+    16,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_47]
+pos = [
+    853,
+    505,
+]
+size = [
+    42,
+    92,
+]
+frame_offset = [
+    1,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_5]
+pos = [
+    0,
+    925,
+]
+size = [
+    47,
+    97,
+]
+frame_offset = [
+    17,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_6]
+pos = [
+    50,
+    878,
+]
+size = [
+    47,
+    92,
+]
+frame_offset = [
+    17,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_7]
+pos = [
+    252,
+    684,
+]
+size = [
+    47,
+    92,
+]
+frame_offset = [
+    0,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_8]
+pos = [
+    408,
+    640,
+]
+size = [
+    46,
+    71,
+]
+frame_offset = [
+    16,
+    49,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_storage_02_9]
+pos = [
+    480,
+    477,
+]
+size = [
+    47,
+    71,
+]
+frame_offset = [
+    1,
+    49,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_0]
+pos = [
+    188,
+    125,
+]
+size = [
+    59,
+    61,
+]
+frame_offset = [
+    4,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_1]
+pos = [
+    249,
+    124,
+]
+size = [
+    59,
+    59,
+]
+frame_offset = [
+    0,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_10]
+pos = [
+    256,
+    63,
+]
+size = [
+    59,
+    59,
+]
+frame_offset = [
+    4,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_11]
+pos = [
+    187,
+    188,
+]
+size = [
+    59,
+    61,
+]
+frame_offset = [
+    1,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_12]
+pos = [
+    0,
+    650,
+]
+size = [
+    49,
+    52,
+]
+frame_offset = [
+    6,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_13]
+pos = [
+    682,
+    458,
+]
+size = [
+    50,
+    52,
+]
+frame_offset = [
+    8,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_14]
+pos = [
+    99,
+    920,
+]
+size = [
+    47,
+    50,
+]
+frame_offset = [
+    8,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_15]
+pos = [
+    131,
+    0,
+]
+size = [
+    62,
+    62,
+]
+frame_offset = [
+    1,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_16]
+pos = [
+    131,
+    64,
+]
+size = [
+    62,
+    59,
+]
+frame_offset = [
+    1,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_17]
+pos = [
+    310,
+    124,
+]
+size = [
+    59,
+    57,
+]
+frame_offset = [
+    4,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_18]
+pos = [
+    64,
+    103,
+]
+size = [
+    60,
+    59,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_19]
+pos = [
+    63,
+    164,
+]
+size = [
+    60,
+    59,
+]
+frame_offset = [
+    3,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_2]
+pos = [
+    317,
+    62,
+]
+size = [
+    59,
+    59,
+]
+frame_offset = [
+    4,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_20]
+pos = [
+    125,
+    186,
+]
+size = [
+    60,
+    57,
+]
+frame_offset = [
+    0,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_21]
+pos = [
+    972,
+    335,
+]
+size = [
+    50,
+    52,
+]
+frame_offset = [
+    8,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_22]
+pos = [
+    919,
+    439,
+]
+size = [
+    50,
+    52,
+]
+frame_offset = [
+    6,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_23]
+pos = [
+    331,
+    546,
+]
+size = [
+    48,
+    50,
+]
+frame_offset = [
+    7,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_24]
+pos = [
+    439,
+    0,
+]
+size = [
+    58,
+    57,
+]
+frame_offset = [
+    5,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_25]
+pos = [
+    126,
+    125,
+]
+size = [
+    60,
+    59,
+]
+frame_offset = [
+    2,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_26]
+pos = [
+    378,
+    0,
+]
+size = [
+    59,
+    59,
+]
+frame_offset = [
+    3,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_27]
+pos = [
+    310,
+    183,
+]
+size = [
+    57,
+    60,
+]
+frame_offset = [
+    2,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_28]
+pos = [
+    195,
+    0,
+]
+size = [
+    59,
+    122,
+]
+frame_offset = [
+    3,
+    4,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_3]
+pos = [
+    256,
+    0,
+]
+size = [
+    59,
+    61,
+]
+frame_offset = [
+    1,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_4]
+pos = [
+    972,
+    389,
+]
+size = [
+    50,
+    52,
+]
+frame_offset = [
+    8,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_5]
+pos = [
+    51,
+    596,
+]
+size = [
+    49,
+    51,
+]
+frame_offset = [
+    6,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_6]
+pos = [
+    359,
+    640,
+]
+size = [
+    47,
+    50,
+]
+frame_offset = [
+    8,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_7]
+pos = [
+    301,
+    711,
+]
+size = [
+    47,
+    50,
+]
+frame_offset = [
+    8,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_8]
+pos = [
+    249,
+    185,
+]
+size = [
+    58,
+    61,
+]
+frame_offset = [
+    4,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[furniture_tables_high_01_9]
+pos = [
+    317,
+    0,
+]
+size = [
+    59,
+    60,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]

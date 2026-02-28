@@ -1,0 +1,927 @@
+[Fire_03_4]
+pos = [
+    900,
+    796,
+]
+size = [
+    91,
+    206,
+]
+frame_offset = [
+    22,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_5]
+pos = [
+    805,
+    796,
+]
+size = [
+    93,
+    212,
+]
+frame_offset = [
+    22,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_6]
+pos = [
+    902,
+    587,
+]
+size = [
+    94,
+    207,
+]
+frame_offset = [
+    22,
+    49,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_7]
+pos = [
+    754,
+    424,
+]
+size = [
+    95,
+    206,
+]
+frame_offset = [
+    22,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_8]
+pos = [
+    309,
+    764,
+]
+size = [
+    97,
+    208,
+]
+frame_offset = [
+    22,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_9]
+pos = [
+    209,
+    761,
+]
+size = [
+    98,
+    191,
+]
+frame_offset = [
+    22,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Giblet_00_0]
+pos = [
+    222,
+    542,
+]
+size = [
+    5,
+    4,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    9,
+    9,
+]
+
+[Giblet_00_1]
+pos = [
+    235,
+    529,
+]
+size = [
+    6,
+    4,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    9,
+    9,
+]
+
+[Giblet_00_2]
+pos = [
+    210,
+    554,
+]
+size = [
+    6,
+    5,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    9,
+    9,
+]
+
+[Giblet_01_0]
+pos = [
+    210,
+    522,
+]
+size = [
+    12,
+    9,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    12,
+    12,
+]
+
+[Giblet_01_1]
+pos = [
+    225,
+    516,
+]
+size = [
+    11,
+    11,
+]
+frame_offset = [
+    1,
+    1,
+]
+frame_size = [
+    12,
+    12,
+]
+
+[Giblet_01_2]
+pos = [
+    210,
+    541,
+]
+size = [
+    10,
+    11,
+]
+frame_offset = [
+    1,
+    0,
+]
+frame_size = [
+    12,
+    12,
+]
+
+[RainSplash_00_0]
+pos = [
+    223,
+    536,
+]
+size = [
+    7,
+    4,
+]
+frame_offset = [
+    4,
+    3,
+]
+frame_size = [
+    16,
+    8,
+]
+
+[RainSplash_00_1]
+pos = [
+    224,
+    529,
+]
+size = [
+    9,
+    5,
+]
+frame_offset = [
+    3,
+    2,
+]
+frame_size = [
+    16,
+    8,
+]
+
+[RainSplash_00_2]
+pos = [
+    210,
+    533,
+]
+size = [
+    11,
+    6,
+]
+frame_offset = [
+    2,
+    1,
+]
+frame_size = [
+    16,
+    8,
+]
+
+[RainSplash_00_3]
+pos = [
+    210,
+    516,
+]
+size = [
+    13,
+    4,
+]
+frame_offset = [
+    1,
+    1,
+]
+frame_size = [
+    16,
+    8,
+]
+
+[Rain_00_0]
+pos = [
+    995,
+    0,
+]
+size = [
+    1,
+    60,
+]
+frame_offset = [
+    0,
+    4,
+]
+frame_size = [
+    1,
+    64,
+]
+
+[Smoke_01_0]
+pos = [
+    513,
+    592,
+]
+size = [
+    96,
+    162,
+]
+frame_offset = [
+    12,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_1]
+pos = [
+    655,
+    427,
+]
+size = [
+    97,
+    162,
+]
+frame_offset = [
+    11,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_10]
+pos = [
+    348,
+    429,
+]
+size = [
+    102,
+    168,
+]
+frame_offset = [
+    9,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_11]
+pos = [
+    243,
+    258,
+]
+size = [
+    103,
+    169,
+]
+frame_offset = [
+    9,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_12]
+pos = [
+    0,
+    516,
+]
+size = [
+    103,
+    169,
+]
+frame_offset = [
+    9,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_13]
+pos = [
+    348,
+    258,
+]
+size = [
+    103,
+    169,
+]
+frame_offset = [
+    9,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_14]
+pos = [
+    105,
+    516,
+]
+size = [
+    103,
+    165,
+]
+frame_offset = [
+    9,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_15]
+pos = [
+    243,
+    429,
+]
+size = [
+    103,
+    163,
+]
+frame_offset = [
+    9,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_16]
+pos = [
+    0,
+    687,
+]
+size = [
+    103,
+    162,
+]
+frame_offset = [
+    9,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_17]
+pos = [
+    453,
+    258,
+]
+size = [
+    103,
+    162,
+]
+frame_offset = [
+    9,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_18]
+pos = [
+    312,
+    599,
+]
+size = [
+    99,
+    163,
+]
+frame_offset = [
+    13,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_19]
+pos = [
+    102,
+    853,
+]
+size = [
+    99,
+    163,
+]
+frame_offset = [
+    12,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_2]
+pos = [
+    555,
+    427,
+]
+size = [
+    98,
+    163,
+]
+frame_offset = [
+    11,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_20]
+pos = [
+    762,
+    258,
+]
+size = [
+    98,
+    162,
+]
+frame_offset = [
+    12,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_21]
+pos = [
+    611,
+    592,
+]
+size = [
+    95,
+    163,
+]
+frame_offset = [
+    14,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_22]
+pos = [
+    513,
+    756,
+]
+size = [
+    95,
+    163,
+]
+frame_offset = [
+    14,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_23]
+pos = [
+    851,
+    422,
+]
+size = [
+    95,
+    163,
+]
+frame_offset = [
+    14,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_24]
+pos = [
+    610,
+    757,
+]
+size = [
+    95,
+    163,
+]
+frame_offset = [
+    14,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_25]
+pos = [
+    708,
+    632,
+]
+size = [
+    95,
+    163,
+]
+frame_offset = [
+    13,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_26]
+pos = [
+    805,
+    632,
+]
+size = [
+    95,
+    162,
+]
+frame_offset = [
+    13,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_27]
+pos = [
+    707,
+    797,
+]
+size = [
+    95,
+    162,
+]
+frame_offset = [
+    13,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_28]
+pos = [
+    862,
+    258,
+]
+size = [
+    96,
+    162,
+]
+frame_offset = [
+    12,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_29]
+pos = [
+    408,
+    764,
+]
+size = [
+    96,
+    162,
+]
+frame_offset = [
+    12,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_3]
+pos = [
+    413,
+    599,
+]
+size = [
+    98,
+    163,
+]
+frame_offset = [
+    11,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_4]
+pos = [
+    661,
+    258,
+]
+size = [
+    99,
+    164,
+]
+frame_offset = [
+    10,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_5]
+pos = [
+    453,
+    422,
+]
+size = [
+    100,
+    164,
+]
+frame_offset = [
+    10,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_6]
+pos = [
+    210,
+    594,
+]
+size = [
+    100,
+    165,
+]
+frame_offset = [
+    10,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_7]
+pos = [
+    0,
+    851,
+]
+size = [
+    100,
+    165,
+]
+frame_offset = [
+    10,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_8]
+pos = [
+    558,
+    258,
+]
+size = [
+    101,
+    167,
+]
+frame_offset = [
+    9,
+    88,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Smoke_01_9]
+pos = [
+    105,
+    683,
+]
+size = [
+    102,
+    168,
+]
+frame_offset = [
+    9,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rain1]
+pos = [
+    752,
+    0,
+]
+size = [
+    241,
+    256,
+]
+frame_offset = [
+    6,
+    0,
+]
+frame_size = [
+    256,
+    256,
+]
+
+[rain2]
+pos = [
+    0,
+    258,
+]
+size = [
+    241,
+    256,
+]
+frame_offset = [
+    6,
+    0,
+]
+frame_size = [
+    256,
+    256,
+]
+
+[rain3]
+pos = [
+    254,
+    0,
+]
+size = [
+    247,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    256,
+    256,
+]
+
+[rain4]
+pos = [
+    503,
+    0,
+]
+size = [
+    247,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    256,
+    256,
+]
+
+[rain5]
+pos = [
+    0,
+    0,
+]
+size = [
+    252,
+    256,
+]

@@ -1,0 +1,6209 @@
+[location_business_machinery_01_36]
+pos = [
+    494,
+    635,
+]
+size = [
+    35,
+    99,
+]
+frame_offset = [
+    16,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_machinery_01_37]
+pos = [
+    554,
+    502,
+]
+size = [
+    36,
+    101,
+]
+frame_offset = [
+    12,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_0]
+pos = [
+    519,
+    126,
+]
+size = [
+    59,
+    61,
+]
+frame_offset = [
+    4,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_1]
+pos = [
+    256,
+    281,
+]
+size = [
+    61,
+    62,
+]
+frame_offset = [
+    1,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_10]
+pos = [
+    452,
+    218,
+]
+size = [
+    59,
+    61,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_11]
+pos = [
+    0,
+    0,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_12]
+pos = [
+    328,
+    67,
+]
+size = [
+    62,
+    63,
+]
+frame_offset = [
+    2,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_13]
+pos = [
+    457,
+    64,
+]
+size = [
+    60,
+    61,
+]
+frame_offset = [
+    4,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_14]
+pos = [
+    457,
+    0,
+]
+size = [
+    60,
+    62,
+]
+frame_offset = [
+    2,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_15]
+pos = [
+    866,
+    599,
+]
+size = [
+    30,
+    44,
+]
+frame_offset = [
+    3,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_16]
+pos = [
+    418,
+    561,
+]
+size = [
+    38,
+    70,
+]
+frame_offset = [
+    15,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_17]
+pos = [
+    284,
+    675,
+]
+size = [
+    39,
+    70,
+]
+frame_offset = [
+    9,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_18]
+pos = [
+    136,
+    848,
+]
+size = [
+    38,
+    73,
+]
+frame_offset = [
+    1,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_19]
+pos = [
+    458,
+    560,
+]
+size = [
+    37,
+    73,
+]
+frame_offset = [
+    25,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_2]
+pos = [
+    326,
+    132,
+]
+size = [
+    62,
+    63,
+]
+frame_offset = [
+    1,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_20]
+pos = [
+    393,
+    0,
+]
+size = [
+    62,
+    72,
+]
+frame_offset = [
+    0,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_21]
+pos = [
+    377,
+    572,
+]
+size = [
+    39,
+    73,
+]
+frame_offset = [
+    0,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_22]
+pos = [
+    375,
+    647,
+]
+size = [
+    37,
+    73,
+]
+frame_offset = [
+    25,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_23]
+pos = [
+    262,
+    132,
+]
+size = [
+    62,
+    72,
+]
+frame_offset = [
+    0,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_24]
+pos = [
+    185,
+    806,
+]
+size = [
+    38,
+    70,
+]
+frame_offset = [
+    9,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_25]
+pos = [
+    43,
+    925,
+]
+size = [
+    39,
+    69,
+]
+frame_offset = [
+    16,
+    54,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_26]
+pos = [
+    238,
+    716,
+]
+size = [
+    39,
+    71,
+]
+frame_offset = [
+    1,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_27]
+pos = [
+    335,
+    572,
+]
+size = [
+    40,
+    72,
+]
+frame_offset = [
+    23,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_28]
+pos = [
+    914,
+    947,
+]
+size = [
+    20,
+    64,
+]
+frame_offset = [
+    25,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_29]
+pos = [
+    185,
+    733,
+]
+size = [
+    40,
+    71,
+]
+frame_offset = [
+    0,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_3]
+pos = [
+    519,
+    0,
+]
+size = [
+    60,
+    62,
+]
+frame_offset = [
+    2,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_30]
+pos = [
+    87,
+    868,
+]
+size = [
+    39,
+    72,
+]
+frame_offset = [
+    23,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_31]
+pos = [
+    948,
+    912,
+]
+size = [
+    20,
+    64,
+]
+frame_offset = [
+    25,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_32]
+pos = [
+    49,
+    645,
+]
+size = [
+    46,
+    74,
+]
+frame_offset = [
+    10,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_33]
+pos = [
+    0,
+    699,
+]
+size = [
+    46,
+    74,
+]
+frame_offset = [
+    8,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_34]
+pos = [
+    0,
+    623,
+]
+size = [
+    47,
+    74,
+]
+frame_offset = [
+    6,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_35]
+pos = [
+    100,
+    600,
+]
+size = [
+    46,
+    74,
+]
+frame_offset = [
+    11,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_36]
+pos = [
+    702,
+    734,
+]
+size = [
+    25,
+    53,
+]
+frame_offset = [
+    10,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_37]
+pos = [
+    900,
+    894,
+]
+size = [
+    22,
+    51,
+]
+frame_offset = [
+    2,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_38]
+pos = [
+    970,
+    820,
+]
+size = [
+    22,
+    51,
+]
+frame_offset = [
+    39,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_39]
+pos = [
+    945,
+    759,
+]
+size = [
+    24,
+    53,
+]
+frame_offset = [
+    29,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_4]
+pos = [
+    0,
+    158,
+]
+size = [
+    63,
+    63,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_40]
+pos = [
+    519,
+    64,
+]
+size = [
+    60,
+    60,
+]
+frame_offset = [
+    4,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_41]
+pos = [
+    129,
+    250,
+]
+size = [
+    62,
+    60,
+]
+frame_offset = [
+    1,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_42]
+pos = [
+    65,
+    238,
+]
+size = [
+    62,
+    61,
+]
+frame_offset = [
+    0,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_43]
+pos = [
+    580,
+    128,
+]
+size = [
+    59,
+    59,
+]
+frame_offset = [
+    0,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_44]
+pos = [
+    581,
+    0,
+]
+size = [
+    60,
+    61,
+]
+frame_offset = [
+    3,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_45]
+pos = [
+    319,
+    326,
+]
+size = [
+    61,
+    59,
+]
+frame_offset = [
+    0,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_46]
+pos = [
+    516,
+    189,
+]
+size = [
+    59,
+    60,
+]
+frame_offset = [
+    4,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_47]
+pos = [
+    389,
+    204,
+]
+size = [
+    61,
+    60,
+]
+frame_offset = [
+    2,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_48]
+pos = [
+    592,
+    502,
+]
+size = [
+    24,
+    66,
+]
+frame_offset = [
+    13,
+    49,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_49]
+pos = [
+    919,
+    759,
+]
+size = [
+    24,
+    66,
+]
+frame_offset = [
+    26,
+    49,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_5]
+pos = [
+    0,
+    256,
+]
+size = [
+    62,
+    62,
+]
+frame_offset = [
+    1,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_50]
+pos = [
+    661,
+    637,
+]
+size = [
+    27,
+    63,
+]
+frame_offset = [
+    6,
+    21,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_51]
+pos = [
+    760,
+    611,
+]
+size = [
+    32,
+    66,
+]
+frame_offset = [
+    1,
+    21,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_52]
+pos = [
+    510,
+    943,
+]
+size = [
+    30,
+    63,
+]
+frame_offset = [
+    1,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_53]
+pos = [
+    762,
+    754,
+]
+size = [
+    29,
+    62,
+]
+frame_offset = [
+    33,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_54]
+pos = [
+    601,
+    752,
+]
+size = [
+    32,
+    65,
+]
+frame_offset = [
+    30,
+    21,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_55]
+pos = [
+    604,
+    934,
+]
+size = [
+    27,
+    62,
+]
+frame_offset = [
+    30,
+    21,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_56]
+pos = [
+    566,
+    641,
+]
+size = [
+    23,
+    67,
+]
+frame_offset = [
+    27,
+    55,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_57]
+pos = [
+    979,
+    751,
+]
+size = [
+    23,
+    67,
+]
+frame_offset = [
+    13,
+    55,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_6]
+pos = [
+    704,
+    0,
+]
+size = [
+    59,
+    61,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_7]
+pos = [
+    539,
+    897,
+]
+size = [
+    31,
+    44,
+]
+frame_offset = [
+    30,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_8]
+pos = [
+    191,
+    350,
+]
+size = [
+    61,
+    62,
+]
+frame_offset = [
+    1,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_business_office_generic_01_9]
+pos = [
+    390,
+    139,
+]
+size = [
+    62,
+    63,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_0]
+pos = [
+    542,
+    943,
+]
+size = [
+    30,
+    40,
+]
+frame_offset = [
+    14,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_1]
+pos = [
+    932,
+    626,
+]
+size = [
+    27,
+    40,
+]
+frame_offset = [
+    25,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_11]
+pos = [
+    97,
+    676,
+]
+size = [
+    43,
+    108,
+]
+frame_offset = [
+    10,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_16]
+pos = [
+    0,
+    223,
+]
+size = [
+    63,
+    31,
+]
+frame_offset = [
+    0,
+    97,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_17]
+pos = [
+    132,
+    0,
+]
+size = [
+    64,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_18]
+pos = [
+    328,
+    34,
+]
+size = [
+    63,
+    31,
+]
+frame_offset = [
+    0,
+    97,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_19]
+pos = [
+    328,
+    0,
+]
+size = [
+    63,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_2]
+pos = [
+    443,
+    980,
+]
+size = [
+    31,
+    36,
+]
+frame_offset = [
+    13,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_20]
+pos = [
+    131,
+    216,
+]
+size = [
+    63,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_21]
+pos = [
+    451,
+    281,
+]
+size = [
+    59,
+    30,
+]
+frame_offset = [
+    0,
+    98,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_22]
+pos = [
+    994,
+    862,
+]
+size = [
+    21,
+    40,
+]
+frame_offset = [
+    21,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_23]
+pos = [
+    944,
+    867,
+]
+size = [
+    22,
+    40,
+]
+frame_offset = [
+    21,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_24]
+pos = [
+    132,
+    68,
+]
+size = [
+    64,
+    31,
+]
+frame_offset = [
+    0,
+    97,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_25]
+pos = [
+    263,
+    63,
+]
+size = [
+    63,
+    33,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_26]
+pos = [
+    127,
+    478,
+]
+size = [
+    60,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_27]
+pos = [
+    454,
+    184,
+]
+size = [
+    60,
+    32,
+]
+frame_offset = [
+    3,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_28]
+pos = [
+    132,
+    34,
+]
+size = [
+    64,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_29]
+pos = [
+    316,
+    474,
+]
+size = [
+    56,
+    34,
+]
+frame_offset = [
+    0,
+    94,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_3]
+pos = [
+    444,
+    457,
+]
+size = [
+    49,
+    44,
+]
+frame_offset = [
+    5,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_30]
+pos = [
+    148,
+    626,
+]
+size = [
+    44,
+    68,
+]
+frame_offset = [
+    12,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_31]
+pos = [
+    497,
+    575,
+]
+size = [
+    12,
+    42,
+]
+frame_offset = [
+    26,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_32]
+pos = [
+    190,
+    476,
+]
+size = [
+    61,
+    33,
+]
+frame_offset = [
+    2,
+    95,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_33]
+pos = [
+    0,
+    125,
+]
+size = [
+    64,
+    31,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_34]
+pos = [
+    197,
+    187,
+]
+size = [
+    63,
+    31,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_35]
+pos = [
+    253,
+    463,
+]
+size = [
+    61,
+    33,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_36]
+pos = [
+    994,
+    820,
+]
+size = [
+    22,
+    40,
+]
+frame_offset = [
+    11,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_37]
+pos = [
+    866,
+    947,
+]
+size = [
+    22,
+    39,
+]
+frame_offset = [
+    34,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_38]
+pos = [
+    266,
+    797,
+]
+size = [
+    35,
+    109,
+]
+frame_offset = [
+    9,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_39]
+pos = [
+    890,
+    947,
+]
+size = [
+    22,
+    39,
+]
+frame_offset = [
+    33,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_4]
+pos = [
+    790,
+    836,
+]
+size = [
+    26,
+    35,
+]
+frame_offset = [
+    12,
+    88,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_40]
+pos = [
+    317,
+    439,
+]
+size = [
+    61,
+    33,
+]
+frame_offset = [
+    3,
+    95,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_41]
+pos = [
+    0,
+    441,
+]
+size = [
+    62,
+    32,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_42]
+pos = [
+    263,
+    98,
+]
+size = [
+    63,
+    32,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_43]
+pos = [
+    0,
+    475,
+]
+size = [
+    61,
+    34,
+]
+frame_offset = [
+    0,
+    94,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_5]
+pos = [
+    409,
+    908,
+]
+size = [
+    24,
+    35,
+]
+frame_offset = [
+    29,
+    88,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_8]
+pos = [
+    668,
+    848,
+]
+size = [
+    29,
+    38,
+]
+frame_offset = [
+    14,
+    84,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_cemetary_01_9]
+pos = [
+    863,
+    645,
+]
+size = [
+    30,
+    38,
+]
+frame_offset = [
+    21,
+    84,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_0]
+pos = [
+    655,
+    522,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_1]
+pos = [
+    727,
+    496,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_10]
+pos = [
+    303,
+    842,
+]
+size = [
+    34,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_100]
+pos = [
+    127,
+    414,
+]
+size = [
+    61,
+    62,
+]
+frame_offset = [
+    0,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_101]
+pos = [
+    149,
+    568,
+]
+size = [
+    45,
+    56,
+]
+frame_offset = [
+    0,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_102]
+pos = [
+    619,
+    580,
+]
+size = [
+    21,
+    18,
+]
+frame_offset = [
+    12,
+    6,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_103]
+pos = [
+    934,
+    463,
+]
+size = [
+    32,
+    26,
+]
+frame_offset = [
+    1,
+    6,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_104]
+pos = [
+    573,
+    854,
+]
+size = [
+    20,
+    19,
+]
+frame_offset = [
+    13,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_105]
+pos = [
+    409,
+    998,
+]
+size = [
+    32,
+    24,
+]
+frame_offset = [
+    1,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_106]
+pos = [
+    505,
+    871,
+]
+size = [
+    32,
+    26,
+]
+frame_offset = [
+    1,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_107]
+pos = [
+    539,
+    871,
+]
+size = [
+    32,
+    24,
+]
+frame_offset = [
+    1,
+    83,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_108]
+pos = [
+    695,
+    706,
+]
+size = [
+    32,
+    26,
+]
+frame_offset = [
+    1,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_109]
+pos = [
+    573,
+    875,
+]
+size = [
+    18,
+    18,
+]
+frame_offset = [
+    1,
+    89,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_11]
+pos = [
+    692,
+    487,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_110]
+pos = [
+    505,
+    899,
+]
+size = [
+    32,
+    26,
+]
+frame_offset = [
+    1,
+    6,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_111]
+pos = [
+    626,
+    600,
+]
+size = [
+    21,
+    17,
+]
+frame_offset = [
+    1,
+    13,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_12]
+pos = [
+    339,
+    842,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_13]
+pos = [
+    531,
+    641,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_14]
+pos = [
+    591,
+    605,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_15]
+pos = [
+    451,
+    745,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_16]
+pos = [
+    400,
+    793,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_17]
+pos = [
+    374,
+    908,
+]
+size = [
+    33,
+    101,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_18]
+pos = [
+    566,
+    720,
+]
+size = [
+    33,
+    101,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_19]
+pos = [
+    494,
+    736,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_2]
+pos = [
+    66,
+    123,
+]
+size = [
+    63,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_20]
+pos = [
+    435,
+    860,
+]
+size = [
+    33,
+    89,
+]
+frame_offset = [
+    0,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_21]
+pos = [
+    470,
+    860,
+]
+size = [
+    33,
+    89,
+]
+frame_offset = [
+    30,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_22]
+pos = [
+    882,
+    841,
+]
+size = [
+    23,
+    51,
+]
+frame_offset = [
+    1,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_23]
+pos = [
+    850,
+    891,
+]
+size = [
+    23,
+    51,
+]
+frame_offset = [
+    39,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_24]
+pos = [
+    923,
+    668,
+]
+size = [
+    26,
+    89,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_25]
+pos = [
+    967,
+    567,
+]
+size = [
+    27,
+    91,
+]
+frame_offset = [
+    37,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_26]
+pos = [
+    882,
+    162,
+]
+size = [
+    52,
+    91,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_27]
+pos = [
+    863,
+    685,
+]
+size = [
+    27,
+    90,
+]
+frame_offset = [
+    13,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_28]
+pos = [
+    762,
+    818,
+]
+size = [
+    26,
+    90,
+]
+frame_offset = [
+    8,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_29]
+pos = [
+    823,
+    818,
+]
+size = [
+    25,
+    89,
+]
+frame_offset = [
+    30,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_3]
+pos = [
+    251,
+    921,
+]
+size = [
+    3,
+    98,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_30]
+pos = [
+    668,
+    888,
+]
+size = [
+    27,
+    90,
+]
+frame_offset = [
+    8,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_31]
+pos = [
+    895,
+    660,
+]
+size = [
+    26,
+    91,
+]
+frame_offset = [
+    29,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_34]
+pos = [
+    855,
+    777,
+]
+size = [
+    25,
+    112,
+]
+frame_offset = [
+    18,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_35]
+pos = [
+    64,
+    399,
+]
+size = [
+    61,
+    108,
+]
+frame_offset = [
+    0,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_36]
+pos = [
+    919,
+    827,
+]
+size = [
+    23,
+    51,
+]
+frame_offset = [
+    21,
+    13,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_37]
+pos = [
+    779,
+    966,
+]
+size = [
+    23,
+    51,
+]
+frame_offset = [
+    19,
+    13,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_38]
+pos = [
+    945,
+    814,
+]
+size = [
+    23,
+    51,
+]
+frame_offset = [
+    21,
+    45,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_39]
+pos = [
+    804,
+    966,
+]
+size = [
+    23,
+    51,
+]
+frame_offset = [
+    20,
+    45,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_4]
+pos = [
+    762,
+    496,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_40]
+pos = [
+    474,
+    503,
+]
+size = [
+    39,
+    55,
+]
+frame_offset = [
+    16,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_41]
+pos = [
+    432,
+    503,
+]
+size = [
+    40,
+    55,
+]
+frame_offset = [
+    3,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_42]
+pos = [
+    44,
+    868,
+]
+size = [
+    41,
+    55,
+]
+frame_offset = [
+    20,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_43]
+pos = [
+    515,
+    501,
+]
+size = [
+    37,
+    125,
+]
+frame_offset = [
+    9,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_44]
+pos = [
+    989,
+    230,
+]
+size = [
+    33,
+    56,
+]
+frame_offset = [
+    14,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_45]
+pos = [
+    725,
+    611,
+]
+size = [
+    33,
+    56,
+]
+frame_offset = [
+    16,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_46]
+pos = [
+    990,
+    172,
+]
+size = [
+    32,
+    55,
+]
+frame_offset = [
+    16,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_47]
+pos = [
+    797,
+    585,
+]
+size = [
+    32,
+    55,
+]
+frame_offset = [
+    15,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_48]
+pos = [
+    392,
+    74,
+]
+size = [
+    62,
+    63,
+]
+frame_offset = [
+    2,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_49]
+pos = [
+    66,
+    0,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_5]
+pos = [
+    529,
+    756,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_50]
+pos = [
+    702,
+    181,
+]
+size = [
+    56,
+    65,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_51]
+pos = [
+    572,
+    311,
+]
+size = [
+    56,
+    64,
+]
+frame_offset = [
+    8,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_52]
+pos = [
+    825,
+    0,
+]
+size = [
+    57,
+    63,
+]
+frame_offset = [
+    7,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_53]
+pos = [
+    822,
+    172,
+]
+size = [
+    53,
+    63,
+]
+frame_offset = [
+    7,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_54]
+pos = [
+    875,
+    894,
+]
+size = [
+    23,
+    51,
+]
+frame_offset = [
+    1,
+    49,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_55]
+pos = [
+    841,
+    944,
+]
+size = [
+    23,
+    51,
+]
+frame_offset = [
+    39,
+    49,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_56]
+pos = [
+    959,
+    406,
+]
+size = [
+    48,
+    54,
+]
+frame_offset = [
+    7,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_57]
+pos = [
+    804,
+    355,
+]
+size = [
+    51,
+    56,
+]
+frame_offset = [
+    4,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_58]
+pos = [
+    687,
+    372,
+]
+size = [
+    52,
+    56,
+]
+frame_offset = [
+    4,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_59]
+pos = [
+    858,
+    315,
+]
+size = [
+    50,
+    55,
+]
+frame_offset = [
+    9,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_6]
+pos = [
+    132,
+    101,
+]
+size = [
+    63,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_60]
+pos = [
+    794,
+    413,
+]
+size = [
+    50,
+    55,
+]
+frame_offset = [
+    9,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_61]
+pos = [
+    0,
+    511,
+]
+size = [
+    48,
+    54,
+]
+frame_offset = [
+    9,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_62]
+pos = [
+    335,
+    646,
+]
+size = [
+    38,
+    77,
+]
+frame_offset = [
+    14,
+    45,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_63]
+pos = [
+    246,
+    556,
+]
+size = [
+    43,
+    73,
+]
+frame_offset = [
+    11,
+    46,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_64]
+pos = [
+    951,
+    668,
+]
+size = [
+    26,
+    89,
+]
+frame_offset = [
+    0,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_65]
+pos = [
+    794,
+    743,
+]
+size = [
+    27,
+    91,
+]
+frame_offset = [
+    37,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_66]
+pos = [
+    750,
+    290,
+]
+size = [
+    52,
+    91,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_67]
+pos = [
+    826,
+    726,
+]
+size = [
+    27,
+    90,
+]
+frame_offset = [
+    13,
+    24,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_68]
+pos = [
+    699,
+    883,
+]
+size = [
+    26,
+    90,
+]
+frame_offset = [
+    8,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_69]
+pos = [
+    979,
+    660,
+]
+size = [
+    25,
+    89,
+]
+frame_offset = [
+    30,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_7]
+pos = [
+    256,
+    921,
+]
+size = [
+    3,
+    98,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_70]
+pos = [
+    732,
+    825,
+]
+size = [
+    27,
+    90,
+]
+frame_offset = [
+    8,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_71]
+pos = [
+    996,
+    567,
+]
+size = [
+    26,
+    91,
+]
+frame_offset = [
+    29,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_72]
+pos = [
+    832,
+    495,
+]
+size = [
+    32,
+    114,
+]
+frame_offset = [
+    3,
+    14,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_73]
+pos = [
+    263,
+    908,
+]
+size = [
+    33,
+    114,
+]
+frame_offset = [
+    28,
+    14,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_74]
+pos = [
+    142,
+    732,
+]
+size = [
+    41,
+    114,
+]
+frame_offset = [
+    21,
+    10,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_75]
+pos = [
+    669,
+    735,
+]
+size = [
+    31,
+    111,
+]
+frame_offset = [
+    30,
+    3,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_76]
+pos = [
+    635,
+    799,
+]
+size = [
+    31,
+    98,
+]
+frame_offset = [
+    29,
+    2,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_77]
+pos = [
+    934,
+    491,
+]
+size = [
+    31,
+    104,
+]
+frame_offset = [
+    29,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_78]
+pos = [
+    601,
+    819,
+]
+size = [
+    31,
+    113,
+]
+frame_offset = [
+    29,
+    2,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_79]
+pos = [
+    634,
+    899,
+]
+size = [
+    27,
+    110,
+]
+frame_offset = [
+    18,
+    8,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_8]
+pos = [
+    626,
+    637,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_80]
+pos = [
+    298,
+    957,
+]
+size = [
+    33,
+    57,
+]
+frame_offset = [
+    3,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_81]
+pos = [
+    333,
+    957,
+]
+size = [
+    33,
+    57,
+]
+frame_offset = [
+    28,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_82]
+pos = [
+    477,
+    951,
+]
+size = [
+    31,
+    60,
+]
+frame_offset = [
+    30,
+    13,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_83]
+pos = [
+    495,
+    457,
+]
+size = [
+    8,
+    16,
+]
+frame_offset = [
+    38,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_84]
+pos = [
+    900,
+    546,
+]
+size = [
+    30,
+    112,
+]
+frame_offset = [
+    3,
+    3,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_85]
+pos = [
+    968,
+    462,
+]
+size = [
+    31,
+    103,
+]
+frame_offset = [
+    3,
+    12,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_86]
+pos = [
+    729,
+    700,
+]
+size = [
+    31,
+    97,
+]
+frame_offset = [
+    3,
+    3,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_87]
+pos = [
+    325,
+    725,
+]
+size = [
+    36,
+    115,
+]
+frame_offset = [
+    13,
+    8,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_88]
+pos = [
+    225,
+    839,
+]
+size = [
+    36,
+    80,
+]
+frame_offset = [
+    26,
+    38,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_89]
+pos = [
+    93,
+    786,
+]
+size = [
+    41,
+    80,
+]
+frame_offset = [
+    23,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_9]
+pos = [
+    797,
+    470,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_90]
+pos = [
+    563,
+    380,
+]
+size = [
+    54,
+    57,
+]
+frame_offset = [
+    0,
+    57,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_91]
+pos = [
+    0,
+    916,
+]
+size = [
+    41,
+    40,
+]
+frame_offset = [
+    14,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_92]
+pos = [
+    46,
+    825,
+]
+size = [
+    42,
+    41,
+]
+frame_offset = [
+    9,
+    82,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_93]
+pos = [
+    253,
+    498,
+]
+size = [
+    45,
+    56,
+]
+frame_offset = [
+    18,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_94]
+pos = [
+    581,
+    63,
+]
+size = [
+    59,
+    63,
+]
+frame_offset = [
+    3,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_95]
+pos = [
+    0,
+    958,
+]
+size = [
+    39,
+    56,
+]
+frame_offset = [
+    4,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_96]
+pos = [
+    831,
+    611,
+]
+size = [
+    30,
+    113,
+]
+frame_offset = [
+    25,
+    8,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_97]
+pos = [
+    643,
+    0,
+]
+size = [
+    59,
+    121,
+]
+frame_offset = [
+    0,
+    7,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_98]
+pos = [
+    825,
+    65,
+]
+size = [
+    55,
+    105,
+]
+frame_offset = [
+    0,
+    7,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_church_small_01_99]
+pos = [
+    389,
+    503,
+]
+size = [
+    41,
+    56,
+]
+frame_offset = [
+    19,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_0]
+pos = [
+    702,
+    123,
+]
+size = [
+    57,
+    56,
+]
+frame_offset = [
+    5,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_1]
+pos = [
+    870,
+    255,
+]
+size = [
+    51,
+    58,
+]
+frame_offset = [
+    5,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_10]
+pos = [
+    968,
+    873,
+]
+size = [
+    22,
+    37,
+]
+frame_offset = [
+    21,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_100]
+pos = [
+    325,
+    264,
+]
+size = [
+    61,
+    60,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_101]
+pos = [
+    198,
+    0,
+]
+size = [
+    63,
+    61,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_102]
+pos = [
+    884,
+    52,
+]
+size = [
+    54,
+    108,
+]
+frame_offset = [
+    9,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_103]
+pos = [
+    631,
+    299,
+]
+size = [
+    54,
+    108,
+]
+frame_offset = [
+    1,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_104]
+pos = [
+    198,
+    63,
+]
+size = [
+    63,
+    61,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_105]
+pos = [
+    319,
+    387,
+]
+size = [
+    61,
+    50,
+]
+frame_offset = [
+    2,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_106]
+pos = [
+    262,
+    206,
+]
+size = [
+    61,
+    73,
+]
+frame_offset = [
+    2,
+    49,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_107]
+pos = [
+    193,
+    276,
+]
+size = [
+    61,
+    72,
+]
+frame_offset = [
+    1,
+    49,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_108]
+pos = [
+    382,
+    326,
+]
+size = [
+    61,
+    50,
+]
+frame_offset = [
+    1,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_109]
+pos = [
+    263,
+    0,
+]
+size = [
+    63,
+    61,
+]
+frame_offset = [
+    1,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_11]
+pos = [
+    994,
+    109,
+]
+size = [
+    28,
+    57,
+]
+frame_offset = [
+    32,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_110]
+pos = [
+    760,
+    181,
+]
+size = [
+    54,
+    107,
+]
+frame_offset = [
+    0,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_111]
+pos = [
+    942,
+    0,
+]
+size = [
+    54,
+    107,
+]
+frame_offset = [
+    9,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_112]
+pos = [
+    149,
+    512,
+]
+size = [
+    47,
+    54,
+]
+frame_offset = [
+    11,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_113]
+pos = [
+    345,
+    510,
+]
+size = [
+    42,
+    60,
+]
+frame_offset = [
+    9,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_114]
+pos = [
+    198,
+    511,
+]
+size = [
+    46,
+    59,
+]
+frame_offset = [
+    12,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_115]
+pos = [
+    974,
+    349,
+]
+size = [
+    48,
+    55,
+]
+frame_offset = [
+    3,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_116]
+pos = [
+    241,
+    631,
+]
+size = [
+    41,
+    83,
+]
+frame_offset = [
+    12,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_117]
+pos = [
+    794,
+    642,
+]
+size = [
+    31,
+    25,
+]
+frame_offset = [
+    21,
+    22,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_118]
+pos = [
+    732,
+    799,
+]
+size = [
+    28,
+    24,
+]
+frame_offset = [
+    11,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_119]
+pos = [
+    0,
+    775,
+]
+size = [
+    44,
+    82,
+]
+frame_offset = [
+    7,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_12]
+pos = [
+    574,
+    934,
+]
+size = [
+    28,
+    55,
+]
+frame_offset = [
+    3,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_120]
+pos = [
+    884,
+    0,
+]
+size = [
+    56,
+    50,
+]
+frame_offset = [
+    2,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_121]
+pos = [
+    695,
+    248,
+]
+size = [
+    53,
+    122,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_122]
+pos = [
+    923,
+    288,
+]
+size = [
+    49,
+    115,
+]
+frame_offset = [
+    13,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_123]
+pos = [
+    382,
+    378,
+]
+size = [
+    60,
+    123,
+]
+frame_offset = [
+    3,
+    1,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_124]
+pos = [
+    513,
+    251,
+]
+size = [
+    57,
+    127,
+]
+frame_offset = [
+    4,
+    1,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_125]
+pos = [
+    497,
+    560,
+]
+size = [
+    14,
+    13,
+]
+frame_offset = [
+    3,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_128]
+pos = [
+    741,
+    383,
+]
+size = [
+    51,
+    111,
+]
+frame_offset = [
+    13,
+    8,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_129]
+pos = [
+    50,
+    619,
+]
+size = [
+    47,
+    24,
+]
+frame_offset = [
+    17,
+    9,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_13]
+pos = [
+    572,
+    991,
+]
+size = [
+    19,
+    25,
+]
+frame_offset = [
+    8,
+    21,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_130]
+pos = [
+    100,
+    574,
+]
+size = [
+    47,
+    24,
+]
+frame_offset = [
+    17,
+    9,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_131]
+pos = [
+    166,
+    1012,
+]
+size = [
+    26,
+    10,
+]
+frame_offset = [
+    17,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_132]
+pos = [
+    507,
+    380,
+]
+size = [
+    54,
+    119,
+]
+frame_offset = [
+    9,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_133]
+pos = [
+    64,
+    364,
+]
+size = [
+    62,
+    33,
+]
+frame_offset = [
+    1,
+    1,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_134]
+pos = [
+    128,
+    312,
+]
+size = [
+    62,
+    33,
+]
+frame_offset = [
+    1,
+    1,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_135]
+pos = [
+    41,
+    996,
+]
+size = [
+    37,
+    24,
+]
+frame_offset = [
+    2,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_136]
+pos = [
+    542,
+    985,
+]
+size = [
+    28,
+    34,
+]
+frame_offset = [
+    18,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_137]
+pos = [
+    554,
+    605,
+]
+size = [
+    35,
+    34,
+]
+frame_offset = [
+    12,
+    53,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_138]
+pos = [
+    572,
+    897,
+]
+size = [
+    27,
+    33,
+]
+frame_offset = [
+    19,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_139]
+pos = [
+    655,
+    487,
+]
+size = [
+    35,
+    33,
+]
+frame_offset = [
+    10,
+    57,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_14]
+pos = [
+    303,
+    797,
+]
+size = [
+    20,
+    25,
+]
+frame_offset = [
+    35,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_141]
+pos = [
+    892,
+    753,
+]
+size = [
+    25,
+    86,
+]
+frame_offset = [
+    6,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_142]
+pos = [
+    765,
+    0,
+]
+size = [
+    58,
+    91,
+]
+frame_offset = [
+    6,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_143]
+pos = [
+    764,
+    93,
+]
+size = [
+    56,
+    84,
+]
+frame_offset = [
+    0,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_144]
+pos = [
+    363,
+    725,
+]
+size = [
+    35,
+    108,
+]
+frame_offset = [
+    16,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_145]
+pos = [
+    291,
+    556,
+]
+size = [
+    42,
+    117,
+]
+frame_offset = [
+    16,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_16]
+pos = [
+    254,
+    407,
+]
+size = [
+    61,
+    54,
+]
+frame_offset = [
+    2,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_17]
+pos = [
+    445,
+    324,
+]
+size = [
+    60,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_18]
+pos = [
+    388,
+    266,
+]
+size = [
+    61,
+    56,
+]
+frame_offset = [
+    2,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_19]
+pos = [
+    128,
+    347,
+]
+size = [
+    61,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_2]
+pos = [
+    908,
+    405,
+]
+size = [
+    49,
+    56,
+]
+frame_offset = [
+    12,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_20]
+pos = [
+    326,
+    197,
+]
+size = [
+    61,
+    65,
+]
+frame_offset = [
+    2,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_21]
+pos = [
+    456,
+    127,
+]
+size = [
+    60,
+    55,
+]
+frame_offset = [
+    0,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_22]
+pos = [
+    444,
+    391,
+]
+size = [
+    60,
+    64,
+]
+frame_offset = [
+    3,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_23]
+pos = [
+    196,
+    220,
+]
+size = [
+    62,
+    54,
+]
+frame_offset = [
+    0,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_24]
+pos = [
+    998,
+    0,
+]
+size = [
+    24,
+    91,
+]
+frame_offset = [
+    20,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_25]
+pos = [
+    727,
+    917,
+]
+size = [
+    24,
+    91,
+]
+frame_offset = [
+    20,
+    29,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_26]
+pos = [
+    790,
+    873,
+]
+size = [
+    24,
+    91,
+]
+frame_offset = [
+    19,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_27]
+pos = [
+    753,
+    917,
+]
+size = [
+    24,
+    90,
+]
+frame_offset = [
+    21,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_28]
+pos = [
+    1001,
+    508,
+]
+size = [
+    21,
+    43,
+]
+frame_offset = [
+    4,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_29]
+pos = [
+    1001,
+    462,
+]
+size = [
+    21,
+    44,
+]
+frame_offset = [
+    37,
+    43,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_3]
+pos = [
+    704,
+    63,
+]
+size = [
+    58,
+    56,
+]
+frame_offset = [
+    3,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_30]
+pos = [
+    924,
+    909,
+]
+size = [
+    22,
+    35,
+]
+frame_offset = [
+    7,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_31]
+pos = [
+    866,
+    988,
+]
+size = [
+    22,
+    34,
+]
+frame_offset = [
+    34,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_32]
+pos = [
+    66,
+    65,
+]
+size = [
+    64,
+    56,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_33]
+pos = [
+    619,
+    409,
+]
+size = [
+    53,
+    59,
+]
+frame_offset = [
+    1,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_34]
+pos = [
+    816,
+    237,
+]
+size = [
+    52,
+    59,
+]
+frame_offset = [
+    10,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_35]
+pos = [
+    0,
+    383,
+]
+size = [
+    62,
+    56,
+]
+frame_offset = [
+    1,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_36]
+pos = [
+    0,
+    859,
+]
+size = [
+    42,
+    55,
+]
+frame_offset = [
+    6,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_37]
+pos = [
+    196,
+    619,
+]
+size = [
+    43,
+    55,
+]
+frame_offset = [
+    14,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_38]
+pos = [
+    48,
+    768,
+]
+size = [
+    43,
+    55,
+]
+frame_offset = [
+    16,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_39]
+pos = [
+    194,
+    676,
+]
+size = [
+    42,
+    55,
+]
+frame_offset = [
+    6,
+    71,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_4]
+pos = [
+    572,
+    254,
+]
+size = [
+    57,
+    55,
+]
+frame_offset = [
+    4,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_40]
+pos = [
+    84,
+    992,
+]
+size = [
+    35,
+    22,
+]
+frame_offset = [
+    16,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_41]
+pos = [
+    618,
+    470,
+]
+size = [
+    35,
+    108,
+]
+frame_offset = [
+    16,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_42]
+pos = [
+    214,
+    921,
+]
+size = [
+    35,
+    98,
+]
+frame_offset = [
+    16,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_43]
+pos = [
+    457,
+    635,
+]
+size = [
+    35,
+    108,
+]
+frame_offset = [
+    16,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_44]
+pos = [
+    166,
+    988,
+]
+size = [
+    35,
+    22,
+]
+frame_offset = [
+    12,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_45]
+pos = [
+    176,
+    878,
+]
+size = [
+    36,
+    108,
+]
+frame_offset = [
+    12,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_46]
+pos = [
+    128,
+    923,
+]
+size = [
+    36,
+    98,
+]
+frame_offset = [
+    12,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_47]
+pos = [
+    414,
+    683,
+]
+size = [
+    35,
+    108,
+]
+frame_offset = [
+    12,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_48]
+pos = [
+    227,
+    789,
+]
+size = [
+    37,
+    48,
+]
+frame_offset = [
+    14,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_49]
+pos = [
+    84,
+    942,
+]
+size = [
+    37,
+    48,
+]
+frame_offset = [
+    14,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_5]
+pos = [
+    936,
+    172,
+]
+size = [
+    52,
+    56,
+]
+frame_offset = [
+    3,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_50]
+pos = [
+    279,
+    747,
+]
+size = [
+    37,
+    48,
+]
+frame_offset = [
+    13,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_51]
+pos = [
+    418,
+    633,
+]
+size = [
+    37,
+    48,
+]
+frame_offset = [
+    13,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_52]
+pos = [
+    142,
+    696,
+]
+size = [
+    43,
+    34,
+]
+frame_offset = [
+    10,
+    88,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_53]
+pos = [
+    300,
+    510,
+]
+size = [
+    43,
+    35,
+]
+frame_offset = [
+    12,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_54]
+pos = [
+    409,
+    951,
+]
+size = [
+    32,
+    45,
+]
+frame_offset = [
+    2,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_55]
+pos = [
+    635,
+    752,
+]
+size = [
+    32,
+    45,
+]
+frame_offset = [
+    28,
+    25,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_56]
+pos = [
+    974,
+    288,
+]
+size = [
+    48,
+    59,
+]
+frame_offset = [
+    7,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_57]
+pos = [
+    846,
+    434,
+]
+size = [
+    49,
+    59,
+]
+frame_offset = [
+    3,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_58]
+pos = [
+    100,
+    512,
+]
+size = [
+    47,
+    60,
+]
+frame_offset = [
+    11,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_59]
+pos = [
+    857,
+    372,
+]
+size = [
+    49,
+    60,
+]
+frame_offset = [
+    7,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_6]
+pos = [
+    936,
+    230,
+]
+size = [
+    51,
+    56,
+]
+frame_offset = [
+    10,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_60]
+pos = [
+    50,
+    567,
+]
+size = [
+    48,
+    50,
+]
+frame_offset = [
+    7,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_61]
+pos = [
+    48,
+    721,
+]
+size = [
+    45,
+    45,
+]
+frame_offset = [
+    7,
+    78,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_62]
+pos = [
+    196,
+    572,
+]
+size = [
+    45,
+    45,
+]
+frame_offset = [
+    11,
+    78,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_63]
+pos = [
+    637,
+    247,
+]
+size = [
+    56,
+    50,
+]
+frame_offset = [
+    0,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_64]
+pos = [
+    50,
+    511,
+]
+size = [
+    48,
+    54,
+]
+frame_offset = [
+    7,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_65]
+pos = [
+    0,
+    567,
+]
+size = [
+    48,
+    54,
+]
+frame_offset = [
+    9,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_66]
+pos = [
+    690,
+    602,
+]
+size = [
+    33,
+    102,
+]
+frame_offset = [
+    1,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_67]
+pos = [
+    866,
+    495,
+]
+size = [
+    32,
+    102,
+]
+frame_offset = [
+    30,
+    11,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_68]
+pos = [
+    900,
+    463,
+]
+size = [
+    32,
+    81,
+]
+frame_offset = [
+    22,
+    37,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_69]
+pos = [
+    663,
+    980,
+]
+size = [
+    25,
+    41,
+]
+frame_offset = [
+    13,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_7]
+pos = [
+    637,
+    189,
+]
+size = [
+    57,
+    56,
+]
+frame_offset = [
+    4,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_70]
+pos = [
+    697,
+    975,
+]
+size = [
+    24,
+    43,
+]
+frame_offset = [
+    26,
+    31,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_71]
+pos = [
+    702,
+    799,
+]
+size = [
+    28,
+    82,
+]
+frame_offset = [
+    14,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_72]
+pos = [
+    563,
+    439,
+]
+size = [
+    53,
+    61,
+]
+frame_offset = [
+    7,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_73]
+pos = [
+    804,
+    298,
+]
+size = [
+    52,
+    55,
+]
+frame_offset = [
+    2,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_74]
+pos = [
+    674,
+    430,
+]
+size = [
+    52,
+    55,
+]
+frame_offset = [
+    8,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_75]
+pos = [
+    940,
+    109,
+]
+size = [
+    52,
+    61,
+]
+frame_offset = [
+    3,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_76]
+pos = [
+    642,
+    123,
+]
+size = [
+    58,
+    64,
+]
+frame_offset = [
+    5,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_77]
+pos = [
+    197,
+    126,
+]
+size = [
+    63,
+    59,
+]
+frame_offset = [
+    0,
+    66,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_78]
+pos = [
+    0,
+    65,
+]
+size = [
+    64,
+    58,
+]
+frame_offset = [
+    0,
+    67,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_79]
+pos = [
+    577,
+    189,
+]
+size = [
+    58,
+    63,
+]
+frame_offset = [
+    0,
+    65,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_8]
+pos = [
+    762,
+    679,
+]
+size = [
+    30,
+    73,
+]
+frame_offset = [
+    15,
+    43,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_80]
+pos = [
+    992,
+    904,
+]
+size = [
+    19,
+    51,
+]
+frame_offset = [
+    43,
+    57,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_81]
+pos = [
+    374,
+    835,
+]
+size = [
+    24,
+    54,
+]
+frame_offset = [
+    30,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_82]
+pos = [
+    816,
+    909,
+]
+size = [
+    23,
+    53,
+]
+frame_offset = [
+    10,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_83]
+pos = [
+    970,
+    912,
+]
+size = [
+    20,
+    52,
+]
+frame_offset = [
+    1,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_84]
+pos = [
+    932,
+    597,
+]
+size = [
+    28,
+    27,
+]
+frame_offset = [
+    5,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_85]
+pos = [
+    564,
+    823,
+]
+size = [
+    32,
+    29,
+]
+frame_offset = [
+    1,
+    73,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_86]
+pos = [
+    725,
+    669,
+]
+size = [
+    32,
+    29,
+]
+frame_offset = [
+    1,
+    72,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_87]
+pos = [
+    601,
+    720,
+]
+size = [
+    20,
+    23,
+]
+frame_offset = [
+    1,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_9]
+pos = [
+    794,
+    669,
+]
+size = [
+    30,
+    72,
+]
+frame_offset = [
+    21,
+    45,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_92]
+pos = [
+    593,
+    998,
+]
+size = [
+    17,
+    21,
+]
+frame_offset = [
+    45,
+    87,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_93]
+pos = [
+    443,
+    951,
+]
+size = [
+    32,
+    27,
+]
+frame_offset = [
+    30,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_94]
+pos = [
+    661,
+    706,
+]
+size = [
+    32,
+    27,
+]
+frame_offset = [
+    30,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_95]
+pos = [
+    592,
+    580,
+]
+size = [
+    25,
+    23,
+]
+frame_offset = [
+    30,
+    78,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_96]
+pos = [
+    0,
+    320,
+]
+size = [
+    62,
+    61,
+]
+frame_offset = [
+    1,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_97]
+pos = [
+    64,
+    301,
+]
+size = [
+    62,
+    61,
+]
+frame_offset = [
+    2,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_98]
+pos = [
+    256,
+    345,
+]
+size = [
+    61,
+    60,
+]
+frame_offset = [
+    2,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_community_medical_01_99]
+pos = [
+    190,
+    414,
+]
+size = [
+    61,
+    60,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]

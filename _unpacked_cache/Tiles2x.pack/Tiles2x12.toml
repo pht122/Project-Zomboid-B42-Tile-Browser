@@ -1,0 +1,2051 @@
+["books&misc_02_100"]
+pos = [
+    207,
+    875,
+]
+size = [
+    93,
+    52,
+]
+frame_offset = [
+    12,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_101"]
+pos = [
+    989,
+    24,
+]
+size = [
+    22,
+    22,
+]
+frame_offset = [
+    90,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_102"]
+pos = [
+    823,
+    857,
+]
+size = [
+    62,
+    50,
+]
+frame_offset = [
+    51,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_103"]
+pos = [
+    294,
+    965,
+]
+size = [
+    80,
+    46,
+]
+frame_offset = [
+    38,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_104"]
+pos = [
+    811,
+    535,
+]
+size = [
+    78,
+    107,
+]
+frame_offset = [
+    44,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_105"]
+pos = [
+    502,
+    845,
+]
+size = [
+    77,
+    119,
+]
+frame_offset = [
+    1,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_106"]
+pos = [
+    724,
+    595,
+]
+size = [
+    80,
+    116,
+]
+frame_offset = [
+    41,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_107"]
+pos = [
+    706,
+    713,
+]
+size = [
+    77,
+    115,
+]
+frame_offset = [
+    2,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_108"]
+pos = [
+    806,
+    644,
+]
+size = [
+    77,
+    107,
+]
+frame_offset = [
+    45,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_109"]
+pos = [
+    891,
+    498,
+]
+size = [
+    77,
+    119,
+]
+frame_offset = [
+    1,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_110"]
+pos = [
+    785,
+    753,
+]
+size = [
+    74,
+    102,
+]
+frame_offset = [
+    46,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_111"]
+pos = [
+    600,
+    761,
+]
+size = [
+    77,
+    175,
+]
+frame_offset = [
+    0,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_116"]
+pos = [
+    253,
+    246,
+]
+size = [
+    3,
+    2,
+]
+frame_offset = [
+    125,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_117"]
+pos = [
+    127,
+    216,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_96"]
+pos = [
+    635,
+    0,
+]
+size = [
+    118,
+    184,
+]
+frame_offset = [
+    10,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_97"]
+pos = [
+    861,
+    296,
+]
+size = [
+    110,
+    82,
+]
+frame_offset = [
+    6,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_98"]
+pos = [
+    581,
+    938,
+]
+size = [
+    74,
+    59,
+]
+frame_offset = [
+    14,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["books&misc_02_99"]
+pos = [
+    989,
+    0,
+]
+size = [
+    25,
+    22,
+]
+frame_offset = [
+    12,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_0]
+pos = [
+    201,
+    929,
+]
+size = [
+    91,
+    74,
+]
+frame_offset = [
+    25,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_1]
+pos = [
+    623,
+    621,
+]
+size = [
+    87,
+    67,
+]
+frame_offset = [
+    29,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_10]
+pos = [
+    979,
+    246,
+]
+size = [
+    34,
+    24,
+]
+frame_offset = [
+    46,
+    211,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_11]
+pos = [
+    979,
+    218,
+]
+size = [
+    35,
+    26,
+]
+frame_offset = [
+    41,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_12]
+pos = [
+    989,
+    48,
+]
+size = [
+    22,
+    18,
+]
+frame_offset = [
+    42,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_13]
+pos = [
+    816,
+    469,
+]
+size = [
+    39,
+    26,
+]
+frame_offset = [
+    43,
+    208,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_14]
+pos = [
+    973,
+    343,
+]
+size = [
+    32,
+    26,
+]
+frame_offset = [
+    43,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_15]
+pos = [
+    973,
+    371,
+]
+size = [
+    30,
+    19,
+]
+frame_offset = [
+    46,
+    212,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_16]
+pos = [
+    861,
+    753,
+]
+size = [
+    74,
+    85,
+]
+frame_offset = [
+    45,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_17]
+pos = [
+    0,
+    500,
+]
+size = [
+    109,
+    90,
+]
+frame_offset = [
+    2,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_18]
+pos = [
+    537,
+    492,
+]
+size = [
+    94,
+    109,
+]
+frame_offset = [
+    3,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_19]
+pos = [
+    106,
+    848,
+]
+size = [
+    99,
+    74,
+]
+frame_offset = [
+    17,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_2]
+pos = [
+    106,
+    924,
+]
+size = [
+    93,
+    74,
+]
+frame_offset = [
+    22,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_20]
+pos = [
+    755,
+    889,
+]
+size = [
+    62,
+    85,
+]
+frame_offset = [
+    54,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_21]
+pos = [
+    111,
+    500,
+]
+size = [
+    108,
+    109,
+]
+frame_offset = [
+    12,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_22]
+pos = [
+    516,
+    735,
+]
+size = [
+    82,
+    108,
+]
+frame_offset = [
+    8,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_23]
+pos = [
+    393,
+    899,
+]
+size = [
+    82,
+    52,
+]
+frame_offset = [
+    25,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_24]
+pos = [
+    679,
+    830,
+]
+size = [
+    74,
+    103,
+]
+frame_offset = [
+    44,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_25]
+pos = [
+    861,
+    380,
+]
+size = [
+    109,
+    116,
+]
+frame_offset = [
+    13,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_26]
+pos = [
+    891,
+    619,
+]
+size = [
+    74,
+    105,
+]
+frame_offset = [
+    4,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_27]
+pos = [
+    724,
+    535,
+]
+size = [
+    85,
+    58,
+]
+frame_offset = [
+    3,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_28]
+pos = [
+    937,
+    726,
+]
+size = [
+    60,
+    97,
+]
+frame_offset = [
+    47,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_29]
+pos = [
+    512,
+    0,
+]
+size = [
+    121,
+    100,
+]
+frame_offset = [
+    7,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_3]
+pos = [
+    726,
+    469,
+]
+size = [
+    88,
+    64,
+]
+frame_offset = [
+    23,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_30]
+pos = [
+    318,
+    761,
+]
+size = [
+    94,
+    100,
+]
+frame_offset = [
+    4,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_31]
+pos = [
+    657,
+    938,
+]
+size = [
+    73,
+    52,
+]
+frame_offset = [
+    26,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_32]
+pos = [
+    633,
+    530,
+]
+size = [
+    89,
+    89,
+]
+frame_offset = [
+    37,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_33]
+pos = [
+    220,
+    639,
+]
+size = [
+    103,
+    101,
+]
+frame_offset = [
+    5,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_34]
+pos = [
+    302,
+    875,
+]
+size = [
+    89,
+    88,
+]
+frame_offset = [
+    25,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_35]
+pos = [
+    330,
+    508,
+]
+size = [
+    102,
+    99,
+]
+frame_offset = [
+    11,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_4]
+pos = [
+    214,
+    794,
+]
+size = [
+    95,
+    79,
+]
+frame_offset = [
+    16,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_48]
+pos = [
+    979,
+    272,
+]
+size = [
+    34,
+    19,
+]
+frame_offset = [
+    42,
+    214,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_49]
+pos = [
+    755,
+    857,
+]
+size = [
+    66,
+    30,
+]
+frame_offset = [
+    46,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_5]
+pos = [
+    422,
+    696,
+]
+size = [
+    92,
+    72,
+]
+frame_offset = [
+    21,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_50]
+pos = [
+    330,
+    477,
+]
+size = [
+    36,
+    18,
+]
+frame_offset = [
+    70,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_51]
+pos = [
+    0,
+    997,
+]
+size = [
+    33,
+    18,
+]
+frame_offset = [
+    31,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_52]
+pos = [
+    973,
+    296,
+]
+size = [
+    41,
+    45,
+]
+frame_offset = [
+    45,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_53]
+pos = [
+    70,
+    997,
+]
+size = [
+    32,
+    16,
+]
+frame_offset = [
+    38,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_54]
+pos = [
+    35,
+    997,
+]
+size = [
+    33,
+    18,
+]
+frame_offset = [
+    51,
+    226,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_55]
+pos = [
+    972,
+    392,
+]
+size = [
+    30,
+    16,
+]
+frame_offset = [
+    84,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_6]
+pos = [
+    622,
+    690,
+]
+size = [
+    82,
+    69,
+]
+frame_offset = [
+    30,
+    179,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_7]
+pos = [
+    414,
+    770,
+]
+size = [
+    88,
+    73,
+]
+frame_offset = [
+    24,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_8]
+pos = [
+    816,
+    497,
+]
+size = [
+    32,
+    27,
+]
+frame_offset = [
+    49,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[boulders_9]
+pos = [
+    989,
+    68,
+]
+size = [
+    18,
+    17,
+]
+frame_offset = [
+    37,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[brokenglass_1_0]
+pos = [
+    531,
+    603,
+]
+size = [
+    90,
+    49,
+]
+frame_offset = [
+    19,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[brokenglass_1_1]
+pos = [
+    434,
+    508,
+]
+size = [
+    101,
+    52,
+]
+frame_offset = [
+    15,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[brokenglass_1_2]
+pos = [
+    0,
+    945,
+]
+size = [
+    99,
+    50,
+]
+frame_offset = [
+    14,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[brokenglass_1_3]
+pos = [
+    217,
+    742,
+]
+size = [
+    99,
+    50,
+]
+frame_offset = [
+    11,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_0]
+pos = [
+    130,
+    115,
+]
+size = [
+    126,
+    129,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_1]
+pos = [
+    434,
+    562,
+]
+size = [
+    95,
+    128,
+]
+frame_offset = [
+    29,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_10]
+pos = [
+    253,
+    348,
+]
+size = [
+    121,
+    127,
+]
+frame_offset = [
+    5,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_11]
+pos = [
+    127,
+    376,
+]
+size = [
+    124,
+    110,
+]
+frame_offset = [
+    0,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_12]
+pos = [
+    258,
+    235,
+]
+size = [
+    124,
+    111,
+]
+frame_offset = [
+    2,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_13]
+pos = [
+    384,
+    301,
+]
+size = [
+    121,
+    126,
+]
+frame_offset = [
+    0,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_14]
+pos = [
+    511,
+    102,
+]
+size = [
+    120,
+    128,
+]
+frame_offset = [
+    0,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_15]
+pos = [
+    130,
+    0,
+]
+size = [
+    127,
+    113,
+]
+frame_offset = [
+    1,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_16]
+pos = [
+    0,
+    667,
+]
+size = [
+    107,
+    146,
+]
+frame_offset = [
+    18,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_17]
+pos = [
+    819,
+    909,
+]
+size = [
+    59,
+    95,
+]
+frame_offset = [
+    17,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_18]
+pos = [
+    887,
+    840,
+]
+size = [
+    59,
+    95,
+]
+frame_offset = [
+    53,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_19]
+pos = [
+    747,
+    294,
+]
+size = [
+    112,
+    98,
+]
+frame_offset = [
+    7,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_2]
+pos = [
+    0,
+    815,
+]
+size = [
+    104,
+    128,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_20]
+pos = [
+    624,
+    346,
+]
+size = [
+    112,
+    101,
+]
+frame_offset = [
+    7,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_21]
+pos = [
+    948,
+    825,
+]
+size = [
+    59,
+    93,
+]
+frame_offset = [
+    18,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_22]
+pos = [
+    948,
+    920,
+]
+size = [
+    58,
+    93,
+]
+frame_offset = [
+    51,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_24]
+pos = [
+    507,
+    412,
+]
+size = [
+    113,
+    78,
+]
+frame_offset = [
+    6,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_25]
+pos = [
+    738,
+    394,
+]
+size = [
+    111,
+    73,
+]
+frame_offset = [
+    0,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_26]
+pos = [
+    0,
+    342,
+]
+size = [
+    125,
+    77,
+]
+frame_offset = [
+    3,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_27]
+pos = [
+    111,
+    611,
+]
+size = [
+    107,
+    71,
+]
+frame_offset = [
+    0,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_28]
+pos = [
+    633,
+    449,
+]
+size = [
+    91,
+    79,
+]
+frame_offset = [
+    24,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_29]
+pos = [
+    387,
+    0,
+]
+size = [
+    123,
+    77,
+]
+frame_offset = [
+    3,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_3]
+pos = [
+    0,
+    216,
+]
+size = [
+    125,
+    124,
+]
+frame_offset = [
+    0,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_30]
+pos = [
+    631,
+    264,
+]
+size = [
+    114,
+    80,
+]
+frame_offset = [
+    14,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_31]
+pos = [
+    376,
+    429,
+]
+size = [
+    116,
+    77,
+]
+frame_offset = [
+    0,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_32]
+pos = [
+    633,
+    186,
+]
+size = [
+    116,
+    76,
+]
+frame_offset = [
+    10,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_33]
+pos = [
+    507,
+    327,
+]
+size = [
+    115,
+    83,
+]
+frame_offset = [
+    13,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_34]
+pos = [
+    511,
+    232,
+]
+size = [
+    118,
+    93,
+]
+frame_offset = [
+    4,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_35]
+pos = [
+    531,
+    654,
+]
+size = [
+    89,
+    79,
+]
+frame_offset = [
+    13,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_36]
+pos = [
+    221,
+    566,
+]
+size = [
+    107,
+    71,
+]
+frame_offset = [
+    21,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_37]
+pos = [
+    0,
+    421,
+]
+size = [
+    123,
+    77,
+]
+frame_offset = [
+    0,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_38]
+pos = [
+    0,
+    592,
+]
+size = [
+    109,
+    73,
+]
+frame_offset = [
+    17,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_39]
+pos = [
+    751,
+    214,
+]
+size = [
+    113,
+    78,
+]
+frame_offset = [
+    6,
+    176,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_4]
+pos = [
+    414,
+    845,
+]
+size = [
+    86,
+    52,
+]
+frame_offset = [
+    19,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_40]
+pos = [
+    109,
+    684,
+]
+size = [
+    106,
+    87,
+]
+frame_offset = [
+    11,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_41]
+pos = [
+    221,
+    488,
+]
+size = [
+    107,
+    76,
+]
+frame_offset = [
+    6,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_42]
+pos = [
+    866,
+    218,
+]
+size = [
+    111,
+    76,
+]
+frame_offset = [
+    6,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_43]
+pos = [
+    330,
+    609,
+]
+size = [
+    101,
+    85,
+]
+frame_offset = [
+    7,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_48]
+pos = [
+    387,
+    79,
+]
+size = [
+    122,
+    220,
+]
+frame_offset = [
+    0,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_49]
+pos = [
+    755,
+    0,
+]
+size = [
+    116,
+    212,
+]
+frame_offset = [
+    0,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_5]
+pos = [
+    376,
+    965,
+]
+size = [
+    75,
+    46,
+]
+frame_offset = [
+    27,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_50]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    214,
+]
+frame_offset = [
+    0,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_51]
+pos = [
+    109,
+    773,
+]
+size = [
+    103,
+    73,
+]
+frame_offset = [
+    0,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_52]
+pos = [
+    325,
+    696,
+]
+size = [
+    95,
+    63,
+]
+frame_offset = [
+    1,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_53]
+pos = [
+    873,
+    0,
+]
+size = [
+    114,
+    216,
+]
+frame_offset = [
+    0,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_6]
+pos = [
+    453,
+    966,
+]
+size = [
+    70,
+    43,
+]
+frame_offset = [
+    30,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_8]
+pos = [
+    127,
+    246,
+]
+size = [
+    124,
+    128,
+]
+frame_offset = [
+    4,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_9]
+pos = [
+    259,
+    0,
+]
+size = [
+    126,
+    233,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]

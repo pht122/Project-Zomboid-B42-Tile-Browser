@@ -1,0 +1,1385 @@
+[location_restaurant_bar_01_100]
+pos = [
+    954,
+    0,
+]
+size = [
+    64,
+    128,
+]
+frame_offset = [
+    60,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_101]
+pos = [
+    86,
+    773,
+]
+size = [
+    68,
+    66,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_102]
+pos = [
+    86,
+    841,
+]
+size = [
+    66,
+    115,
+]
+frame_offset = [
+    0,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_103]
+pos = [
+    482,
+    919,
+]
+size = [
+    66,
+    81,
+]
+frame_offset = [
+    0,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_104]
+pos = [
+    823,
+    606,
+]
+size = [
+    66,
+    178,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_105]
+pos = [
+    390,
+    228,
+]
+size = [
+    114,
+    178,
+]
+frame_offset = [
+    14,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_106]
+pos = [
+    120,
+    378,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_112]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    187,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_113]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    187,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_114]
+pos = [
+    0,
+    500,
+]
+size = [
+    93,
+    187,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_115]
+pos = [
+    762,
+    0,
+]
+size = [
+    94,
+    187,
+]
+frame_offset = [
+    33,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_116]
+pos = [
+    646,
+    119,
+]
+size = [
+    94,
+    187,
+]
+frame_offset = [
+    33,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_117]
+pos = [
+    858,
+    0,
+]
+size = [
+    94,
+    187,
+]
+frame_offset = [
+    33,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_120]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    187,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_121]
+pos = [
+    0,
+    189,
+]
+size = [
+    128,
+    187,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_122]
+pos = [
+    95,
+    500,
+]
+size = [
+    93,
+    187,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_123]
+pos = [
+    742,
+    189,
+]
+size = [
+    94,
+    187,
+]
+frame_offset = [
+    33,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_124]
+pos = [
+    620,
+    308,
+]
+size = [
+    94,
+    187,
+]
+frame_offset = [
+    33,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_125]
+pos = [
+    838,
+    189,
+]
+size = [
+    94,
+    187,
+]
+frame_offset = [
+    33,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_90]
+pos = [
+    920,
+    417,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_91]
+pos = [
+    276,
+    542,
+]
+size = [
+    68,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_92]
+pos = [
+    130,
+    189,
+]
+size = [
+    128,
+    162,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_93]
+pos = [
+    346,
+    542,
+]
+size = [
+    67,
+    98,
+]
+frame_offset = [
+    60,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_94]
+pos = [
+    506,
+    346,
+]
+size = [
+    68,
+    115,
+]
+frame_offset = [
+    60,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_95]
+pos = [
+    0,
+    891,
+]
+size = [
+    67,
+    81,
+]
+frame_offset = [
+    60,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_96]
+pos = [
+    753,
+    910,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    2,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_97]
+pos = [
+    687,
+    834,
+]
+size = [
+    64,
+    128,
+]
+frame_offset = [
+    2,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_98]
+pos = [
+    891,
+    645,
+]
+size = [
+    64,
+    192,
+]
+frame_offset = [
+    2,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_99]
+pos = [
+    823,
+    786,
+]
+size = [
+    64,
+    192,
+]
+frame_offset = [
+    60,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_on_68]
+pos = [
+    0,
+    689,
+]
+size = [
+    84,
+    200,
+]
+frame_offset = [
+    40,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_01_on_69]
+pos = [
+    190,
+    642,
+]
+size = [
+    68,
+    183,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_10]
+pos = [
+    154,
+    841,
+]
+size = [
+    66,
+    92,
+]
+frame_offset = [
+    58,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_11]
+pos = [
+    222,
+    827,
+]
+size = [
+    27,
+    67,
+]
+frame_offset = [
+    60,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_12]
+pos = [
+    190,
+    474,
+]
+size = [
+    84,
+    82,
+]
+frame_offset = [
+    39,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_13]
+pos = [
+    190,
+    558,
+]
+size = [
+    84,
+    82,
+]
+frame_offset = [
+    3,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_14]
+pos = [
+    276,
+    458,
+]
+size = [
+    84,
+    82,
+]
+frame_offset = [
+    3,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_15]
+pos = [
+    86,
+    689,
+]
+size = [
+    84,
+    82,
+]
+frame_offset = [
+    3,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_16]
+pos = [
+    619,
+    497,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_17]
+pos = [
+    716,
+    378,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_18]
+pos = [
+    390,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_19]
+pos = [
+    940,
+    874,
+]
+size = [
+    40,
+    128,
+]
+frame_offset = [
+    26,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_20]
+pos = [
+    378,
+    408,
+]
+size = [
+    79,
+    131,
+]
+frame_offset = [
+    2,
+    28,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_21]
+pos = [
+    1002,
+    130,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_23]
+pos = [
+    957,
+    748,
+]
+size = [
+    57,
+    124,
+]
+frame_offset = [
+    67,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_24]
+pos = [
+    784,
+    378,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_25]
+pos = [
+    483,
+    691,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_26]
+pos = [
+    414,
+    769,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_27]
+pos = [
+    852,
+    378,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_28]
+pos = [
+    646,
+    0,
+]
+size = [
+    114,
+    117,
+]
+frame_offset = [
+    14,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_29]
+pos = [
+    130,
+    353,
+]
+size = [
+    118,
+    119,
+]
+frame_offset = [
+    0,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_30]
+pos = [
+    0,
+    378,
+]
+size = [
+    118,
+    120,
+]
+frame_offset = [
+    8,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_31]
+pos = [
+    506,
+    228,
+]
+size = [
+    112,
+    116,
+]
+frame_offset = [
+    0,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_32]
+pos = [
+    550,
+    919,
+]
+size = [
+    64,
+    74,
+]
+frame_offset = [
+    60,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_33]
+pos = [
+    69,
+    958,
+]
+size = [
+    65,
+    41,
+]
+frame_offset = [
+    60,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_34]
+pos = [
+    154,
+    935,
+]
+size = [
+    65,
+    41,
+]
+frame_offset = [
+    1,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_35]
+pos = [
+    753,
+    834,
+]
+size = [
+    64,
+    74,
+]
+frame_offset = [
+    2,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_36]
+pos = [
+    222,
+    896,
+]
+size = [
+    27,
+    67,
+]
+frame_offset = [
+    39,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_37]
+pos = [
+    328,
+    870,
+]
+size = [
+    66,
+    92,
+]
+frame_offset = [
+    2,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_38]
+pos = [
+    362,
+    458,
+]
+size = [
+    14,
+    67,
+]
+frame_offset = [
+    4,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_4]
+pos = [
+    576,
+    346,
+]
+size = [
+    30,
+    71,
+]
+frame_offset = [
+    93,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_5]
+pos = [
+    889,
+    839,
+]
+size = [
+    49,
+    88,
+]
+frame_offset = [
+    59,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_8]
+pos = [
+    957,
+    645,
+]
+size = [
+    59,
+    101,
+]
+frame_offset = [
+    2,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_bar_smutz_9]
+pos = [
+    620,
+    228,
+]
+size = [
+    14,
+    67,
+]
+frame_offset = [
+    108,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_0]
+pos = [
+    415,
+    541,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_1]
+pos = [
+    934,
+    189,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_10]
+pos = [
+    483,
+    463,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_11]
+pos = [
+    346,
+    642,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_12]
+pos = [
+    551,
+    463,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_13]
+pos = [
+    260,
+    770,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_2]
+pos = [
+    518,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_3]
+pos = [
+    1010,
+    130,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_4]
+pos = [
+    551,
+    691,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_5]
+pos = [
+    687,
+    606,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_6]
+pos = [
+    260,
+    189,
+]
+size = [
+    128,
+    135,
+]
+frame_offset = [
+    0,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_7]
+pos = [
+    260,
+    326,
+]
+size = [
+    116,
+    130,
+]
+frame_offset = [
+    0,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_8]
+pos = [
+    619,
+    725,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_diner_01_9]
+pos = [
+    755,
+    606,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

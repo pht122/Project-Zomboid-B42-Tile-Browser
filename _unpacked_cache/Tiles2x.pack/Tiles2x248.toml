@@ -1,0 +1,1997 @@
+[walls_detailing_02_10]
+pos = [
+    712,
+    339,
+]
+size = [
+    66,
+    74,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_11]
+pos = [
+    204,
+    930,
+]
+size = [
+    64,
+    55,
+]
+frame_offset = [
+    0,
+    41,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_12]
+pos = [
+    340,
+    727,
+]
+size = [
+    66,
+    87,
+]
+frame_offset = [
+    62,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_13]
+pos = [
+    656,
+    933,
+]
+size = [
+    32,
+    65,
+]
+frame_offset = [
+    0,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_14]
+pos = [
+    328,
+    343,
+]
+size = [
+    6,
+    42,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_15]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    53,
+]
+frame_offset = [
+    0,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_16]
+pos = [
+    419,
+    203,
+]
+size = [
+    76,
+    219,
+]
+frame_offset = [
+    0,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_17]
+pos = [
+    337,
+    279,
+]
+size = [
+    77,
+    218,
+]
+frame_offset = [
+    49,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_18]
+pos = [
+    405,
+    863,
+]
+size = [
+    61,
+    118,
+]
+frame_offset = [
+    56,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_19]
+pos = [
+    473,
+    809,
+]
+size = [
+    59,
+    117,
+]
+frame_offset = [
+    11,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_20]
+pos = [
+    554,
+    94,
+]
+size = [
+    75,
+    166,
+]
+frame_offset = [
+    51,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_21]
+pos = [
+    476,
+    0,
+]
+size = [
+    76,
+    185,
+]
+frame_offset = [
+    2,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_22]
+pos = [
+    709,
+    0,
+]
+size = [
+    75,
+    161,
+]
+frame_offset = [
+    50,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_23]
+pos = [
+    632,
+    0,
+]
+size = [
+    75,
+    178,
+]
+frame_offset = [
+    1,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_24]
+pos = [
+    561,
+    663,
+]
+size = [
+    63,
+    52,
+]
+frame_offset = [
+    65,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_25]
+pos = [
+    806,
+    635,
+]
+size = [
+    42,
+    213,
+]
+frame_offset = [
+    42,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_26]
+pos = [
+    779,
+    446,
+]
+size = [
+    62,
+    52,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_27]
+pos = [
+    712,
+    469,
+]
+size = [
+    63,
+    73,
+]
+frame_offset = [
+    63,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_28]
+pos = [
+    561,
+    587,
+]
+size = [
+    63,
+    74,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_29]
+pos = [
+    386,
+    47,
+]
+size = [
+    86,
+    55,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_3]
+pos = [
+    996,
+    507,
+]
+size = [
+    24,
+    202,
+]
+frame_offset = [
+    51,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_30]
+pos = [
+    574,
+    262,
+]
+size = [
+    44,
+    34,
+]
+frame_offset = [
+    42,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_31]
+pos = [
+    292,
+    397,
+]
+size = [
+    43,
+    35,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_32]
+pos = [
+    408,
+    734,
+]
+size = [
+    64,
+    52,
+]
+frame_offset = [
+    22,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_33]
+pos = [
+    952,
+    507,
+]
+size = [
+    42,
+    213,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_34]
+pos = [
+    270,
+    955,
+]
+size = [
+    62,
+    52,
+]
+frame_offset = [
+    22,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_35]
+pos = [
+    408,
+    788,
+]
+size = [
+    63,
+    73,
+]
+frame_offset = [
+    21,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_36]
+pos = [
+    780,
+    370,
+]
+size = [
+    63,
+    74,
+]
+frame_offset = [
+    22,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_37]
+pos = [
+    292,
+    434,
+]
+size = [
+    43,
+    35,
+]
+frame_offset = [
+    41,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_38]
+pos = [
+    646,
+    322,
+]
+size = [
+    43,
+    35,
+]
+frame_offset = [
+    41,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_39]
+pos = [
+    46,
+    968,
+]
+size = [
+    43,
+    35,
+]
+frame_offset = [
+    83,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_4]
+pos = [
+    687,
+    711,
+]
+size = [
+    53,
+    220,
+]
+frame_offset = [
+    36,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_40]
+pos = [
+    785,
+    316,
+]
+size = [
+    65,
+    52,
+]
+frame_offset = [
+    42,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_41]
+pos = [
+    850,
+    620,
+]
+size = [
+    42,
+    213,
+]
+frame_offset = [
+    84,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_42]
+pos = [
+    340,
+    892,
+]
+size = [
+    62,
+    52,
+]
+frame_offset = [
+    42,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_43]
+pos = [
+    474,
+    734,
+]
+size = [
+    63,
+    73,
+]
+frame_offset = [
+    41,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_44]
+pos = [
+    340,
+    816,
+]
+size = [
+    63,
+    74,
+]
+frame_offset = [
+    42,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_45]
+pos = [
+    91,
+    968,
+]
+size = [
+    42,
+    35,
+]
+frame_offset = [
+    64,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_46]
+pos = [
+    128,
+    400,
+]
+size = [
+    84,
+    56,
+]
+frame_offset = [
+    0,
+    22,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_47]
+pos = [
+    249,
+    285,
+]
+size = [
+    84,
+    56,
+]
+frame_offset = [
+    42,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_48]
+pos = [
+    712,
+    415,
+]
+size = [
+    65,
+    52,
+]
+frame_offset = [
+    0,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_49]
+pos = [
+    894,
+    729,
+]
+size = [
+    42,
+    213,
+]
+frame_offset = [
+    42,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_5]
+pos = [
+    601,
+    783,
+]
+size = [
+    53,
+    220,
+]
+frame_offset = [
+    37,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_50]
+pos = [
+    699,
+    544,
+]
+size = [
+    62,
+    52,
+]
+frame_offset = [
+    64,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_51]
+pos = [
+    626,
+    590,
+]
+size = [
+    62,
+    73,
+]
+frame_offset = [
+    0,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_52]
+pos = [
+    634,
+    514,
+]
+size = [
+    63,
+    74,
+]
+frame_offset = [
+    64,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_53]
+pos = [
+    249,
+    228,
+]
+size = [
+    86,
+    55,
+]
+frame_offset = [
+    42,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_54]
+pos = [
+    0,
+    967,
+]
+size = [
+    44,
+    34,
+]
+frame_offset = [
+    20,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_55]
+pos = [
+    497,
+    209,
+]
+size = [
+    45,
+    35,
+]
+frame_offset = [
+    42,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_56]
+pos = [
+    539,
+    719,
+]
+size = [
+    60,
+    133,
+]
+frame_offset = [
+    68,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_57]
+pos = [
+    786,
+    0,
+]
+size = [
+    75,
+    140,
+]
+frame_offset = [
+    51,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_58]
+pos = [
+    863,
+    125,
+]
+size = [
+    67,
+    138,
+]
+frame_offset = [
+    9,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_59]
+pos = [
+    566,
+    449,
+]
+size = [
+    66,
+    136,
+]
+frame_offset = [
+    0,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_6]
+pos = [
+    751,
+    635,
+]
+size = [
+    53,
+    220,
+]
+frame_offset = [
+    73,
+    17,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_60]
+pos = [
+    777,
+    500,
+]
+size = [
+    60,
+    133,
+]
+frame_offset = [
+    68,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_61]
+pos = [
+    631,
+    180,
+]
+size = [
+    75,
+    140,
+]
+frame_offset = [
+    51,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_62]
+pos = [
+    128,
+    228,
+]
+size = [
+    119,
+    170,
+]
+frame_offset = [
+    9,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_63]
+pos = [
+    644,
+    373,
+]
+size = [
+    66,
+    139,
+]
+frame_offset = [
+    0,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_64]
+pos = [
+    709,
+    163,
+]
+size = [
+    74,
+    174,
+]
+frame_offset = [
+    7,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_65]
+pos = [
+    786,
+    142,
+]
+size = [
+    74,
+    172,
+]
+frame_offset = [
+    51,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_66]
+pos = [
+    574,
+    322,
+]
+size = [
+    70,
+    49,
+]
+frame_offset = [
+    58,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_67]
+pos = [
+    493,
+    440,
+]
+size = [
+    71,
+    49,
+]
+frame_offset = [
+    4,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_68]
+pos = [
+    249,
+    343,
+]
+size = [
+    77,
+    52,
+]
+frame_offset = [
+    51,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_69]
+pos = [
+    128,
+    458,
+]
+size = [
+    78,
+    52,
+]
+frame_offset = [
+    0,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_7]
+pos = [
+    897,
+    507,
+]
+size = [
+    53,
+    220,
+]
+frame_offset = [
+    0,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_70]
+pos = [
+    690,
+    598,
+]
+size = [
+    59,
+    111,
+]
+frame_offset = [
+    65,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_71]
+pos = [
+    534,
+    854,
+]
+size = [
+    56,
+    111,
+]
+frame_offset = [
+    9,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_72]
+pos = [
+    340,
+    946,
+]
+size = [
+    59,
+    56,
+]
+frame_offset = [
+    65,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_73]
+pos = [
+    468,
+    928,
+]
+size = [
+    56,
+    57,
+]
+frame_offset = [
+    9,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_74]
+pos = [
+    940,
+    0,
+]
+size = [
+    70,
+    49,
+]
+frame_offset = [
+    57,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_75]
+pos = [
+    863,
+    74,
+]
+size = [
+    71,
+    49,
+]
+frame_offset = [
+    4,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_76]
+pos = [
+    497,
+    365,
+]
+size = [
+    75,
+    73,
+]
+frame_offset = [
+    53,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_77]
+pos = [
+    554,
+    0,
+]
+size = [
+    76,
+    92,
+]
+frame_offset = [
+    4,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_78]
+pos = [
+    416,
+    424,
+]
+size = [
+    75,
+    80,
+]
+frame_offset = [
+    52,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_79]
+pos = [
+    497,
+    262,
+]
+size = [
+    75,
+    101,
+]
+frame_offset = [
+    3,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_8]
+pos = [
+    742,
+    857,
+]
+size = [
+    36,
+    63,
+]
+frame_offset = [
+    92,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_80]
+pos = [
+    863,
+    0,
+]
+size = [
+    75,
+    72,
+]
+frame_offset = [
+    50,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_81]
+pos = [
+    214,
+    400,
+]
+size = [
+    76,
+    72,
+]
+frame_offset = [
+    1,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_82]
+pos = [
+    626,
+    665,
+]
+size = [
+    59,
+    116,
+]
+frame_offset = [
+    62,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_83]
+pos = [
+    839,
+    500,
+]
+size = [
+    56,
+    118,
+]
+frame_offset = [
+    6,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_84]
+pos = [
+    386,
+    0,
+]
+size = [
+    88,
+    45,
+]
+frame_offset = [
+    40,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_85]
+pos = [
+    386,
+    104,
+]
+size = [
+    85,
+    46,
+]
+frame_offset = [
+    0,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_86]
+pos = [
+    386,
+    152,
+]
+size = [
+    83,
+    49,
+]
+frame_offset = [
+    45,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_87]
+pos = [
+    337,
+    228,
+]
+size = [
+    80,
+    49,
+]
+frame_offset = [
+    0,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_88]
+pos = [
+    473,
+    104,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    108,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_89]
+pos = [
+    497,
+    187,
+]
+size = [
+    52,
+    20,
+]
+frame_offset = [
+    11,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_detailing_02_9]
+pos = [
+    574,
+    373,
+]
+size = [
+    68,
+    74,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_0]
+pos = [
+    940,
+    51,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_1]
+pos = [
+    276,
+    499,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_10]
+pos = [
+    862,
+    265,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_11]
+pos = [
+    930,
+    279,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_12]
+pos = [
+    0,
+    511,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_13]
+pos = [
+    68,
+    512,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_14]
+pos = [
+    136,
+    512,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_15]
+pos = [
+    208,
+    474,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_16]
+pos = [
+    0,
+    739,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_17]
+pos = [
+    68,
+    740,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_18]
+pos = [
+    130,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_19]
+pos = [
+    480,
+    506,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_2]
+pos = [
+    0,
+    55,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_20]
+pos = [
+    344,
+    499,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_21]
+pos = [
+    136,
+    740,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_22]
+pos = [
+    258,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_23]
+pos = [
+    1012,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_3]
+pos = [
+    1008,
+    198,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_4]
+pos = [
+    204,
+    702,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_5]
+pos = [
+    412,
+    506,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_6]
+pos = [
+    0,
+    283,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_7]
+pos = [
+    998,
+    279,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_8]
+pos = [
+    493,
+    491,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[walls_exterior_house_01_9]
+pos = [
+    272,
+    727,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

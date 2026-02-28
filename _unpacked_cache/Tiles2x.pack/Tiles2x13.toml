@@ -1,0 +1,1907 @@
+[camping_01_56]
+pos = [
+    667,
+    807,
+]
+size = [
+    94,
+    202,
+]
+frame_offset = [
+    12,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_57]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    75,
+]
+frame_offset = [
+    0,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_58]
+pos = [
+    787,
+    563,
+]
+size = [
+    104,
+    74,
+]
+frame_offset = [
+    23,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_59]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    215,
+]
+frame_offset = [
+    0,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_60]
+pos = [
+    230,
+    482,
+]
+size = [
+    111,
+    214,
+]
+frame_offset = [
+    17,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_61]
+pos = [
+    0,
+    617,
+]
+size = [
+    112,
+    221,
+]
+frame_offset = [
+    14,
+    35,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_64]
+pos = [
+    977,
+    369,
+]
+size = [
+    45,
+    113,
+]
+frame_offset = [
+    38,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_65]
+pos = [
+    763,
+    873,
+]
+size = [
+    41,
+    114,
+]
+frame_offset = [
+    43,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_66]
+pos = [
+    916,
+    770,
+]
+size = [
+    41,
+    234,
+]
+frame_offset = [
+    42,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_67]
+pos = [
+    869,
+    770,
+]
+size = [
+    45,
+    235,
+]
+frame_offset = [
+    37,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_01_69]
+pos = [
+    253,
+    271,
+]
+size = [
+    2,
+    1,
+]
+frame_offset = [
+    62,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_0]
+pos = [
+    0,
+    350,
+]
+size = [
+    126,
+    72,
+]
+frame_offset = [
+    2,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_1]
+pos = [
+    338,
+    847,
+]
+size = [
+    107,
+    64,
+]
+frame_offset = [
+    4,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_10]
+pos = [
+    226,
+    888,
+]
+size = [
+    108,
+    73,
+]
+frame_offset = [
+    12,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_11]
+pos = [
+    746,
+    342,
+]
+size = [
+    114,
+    68,
+]
+frame_offset = [
+    4,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_12]
+pos = [
+    755,
+    79,
+]
+size = [
+    118,
+    69,
+]
+frame_offset = [
+    6,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_13]
+pos = [
+    343,
+    645,
+]
+size = [
+    111,
+    58,
+]
+frame_offset = [
+    5,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_14]
+pos = [
+    679,
+    563,
+]
+size = [
+    106,
+    60,
+]
+frame_offset = [
+    15,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_15]
+pos = [
+    754,
+    216,
+]
+size = [
+    115,
+    62,
+]
+frame_offset = [
+    1,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_16]
+pos = [
+    260,
+    159,
+]
+size = [
+    127,
+    76,
+]
+frame_offset = [
+    1,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_17]
+pos = [
+    0,
+    840,
+]
+size = [
+    111,
+    68,
+]
+frame_offset = [
+    0,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_18]
+pos = [
+    456,
+    577,
+]
+size = [
+    109,
+    71,
+]
+frame_offset = [
+    11,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_19]
+pos = [
+    513,
+    138,
+]
+size = [
+    119,
+    69,
+]
+frame_offset = [
+    0,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_2]
+pos = [
+    113,
+    916,
+]
+size = [
+    109,
+    74,
+]
+frame_offset = [
+    13,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_20]
+pos = [
+    568,
+    571,
+]
+size = [
+    108,
+    70,
+]
+frame_offset = [
+    6,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_21]
+pos = [
+    114,
+    706,
+]
+size = [
+    111,
+    78,
+]
+frame_offset = [
+    4,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_22]
+pos = [
+    862,
+    369,
+]
+size = [
+    113,
+    62,
+]
+frame_offset = [
+    15,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_23]
+pos = [
+    755,
+    150,
+]
+size = [
+    117,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_24]
+pos = [
+    635,
+    0,
+]
+size = [
+    119,
+    73,
+]
+frame_offset = [
+    1,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_25]
+pos = [
+    788,
+    496,
+]
+size = [
+    105,
+    64,
+]
+frame_offset = [
+    7,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_26]
+pos = [
+    339,
+    770,
+]
+size = [
+    108,
+    75,
+]
+frame_offset = [
+    14,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_27]
+pos = [
+    567,
+    643,
+]
+size = [
+    106,
+    68,
+]
+frame_offset = [
+    14,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_28]
+pos = [
+    774,
+    750,
+]
+size = [
+    93,
+    68,
+]
+frame_offset = [
+    8,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_29]
+pos = [
+    870,
+    288,
+]
+size = [
+    113,
+    79,
+]
+frame_offset = [
+    4,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_3]
+pos = [
+    449,
+    776,
+]
+size = [
+    106,
+    67,
+]
+frame_offset = [
+    13,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_30]
+pos = [
+    451,
+    709,
+]
+size = [
+    107,
+    65,
+]
+frame_offset = [
+    15,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_31]
+pos = [
+    679,
+    500,
+]
+size = [
+    107,
+    61,
+]
+frame_offset = [
+    8,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_32]
+pos = [
+    513,
+    209,
+]
+size = [
+    118,
+    81,
+]
+frame_offset = [
+    0,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_33]
+pos = [
+    675,
+    684,
+]
+size = [
+    104,
+    61,
+]
+frame_offset = [
+    6,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_34]
+pos = [
+    635,
+    75,
+]
+size = [
+    118,
+    82,
+]
+frame_offset = [
+    3,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_35]
+pos = [
+    745,
+    412,
+]
+size = [
+    114,
+    65,
+]
+frame_offset = [
+    4,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_36]
+pos = [
+    0,
+    424,
+]
+size = [
+    121,
+    67,
+]
+frame_offset = [
+    5,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_37]
+pos = [
+    874,
+    199,
+]
+size = [
+    114,
+    87,
+]
+frame_offset = [
+    1,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_38]
+pos = [
+    227,
+    762,
+]
+size = [
+    110,
+    65,
+]
+frame_offset = [
+    15,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_39]
+pos = [
+    114,
+    786,
+]
+size = [
+    111,
+    67,
+]
+frame_offset = [
+    3,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_4]
+pos = [
+    633,
+    235,
+]
+size = [
+    118,
+    69,
+]
+frame_offset = [
+    6,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_40]
+pos = [
+    332,
+    968,
+]
+size = [
+    99,
+    53,
+]
+frame_offset = [
+    20,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_41]
+pos = [
+    227,
+    829,
+]
+size = [
+    109,
+    57,
+]
+frame_offset = [
+    5,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_42]
+pos = [
+    781,
+    697,
+]
+size = [
+    94,
+    51,
+]
+frame_offset = [
+    26,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_43]
+pos = [
+    0,
+    493,
+]
+size = [
+    113,
+    60,
+]
+frame_offset = [
+    4,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_44]
+pos = [
+    628,
+    376,
+]
+size = [
+    115,
+    60,
+]
+frame_offset = [
+    7,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_45]
+pos = [
+    887,
+    664,
+]
+size = [
+    93,
+    51,
+]
+frame_offset = [
+    7,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_46]
+pos = [
+    557,
+    825,
+]
+size = [
+    104,
+    58,
+]
+frame_offset = [
+    15,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_47]
+pos = [
+    224,
+    963,
+]
+size = [
+    106,
+    53,
+]
+frame_offset = [
+    3,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_48]
+pos = [
+    554,
+    885,
+]
+size = [
+    99,
+    53,
+]
+frame_offset = [
+    20,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_49]
+pos = [
+    568,
+    512,
+]
+size = [
+    109,
+    57,
+]
+frame_offset = [
+    5,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_5]
+pos = [
+    113,
+    855,
+]
+size = [
+    111,
+    59,
+]
+frame_offset = [
+    4,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_50]
+pos = [
+    553,
+    940,
+]
+size = [
+    94,
+    51,
+]
+frame_offset = [
+    26,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_51]
+pos = [
+    0,
+    555,
+]
+size = [
+    113,
+    60,
+]
+frame_offset = [
+    4,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_52]
+pos = [
+    875,
+    137,
+]
+size = [
+    115,
+    60,
+]
+frame_offset = [
+    7,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_53]
+pos = [
+    763,
+    820,
+]
+size = [
+    93,
+    51,
+]
+frame_offset = [
+    7,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_54]
+pos = [
+    895,
+    496,
+]
+size = [
+    104,
+    58,
+]
+frame_offset = [
+    15,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_55]
+pos = [
+    336,
+    913,
+]
+size = [
+    106,
+    53,
+]
+frame_offset = [
+    3,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_56]
+pos = [
+    895,
+    556,
+]
+size = [
+    99,
+    53,
+]
+frame_offset = [
+    20,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_57]
+pos = [
+    456,
+    650,
+]
+size = [
+    109,
+    57,
+]
+frame_offset = [
+    5,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_58]
+pos = [
+    893,
+    611,
+]
+size = [
+    94,
+    51,
+]
+frame_offset = [
+    26,
+    195,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_59]
+pos = [
+    115,
+    493,
+]
+size = [
+    113,
+    60,
+]
+frame_offset = [
+    4,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_6]
+pos = [
+    456,
+    512,
+]
+size = [
+    110,
+    63,
+]
+frame_offset = [
+    15,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_60]
+pos = [
+    753,
+    280,
+]
+size = [
+    115,
+    60,
+]
+frame_offset = [
+    7,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_61]
+pos = [
+    877,
+    717,
+]
+size = [
+    93,
+    51,
+]
+frame_offset = [
+    7,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_62]
+pos = [
+    668,
+    747,
+]
+size = [
+    104,
+    58,
+]
+frame_offset = [
+    15,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_63]
+pos = [
+    560,
+    713,
+]
+size = [
+    106,
+    53,
+]
+frame_offset = [
+    3,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_64]
+pos = [
+    260,
+    77,
+]
+size = [
+    127,
+    80,
+]
+frame_offset = [
+    1,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_65]
+pos = [
+    0,
+    910,
+]
+size = [
+    111,
+    67,
+]
+frame_offset = [
+    0,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_66]
+pos = [
+    509,
+    366,
+]
+size = [
+    117,
+    77,
+]
+frame_offset = [
+    3,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_67]
+pos = [
+    629,
+    306,
+]
+size = [
+    115,
+    68,
+]
+frame_offset = [
+    4,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_68]
+pos = [
+    513,
+    0,
+]
+size = [
+    120,
+    69,
+]
+frame_offset = [
+    6,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_69]
+pos = [
+    114,
+    619,
+]
+size = [
+    111,
+    85,
+]
+frame_offset = [
+    4,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_7]
+pos = [
+    628,
+    438,
+]
+size = [
+    115,
+    60,
+]
+frame_offset = [
+    2,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_70]
+pos = [
+    861,
+    433,
+]
+size = [
+    113,
+    61,
+]
+frame_offset = [
+    15,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_71]
+pos = [
+    876,
+    0,
+]
+size = [
+    117,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_72]
+pos = [
+    130,
+    189,
+]
+size = [
+    126,
+    80,
+]
+frame_offset = [
+    2,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_73]
+pos = [
+    343,
+    579,
+]
+size = [
+    111,
+    64,
+]
+frame_offset = [
+    0,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_74]
+pos = [
+    756,
+    0,
+]
+size = [
+    118,
+    77,
+]
+frame_offset = [
+    3,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_75]
+pos = [
+    876,
+    67,
+]
+size = [
+    115,
+    68,
+]
+frame_offset = [
+    4,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_76]
+pos = [
+    128,
+    411,
+]
+size = [
+    120,
+    69,
+]
+frame_offset = [
+    6,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_77]
+pos = [
+    227,
+    698,
+]
+size = [
+    111,
+    62,
+]
+frame_offset = [
+    4,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_78]
+pos = [
+    340,
+    705,
+]
+size = [
+    109,
+    63,
+]
+frame_offset = [
+    15,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_79]
+pos = [
+    509,
+    445,
+]
+size = [
+    115,
+    65,
+]
+frame_offset = [
+    2,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_8]
+pos = [
+    634,
+    159,
+]
+size = [
+    118,
+    74,
+]
+frame_offset = [
+    1,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_80]
+pos = [
+    509,
+    292,
+]
+size = [
+    118,
+    72,
+]
+frame_offset = [
+    8,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_81]
+pos = [
+    560,
+    768,
+]
+size = [
+    105,
+    55,
+]
+frame_offset = [
+    3,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_82]
+pos = [
+    343,
+    509,
+]
+size = [
+    111,
+    68,
+]
+frame_offset = [
+    15,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_83]
+pos = [
+    115,
+    555,
+]
+size = [
+    112,
+    62,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_84]
+pos = [
+    447,
+    847,
+]
+size = [
+    105,
+    59,
+]
+frame_offset = [
+    18,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_85]
+pos = [
+    678,
+    625,
+]
+size = [
+    105,
+    57,
+]
+frame_offset = [
+    5,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_86]
+pos = [
+    785,
+    639,
+]
+size = [
+    100,
+    56,
+]
+frame_offset = [
+    28,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_87]
+pos = [
+    513,
+    71,
+]
+size = [
+    120,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[camping_02_9]
+pos = [
+    447,
+    908,
+]
+size = [
+    104,
+    64,
+]
+frame_offset = [
+    8,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["camping_03 (ayrton orio's conflicted copy 2025-09-10)_0"]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    187,
+]
+frame_offset = [
+    0,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["camping_03 (ayrton orio's conflicted copy 2025-09-10)_1"]
+pos = [
+    258,
+    237,
+]
+size = [
+    124,
+    240,
+]
+frame_offset = [
+    4,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["camping_03 (ayrton orio's conflicted copy 2025-09-10)_2"]
+pos = [
+    384,
+    237,
+]
+size = [
+    123,
+    137,
+]
+frame_offset = [
+    0,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["camping_03 (ayrton orio's conflicted copy 2025-09-10)_3"]
+pos = [
+    384,
+    376,
+]
+size = [
+    123,
+    131,
+]
+frame_offset = [
+    5,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["camping_03 (ayrton orio's conflicted copy 2025-09-10)_4"]
+pos = [
+    0,
+    217,
+]
+size = [
+    126,
+    131,
+]
+frame_offset = [
+    0,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["camping_03 (ayrton orio's conflicted copy 2025-09-10)_5"]
+pos = [
+    128,
+    271,
+]
+size = [
+    123,
+    138,
+]
+frame_offset = [
+    5,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+["camping_03 (ayrton orio's conflicted copy 2025-09-10)_6"]
+pos = [
+    390,
+    0,
+]
+size = [
+    121,
+    232,
+]
+frame_offset = [
+    0,
+    17,
+]
+frame_size = [
+    128,
+    256,
+]

@@ -1,0 +1,5455 @@
+[location_military_tent_01_100]
+pos = [
+    767,
+    889,
+]
+size = [
+    28,
+    96,
+]
+frame_offset = [
+    31,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_101]
+pos = [
+    474,
+    579,
+]
+size = [
+    39,
+    49,
+]
+frame_offset = [
+    25,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_102]
+pos = [
+    0,
+    130,
+]
+size = [
+    64,
+    117,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_103]
+pos = [
+    198,
+    52,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_104]
+pos = [
+    502,
+    970,
+]
+size = [
+    33,
+    33,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_105]
+pos = [
+    537,
+    915,
+]
+size = [
+    33,
+    51,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_106]
+pos = [
+    237,
+    933,
+]
+size = [
+    33,
+    66,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_107]
+pos = [
+    261,
+    394,
+]
+size = [
+    63,
+    50,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_108]
+pos = [
+    872,
+    745,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    1,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_109]
+pos = [
+    40,
+    990,
+]
+size = [
+    32,
+    17,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_112]
+pos = [
+    733,
+    808,
+]
+size = [
+    32,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_113]
+pos = [
+    698,
+    923,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    30,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_114]
+pos = [
+    628,
+    546,
+]
+size = [
+    32,
+    50,
+]
+frame_offset = [
+    30,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_115]
+pos = [
+    66,
+    245,
+]
+size = [
+    63,
+    97,
+]
+frame_offset = [
+    0,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_116]
+pos = [
+    873,
+    606,
+]
+size = [
+    33,
+    50,
+]
+frame_offset = [
+    30,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_117]
+pos = [
+    537,
+    968,
+]
+size = [
+    33,
+    33,
+]
+frame_offset = [
+    30,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_120]
+pos = [
+    896,
+    844,
+]
+size = [
+    26,
+    55,
+]
+frame_offset = [
+    3,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_121]
+pos = [
+    966,
+    779,
+]
+size = [
+    26,
+    55,
+]
+frame_offset = [
+    35,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_122]
+pos = [
+    938,
+    779,
+]
+size = [
+    26,
+    56,
+]
+frame_offset = [
+    35,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_123]
+pos = [
+    924,
+    844,
+]
+size = [
+    26,
+    55,
+]
+frame_offset = [
+    3,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_124]
+pos = [
+    990,
+    332,
+]
+size = [
+    30,
+    62,
+]
+frame_offset = [
+    3,
+    17,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_125]
+pos = [
+    990,
+    396,
+]
+size = [
+    26,
+    14,
+]
+frame_offset = [
+    35,
+    43,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_126]
+pos = [
+    732,
+    923,
+]
+size = [
+    30,
+    59,
+]
+frame_offset = [
+    30,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_127]
+pos = [
+    381,
+    983,
+]
+size = [
+    26,
+    15,
+]
+frame_offset = [
+    1,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_18]
+pos = [
+    396,
+    0,
+]
+size = [
+    64,
+    18,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_19]
+pos = [
+    264,
+    102,
+]
+size = [
+    64,
+    48,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_20]
+pos = [
+    264,
+    0,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_21]
+pos = [
+    460,
+    224,
+]
+size = [
+    62,
+    47,
+]
+frame_offset = [
+    1,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_22]
+pos = [
+    264,
+    152,
+]
+size = [
+    64,
+    17,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_23]
+pos = [
+    198,
+    103,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_24]
+pos = [
+    391,
+    394,
+]
+size = [
+    63,
+    48,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_25]
+pos = [
+    132,
+    188,
+]
+size = [
+    64,
+    50,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_26]
+pos = [
+    326,
+    364,
+]
+size = [
+    63,
+    49,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_27]
+pos = [
+    0,
+    463,
+]
+size = [
+    63,
+    18,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_28]
+pos = [
+    195,
+    485,
+]
+size = [
+    63,
+    17,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_29]
+pos = [
+    0,
+    0,
+]
+size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_30]
+pos = [
+    261,
+    446,
+]
+size = [
+    63,
+    49,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_31]
+pos = [
+    0,
+    483,
+]
+size = [
+    63,
+    18,
+]
+frame_offset = [
+    0,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_32]
+pos = [
+    237,
+    882,
+]
+size = [
+    37,
+    49,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_33]
+pos = [
+    474,
+    630,
+]
+size = [
+    37,
+    117,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_34]
+pos = [
+    0,
+    987,
+]
+size = [
+    38,
+    22,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_35]
+pos = [
+    832,
+    878,
+]
+size = [
+    27,
+    96,
+]
+frame_offset = [
+    4,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_36]
+pos = [
+    976,
+    681,
+]
+size = [
+    28,
+    96,
+]
+frame_offset = [
+    31,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_37]
+pos = [
+    256,
+    816,
+]
+size = [
+    39,
+    49,
+]
+frame_offset = [
+    25,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_38]
+pos = [
+    132,
+    0,
+]
+size = [
+    64,
+    117,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_39]
+pos = [
+    264,
+    51,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_40]
+pos = [
+    838,
+    690,
+]
+size = [
+    33,
+    33,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_41]
+pos = [
+    572,
+    915,
+]
+size = [
+    33,
+    51,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_42]
+pos = [
+    381,
+    915,
+]
+size = [
+    33,
+    66,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_43]
+pos = [
+    394,
+    291,
+]
+size = [
+    63,
+    50,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_44]
+pos = [
+    907,
+    713,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    1,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_45]
+pos = [
+    346,
+    991,
+]
+size = [
+    32,
+    17,
+]
+frame_offset = [
+    1,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_48]
+pos = [
+    803,
+    739,
+]
+size = [
+    32,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_49]
+pos = [
+    767,
+    854,
+]
+size = [
+    32,
+    33,
+]
+frame_offset = [
+    30,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_50]
+pos = [
+    873,
+    693,
+]
+size = [
+    32,
+    50,
+]
+frame_offset = [
+    30,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_51]
+pos = [
+    0,
+    364,
+]
+size = [
+    63,
+    97,
+]
+frame_offset = [
+    0,
+    16,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_52]
+pos = [
+    908,
+    606,
+]
+size = [
+    33,
+    50,
+]
+frame_offset = [
+    30,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_53]
+pos = [
+    873,
+    658,
+]
+size = [
+    33,
+    33,
+]
+frame_offset = [
+    30,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_56]
+pos = [
+    994,
+    779,
+]
+size = [
+    26,
+    55,
+]
+frame_offset = [
+    3,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_57]
+pos = [
+    952,
+    837,
+]
+size = [
+    26,
+    55,
+]
+frame_offset = [
+    35,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_58]
+pos = [
+    797,
+    939,
+]
+size = [
+    26,
+    56,
+]
+frame_offset = [
+    35,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_59]
+pos = [
+    896,
+    901,
+]
+size = [
+    26,
+    55,
+]
+frame_offset = [
+    3,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_60]
+pos = [
+    872,
+    780,
+]
+size = [
+    30,
+    62,
+]
+frame_offset = [
+    3,
+    17,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_61]
+pos = [
+    640,
+    994,
+]
+size = [
+    26,
+    14,
+]
+frame_offset = [
+    35,
+    43,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_62]
+pos = [
+    906,
+    748,
+]
+size = [
+    30,
+    59,
+]
+frame_offset = [
+    30,
+    20,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_63]
+pos = [
+    873,
+    575,
+]
+size = [
+    26,
+    15,
+]
+frame_offset = [
+    1,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_64]
+pos = [
+    941,
+    491,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_65]
+pos = [
+    359,
+    761,
+]
+size = [
+    36,
+    113,
+]
+frame_offset = [
+    28,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_66]
+pos = [
+    66,
+    130,
+]
+size = [
+    64,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_67]
+pos = [
+    1012,
+    159,
+]
+size = [
+    3,
+    98,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_72]
+pos = [
+    513,
+    631,
+]
+size = [
+    34,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_73]
+pos = [
+    555,
+    570,
+]
+size = [
+    36,
+    113,
+]
+frame_offset = [
+    28,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_74]
+pos = [
+    838,
+    575,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_75]
+pos = [
+    628,
+    840,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_80]
+pos = [
+    396,
+    20,
+]
+size = [
+    64,
+    17,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_81]
+pos = [
+    198,
+    225,
+]
+size = [
+    64,
+    17,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_82]
+pos = [
+    198,
+    205,
+]
+size = [
+    64,
+    18,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_83]
+pos = [
+    330,
+    51,
+]
+size = [
+    64,
+    48,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_84]
+pos = [
+    330,
+    0,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_85]
+pos = [
+    654,
+    62,
+]
+size = [
+    62,
+    47,
+]
+frame_offset = [
+    1,
+    81,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_86]
+pos = [
+    330,
+    101,
+]
+size = [
+    64,
+    17,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_87]
+pos = [
+    198,
+    154,
+]
+size = [
+    64,
+    49,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_88]
+pos = [
+    391,
+    444,
+]
+size = [
+    63,
+    48,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_89]
+pos = [
+    198,
+    0,
+]
+size = [
+    64,
+    50,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_90]
+pos = [
+    392,
+    343,
+]
+size = [
+    63,
+    49,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_91]
+pos = [
+    130,
+    474,
+]
+size = [
+    63,
+    18,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_92]
+pos = [
+    326,
+    466,
+]
+size = [
+    63,
+    17,
+]
+frame_offset = [
+    0,
+    80,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_93]
+pos = [
+    66,
+    0,
+]
+size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_94]
+pos = [
+    326,
+    415,
+]
+size = [
+    63,
+    49,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_95]
+pos = [
+    195,
+    465,
+]
+size = [
+    63,
+    18,
+]
+frame_offset = [
+    0,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_96]
+pos = [
+    623,
+    495,
+]
+size = [
+    37,
+    49,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_97]
+pos = [
+    414,
+    681,
+]
+size = [
+    37,
+    117,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_98]
+pos = [
+    44,
+    966,
+]
+size = [
+    38,
+    22,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_military_tent_01_99]
+pos = [
+    867,
+    844,
+]
+size = [
+    27,
+    96,
+]
+frame_offset = [
+    4,
+    23,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_0]
+pos = [
+    65,
+    426,
+]
+size = [
+    63,
+    72,
+]
+frame_offset = [
+    0,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_1]
+pos = [
+    0,
+    582,
+]
+size = [
+    52,
+    72,
+]
+frame_offset = [
+    0,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_10]
+pos = [
+    587,
+    205,
+]
+size = [
+    59,
+    68,
+]
+frame_offset = [
+    4,
+    59,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_11]
+pos = [
+    197,
+    939,
+]
+size = [
+    36,
+    68,
+]
+frame_offset = [
+    28,
+    59,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_12]
+pos = [
+    460,
+    273,
+]
+size = [
+    60,
+    79,
+]
+frame_offset = [
+    2,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_13]
+pos = [
+    197,
+    244,
+]
+size = [
+    63,
+    79,
+]
+frame_offset = [
+    0,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_14]
+pos = [
+    131,
+    322,
+]
+size = [
+    63,
+    79,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_15]
+pos = [
+    718,
+    0,
+]
+size = [
+    61,
+    78,
+]
+frame_offset = [
+    1,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_16]
+pos = [
+    262,
+    253,
+]
+size = [
+    63,
+    72,
+]
+frame_offset = [
+    0,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_17]
+pos = [
+    54,
+    503,
+]
+size = [
+    52,
+    72,
+]
+frame_offset = [
+    0,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_18]
+pos = [
+    926,
+    412,
+]
+size = [
+    52,
+    77,
+]
+frame_offset = [
+    0,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_19]
+pos = [
+    108,
+    709,
+]
+size = [
+    51,
+    71,
+]
+frame_offset = [
+    1,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_2]
+pos = [
+    0,
+    503,
+]
+size = [
+    52,
+    77,
+]
+frame_offset = [
+    0,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_20]
+pos = [
+    461,
+    81,
+]
+size = [
+    62,
+    71,
+]
+frame_offset = [
+    0,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_21]
+pos = [
+    898,
+    134,
+]
+size = [
+    53,
+    71,
+]
+frame_offset = [
+    9,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_22]
+pos = [
+    0,
+    792,
+]
+size = [
+    51,
+    77,
+]
+frame_offset = [
+    11,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_23]
+pos = [
+    108,
+    500,
+]
+size = [
+    52,
+    72,
+]
+frame_offset = [
+    11,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_25]
+pos = [
+    705,
+    958,
+]
+size = [
+    25,
+    42,
+]
+frame_offset = [
+    20,
+    78,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_26]
+pos = [
+    952,
+    894,
+]
+size = [
+    23,
+    39,
+]
+frame_offset = [
+    21,
+    79,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_29]
+pos = [
+    209,
+    780,
+]
+size = [
+    45,
+    100,
+]
+frame_offset = [
+    17,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_3]
+pos = [
+    0,
+    871,
+]
+size = [
+    51,
+    71,
+]
+frame_offset = [
+    1,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_30]
+pos = [
+    529,
+    468,
+]
+size = [
+    45,
+    100,
+]
+frame_offset = [
+    17,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_31]
+pos = [
+    427,
+    579,
+]
+size = [
+    45,
+    100,
+]
+frame_offset = [
+    17,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_32]
+pos = [
+    732,
+    984,
+]
+size = [
+    22,
+    22,
+]
+frame_offset = [
+    16,
+    46,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_33]
+pos = [
+    756,
+    987,
+]
+size = [
+    22,
+    22,
+]
+frame_offset = [
+    26,
+    46,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_34]
+pos = [
+    335,
+    827,
+]
+size = [
+    22,
+    30,
+]
+frame_offset = [
+    27,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_35]
+pos = [
+    853,
+    976,
+]
+size = [
+    22,
+    30,
+]
+frame_offset = [
+    15,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_37]
+pos = [
+    379,
+    556,
+]
+size = [
+    46,
+    101,
+]
+frame_offset = [
+    1,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_38]
+pos = [
+    161,
+    775,
+]
+size = [
+    46,
+    101,
+]
+frame_offset = [
+    1,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_39]
+pos = [
+    103,
+    869,
+]
+size = [
+    45,
+    101,
+]
+frame_offset = [
+    1,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_4]
+pos = [
+    590,
+    0,
+]
+size = [
+    62,
+    71,
+]
+frame_offset = [
+    0,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_40]
+pos = [
+    449,
+    979,
+]
+size = [
+    30,
+    28,
+]
+frame_offset = [
+    32,
+    34,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_41]
+pos = [
+    155,
+    980,
+]
+size = [
+    32,
+    29,
+]
+frame_offset = [
+    30,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_42]
+pos = [
+    768,
+    592,
+]
+size = [
+    32,
+    29,
+]
+frame_offset = [
+    30,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_43]
+pos = [
+    121,
+    980,
+]
+size = [
+    32,
+    30,
+]
+frame_offset = [
+    30,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_44]
+pos = [
+    802,
+    509,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_45]
+pos = [
+    467,
+    864,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_46]
+pos = [
+    0,
+    249,
+]
+size = [
+    63,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_47]
+pos = [
+    1007,
+    159,
+]
+size = [
+    3,
+    98,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_5]
+pos = [
+    763,
+    276,
+]
+size = [
+    53,
+    71,
+]
+frame_offset = [
+    9,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_51]
+pos = [
+    416,
+    979,
+]
+size = [
+    31,
+    28,
+]
+frame_offset = [
+    30,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_52]
+pos = [
+    523,
+    800,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_53]
+pos = [
+    628,
+    725,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_54]
+pos = [
+    558,
+    800,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_55]
+pos = [
+    593,
+    787,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_56]
+pos = [
+    196,
+    325,
+]
+size = [
+    63,
+    72,
+]
+frame_offset = [
+    1,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_57]
+pos = [
+    781,
+    0,
+]
+size = [
+    59,
+    72,
+]
+frame_offset = [
+    1,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_58]
+pos = [
+    872,
+    380,
+]
+size = [
+    52,
+    78,
+]
+frame_offset = [
+    1,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_59]
+pos = [
+    54,
+    577,
+]
+size = [
+    52,
+    72,
+]
+frame_offset = [
+    1,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_6]
+pos = [
+    162,
+    634,
+]
+size = [
+    51,
+    77,
+]
+frame_offset = [
+    11,
+    51,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_60]
+pos = [
+    526,
+    0,
+]
+size = [
+    62,
+    72,
+]
+frame_offset = [
+    1,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_61]
+pos = [
+    326,
+    485,
+]
+size = [
+    51,
+    72,
+]
+frame_offset = [
+    12,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_62]
+pos = [
+    936,
+    332,
+]
+size = [
+    52,
+    78,
+]
+frame_offset = [
+    12,
+    50,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_63]
+pos = [
+    0,
+    656,
+]
+size = [
+    52,
+    72,
+]
+frame_offset = [
+    12,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_64]
+pos = [
+    367,
+    659,
+]
+size = [
+    45,
+    100,
+]
+frame_offset = [
+    17,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_65]
+pos = [
+    150,
+    878,
+]
+size = [
+    45,
+    100,
+]
+frame_offset = [
+    17,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_66]
+pos = [
+    312,
+    725,
+]
+size = [
+    45,
+    100,
+]
+frame_offset = [
+    17,
+    19,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_7]
+pos = [
+    108,
+    574,
+]
+size = [
+    52,
+    72,
+]
+frame_offset = [
+    11,
+    56,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_70]
+pos = [
+    65,
+    500,
+]
+size = [
+    2,
+    1,
+]
+frame_offset = [
+    37,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_71]
+pos = [
+    69,
+    500,
+]
+size = [
+    2,
+    1,
+]
+frame_offset = [
+    37,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_72]
+pos = [
+    319,
+    622,
+]
+size = [
+    46,
+    101,
+]
+frame_offset = [
+    1,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_73]
+pos = [
+    481,
+    474,
+]
+size = [
+    46,
+    101,
+]
+frame_offset = [
+    1,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_74]
+pos = [
+    265,
+    713,
+]
+size = [
+    45,
+    101,
+]
+frame_offset = [
+    1,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_8]
+pos = [
+    297,
+    827,
+]
+size = [
+    36,
+    67,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_bar_01_9]
+pos = [
+    654,
+    111,
+]
+size = [
+    60,
+    67,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_0]
+pos = [
+    662,
+    495,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_1]
+pos = [
+    628,
+    610,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_10]
+pos = [
+    276,
+    896,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_11]
+pos = [
+    311,
+    896,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_12]
+pos = [
+    453,
+    749,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_13]
+pos = [
+    767,
+    438,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_14]
+pos = [
+    524,
+    205,
+]
+size = [
+    61,
+    65,
+]
+frame_offset = [
+    3,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_15]
+pos = [
+    590,
+    135,
+]
+size = [
+    61,
+    66,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_16]
+pos = [
+    346,
+    876,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_17]
+pos = [
+    488,
+    749,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_18]
+pos = [
+    549,
+    685,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_19]
+pos = [
+    593,
+    672,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_2]
+pos = [
+    396,
+    39,
+]
+size = [
+    63,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_20]
+pos = [
+    733,
+    578,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_21]
+pos = [
+    432,
+    864,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_24]
+pos = [
+    654,
+    0,
+]
+size = [
+    62,
+    60,
+]
+frame_offset = [
+    1,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_25]
+pos = [
+    161,
+    713,
+]
+size = [
+    51,
+    60,
+]
+frame_offset = [
+    1,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_26]
+pos = [
+    162,
+    504,
+]
+size = [
+    52,
+    66,
+]
+frame_offset = [
+    1,
+    62,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_27]
+pos = [
+    0,
+    730,
+]
+size = [
+    52,
+    60,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_28]
+pos = [
+    590,
+    73,
+]
+size = [
+    62,
+    60,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_29]
+pos = [
+    162,
+    572,
+]
+size = [
+    52,
+    60,
+]
+frame_offset = [
+    11,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_3]
+pos = [
+    834,
+    141,
+]
+size = [
+    3,
+    98,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_30]
+pos = [
+    54,
+    651,
+]
+size = [
+    52,
+    65,
+]
+frame_offset = [
+    11,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_31]
+pos = [
+    379,
+    494,
+]
+size = [
+    51,
+    60,
+]
+frame_offset = [
+    12,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_32]
+pos = [
+    132,
+    240,
+]
+size = [
+    63,
+    80,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_33]
+pos = [
+    462,
+    0,
+]
+size = [
+    62,
+    79,
+]
+frame_offset = [
+    0,
+    48,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_34]
+pos = [
+    65,
+    344,
+]
+size = [
+    63,
+    80,
+]
+frame_offset = [
+    1,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_35]
+pos = [
+    264,
+    171,
+]
+size = [
+    63,
+    80,
+]
+frame_offset = [
+    1,
+    47,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_36]
+pos = [
+    526,
+    74,
+]
+size = [
+    62,
+    68,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_37]
+pos = [
+    460,
+    154,
+]
+size = [
+    62,
+    68,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_38]
+pos = [
+    130,
+    403,
+]
+size = [
+    63,
+    69,
+]
+frame_offset = [
+    1,
+    59,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_39]
+pos = [
+    395,
+    154,
+]
+size = [
+    63,
+    69,
+]
+frame_offset = [
+    1,
+    59,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_4]
+pos = [
+    871,
+    460,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_42]
+pos = [
+    837,
+    790,
+]
+size = [
+    31,
+    35,
+]
+frame_offset = [
+    15,
+    83,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_48]
+pos = [
+    515,
+    577,
+]
+size = [
+    38,
+    52,
+]
+frame_offset = [
+    10,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_49]
+pos = [
+    502,
+    915,
+]
+size = [
+    33,
+    53,
+]
+frame_offset = [
+    16,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_5]
+pos = [
+    733,
+    693,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_50]
+pos = [
+    908,
+    658,
+]
+size = [
+    32,
+    53,
+]
+frame_offset = [
+    17,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_51]
+pos = [
+    523,
+    746,
+]
+size = [
+    24,
+    43,
+]
+frame_offset = [
+    17,
+    78,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_52]
+pos = [
+    941,
+    734,
+]
+size = [
+    28,
+    43,
+]
+frame_offset = [
+    22,
+    76,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_53]
+pos = [
+    801,
+    854,
+]
+size = [
+    29,
+    47,
+]
+frame_offset = [
+    18,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_54]
+pos = [
+    837,
+    827,
+]
+size = [
+    28,
+    49,
+]
+frame_offset = [
+    15,
+    74,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_55]
+pos = [
+    197,
+    882,
+]
+size = [
+    38,
+    55,
+]
+frame_offset = [
+    11,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_56]
+pos = [
+    663,
+    725,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_57]
+pos = [
+    698,
+    693,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_58]
+pos = [
+    980,
+    412,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_59]
+pos = [
+    906,
+    491,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_6]
+pos = [
+    132,
+    119,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    0,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_60]
+pos = [
+    768,
+    624,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_61]
+pos = [
+    803,
+    624,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_7]
+pos = [
+    781,
+    74,
+]
+size = [
+    58,
+    65,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_8]
+pos = [
+    663,
+    840,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_diner_01_9]
+pos = [
+    976,
+    527,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_0]
+pos = [
+    903,
+    0,
+]
+size = [
+    57,
+    64,
+]
+frame_offset = [
+    5,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_1]
+pos = [
+    457,
+    354,
+]
+size = [
+    59,
+    58,
+]
+frame_offset = [
+    1,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_10]
+pos = [
+    329,
+    235,
+]
+size = [
+    63,
+    65,
+]
+frame_offset = [
+    0,
+    59,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_11]
+pos = [
+    583,
+    275,
+]
+size = [
+    58,
+    58,
+]
+frame_offset = [
+    1,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_12]
+pos = [
+    648,
+    240,
+]
+size = [
+    58,
+    57,
+]
+frame_offset = [
+    5,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_13]
+pos = [
+    196,
+    399,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_14]
+pos = [
+    522,
+    335,
+]
+size = [
+    58,
+    64,
+]
+frame_offset = [
+    1,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_15]
+pos = [
+    718,
+    80,
+]
+size = [
+    59,
+    58,
+]
+frame_offset = [
+    3,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_16]
+pos = [
+    53,
+    843,
+]
+size = [
+    48,
+    82,
+]
+frame_offset = [
+    16,
+    44,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_17]
+pos = [
+    215,
+    696,
+]
+size = [
+    48,
+    82,
+]
+frame_offset = [
+    5,
+    39,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_18]
+pos = [
+    962,
+    62,
+]
+size = [
+    53,
+    95,
+]
+frame_offset = [
+    0,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_19]
+pos = [
+    269,
+    622,
+]
+size = [
+    48,
+    89,
+]
+frame_offset = [
+    0,
+    33,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_2]
+pos = [
+    261,
+    327,
+]
+size = [
+    63,
+    65,
+]
+frame_offset = [
+    0,
+    59,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_20]
+pos = [
+    576,
+    468,
+]
+size = [
+    45,
+    87,
+]
+frame_offset = [
+    16,
+    35,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_21]
+pos = [
+    708,
+    274,
+]
+size = [
+    53,
+    97,
+]
+frame_offset = [
+    11,
+    26,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_22]
+pos = [
+    107,
+    782,
+]
+size = [
+    49,
+    85,
+]
+frame_offset = [
+    11,
+    36,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_23]
+pos = [
+    432,
+    494,
+]
+size = [
+    47,
+    83,
+]
+frame_offset = [
+    0,
+    43,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_24]
+pos = [
+    898,
+    207,
+]
+size = [
+    52,
+    87,
+]
+frame_offset = [
+    0,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_25]
+pos = [
+    700,
+    373,
+]
+size = [
+    52,
+    88,
+]
+frame_offset = [
+    0,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_26]
+pos = [
+    828,
+    247,
+]
+size = [
+    52,
+    88,
+]
+frame_offset = [
+    0,
+    40,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_27]
+pos = [
+    763,
+    349,
+]
+size = [
+    52,
+    87,
+]
+frame_offset = [
+    12,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_28]
+pos = [
+    953,
+    159,
+]
+size = [
+    52,
+    87,
+]
+frame_offset = [
+    12,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_29]
+pos = [
+    818,
+    337,
+]
+size = [
+    52,
+    87,
+]
+frame_offset = [
+    12,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_3]
+pos = [
+    456,
+    414,
+]
+size = [
+    58,
+    58,
+]
+frame_offset = [
+    1,
+    69,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_32]
+pos = [
+    54,
+    718,
+]
+size = [
+    51,
+    123,
+]
+frame_offset = [
+    11,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_33]
+pos = [
+    270,
+    497,
+]
+size = [
+    51,
+    123,
+]
+frame_offset = [
+    11,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_34]
+pos = [
+    216,
+    571,
+]
+size = [
+    51,
+    123,
+]
+frame_offset = [
+    11,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_35]
+pos = [
+    817,
+    426,
+]
+size = [
+    52,
+    81,
+]
+frame_offset = [
+    1,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_36]
+pos = [
+    882,
+    296,
+]
+size = [
+    52,
+    82,
+]
+frame_offset = [
+    1,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_37]
+pos = [
+    952,
+    248,
+]
+size = [
+    52,
+    82,
+]
+frame_offset = [
+    1,
+    41,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_4]
+pos = [
+    842,
+    60,
+]
+size = [
+    58,
+    57,
+]
+frame_offset = [
+    5,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_40]
+pos = [
+    904,
+    809,
+]
+size = [
+    28,
+    33,
+]
+frame_offset = [
+    34,
+    9,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_41]
+pos = [
+    768,
+    553,
+]
+size = [
+    32,
+    37,
+]
+frame_offset = [
+    30,
+    5,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_42]
+pos = [
+    397,
+    761,
+]
+size = [
+    15,
+    28,
+]
+frame_offset = [
+    30,
+    5,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_43]
+pos = [
+    453,
+    681,
+]
+size = [
+    17,
+    29,
+]
+frame_offset = [
+    16,
+    4,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_44]
+pos = [
+    572,
+    968,
+]
+size = [
+    32,
+    37,
+]
+frame_offset = [
+    1,
+    4,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_45]
+pos = [
+    825,
+    976,
+]
+size = [
+    26,
+    32,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_46]
+pos = [
+    924,
+    901,
+]
+size = [
+    25,
+    34,
+]
+frame_offset = [
+    34,
+    30,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_47]
+pos = [
+    980,
+    836,
+]
+size = [
+    25,
+    36,
+]
+frame_offset = [
+    4,
+    28,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_48]
+pos = [
+    797,
+    903,
+]
+size = [
+    28,
+    34,
+]
+frame_offset = [
+    34,
+    6,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_49]
+pos = [
+    606,
+    968,
+]
+size = [
+    32,
+    37,
+]
+frame_offset = [
+    30,
+    3,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_5]
+pos = [
+    395,
+    225,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    0,
+    60,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_50]
+pos = [
+    942,
+    658,
+]
+size = [
+    32,
+    37,
+]
+frame_offset = [
+    30,
+    3,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_51]
+pos = [
+    943,
+    606,
+]
+size = [
+    31,
+    36,
+]
+frame_offset = [
+    30,
+    3,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_52]
+pos = [
+    674,
+    958,
+]
+size = [
+    29,
+    34,
+]
+frame_offset = [
+    4,
+    5,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_53]
+pos = [
+    640,
+    955,
+]
+size = [
+    32,
+    37,
+]
+frame_offset = [
+    1,
+    4,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_54]
+pos = [
+    976,
+    642,
+]
+size = [
+    32,
+    37,
+]
+frame_offset = [
+    1,
+    4,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_55]
+pos = [
+    942,
+    697,
+]
+size = [
+    31,
+    35,
+]
+frame_offset = [
+    1,
+    6,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_56]
+pos = [
+    84,
+    972,
+]
+size = [
+    35,
+    32,
+]
+frame_offset = [
+    27,
+    5,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_57]
+pos = [
+    861,
+    942,
+]
+size = [
+    26,
+    30,
+]
+frame_offset = [
+    30,
+    1,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_6]
+pos = [
+    716,
+    140,
+]
+size = [
+    58,
+    64,
+]
+frame_offset = [
+    1,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_7]
+pos = [
+    653,
+    180,
+]
+size = [
+    59,
+    58,
+]
+frame_offset = [
+    3,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_8]
+pos = [
+    582,
+    335,
+]
+size = [
+    57,
+    64,
+]
+frame_offset = [
+    5,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_generic_01_9]
+pos = [
+    842,
+    0,
+]
+size = [
+    59,
+    58,
+]
+frame_offset = [
+    1,
+    70,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_0]
+pos = [
+    697,
+    463,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_1]
+pos = [
+    663,
+    610,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_10]
+pos = [
+    732,
+    463,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_11]
+pos = [
+    397,
+    800,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_14]
+pos = [
+    837,
+    509,
+]
+size = [
+    32,
+    63,
+]
+frame_offset = [
+    29,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_15]
+pos = [
+    838,
+    725,
+]
+size = [
+    32,
+    63,
+]
+frame_offset = [
+    2,
+    18,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_2]
+pos = [
+    330,
+    120,
+]
+size = [
+    63,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_3]
+pos = [
+    1017,
+    62,
+]
+size = [
+    3,
+    98,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_4]
+pos = [
+    53,
+    927,
+]
+size = [
+    42,
+    37,
+]
+frame_offset = [
+    20,
+    2,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_40]
+pos = [
+    327,
+    302,
+]
+size = [
+    63,
+    60,
+]
+frame_offset = [
+    1,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_41]
+pos = [
+    522,
+    273,
+]
+size = [
+    59,
+    60,
+]
+frame_offset = [
+    1,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_42]
+pos = [
+    216,
+    504,
+]
+size = [
+    52,
+    65,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_43]
+pos = [
+    108,
+    648,
+]
+size = [
+    52,
+    59,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_44]
+pos = [
+    525,
+    144,
+]
+size = [
+    62,
+    59,
+]
+frame_offset = [
+    1,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_45]
+pos = [
+    323,
+    559,
+]
+size = [
+    51,
+    59,
+]
+frame_offset = [
+    12,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_46]
+pos = [
+    575,
+    401,
+]
+size = [
+    54,
+    65,
+]
+frame_offset = [
+    10,
+    63,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_47]
+pos = [
+    962,
+    0,
+]
+size = [
+    55,
+    60,
+]
+frame_offset = [
+    9,
+    68,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_48]
+pos = [
+    776,
+    141,
+]
+size = [
+    56,
+    66,
+]
+frame_offset = [
+    1,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_49]
+pos = [
+    631,
+    427,
+]
+size = [
+    53,
+    66,
+]
+frame_offset = [
+    1,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_5]
+pos = [
+    0,
+    944,
+]
+size = [
+    42,
+    41,
+]
+frame_offset = [
+    2,
+    2,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_50]
+pos = [
+    902,
+    66,
+]
+size = [
+    54,
+    66,
+]
+frame_offset = [
+    9,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_51]
+pos = [
+    714,
+    206,
+]
+size = [
+    56,
+    66,
+]
+frame_offset = [
+    7,
+    58,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_52]
+pos = [
+    772,
+    209,
+]
+size = [
+    54,
+    65,
+]
+frame_offset = [
+    5,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_53]
+pos = [
+    518,
+    401,
+]
+size = [
+    55,
+    65,
+]
+frame_offset = [
+    6,
+    61,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_54]
+pos = [
+    643,
+    299,
+]
+size = [
+    55,
+    126,
+]
+frame_offset = [
+    5,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_55]
+pos = [
+    841,
+    119,
+]
+size = [
+    55,
+    126,
+]
+frame_offset = [
+    5,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_56]
+pos = [
+    924,
+    937,
+]
+size = [
+    20,
+    35,
+]
+frame_offset = [
+    35,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_57]
+pos = [
+    946,
+    937,
+]
+size = [
+    20,
+    35,
+]
+frame_offset = [
+    35,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_58]
+pos = [
+    889,
+    958,
+]
+size = [
+    21,
+    35,
+]
+frame_offset = [
+    35,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_59]
+pos = [
+    980,
+    874,
+]
+size = [
+    21,
+    35,
+]
+frame_offset = [
+    35,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_60]
+pos = [
+    977,
+    911,
+]
+size = [
+    20,
+    35,
+]
+frame_offset = [
+    8,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_61]
+pos = [
+    912,
+    974,
+]
+size = [
+    20,
+    35,
+]
+frame_offset = [
+    8,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_62]
+pos = [
+    934,
+    974,
+]
+size = [
+    20,
+    35,
+]
+frame_offset = [
+    8,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_63]
+pos = [
+    999,
+    911,
+]
+size = [
+    20,
+    35,
+]
+frame_offset = [
+    8,
+    32,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_8]
+pos = [
+    698,
+    808,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pie_01_9]
+pos = [
+    768,
+    739,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pileocrepe_01_0]
+pos = [
+    593,
+    557,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]
+
+[location_restaurant_pileocrepe_01_1]
+pos = [
+    698,
+    578,
+]
+size = [
+    33,
+    113,
+]
+frame_offset = [
+    30,
+    0,
+]
+frame_size = [
+    64,
+    128,
+]

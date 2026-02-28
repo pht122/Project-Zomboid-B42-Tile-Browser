@@ -1,0 +1,4175 @@
+[location_shop_mall_signs_01_100]
+pos = [
+    280,
+    0,
+]
+size = [
+    84,
+    87,
+]
+frame_offset = [
+    40,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_101]
+pos = [
+    903,
+    177,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    60,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_102]
+pos = [
+    771,
+    347,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    60,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_103]
+pos = [
+    969,
+    307,
+]
+size = [
+    49,
+    70,
+]
+frame_offset = [
+    60,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_104]
+pos = [
+    788,
+    808,
+]
+size = [
+    54,
+    69,
+]
+frame_offset = [
+    12,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_105]
+pos = [
+    705,
+    184,
+]
+size = [
+    64,
+    89,
+]
+frame_offset = [
+    2,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_106]
+pos = [
+    573,
+    370,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    2,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_107]
+pos = [
+    360,
+    147,
+]
+size = [
+    79,
+    94,
+]
+frame_offset = [
+    2,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_108]
+pos = [
+    0,
+    24,
+]
+size = [
+    94,
+    93,
+]
+frame_offset = [
+    30,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_109]
+pos = [
+    639,
+    327,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    60,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_110]
+pos = [
+    214,
+    400,
+]
+size = [
+    64,
+    94,
+]
+frame_offset = [
+    60,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_111]
+pos = [
+    451,
+    0,
+]
+size = [
+    54,
+    70,
+]
+frame_offset = [
+    60,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_112]
+pos = [
+    926,
+    565,
+]
+size = [
+    60,
+    50,
+]
+frame_offset = [
+    6,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_113]
+pos = [
+    660,
+    735,
+]
+size = [
+    62,
+    61,
+]
+frame_offset = [
+    2,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_118]
+pos = [
+    0,
+    420,
+]
+size = [
+    70,
+    62,
+]
+frame_offset = [
+    58,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_119]
+pos = [
+    594,
+    794,
+]
+size = [
+    62,
+    63,
+]
+frame_offset = [
+    64,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_120]
+pos = [
+    975,
+    665,
+]
+size = [
+    46,
+    62,
+]
+frame_offset = [
+    20,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_121]
+pos = [
+    837,
+    306,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    2,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_122]
+pos = [
+    837,
+    223,
+]
+size = [
+    64,
+    81,
+]
+frame_offset = [
+    2,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_123]
+pos = [
+    146,
+    392,
+]
+size = [
+    66,
+    72,
+]
+frame_offset = [
+    2,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_124]
+pos = [
+    178,
+    173,
+]
+size = [
+    84,
+    81,
+]
+frame_offset = [
+    40,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_125]
+pos = [
+    903,
+    422,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    60,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_126]
+pos = [
+    0,
+    484,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    60,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_127]
+pos = [
+    776,
+    879,
+]
+size = [
+    44,
+    61,
+]
+frame_offset = [
+    60,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_128]
+pos = [
+    804,
+    942,
+]
+size = [
+    40,
+    39,
+]
+frame_offset = [
+    26,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_129]
+pos = [
+    600,
+    562,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_130]
+pos = [
+    528,
+    667,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_131]
+pos = [
+    926,
+    617,
+]
+size = [
+    58,
+    46,
+]
+frame_offset = [
+    2,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_132]
+pos = [
+    78,
+    328,
+]
+size = [
+    74,
+    62,
+]
+frame_offset = [
+    50,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_133]
+pos = [
+    396,
+    645,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    60,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_134]
+pos = [
+    631,
+    501,
+]
+size = [
+    64,
+    59,
+]
+frame_offset = [
+    60,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_135]
+pos = [
+    822,
+    879,
+]
+size = [
+    42,
+    50,
+]
+frame_offset = [
+    60,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_136]
+pos = [
+    224,
+    336,
+]
+size = [
+    66,
+    62,
+]
+frame_offset = [
+    0,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_137]
+pos = [
+    72,
+    449,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_138]
+pos = [
+    66,
+    529,
+]
+size = [
+    64,
+    76,
+]
+frame_offset = [
+    2,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_139]
+pos = [
+    798,
+    586,
+]
+size = [
+    62,
+    60,
+]
+frame_offset = [
+    2,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_140]
+pos = [
+    192,
+    0,
+]
+size = [
+    86,
+    78,
+]
+frame_offset = [
+    38,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_141]
+pos = [
+    903,
+    259,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    60,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_142]
+pos = [
+    138,
+    466,
+]
+size = [
+    64,
+    76,
+]
+frame_offset = [
+    60,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_143]
+pos = [
+    844,
+    825,
+]
+size = [
+    43,
+    51,
+]
+frame_offset = [
+    60,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_44]
+pos = [
+    0,
+    119,
+]
+size = [
+    87,
+    75,
+]
+frame_offset = [
+    37,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_45]
+pos = [
+    0,
+    797,
+]
+size = [
+    64,
+    71,
+]
+frame_offset = [
+    60,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_46]
+pos = [
+    0,
+    564,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    60,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_47]
+pos = [
+    913,
+    730,
+]
+size = [
+    46,
+    54,
+]
+frame_offset = [
+    60,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_48]
+pos = [
+    130,
+    0,
+]
+size = [
+    8,
+    16,
+]
+frame_offset = [
+    58,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_49]
+pos = [
+    132,
+    695,
+]
+size = [
+    64,
+    70,
+]
+frame_offset = [
+    2,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_50]
+pos = [
+    402,
+    508,
+]
+size = [
+    64,
+    68,
+]
+frame_offset = [
+    2,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_51]
+pos = [
+    336,
+    180,
+]
+size = [
+    22,
+    42,
+]
+frame_offset = [
+    2,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_52]
+pos = [
+    140,
+    5,
+]
+size = [
+    3,
+    3,
+]
+frame_offset = [
+    121,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_53]
+pos = [
+    330,
+    647,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    60,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_54]
+pos = [
+    132,
+    544,
+]
+size = [
+    64,
+    75,
+]
+frame_offset = [
+    60,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_55]
+pos = [
+    931,
+    876,
+]
+size = [
+    35,
+    50,
+]
+frame_offset = [
+    60,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_56]
+pos = [
+    198,
+    979,
+]
+size = [
+    42,
+    36,
+]
+frame_offset = [
+    24,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_57]
+pos = [
+    198,
+    916,
+]
+size = [
+    64,
+    61,
+]
+frame_offset = [
+    2,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_58]
+pos = [
+    66,
+    968,
+]
+size = [
+    64,
+    54,
+]
+frame_offset = [
+    2,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_59]
+pos = [
+    790,
+    754,
+]
+size = [
+    56,
+    52,
+]
+frame_offset = [
+    2,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_60]
+pos = [
+    0,
+    292,
+]
+size = [
+    76,
+    60,
+]
+frame_offset = [
+    48,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_61]
+pos = [
+    705,
+    444,
+]
+size = [
+    64,
+    59,
+]
+frame_offset = [
+    60,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_62]
+pos = [
+    462,
+    731,
+]
+size = [
+    64,
+    58,
+]
+frame_offset = [
+    60,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_63]
+pos = [
+    988,
+    564,
+]
+size = [
+    34,
+    36,
+]
+frame_offset = [
+    60,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_64]
+pos = [
+    889,
+    840,
+]
+size = [
+    40,
+    70,
+]
+frame_offset = [
+    26,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_65]
+pos = [
+    705,
+    275,
+]
+size = [
+    64,
+    84,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_66]
+pos = [
+    903,
+    91,
+]
+size = [
+    64,
+    84,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_67]
+pos = [
+    969,
+    0,
+]
+size = [
+    53,
+    76,
+]
+frame_offset = [
+    2,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_68]
+pos = [
+    278,
+    89,
+]
+size = [
+    80,
+    89,
+]
+frame_offset = [
+    44,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_69]
+pos = [
+    771,
+    261,
+]
+size = [
+    64,
+    84,
+]
+frame_offset = [
+    60,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_70]
+pos = [
+    639,
+    415,
+]
+size = [
+    64,
+    84,
+]
+frame_offset = [
+    60,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_71]
+pos = [
+    714,
+    946,
+]
+size = [
+    44,
+    72,
+]
+frame_offset = [
+    60,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_72]
+pos = [
+    804,
+    983,
+]
+size = [
+    38,
+    37,
+]
+frame_offset = [
+    28,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_73]
+pos = [
+    594,
+    680,
+]
+size = [
+    64,
+    56,
+]
+frame_offset = [
+    2,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_74]
+pos = [
+    396,
+    833,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_75]
+pos = [
+    969,
+    379,
+]
+size = [
+    48,
+    44,
+]
+frame_offset = [
+    2,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_76]
+pos = [
+    76,
+    392,
+]
+size = [
+    68,
+    55,
+]
+frame_offset = [
+    56,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_77]
+pos = [
+    330,
+    960,
+]
+size = [
+    64,
+    55,
+]
+frame_offset = [
+    60,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_78]
+pos = [
+    396,
+    892,
+]
+size = [
+    64,
+    56,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_79]
+pos = [
+    986,
+    617,
+]
+size = [
+    35,
+    32,
+]
+frame_offset = [
+    60,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_80]
+pos = [
+    242,
+    979,
+]
+size = [
+    18,
+    24,
+]
+frame_offset = [
+    48,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_81]
+pos = [
+    462,
+    791,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_82]
+pos = [
+    462,
+    850,
+]
+size = [
+    64,
+    55,
+]
+frame_offset = [
+    2,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_83]
+pos = [
+    948,
+    791,
+]
+size = [
+    40,
+    34,
+]
+frame_offset = [
+    2,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_84]
+pos = [
+    657,
+    909,
+]
+size = [
+    55,
+    63,
+]
+frame_offset = [
+    69,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_85]
+pos = [
+    0,
+    722,
+]
+size = [
+    64,
+    73,
+]
+frame_offset = [
+    60,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_86]
+pos = [
+    365,
+    435,
+]
+size = [
+    64,
+    71,
+]
+frame_offset = [
+    60,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_87]
+pos = [
+    468,
+    501,
+]
+size = [
+    25,
+    29,
+]
+frame_offset = [
+    60,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_89]
+pos = [
+    264,
+    577,
+]
+size = [
+    64,
+    70,
+]
+frame_offset = [
+    2,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_90]
+pos = [
+    66,
+    831,
+]
+size = [
+    64,
+    69,
+]
+frame_offset = [
+    2,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_91]
+pos = [
+    161,
+    194,
+]
+size = [
+    15,
+    44,
+]
+frame_offset = [
+    2,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_92]
+pos = [
+    973,
+    861,
+]
+size = [
+    28,
+    48,
+]
+frame_offset = [
+    96,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_93]
+pos = [
+    264,
+    719,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    60,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_94]
+pos = [
+    829,
+    527,
+]
+size = [
+    63,
+    57,
+]
+frame_offset = [
+    60,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_96]
+pos = [
+    969,
+    234,
+]
+size = [
+    50,
+    71,
+]
+frame_offset = [
+    16,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_97]
+pos = [
+    771,
+    429,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    2,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_98]
+pos = [
+    837,
+    388,
+]
+size = [
+    64,
+    80,
+]
+frame_offset = [
+    2,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_99]
+pos = [
+    231,
+    256,
+]
+size = [
+    66,
+    78,
+]
+frame_offset = [
+    2,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_10]
+pos = [
+    66,
+    902,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    2,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_104]
+pos = [
+    848,
+    754,
+]
+size = [
+    54,
+    69,
+]
+frame_offset = [
+    12,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_105]
+pos = [
+    903,
+    0,
+]
+size = [
+    64,
+    89,
+]
+frame_offset = [
+    2,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_106]
+pos = [
+    771,
+    173,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    2,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_107]
+pos = [
+    0,
+    196,
+]
+size = [
+    79,
+    94,
+]
+frame_offset = [
+    2,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_108]
+pos = [
+    96,
+    24,
+]
+size = [
+    94,
+    93,
+]
+frame_offset = [
+    30,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_109]
+pos = [
+    837,
+    135,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    60,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_11]
+pos = [
+    396,
+    950,
+]
+size = [
+    63,
+    64,
+]
+frame_offset = [
+    2,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_110]
+pos = [
+    499,
+    378,
+]
+size = [
+    64,
+    94,
+]
+frame_offset = [
+    60,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_111]
+pos = [
+    720,
+    874,
+]
+size = [
+    54,
+    70,
+]
+frame_offset = [
+    60,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_12]
+pos = [
+    366,
+    0,
+]
+size = [
+    83,
+    75,
+]
+frame_offset = [
+    41,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_13]
+pos = [
+    198,
+    717,
+]
+size = [
+    64,
+    67,
+]
+frame_offset = [
+    60,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_14]
+pos = [
+    336,
+    508,
+]
+size = [
+    64,
+    69,
+]
+frame_offset = [
+    60,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_15]
+pos = [
+    636,
+    974,
+]
+size = [
+    40,
+    48,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_16]
+pos = [
+    678,
+    974,
+]
+size = [
+    33,
+    46,
+]
+frame_offset = [
+    33,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_17]
+pos = [
+    264,
+    785,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    2,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_18]
+pos = [
+    198,
+    852,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    2,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_19]
+pos = [
+    448,
+    77,
+]
+size = [
+    56,
+    58,
+]
+frame_offset = [
+    2,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_20]
+pos = [
+    366,
+    77,
+]
+size = [
+    80,
+    68,
+]
+frame_offset = [
+    44,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_21]
+pos = [
+    534,
+    540,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    60,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_22]
+pos = [
+    396,
+    709,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    60,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_23]
+pos = [
+    904,
+    786,
+]
+size = [
+    42,
+    52,
+]
+frame_offset = [
+    60,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_24]
+pos = [
+    968,
+    911,
+]
+size = [
+    26,
+    50,
+]
+frame_offset = [
+    40,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_25]
+pos = [
+    132,
+    904,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    2,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_26]
+pos = [
+    499,
+    474,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    2,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_27]
+pos = [
+    967,
+    502,
+]
+size = [
+    54,
+    60,
+]
+frame_offset = [
+    2,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_28]
+pos = [
+    299,
+    243,
+]
+size = [
+    66,
+    67,
+]
+frame_offset = [
+    58,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_29]
+pos = [
+    528,
+    605,
+]
+size = [
+    64,
+    60,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_30]
+pos = [
+    468,
+    540,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    60,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_31]
+pos = [
+    919,
+    978,
+]
+size = [
+    26,
+    42,
+]
+frame_offset = [
+    60,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_40]
+pos = [
+    591,
+    974,
+]
+size = [
+    43,
+    48,
+]
+frame_offset = [
+    23,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_41]
+pos = [
+    204,
+    496,
+]
+size = [
+    64,
+    73,
+]
+frame_offset = [
+    2,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_42]
+pos = [
+    903,
+    502,
+]
+size = [
+    62,
+    61,
+]
+frame_offset = [
+    2,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_43]
+pos = [
+    330,
+    841,
+]
+size = [
+    64,
+    58,
+]
+frame_offset = [
+    6,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_44]
+pos = [
+    89,
+    119,
+]
+size = [
+    87,
+    73,
+]
+frame_offset = [
+    37,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_45]
+pos = [
+    330,
+    579,
+]
+size = [
+    64,
+    66,
+]
+frame_offset = [
+    60,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_46]
+pos = [
+    0,
+    644,
+]
+size = [
+    64,
+    76,
+]
+frame_offset = [
+    60,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_47]
+pos = [
+    760,
+    946,
+]
+size = [
+    42,
+    50,
+]
+frame_offset = [
+    60,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_48]
+pos = [
+    140,
+    0,
+]
+size = [
+    4,
+    3,
+]
+frame_offset = [
+    62,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_49]
+pos = [
+    0,
+    942,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    2,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_50]
+pos = [
+    396,
+    579,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    2,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_51]
+pos = [
+    947,
+    978,
+]
+size = [
+    22,
+    40,
+]
+frame_offset = [
+    2,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_52]
+pos = [
+    146,
+    0,
+]
+size = [
+    3,
+    3,
+]
+frame_offset = [
+    121,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_53]
+pos = [
+    264,
+    849,
+]
+size = [
+    64,
+    61,
+]
+frame_offset = [
+    60,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_54]
+pos = [
+    198,
+    645,
+]
+size = [
+    64,
+    70,
+]
+frame_offset = [
+    60,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_55]
+pos = [
+    846,
+    970,
+]
+size = [
+    31,
+    49,
+]
+frame_offset = [
+    60,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_56]
+pos = [
+    886,
+    912,
+]
+size = [
+    38,
+    34,
+]
+frame_offset = [
+    28,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_57]
+pos = [
+    264,
+    912,
+]
+size = [
+    64,
+    58,
+]
+frame_offset = [
+    2,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_58]
+pos = [
+    660,
+    681,
+]
+size = [
+    64,
+    52,
+]
+frame_offset = [
+    2,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_59]
+pos = [
+    855,
+    701,
+]
+size = [
+    56,
+    51,
+]
+frame_offset = [
+    2,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_60]
+pos = [
+    81,
+    266,
+]
+size = [
+    76,
+    60,
+]
+frame_offset = [
+    48,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_61]
+pos = [
+    594,
+    738,
+]
+size = [
+    64,
+    54,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_62]
+pos = [
+    594,
+    621,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_63]
+pos = [
+    886,
+    948,
+]
+size = [
+    31,
+    36,
+]
+frame_offset = [
+    60,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_72]
+pos = [
+    846,
+    931,
+]
+size = [
+    38,
+    37,
+]
+frame_offset = [
+    28,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_73]
+pos = [
+    763,
+    511,
+]
+size = [
+    64,
+    56,
+]
+frame_offset = [
+    2,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_74]
+pos = [
+    330,
+    901,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_75]
+pos = [
+    969,
+    425,
+]
+size = [
+    48,
+    44,
+]
+frame_offset = [
+    2,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_76]
+pos = [
+    154,
+    330,
+]
+size = [
+    68,
+    55,
+]
+frame_offset = [
+    56,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_77]
+pos = [
+    837,
+    470,
+]
+size = [
+    64,
+    55,
+]
+frame_offset = [
+    60,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_78]
+pos = [
+    660,
+    623,
+]
+size = [
+    64,
+    56,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_79]
+pos = [
+    973,
+    827,
+]
+size = [
+    35,
+    32,
+]
+frame_offset = [
+    60,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_8]
+pos = [
+    961,
+    730,
+]
+size = [
+    42,
+    59,
+]
+frame_offset = [
+    24,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_80]
+pos = [
+    996,
+    471,
+]
+size = [
+    18,
+    24,
+]
+frame_offset = [
+    48,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_81]
+pos = [
+    528,
+    726,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_82]
+pos = [
+    528,
+    785,
+]
+size = [
+    64,
+    55,
+]
+frame_offset = [
+    2,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_83]
+pos = [
+    931,
+    840,
+]
+size = [
+    40,
+    34,
+]
+frame_offset = [
+    2,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_84]
+pos = [
+    918,
+    665,
+]
+size = [
+    55,
+    63,
+]
+frame_offset = [
+    69,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_85]
+pos = [
+    66,
+    684,
+]
+size = [
+    64,
+    73,
+]
+frame_offset = [
+    60,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_86]
+pos = [
+    270,
+    504,
+]
+size = [
+    64,
+    71,
+]
+frame_offset = [
+    60,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_87]
+pos = [
+    969,
+    471,
+]
+size = [
+    25,
+    29,
+]
+frame_offset = [
+    60,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_89]
+pos = [
+    0,
+    870,
+]
+size = [
+    64,
+    70,
+]
+frame_offset = [
+    2,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_9]
+pos = [
+    264,
+    649,
+]
+size = [
+    64,
+    68,
+]
+frame_offset = [
+    2,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_90]
+pos = [
+    132,
+    767,
+]
+size = [
+    64,
+    69,
+]
+frame_offset = [
+    2,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_91]
+pos = [
+    280,
+    400,
+]
+size = [
+    15,
+    44,
+]
+frame_offset = [
+    2,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_92]
+pos = [
+    926,
+    928,
+]
+size = [
+    28,
+    48,
+]
+frame_offset = [
+    96,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_93]
+pos = [
+    198,
+    786,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    60,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_01_on_94]
+pos = [
+    462,
+    907,
+]
+size = [
+    63,
+    57,
+]
+frame_offset = [
+    60,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_10]
+pos = [
+    462,
+    669,
+]
+size = [
+    64,
+    60,
+]
+frame_offset = [
+    2,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_11]
+pos = [
+    264,
+    972,
+]
+size = [
+    64,
+    50,
+]
+frame_offset = [
+    2,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_12]
+pos = [
+    593,
+    859,
+]
+size = [
+    62,
+    54,
+]
+frame_offset = [
+    62,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_13]
+pos = [
+    330,
+    713,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    60,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_138]
+pos = [
+    0,
+    20,
+]
+size = [
+    126,
+    2,
+]
+frame_offset = [
+    2,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_139]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    2,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_14]
+pos = [
+    724,
+    770,
+]
+size = [
+    62,
+    47,
+]
+frame_offset = [
+    62,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_140]
+pos = [
+    0,
+    4,
+]
+size = [
+    128,
+    2,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_141]
+pos = [
+    0,
+    8,
+]
+size = [
+    128,
+    2,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_142]
+pos = [
+    0,
+    12,
+]
+size = [
+    128,
+    2,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_143]
+pos = [
+    0,
+    16,
+]
+size = [
+    128,
+    2,
+]
+frame_offset = [
+    0,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_15]
+pos = [
+    658,
+    798,
+]
+size = [
+    62,
+    53,
+]
+frame_offset = [
+    60,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_16]
+pos = [
+    461,
+    966,
+]
+size = [
+    62,
+    56,
+]
+frame_offset = [
+    4,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_17]
+pos = [
+    396,
+    773,
+]
+size = [
+    64,
+    58,
+]
+frame_offset = [
+    2,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_18]
+pos = [
+    462,
+    605,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    2,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_19]
+pos = [
+    0,
+    354,
+]
+size = [
+    74,
+    64,
+]
+frame_offset = [
+    2,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_20]
+pos = [
+    81,
+    196,
+]
+size = [
+    78,
+    68,
+]
+frame_offset = [
+    46,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_21]
+pos = [
+    132,
+    838,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    60,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_22]
+pos = [
+    565,
+    458,
+]
+size = [
+    64,
+    63,
+]
+frame_offset = [
+    60,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_23]
+pos = [
+    528,
+    892,
+]
+size = [
+    62,
+    60,
+]
+frame_offset = [
+    60,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_24]
+pos = [
+    791,
+    648,
+]
+size = [
+    62,
+    57,
+]
+frame_offset = [
+    4,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_25]
+pos = [
+    132,
+    621,
+]
+size = [
+    64,
+    72,
+]
+frame_offset = [
+    2,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_26]
+pos = [
+    66,
+    607,
+]
+size = [
+    64,
+    75,
+]
+frame_offset = [
+    2,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_27]
+pos = [
+    264,
+    180,
+]
+size = [
+    70,
+    56,
+]
+frame_offset = [
+    2,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_28]
+pos = [
+    159,
+    266,
+]
+size = [
+    70,
+    62,
+]
+frame_offset = [
+    54,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_29]
+pos = [
+    330,
+    777,
+]
+size = [
+    64,
+    62,
+]
+frame_offset = [
+    60,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_30]
+pos = [
+    66,
+    759,
+]
+size = [
+    64,
+    70,
+]
+frame_offset = [
+    60,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_31]
+pos = [
+    726,
+    709,
+]
+size = [
+    62,
+    59,
+]
+frame_offset = [
+    60,
+    149,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_32]
+pos = [
+    855,
+    648,
+]
+size = [
+    61,
+    51,
+]
+frame_offset = [
+    5,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_33]
+pos = [
+    697,
+    505,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_34]
+pos = [
+    198,
+    571,
+]
+size = [
+    64,
+    72,
+]
+frame_offset = [
+    2,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_35]
+pos = [
+    592,
+    915,
+]
+size = [
+    60,
+    57,
+]
+frame_offset = [
+    2,
+    156,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_44]
+pos = [
+    192,
+    80,
+]
+size = [
+    84,
+    91,
+]
+frame_offset = [
+    40,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_45]
+pos = [
+    705,
+    361,
+]
+size = [
+    64,
+    81,
+]
+frame_offset = [
+    60,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_46]
+pos = [
+    903,
+    341,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    60,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_47]
+pos = [
+    726,
+    625,
+]
+size = [
+    63,
+    82,
+]
+frame_offset = [
+    60,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_48]
+pos = [
+    969,
+    78,
+]
+size = [
+    52,
+    154,
+]
+frame_offset = [
+    72,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_49]
+pos = [
+    441,
+    147,
+]
+size = [
+    64,
+    190,
+]
+frame_offset = [
+    60,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_50]
+pos = [
+    507,
+    190,
+]
+size = [
+    64,
+    186,
+]
+frame_offset = [
+    60,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_51]
+pos = [
+    367,
+    243,
+]
+size = [
+    64,
+    190,
+]
+frame_offset = [
+    60,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_52]
+pos = [
+    299,
+    312,
+]
+size = [
+    64,
+    190,
+]
+frame_offset = [
+    60,
+    8,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_53]
+pos = [
+    639,
+    0,
+]
+size = [
+    64,
+    187,
+]
+frame_offset = [
+    60,
+    8,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_54]
+pos = [
+    507,
+    0,
+]
+size = [
+    64,
+    188,
+]
+frame_offset = [
+    60,
+    11,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_55]
+pos = [
+    573,
+    190,
+]
+size = [
+    64,
+    178,
+]
+frame_offset = [
+    60,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_64]
+pos = [
+    705,
+    0,
+]
+size = [
+    64,
+    182,
+]
+frame_offset = [
+    60,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_65]
+pos = [
+    573,
+    0,
+]
+size = [
+    64,
+    188,
+]
+frame_offset = [
+    60,
+    12,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_66]
+pos = [
+    433,
+    339,
+]
+size = [
+    64,
+    160,
+]
+frame_offset = [
+    60,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_67]
+pos = [
+    771,
+    0,
+]
+size = [
+    64,
+    171,
+]
+frame_offset = [
+    60,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_68]
+pos = [
+    639,
+    189,
+]
+size = [
+    64,
+    136,
+]
+frame_offset = [
+    60,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_69]
+pos = [
+    837,
+    0,
+]
+size = [
+    64,
+    133,
+]
+frame_offset = [
+    60,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_70]
+pos = [
+    996,
+    911,
+]
+size = [
+    24,
+    99,
+]
+frame_offset = [
+    60,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_8]
+pos = [
+    862,
+    586,
+]
+size = [
+    62,
+    56,
+]
+frame_offset = [
+    4,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_9]
+pos = [
+    666,
+    564,
+]
+size = [
+    64,
+    57,
+]
+frame_offset = [
+    2,
+    161,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_10]
+pos = [
+    132,
+    969,
+]
+size = [
+    64,
+    52,
+]
+frame_offset = [
+    2,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_11]
+pos = [
+    528,
+    842,
+]
+size = [
+    63,
+    48,
+]
+frame_offset = [
+    3,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_12]
+pos = [
+    527,
+    954,
+]
+size = [
+    62,
+    52,
+]
+frame_offset = [
+    62,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_13]
+pos = [
+    658,
+    853,
+]
+size = [
+    60,
+    54,
+]
+frame_offset = [
+    60,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_14]
+pos = [
+    791,
+    707,
+]
+size = [
+    62,
+    45,
+]
+frame_offset = [
+    62,
+    167,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_8]
+pos = [
+    722,
+    819,
+]
+size = [
+    58,
+    53,
+]
+frame_offset = [
+    8,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_mall_signs_02_on_9]
+pos = [
+    732,
+    569,
+]
+size = [
+    64,
+    54,
+]
+frame_offset = [
+    2,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]

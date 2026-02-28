@@ -1,0 +1,1737 @@
+[fixtures_railings_01_100]
+pos = [
+    739,
+    811,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_101]
+pos = [
+    751,
+    645,
+]
+size = [
+    68,
+    164,
+]
+frame_offset = [
+    58,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_102]
+pos = [
+    996,
+    0,
+]
+size = [
+    19,
+    32,
+]
+frame_offset = [
+    61,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_103]
+pos = [
+    0,
+    992,
+]
+size = [
+    20,
+    30,
+]
+frame_offset = [
+    46,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_108]
+pos = [
+    599,
+    824,
+]
+size = [
+    68,
+    109,
+]
+frame_offset = [
+    0,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_109]
+pos = [
+    669,
+    802,
+]
+size = [
+    68,
+    109,
+]
+frame_offset = [
+    60,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_110]
+pos = [
+    0,
+    400,
+]
+size = [
+    128,
+    110,
+]
+frame_offset = [
+    0,
+    112,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_111]
+pos = [
+    500,
+    373,
+]
+size = [
+    8,
+    6,
+]
+frame_offset = [
+    59,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_112]
+pos = [
+    807,
+    878,
+]
+size = [
+    66,
+    112,
+]
+frame_offset = [
+    0,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_113]
+pos = [
+    529,
+    847,
+]
+size = [
+    68,
+    112,
+]
+frame_offset = [
+    60,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_114]
+pos = [
+    390,
+    0,
+]
+size = [
+    128,
+    111,
+]
+frame_offset = [
+    0,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_115]
+pos = [
+    510,
+    373,
+]
+size = [
+    6,
+    80,
+]
+frame_offset = [
+    60,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_116]
+pos = [
+    889,
+    808,
+]
+size = [
+    66,
+    112,
+]
+frame_offset = [
+    0,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_117]
+pos = [
+    898,
+    528,
+]
+size = [
+    68,
+    112,
+]
+frame_offset = [
+    60,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_118]
+pos = [
+    390,
+    113,
+]
+size = [
+    128,
+    111,
+]
+frame_offset = [
+    0,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_119]
+pos = [
+    988,
+    45,
+]
+size = [
+    6,
+    80,
+]
+frame_offset = [
+    60,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_120]
+pos = [
+    895,
+    642,
+]
+size = [
+    66,
+    164,
+]
+frame_offset = [
+    0,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_121]
+pos = [
+    957,
+    883,
+]
+size = [
+    63,
+    119,
+]
+frame_offset = [
+    2,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_122]
+pos = [
+    975,
+    429,
+]
+size = [
+    46,
+    57,
+]
+frame_offset = [
+    19,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_123]
+pos = [
+    969,
+    488,
+]
+size = [
+    45,
+    66,
+]
+frame_offset = [
+    24,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_124]
+pos = [
+    677,
+    558,
+]
+size = [
+    72,
+    125,
+]
+frame_offset = [
+    0,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_125]
+pos = [
+    523,
+    720,
+]
+size = [
+    72,
+    125,
+]
+frame_offset = [
+    0,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_128]
+pos = [
+    363,
+    709,
+]
+size = [
+    74,
+    117,
+]
+frame_offset = [
+    0,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_129]
+pos = [
+    525,
+    510,
+]
+size = [
+    74,
+    117,
+]
+frame_offset = [
+    54,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_130]
+pos = [
+    260,
+    326,
+]
+size = [
+    128,
+    116,
+]
+frame_offset = [
+    0,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_131]
+pos = [
+    370,
+    444,
+]
+size = [
+    15,
+    104,
+]
+frame_offset = [
+    57,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_132]
+pos = [
+    458,
+    871,
+]
+size = [
+    69,
+    115,
+]
+frame_offset = [
+    0,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_133]
+pos = [
+    903,
+    369,
+]
+size = [
+    70,
+    116,
+]
+frame_offset = [
+    58,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_136]
+pos = [
+    234,
+    811,
+]
+size = [
+    74,
+    125,
+]
+frame_offset = [
+    54,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_137]
+pos = [
+    599,
+    656,
+]
+size = [
+    70,
+    125,
+]
+frame_offset = [
+    54,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_138]
+pos = [
+    979,
+    280,
+]
+size = [
+    42,
+    62,
+]
+frame_offset = [
+    60,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_139]
+pos = [
+    975,
+    369,
+]
+size = [
+    46,
+    58,
+]
+frame_offset = [
+    61,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_140]
+pos = [
+    821,
+    757,
+]
+size = [
+    66,
+    119,
+]
+frame_offset = [
+    58,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_141]
+pos = [
+    825,
+    591,
+]
+size = [
+    68,
+    164,
+]
+frame_offset = [
+    58,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_89]
+pos = [
+    601,
+    468,
+]
+size = [
+    74,
+    117,
+]
+frame_offset = [
+    54,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_90]
+pos = [
+    130,
+    364,
+]
+size = [
+    128,
+    117,
+]
+frame_offset = [
+    0,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_91]
+pos = [
+    110,
+    770,
+]
+size = [
+    12,
+    103,
+]
+frame_offset = [
+    58,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_92]
+pos = [
+    671,
+    685,
+]
+size = [
+    69,
+    115,
+]
+frame_offset = [
+    0,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_93]
+pos = [
+    826,
+    473,
+]
+size = [
+    70,
+    116,
+]
+frame_offset = [
+    58,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_94]
+pos = [
+    968,
+    620,
+]
+size = [
+    36,
+    65,
+]
+frame_offset = [
+    85,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_95]
+pos = [
+    669,
+    913,
+]
+size = [
+    66,
+    108,
+]
+frame_offset = [
+    60,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_96]
+pos = [
+    447,
+    630,
+]
+size = [
+    74,
+    125,
+]
+frame_offset = [
+    54,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_97]
+pos = [
+    753,
+    518,
+]
+size = [
+    70,
+    125,
+]
+frame_offset = [
+    54,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_98]
+pos = [
+    968,
+    556,
+]
+size = [
+    42,
+    62,
+]
+frame_offset = [
+    60,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_railings_01_99]
+pos = [
+    408,
+    916,
+]
+size = [
+    46,
+    58,
+]
+frame_offset = [
+    61,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_0]
+pos = [
+    337,
+    938,
+]
+size = [
+    69,
+    39,
+]
+frame_offset = [
+    17,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_1]
+pos = [
+    905,
+    0,
+]
+size = [
+    89,
+    43,
+]
+frame_offset = [
+    1,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_10]
+pos = [
+    310,
+    897,
+]
+size = [
+    71,
+    39,
+]
+frame_offset = [
+    43,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_11]
+pos = [
+    124,
+    741,
+]
+size = [
+    108,
+    172,
+]
+frame_offset = [
+    12,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_12]
+pos = [
+    110,
+    915,
+]
+size = [
+    74,
+    97,
+]
+frame_offset = [
+    42,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_13]
+pos = [
+    370,
+    613,
+]
+size = [
+    75,
+    94,
+]
+frame_offset = [
+    10,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_14]
+pos = [
+    186,
+    938,
+]
+size = [
+    74,
+    69,
+]
+frame_offset = [
+    42,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_15]
+pos = [
+    448,
+    561,
+]
+size = [
+    75,
+    67,
+]
+frame_offset = [
+    10,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_16]
+pos = [
+    439,
+    757,
+]
+size = [
+    73,
+    60,
+]
+frame_offset = [
+    20,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_17]
+pos = [
+    262,
+    938,
+]
+size = [
+    73,
+    64,
+]
+frame_offset = [
+    33,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_18]
+pos = [
+    370,
+    561,
+]
+size = [
+    76,
+    50,
+]
+frame_offset = [
+    36,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_19]
+pos = [
+    500,
+    458,
+]
+size = [
+    76,
+    50,
+]
+frame_offset = [
+    14,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_2]
+pos = [
+    385,
+    871,
+]
+size = [
+    71,
+    43,
+]
+frame_offset = [
+    37,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_20]
+pos = [
+    337,
+    979,
+]
+size = [
+    69,
+    39,
+]
+frame_offset = [
+    17,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_21]
+pos = [
+    0,
+    947,
+]
+size = [
+    89,
+    43,
+]
+frame_offset = [
+    1,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_22]
+pos = [
+    753,
+    473,
+]
+size = [
+    71,
+    43,
+]
+frame_offset = [
+    37,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_23]
+pos = [
+    597,
+    783,
+]
+size = [
+    69,
+    39,
+]
+frame_offset = [
+    42,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_24]
+pos = [
+    737,
+    932,
+]
+size = [
+    65,
+    75,
+]
+frame_offset = [
+    43,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_25]
+pos = [
+    957,
+    808,
+]
+size = [
+    65,
+    73,
+]
+frame_offset = [
+    18,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_28]
+pos = [
+    677,
+    468,
+]
+size = [
+    74,
+    88,
+]
+frame_offset = [
+    13,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_29]
+pos = [
+    523,
+    630,
+]
+size = [
+    74,
+    88,
+]
+frame_offset = [
+    39,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_3]
+pos = [
+    898,
+    487,
+]
+size = [
+    69,
+    39,
+]
+frame_offset = [
+    42,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_30]
+pos = [
+    903,
+    280,
+]
+size = [
+    74,
+    87,
+]
+frame_offset = [
+    13,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_31]
+pos = [
+    905,
+    45,
+]
+size = [
+    81,
+    233,
+]
+frame_offset = [
+    39,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_32]
+pos = [
+    260,
+    444,
+]
+size = [
+    108,
+    188,
+]
+frame_offset = [
+    0,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_33]
+pos = [
+    390,
+    373,
+]
+size = [
+    108,
+    186,
+]
+frame_offset = [
+    18,
+    61,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_34]
+pos = [
+    0,
+    770,
+]
+size = [
+    108,
+    175,
+]
+frame_offset = [
+    20,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_35]
+pos = [
+    254,
+    634,
+]
+size = [
+    107,
+    175,
+]
+frame_offset = [
+    0,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_4]
+pos = [
+    601,
+    587,
+]
+size = [
+    73,
+    67,
+]
+frame_offset = [
+    21,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_42]
+pos = [
+    124,
+    516,
+]
+size = [
+    1,
+    1,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_43]
+pos = [
+    124,
+    512,
+]
+size = [
+    3,
+    2,
+]
+frame_offset = [
+    64,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_5]
+pos = [
+    310,
+    828,
+]
+size = [
+    73,
+    67,
+]
+frame_offset = [
+    30,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_6]
+pos = [
+    776,
+    430,
+]
+size = [
+    73,
+    41,
+]
+frame_offset = [
+    34,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_7]
+pos = [
+    385,
+    828,
+]
+size = [
+    73,
+    41,
+]
+frame_offset = [
+    20,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_8]
+pos = [
+    529,
+    961,
+]
+size = [
+    68,
+    50,
+]
+frame_offset = [
+    18,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_sinks_01_9]
+pos = [
+    599,
+    935,
+]
+size = [
+    68,
+    50,
+]
+frame_offset = [
+    40,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_0]
+pos = [
+    130,
+    214,
+]
+size = [
+    128,
+    148,
+]
+frame_offset = [
+    0,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_1]
+pos = [
+    777,
+    0,
+]
+size = [
+    126,
+    210,
+]
+frame_offset = [
+    0,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_10]
+pos = [
+    649,
+    0,
+]
+size = [
+    126,
+    255,
+]
+frame_offset = [
+    2,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_11]
+pos = [
+    260,
+    180,
+]
+size = [
+    128,
+    144,
+]
+frame_offset = [
+    0,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_12]
+pos = [
+    648,
+    257,
+]
+size = [
+    126,
+    209,
+]
+frame_offset = [
+    0,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_13]
+pos = [
+    0,
+    512,
+]
+size = [
+    122,
+    256,
+]
+frame_offset = [
+    1,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_14]
+pos = [
+    996,
+    34,
+]
+size = [
+    14,
+    197,
+]
+frame_offset = [
+    57,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_16]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    178,
+]
+frame_offset = [
+    0,
+    78,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_17]
+pos = [
+    777,
+    212,
+]
+size = [
+    124,
+    216,
+]
+frame_offset = [
+    0,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_18]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    246,
+]
+
+[fixtures_stairs_01_2]
+pos = [
+    520,
+    212,
+]
+size = [
+    126,
+    244,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_3]
+pos = [
+    390,
+    226,
+]
+size = [
+    127,
+    145,
+]
+frame_offset = [
+    1,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_4]
+pos = [
+    520,
+    0,
+]
+size = [
+    127,
+    210,
+]
+frame_offset = [
+    0,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_5]
+pos = [
+    130,
+    483,
+]
+size = [
+    122,
+    256,
+]
+frame_offset = [
+    5,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_8]
+pos = [
+    0,
+    248,
+]
+size = [
+    128,
+    150,
+]
+frame_offset = [
+    0,
+    106,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_9]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    212,
+]
+frame_offset = [
+    0,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]

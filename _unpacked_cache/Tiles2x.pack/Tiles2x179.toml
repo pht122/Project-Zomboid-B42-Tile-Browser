@@ -1,0 +1,2375 @@
+[rugs_animals_100]
+pos = [
+    568,
+    934,
+]
+size = [
+    65,
+    40,
+]
+frame_offset = [
+    61,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_101]
+pos = [
+    173,
+    791,
+]
+size = [
+    81,
+    37,
+]
+frame_offset = [
+    19,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_102]
+pos = [
+    86,
+    822,
+]
+size = [
+    84,
+    48,
+]
+frame_offset = [
+    29,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_103]
+pos = [
+    0,
+    922,
+]
+size = [
+    84,
+    45,
+]
+frame_offset = [
+    0,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_21]
+pos = [
+    171,
+    922,
+]
+size = [
+    75,
+    43,
+]
+frame_offset = [
+    0,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_22]
+pos = [
+    87,
+    634,
+]
+size = [
+    85,
+    41,
+]
+frame_offset = [
+    41,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_23]
+pos = [
+    171,
+    967,
+]
+size = [
+    74,
+    38,
+]
+frame_offset = [
+    23,
+    217,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_24]
+pos = [
+    498,
+    438,
+]
+size = [
+    86,
+    43,
+]
+frame_offset = [
+    24,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_25]
+pos = [
+    518,
+    613,
+]
+size = [
+    74,
+    42,
+]
+frame_offset = [
+    52,
+    200,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_26]
+pos = [
+    746,
+    0,
+]
+size = [
+    88,
+    43,
+]
+frame_offset = [
+    0,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_27]
+pos = [
+    173,
+    750,
+]
+size = [
+    84,
+    39,
+]
+frame_offset = [
+    18,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_28]
+pos = [
+    925,
+    0,
+]
+size = [
+    87,
+    42,
+]
+frame_offset = [
+    18,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_29]
+pos = [
+    251,
+    879,
+]
+size = [
+    74,
+    41,
+]
+frame_offset = [
+    53,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_30]
+pos = [
+    260,
+    703,
+]
+size = [
+    82,
+    43,
+]
+frame_offset = [
+    1,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_31]
+pos = [
+    347,
+    653,
+]
+size = [
+    80,
+    42,
+]
+frame_offset = [
+    26,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_32]
+pos = [
+    171,
+    877,
+]
+size = [
+    78,
+    43,
+]
+frame_offset = [
+    33,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_33]
+pos = [
+    0,
+    127,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_34]
+pos = [
+    408,
+    304,
+]
+size = [
+    96,
+    48,
+]
+frame_offset = [
+    31,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_35]
+pos = [
+    130,
+    0,
+]
+size = [
+    121,
+    55,
+]
+frame_offset = [
+    1,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_36]
+pos = [
+    256,
+    794,
+]
+size = [
+    76,
+    48,
+]
+frame_offset = [
+    0,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_37]
+pos = [
+    319,
+    979,
+]
+size = [
+    69,
+    33,
+]
+frame_offset = [
+    57,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_38]
+pos = [
+    408,
+    249,
+]
+size = [
+    97,
+    53,
+]
+frame_offset = [
+    29,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_39]
+pos = [
+    0,
+    391,
+]
+size = [
+    100,
+    48,
+]
+frame_offset = [
+    0,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_40]
+pos = [
+    253,
+    844,
+]
+size = [
+    75,
+    33,
+]
+frame_offset = [
+    19,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_41]
+pos = [
+    303,
+    464,
+]
+size = [
+    92,
+    42,
+]
+frame_offset = [
+    33,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_42]
+pos = [
+    253,
+    0,
+]
+size = [
+    109,
+    53,
+]
+frame_offset = [
+    19,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_43]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    63,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_44]
+pos = [
+    307,
+    249,
+]
+size = [
+    99,
+    60,
+]
+frame_offset = [
+    0,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_45]
+pos = [
+    251,
+    57,
+]
+size = [
+    109,
+    49,
+]
+frame_offset = [
+    19,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_46]
+pos = [
+    130,
+    57,
+]
+size = [
+    119,
+    58,
+]
+frame_offset = [
+    0,
+    196,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_47]
+pos = [
+    361,
+    202,
+]
+size = [
+    102,
+    45,
+]
+frame_offset = [
+    13,
+    210,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_48]
+pos = [
+    256,
+    108,
+]
+size = [
+    105,
+    56,
+]
+frame_offset = [
+    23,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_49]
+pos = [
+    0,
+    65,
+]
+size = [
+    128,
+    60,
+]
+frame_offset = [
+    0,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_50]
+pos = [
+    129,
+    127,
+]
+size = [
+    125,
+    63,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_51]
+pos = [
+    121,
+    193,
+]
+size = [
+    110,
+    58,
+]
+frame_offset = [
+    18,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_52]
+pos = [
+    306,
+    409,
+]
+size = [
+    95,
+    53,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_53]
+pos = [
+    0,
+    193,
+]
+size = [
+    119,
+    40,
+]
+frame_offset = [
+    9,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_54]
+pos = [
+    364,
+    51,
+]
+size = [
+    105,
+    51,
+]
+frame_offset = [
+    0,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_55]
+pos = [
+    390,
+    979,
+]
+size = [
+    68,
+    33,
+]
+frame_offset = [
+    31,
+    222,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_56]
+pos = [
+    363,
+    152,
+]
+size = [
+    102,
+    48,
+]
+frame_offset = [
+    26,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_57]
+pos = [
+    635,
+    934,
+]
+size = [
+    59,
+    37,
+]
+frame_offset = [
+    0,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_58]
+pos = [
+    247,
+    968,
+]
+size = [
+    70,
+    42,
+]
+frame_offset = [
+    56,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_59]
+pos = [
+    0,
+    235,
+]
+size = [
+    101,
+    48,
+]
+frame_offset = [
+    26,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_60]
+pos = [
+    0,
+    441,
+]
+size = [
+    100,
+    46,
+]
+frame_offset = [
+    21,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_61]
+pos = [
+    403,
+    409,
+]
+size = [
+    93,
+    50,
+]
+frame_offset = [
+    0,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_62]
+pos = [
+    472,
+    0,
+]
+size = [
+    91,
+    47,
+]
+frame_offset = [
+    12,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_64]
+pos = [
+    233,
+    215,
+]
+size = [
+    38,
+    18,
+]
+frame_offset = [
+    48,
+    214,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_65]
+pos = [
+    654,
+    894,
+]
+size = [
+    61,
+    38,
+]
+frame_offset = [
+    35,
+    207,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_66]
+pos = [
+    518,
+    576,
+]
+size = [
+    75,
+    35,
+]
+frame_offset = [
+    24,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_67]
+pos = [
+    403,
+    461,
+]
+size = [
+    93,
+    47,
+]
+frame_offset = [
+    22,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_68]
+pos = [
+    406,
+    354,
+]
+size = [
+    95,
+    50,
+]
+frame_offset = [
+    31,
+    193,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_69]
+pos = [
+    363,
+    104,
+]
+size = [
+    103,
+    46,
+]
+frame_offset = [
+    2,
+    209,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_70]
+pos = [
+    203,
+    421,
+]
+size = [
+    98,
+    46,
+]
+frame_offset = [
+    0,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_71]
+pos = [
+    518,
+    490,
+]
+size = [
+    79,
+    42,
+]
+frame_offset = [
+    26,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_72]
+pos = [
+    597,
+    147,
+]
+size = [
+    88,
+    51,
+]
+frame_offset = [
+    38,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_73]
+pos = [
+    256,
+    166,
+]
+size = [
+    103,
+    47,
+]
+frame_offset = [
+    9,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_74]
+pos = [
+    364,
+    0,
+]
+size = [
+    106,
+    49,
+]
+frame_offset = [
+    16,
+    206,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_75]
+pos = [
+    174,
+    511,
+]
+size = [
+    85,
+    53,
+]
+frame_offset = [
+    0,
+    194,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_76]
+pos = [
+    306,
+    360,
+]
+size = [
+    97,
+    47,
+]
+frame_offset = [
+    14,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_77]
+pos = [
+    306,
+    311,
+]
+size = [
+    98,
+    47,
+]
+frame_offset = [
+    16,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_78]
+pos = [
+    836,
+    0,
+]
+size = [
+    87,
+    48,
+]
+frame_offset = [
+    19,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_79]
+pos = [
+    686,
+    200,
+]
+size = [
+    87,
+    48,
+]
+frame_offset = [
+    20,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_80]
+pos = [
+    518,
+    534,
+]
+size = [
+    77,
+    40,
+]
+frame_offset = [
+    50,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_81]
+pos = [
+    260,
+    748,
+]
+size = [
+    79,
+    44,
+]
+frame_offset = [
+    20,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_82]
+pos = [
+    248,
+    922,
+]
+size = [
+    73,
+    44,
+]
+frame_offset = [
+    0,
+    197,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_83]
+pos = [
+    471,
+    93,
+]
+size = [
+    89,
+    41,
+]
+frame_offset = [
+    25,
+    214,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_84]
+pos = [
+    835,
+    50,
+]
+size = [
+    87,
+    45,
+]
+frame_offset = [
+    40,
+    202,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_85]
+pos = [
+    172,
+    830,
+]
+size = [
+    79,
+    45,
+]
+frame_offset = [
+    16,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_86]
+pos = [
+    568,
+    976,
+]
+size = [
+    63,
+    38,
+]
+frame_offset = [
+    0,
+    201,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_87]
+pos = [
+    203,
+    469,
+]
+size = [
+    86,
+    40,
+]
+frame_offset = [
+    21,
+    215,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_88]
+pos = [
+    597,
+    537,
+]
+size = [
+    74,
+    40,
+]
+frame_offset = [
+    52,
+    205,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_89]
+pos = [
+    599,
+    490,
+]
+size = [
+    75,
+    45,
+]
+frame_offset = [
+    0,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_90]
+pos = [
+    260,
+    655,
+]
+size = [
+    84,
+    46,
+]
+frame_offset = [
+    18,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_91]
+pos = [
+    925,
+    44,
+]
+size = [
+    86,
+    39,
+]
+frame_offset = [
+    28,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_92]
+pos = [
+    327,
+    892,
+]
+size = [
+    70,
+    42,
+]
+frame_offset = [
+    57,
+    199,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_93]
+pos = [
+    205,
+    253,
+]
+size = [
+    100,
+    46,
+]
+frame_offset = [
+    28,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_94]
+pos = [
+    0,
+    969,
+]
+size = [
+    80,
+    43,
+]
+frame_offset = [
+    0,
+    204,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_95]
+pos = [
+    174,
+    566,
+]
+size = [
+    85,
+    38,
+]
+frame_offset = [
+    15,
+    216,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_96]
+pos = [
+    323,
+    936,
+]
+size = [
+    70,
+    41,
+]
+frame_offset = [
+    57,
+    198,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_97]
+pos = [
+    684,
+    395,
+]
+size = [
+    76,
+    43,
+]
+frame_offset = [
+    30,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_98]
+pos = [
+    346,
+    697,
+]
+size = [
+    79,
+    41,
+]
+frame_offset = [
+    1,
+    203,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[rugs_animals_99]
+pos = [
+    472,
+    49,
+]
+size = [
+    91,
+    42,
+]
+frame_offset = [
+    13,
+    213,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[security_01_0]
+pos = [
+    102,
+    358,
+]
+size = [
+    99,
+    118,
+]
+frame_offset = [
+    24,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[security_01_1]
+pos = [
+    205,
+    301,
+]
+size = [
+    99,
+    118,
+]
+frame_offset = [
+    3,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[security_01_2]
+pos = [
+    0,
+    285,
+]
+size = [
+    100,
+    104,
+]
+frame_offset = [
+    3,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[security_01_3]
+pos = [
+    103,
+    253,
+]
+size = [
+    100,
+    103,
+]
+frame_offset = [
+    23,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[security_01_4]
+pos = [
+    495,
+    809,
+]
+size = [
+    71,
+    201,
+]
+frame_offset = [
+    54,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[security_01_5]
+pos = [
+    581,
+    731,
+]
+size = [
+    71,
+    201,
+]
+frame_offset = [
+    1,
+    26,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_0]
+pos = [
+    834,
+    547,
+]
+size = [
+    71,
+    149,
+]
+frame_offset = [
+    22,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_1]
+pos = [
+    0,
+    489,
+]
+size = [
+    85,
+    143,
+]
+frame_offset = [
+    18,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_10]
+pos = [
+    565,
+    0,
+]
+size = [
+    89,
+    145,
+]
+frame_offset = [
+    24,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_11]
+pos = [
+    939,
+    848,
+]
+size = [
+    67,
+    147,
+]
+frame_offset = [
+    38,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_12]
+pos = [
+    344,
+    740,
+]
+size = [
+    75,
+    150,
+]
+frame_offset = [
+    20,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_13]
+pos = [
+    347,
+    510,
+]
+size = [
+    84,
+    141,
+]
+frame_offset = [
+    17,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_14]
+pos = [
+    924,
+    85,
+]
+size = [
+    85,
+    143,
+]
+frame_offset = [
+    25,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_15]
+pos = [
+    670,
+    592,
+]
+size = [
+    72,
+    149,
+]
+frame_offset = [
+    34,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_16]
+pos = [
+    912,
+    387,
+]
+size = [
+    72,
+    149,
+]
+frame_offset = [
+    22,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_17]
+pos = [
+    774,
+    250,
+]
+size = [
+    85,
+    143,
+]
+frame_offset = [
+    18,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_18]
+pos = [
+    861,
+    242,
+]
+size = [
+    85,
+    143,
+]
+frame_offset = [
+    28,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_19]
+pos = [
+    760,
+    547,
+]
+size = [
+    72,
+    149,
+]
+frame_offset = [
+    37,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_2]
+pos = [
+    87,
+    677,
+]
+size = [
+    84,
+    143,
+]
+frame_offset = [
+    33,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_20]
+pos = [
+    817,
+    698,
+]
+size = [
+    71,
+    147,
+]
+frame_offset = [
+    28,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_21]
+pos = [
+    507,
+    147,
+]
+size = [
+    88,
+    143,
+]
+frame_offset = [
+    21,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_22]
+pos = [
+    656,
+    0,
+]
+size = [
+    88,
+    144,
+]
+frame_offset = [
+    19,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_23]
+pos = [
+    798,
+    849,
+]
+size = [
+    69,
+    147,
+]
+frame_offset = [
+    31,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_24]
+pos = [
+    762,
+    395,
+]
+size = [
+    73,
+    150,
+]
+frame_offset = [
+    17,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_25]
+pos = [
+    433,
+    510,
+]
+size = [
+    83,
+    142,
+]
+frame_offset = [
+    15,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_26]
+pos = [
+    835,
+    97,
+]
+size = [
+    86,
+    143,
+]
+frame_offset = [
+    26,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_27]
+pos = [
+    654,
+    743,
+]
+size = [
+    71,
+    149,
+]
+frame_offset = [
+    36,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_28]
+pos = [
+    948,
+    230,
+]
+size = [
+    73,
+    149,
+]
+frame_offset = [
+    24,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_29]
+pos = [
+    596,
+    346,
+]
+size = [
+    86,
+    142,
+]
+frame_offset = [
+    19,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_3]
+pos = [
+    421,
+    806,
+]
+size = [
+    72,
+    150,
+]
+frame_offset = [
+    42,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_30]
+pos = [
+    261,
+    511,
+]
+size = [
+    84,
+    142,
+]
+frame_offset = [
+    26,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_31]
+pos = [
+    506,
+    657,
+]
+size = [
+    73,
+    150,
+]
+frame_offset = [
+    34,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_32]
+pos = [
+    429,
+    654,
+]
+size = [
+    75,
+    150,
+]
+frame_offset = [
+    13,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_33]
+pos = [
+    86,
+    872,
+]
+size = [
+    83,
+    141,
+]
+frame_offset = [
+    11,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_34]
+pos = [
+    0,
+    778,
+]
+size = [
+    84,
+    142,
+]
+frame_offset = [
+    28,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_35]
+pos = [
+    595,
+    579,
+]
+size = [
+    73,
+    150,
+]
+frame_offset = [
+    36,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_36]
+pos = [
+    837,
+    395,
+]
+size = [
+    73,
+    149,
+]
+frame_offset = [
+    22,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_37]
+pos = [
+    0,
+    634,
+]
+size = [
+    85,
+    142,
+]
+frame_offset = [
+    18,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_38]
+pos = [
+    597,
+    200,
+]
+size = [
+    87,
+    144,
+]
+frame_offset = [
+    23,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_39]
+pos = [
+    890,
+    698,
+]
+size = [
+    69,
+    148,
+]
+frame_offset = [
+    35,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_4]
+pos = [
+    727,
+    849,
+]
+size = [
+    69,
+    148,
+]
+frame_offset = [
+    23,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_40]
+pos = [
+    912,
+    538,
+]
+size = [
+    71,
+    149,
+]
+frame_offset = [
+    21,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_41]
+pos = [
+    686,
+    250,
+]
+size = [
+    86,
+    143,
+]
+frame_offset = [
+    16,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_42]
+pos = [
+    174,
+    606,
+]
+size = [
+    84,
+    142,
+]
+frame_offset = [
+    26,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_43]
+pos = [
+    684,
+    440,
+]
+size = [
+    74,
+    150,
+]
+frame_offset = [
+    33,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_5]
+pos = [
+    507,
+    292,
+]
+size = [
+    87,
+    144,
+]
+frame_offset = [
+    17,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_6]
+pos = [
+    746,
+    45,
+]
+size = [
+    87,
+    145,
+]
+frame_offset = [
+    17,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_7]
+pos = [
+    869,
+    848,
+]
+size = [
+    68,
+    148,
+]
+frame_offset = [
+    30,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_8]
+pos = [
+    744,
+    698,
+]
+size = [
+    71,
+    149,
+]
+frame_offset = [
+    22,
+    93,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[signs_billboards_9]
+pos = [
+    87,
+    489,
+]
+size = [
+    85,
+    143,
+]
+frame_offset = [
+    18,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]

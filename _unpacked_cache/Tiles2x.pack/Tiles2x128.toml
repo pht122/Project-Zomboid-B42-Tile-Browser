@@ -1,0 +1,1269 @@
+[location_restaurant_seahorse_01_1]
+pos = [
+    68,
+    756,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_10]
+pos = [
+    204,
+    510,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_11]
+pos = [
+    688,
+    148,
+]
+size = [
+    68,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_12]
+pos = [
+    683,
+    376,
+]
+size = [
+    65,
+    226,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_13]
+pos = [
+    813,
+    0,
+]
+size = [
+    69,
+    226,
+]
+frame_offset = [
+    59,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_14]
+pos = [
+    340,
+    732,
+]
+size = [
+    65,
+    226,
+]
+frame_offset = [
+    0,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_15]
+pos = [
+    0,
+    752,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    59,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_16]
+pos = [
+    272,
+    510,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_17]
+pos = [
+    884,
+    0,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_18]
+pos = [
+    952,
+    0,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_19]
+pos = [
+    758,
+    228,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_2]
+pos = [
+    0,
+    0,
+]
+size = [
+    126,
+    226,
+]
+
+[location_restaurant_seahorse_01_20]
+pos = [
+    0,
+    494,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_21]
+pos = [
+    340,
+    504,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_24]
+pos = [
+    407,
+    732,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_25]
+pos = [
+    574,
+    503,
+]
+size = [
+    64,
+    256,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_26]
+pos = [
+    68,
+    498,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_27]
+pos = [
+    136,
+    498,
+]
+size = [
+    66,
+    256,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_28]
+pos = [
+    476,
+    626,
+]
+size = [
+    64,
+    256,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_29]
+pos = [
+    826,
+    258,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_3]
+pos = [
+    1014,
+    486,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_32]
+pos = [
+    892,
+    258,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_33]
+pos = [
+    958,
+    258,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_34]
+pos = [
+    615,
+    275,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_35]
+pos = [
+    136,
+    756,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_36]
+pos = [
+    750,
+    486,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_37]
+pos = [
+    640,
+    604,
+]
+size = [
+    64,
+    226,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_38]
+pos = [
+    616,
+    0,
+]
+size = [
+    100,
+    146,
+]
+frame_offset = [
+    16,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_39]
+pos = [
+    444,
+    250,
+]
+size = [
+    100,
+    146,
+]
+frame_offset = [
+    8,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_4]
+pos = [
+    506,
+    398,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_40]
+pos = [
+    256,
+    0,
+]
+size = [
+    126,
+    119,
+]
+frame_offset = [
+    1,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_41]
+pos = [
+    256,
+    121,
+]
+size = [
+    126,
+    119,
+]
+frame_offset = [
+    1,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_42]
+pos = [
+    224,
+    377,
+]
+size = [
+    105,
+    131,
+]
+frame_offset = [
+    0,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_43]
+pos = [
+    331,
+    382,
+]
+size = [
+    104,
+    120,
+]
+frame_offset = [
+    1,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_44]
+pos = [
+    384,
+    0,
+]
+size = [
+    124,
+    121,
+]
+frame_offset = [
+    1,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_45]
+pos = [
+    492,
+    123,
+]
+size = [
+    103,
+    119,
+]
+frame_offset = [
+    22,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_46]
+pos = [
+    337,
+    250,
+]
+size = [
+    105,
+    130,
+]
+frame_offset = [
+    22,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_47]
+pos = [
+    510,
+    0,
+]
+size = [
+    104,
+    119,
+]
+frame_offset = [
+    23,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_48]
+pos = [
+    674,
+    832,
+]
+size = [
+    58,
+    179,
+]
+frame_offset = [
+    7,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_49]
+pos = [
+    935,
+    759,
+]
+size = [
+    51,
+    179,
+]
+frame_offset = [
+    67,
+    45,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_5]
+pos = [
+    408,
+    504,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_50]
+pos = [
+    877,
+    665,
+]
+size = [
+    56,
+    181,
+]
+frame_offset = [
+    53,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_51]
+pos = [
+    948,
+    575,
+]
+size = [
+    56,
+    182,
+]
+frame_offset = [
+    17,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_52]
+pos = [
+    734,
+    802,
+]
+size = [
+    55,
+    124,
+]
+frame_offset = [
+    11,
+    23,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_53]
+pos = [
+    816,
+    665,
+]
+size = [
+    59,
+    114,
+]
+frame_offset = [
+    2,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_54]
+pos = [
+    791,
+    781,
+]
+size = [
+    54,
+    105,
+]
+frame_offset = [
+    70,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_55]
+pos = [
+    791,
+    888,
+]
+size = [
+    52,
+    119,
+]
+frame_offset = [
+    60,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_56]
+pos = [
+    114,
+    363,
+]
+size = [
+    108,
+    133,
+]
+frame_offset = [
+    17,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_57]
+pos = [
+    114,
+    228,
+]
+size = [
+    112,
+    133,
+]
+frame_offset = [
+    12,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_58]
+pos = [
+    0,
+    228,
+]
+size = [
+    112,
+    135,
+]
+frame_offset = [
+    0,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_59]
+pos = [
+    228,
+    242,
+]
+size = [
+    107,
+    133,
+]
+frame_offset = [
+    0,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_6]
+pos = [
+    128,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_60]
+pos = [
+    384,
+    123,
+]
+size = [
+    106,
+    125,
+]
+frame_offset = [
+    10,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_61]
+pos = [
+    718,
+    0,
+]
+size = [
+    93,
+    127,
+]
+frame_offset = [
+    23,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_62]
+pos = [
+    597,
+    148,
+]
+size = [
+    89,
+    125,
+]
+frame_offset = [
+    11,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_63]
+pos = [
+    0,
+    365,
+]
+size = [
+    110,
+    127,
+]
+frame_offset = [
+    7,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_64]
+pos = [
+    882,
+    575,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    59,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_65]
+pos = [
+    816,
+    486,
+]
+size = [
+    64,
+    88,
+]
+frame_offset = [
+    59,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_66]
+pos = [
+    882,
+    486,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    59,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_67]
+pos = [
+    816,
+    576,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    1,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_68]
+pos = [
+    542,
+    761,
+]
+size = [
+    64,
+    88,
+]
+frame_offset = [
+    1,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_69]
+pos = [
+    608,
+    832,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    1,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_7]
+pos = [
+    1006,
+    575,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_70]
+pos = [
+    437,
+    398,
+]
+size = [
+    67,
+    88,
+]
+frame_offset = [
+    57,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_71]
+pos = [
+    546,
+    275,
+]
+size = [
+    67,
+    88,
+]
+frame_offset = [
+    0,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_72]
+pos = [
+    706,
+    714,
+]
+size = [
+    64,
+    86,
+]
+frame_offset = [
+    59,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_73]
+pos = [
+    473,
+    884,
+]
+size = [
+    64,
+    88,
+]
+frame_offset = [
+    59,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_74]
+pos = [
+    542,
+    851,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    59,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_75]
+pos = [
+    948,
+    486,
+]
+size = [
+    64,
+    87,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_8]
+pos = [
+    204,
+    738,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_seahorse_01_9]
+pos = [
+    272,
+    738,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

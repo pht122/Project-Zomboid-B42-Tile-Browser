@@ -1,0 +1,3329 @@
+[object_snow_overlay_04_193]
+pos = [
+    317,
+    859,
+]
+size = [
+    54,
+    151,
+]
+frame_offset = [
+    65,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_194]
+pos = [
+    778,
+    487,
+]
+size = [
+    53,
+    117,
+]
+frame_offset = [
+    8,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_195]
+pos = [
+    378,
+    784,
+]
+size = [
+    55,
+    117,
+]
+frame_offset = [
+    64,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_196]
+pos = [
+    453,
+    710,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_197]
+pos = [
+    606,
+    543,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    71,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_198]
+pos = [
+    722,
+    455,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_199]
+pos = [
+    0,
+    482,
+]
+size = [
+    73,
+    218,
+]
+frame_offset = [
+    55,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_200]
+pos = [
+    664,
+    531,
+]
+size = [
+    54,
+    99,
+]
+frame_offset = [
+    14,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_201]
+pos = [
+    833,
+    487,
+]
+size = [
+    52,
+    98,
+]
+frame_offset = [
+    73,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_202]
+pos = [
+    0,
+    742,
+]
+size = [
+    65,
+    105,
+]
+frame_offset = [
+    2,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_203]
+pos = [
+    221,
+    561,
+]
+size = [
+    64,
+    105,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_204]
+pos = [
+    565,
+    762,
+]
+size = [
+    52,
+    98,
+]
+frame_offset = [
+    3,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_205]
+pos = [
+    663,
+    632,
+]
+size = [
+    53,
+    99,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_206]
+pos = [
+    509,
+    898,
+]
+size = [
+    50,
+    66,
+]
+frame_offset = [
+    9,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_207]
+pos = [
+    509,
+    830,
+]
+size = [
+    51,
+    66,
+]
+frame_offset = [
+    68,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_209]
+pos = [
+    487,
+    463,
+]
+size = [
+    59,
+    95,
+]
+frame_offset = [
+    34,
+    150,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_210]
+pos = [
+    809,
+    249,
+]
+size = [
+    99,
+    84,
+]
+frame_offset = [
+    13,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_211]
+pos = [
+    698,
+    368,
+]
+size = [
+    99,
+    85,
+]
+frame_offset = [
+    15,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_212]
+pos = [
+    910,
+    324,
+]
+size = [
+    97,
+    73,
+]
+frame_offset = [
+    15,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_213]
+pos = [
+    809,
+    335,
+]
+size = [
+    99,
+    74,
+]
+frame_offset = [
+    9,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_214]
+pos = [
+    910,
+    249,
+]
+size = [
+    99,
+    73,
+]
+frame_offset = [
+    18,
+    175,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_215]
+pos = [
+    799,
+    411,
+]
+size = [
+    97,
+    74,
+]
+frame_offset = [
+    15,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_216]
+pos = [
+    923,
+    869,
+]
+size = [
+    25,
+    92,
+]
+frame_offset = [
+    57,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_217]
+pos = [
+    148,
+    457,
+]
+size = [
+    71,
+    109,
+]
+frame_offset = [
+    57,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_218]
+pos = [
+    75,
+    482,
+]
+size = [
+    71,
+    113,
+]
+frame_offset = [
+    11,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_219]
+pos = [
+    363,
+    227,
+]
+size = [
+    117,
+    111,
+]
+frame_offset = [
+    11,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_220]
+pos = [
+    732,
+    127,
+]
+size = [
+    104,
+    117,
+]
+frame_offset = [
+    19,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_221]
+pos = [
+    481,
+    341,
+]
+size = [
+    109,
+    120,
+]
+frame_offset = [
+    0,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_222]
+pos = [
+    597,
+    226,
+]
+size = [
+    109,
+    120,
+]
+frame_offset = [
+    17,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_223]
+pos = [
+    592,
+    348,
+]
+size = [
+    104,
+    117,
+]
+frame_offset = [
+    3,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_224]
+pos = [
+    617,
+    0,
+]
+size = [
+    115,
+    107,
+]
+frame_offset = [
+    13,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_225]
+pos = [
+    122,
+    174,
+]
+size = [
+    120,
+    108,
+]
+frame_offset = [
+    0,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_226]
+pos = [
+    252,
+    113,
+]
+size = [
+    122,
+    109,
+]
+frame_offset = [
+    6,
+    145,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_227]
+pos = [
+    617,
+    109,
+]
+size = [
+    113,
+    107,
+]
+frame_offset = [
+    0,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_228]
+pos = [
+    376,
+    113,
+]
+size = [
+    117,
+    112,
+]
+frame_offset = [
+    9,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_229]
+pos = [
+    499,
+    0,
+]
+size = [
+    116,
+    112,
+]
+frame_offset = [
+    1,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_230]
+pos = [
+    244,
+    224,
+]
+size = [
+    117,
+    114,
+]
+frame_offset = [
+    9,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_231]
+pos = [
+    243,
+    340,
+]
+size = [
+    117,
+    112,
+]
+frame_offset = [
+    2,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_232]
+pos = [
+    252,
+    0,
+]
+size = [
+    122,
+    111,
+]
+frame_offset = [
+    5,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_233]
+pos = [
+    495,
+    114,
+]
+size = [
+    116,
+    110,
+]
+frame_offset = [
+    0,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_234]
+pos = [
+    362,
+    340,
+]
+size = [
+    117,
+    111,
+]
+frame_offset = [
+    9,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_235]
+pos = [
+    376,
+    0,
+]
+size = [
+    121,
+    111,
+]
+frame_offset = [
+    0,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_238]
+pos = [
+    221,
+    457,
+]
+size = [
+    68,
+    102,
+]
+frame_offset = [
+    32,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_239]
+pos = [
+    75,
+    597,
+]
+size = [
+    68,
+    106,
+]
+frame_offset = [
+    33,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_242]
+pos = [
+    838,
+    127,
+]
+size = [
+    101,
+    120,
+]
+frame_offset = [
+    27,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_243]
+pos = [
+    734,
+    0,
+]
+size = [
+    109,
+    125,
+]
+frame_offset = [
+    19,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_244]
+pos = [
+    910,
+    399,
+]
+size = [
+    92,
+    111,
+]
+frame_offset = [
+    19,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_245]
+pos = [
+    482,
+    227,
+]
+size = [
+    113,
+    112,
+]
+frame_offset = [
+    15,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_246]
+pos = [
+    845,
+    0,
+]
+size = [
+    107,
+    123,
+]
+frame_offset = [
+    0,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_247]
+pos = [
+    708,
+    246,
+]
+size = [
+    99,
+    120,
+]
+frame_offset = [
+    0,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_248]
+pos = [
+    0,
+    0,
+]
+size = [
+    125,
+    172,
+]
+frame_offset = [
+    3,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_249]
+pos = [
+    122,
+    284,
+]
+size = [
+    119,
+    171,
+]
+frame_offset = [
+    5,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_250]
+pos = [
+    0,
+    174,
+]
+size = [
+    120,
+    256,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_251]
+pos = [
+    127,
+    0,
+]
+size = [
+    123,
+    171,
+]
+frame_offset = [
+    0,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_255]
+pos = [
+    248,
+    203,
+]
+size = [
+    2,
+    2,
+]
+frame_offset = [
+    62,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_257]
+pos = [
+    244,
+    203,
+]
+size = [
+    2,
+    3,
+]
+frame_offset = [
+    126,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[object_snow_overlay_04_258]
+pos = [
+    249,
+    173,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_0]
+pos = [
+    852,
+    896,
+]
+size = [
+    30,
+    42,
+]
+frame_offset = [
+    31,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_1]
+pos = [
+    892,
+    858,
+]
+size = [
+    29,
+    41,
+]
+frame_offset = [
+    32,
+    190,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_10]
+pos = [
+    118,
+    432,
+]
+size = [
+    2,
+    28,
+]
+frame_offset = [
+    32,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_11]
+pos = [
+    212,
+    608,
+]
+size = [
+    7,
+    36,
+]
+frame_offset = [
+    27,
+    158,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_12]
+pos = [
+    1004,
+    399,
+]
+size = [
+    17,
+    88,
+]
+frame_offset = [
+    103,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_13]
+pos = [
+    0,
+    432,
+]
+size = [
+    102,
+    48,
+]
+frame_offset = [
+    11,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_14]
+pos = [
+    244,
+    173,
+]
+size = [
+    3,
+    28,
+]
+frame_offset = [
+    20,
+    188,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_15]
+pos = [
+    1011,
+    228,
+]
+size = [
+    11,
+    76,
+]
+frame_offset = [
+    11,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_16]
+pos = [
+    68,
+    705,
+]
+size = [
+    64,
+    139,
+]
+frame_offset = [
+    22,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_17]
+pos = [
+    619,
+    810,
+]
+size = [
+    50,
+    47,
+]
+frame_offset = [
+    21,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_18]
+pos = [
+    241,
+    981,
+]
+size = [
+    50,
+    41,
+]
+frame_offset = [
+    22,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_19]
+pos = [
+    509,
+    773,
+]
+size = [
+    54,
+    55,
+]
+frame_offset = [
+    22,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_2]
+pos = [
+    989,
+    512,
+]
+size = [
+    33,
+    68,
+]
+frame_offset = [
+    66,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_20]
+pos = [
+    531,
+    984,
+]
+size = [
+    40,
+    34,
+]
+frame_offset = [
+    67,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_21]
+pos = [
+    562,
+    862,
+]
+size = [
+    50,
+    56,
+]
+frame_offset = [
+    57,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_22]
+pos = [
+    373,
+    964,
+]
+size = [
+    51,
+    46,
+]
+frame_offset = [
+    58,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_23]
+pos = [
+    770,
+    730,
+]
+size = [
+    46,
+    57,
+]
+frame_offset = [
+    60,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_24]
+pos = [
+    887,
+    571,
+]
+size = [
+    47,
+    62,
+]
+frame_offset = [
+    18,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_25]
+pos = [
+    426,
+    989,
+]
+size = [
+    28,
+    32,
+]
+frame_offset = [
+    17,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_26]
+pos = [
+    509,
+    712,
+]
+size = [
+    54,
+    59,
+]
+frame_offset = [
+    14,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_27]
+pos = [
+    939,
+    512,
+]
+size = [
+    48,
+    51,
+]
+frame_offset = [
+    18,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_28]
+pos = [
+    939,
+    565,
+]
+size = [
+    46,
+    35,
+]
+frame_offset = [
+    62,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_29]
+pos = [
+    619,
+    762,
+]
+size = [
+    51,
+    46,
+]
+frame_offset = [
+    61,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_3]
+pos = [
+    735,
+    978,
+]
+size = [
+    30,
+    43,
+]
+frame_offset = [
+    65,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_30]
+pos = [
+    819,
+    710,
+]
+size = [
+    44,
+    40,
+]
+frame_offset = [
+    67,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_31]
+pos = [
+    131,
+    855,
+]
+size = [
+    57,
+    51,
+]
+frame_offset = [
+    57,
+    111,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_4]
+pos = [
+    722,
+    819,
+]
+size = [
+    43,
+    77,
+]
+frame_offset = [
+    16,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_5]
+pos = [
+    931,
+    702,
+]
+size = [
+    38,
+    45,
+]
+frame_offset = [
+    19,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_6]
+pos = [
+    902,
+    749,
+]
+size = [
+    37,
+    46,
+]
+frame_offset = [
+    69,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_7]
+pos = [
+    671,
+    833,
+]
+size = [
+    44,
+    105,
+]
+frame_offset = [
+    67,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_8]
+pos = [
+    1012,
+    79,
+]
+size = [
+    9,
+    66,
+]
+frame_offset = [
+    90,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[office_01_9]
+pos = [
+    104,
+    432,
+]
+size = [
+    12,
+    40,
+]
+frame_offset = [
+    90,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_0]
+pos = [
+    424,
+    463,
+]
+size = [
+    61,
+    50,
+]
+frame_offset = [
+    5,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_1]
+pos = [
+    199,
+    736,
+]
+size = [
+    61,
+    38,
+]
+frame_offset = [
+    5,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_10]
+pos = [
+    482,
+    928,
+]
+size = [
+    24,
+    32,
+]
+frame_offset = [
+    11,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_11]
+pos = [
+    275,
+    668,
+]
+size = [
+    60,
+    43,
+]
+frame_offset = [
+    6,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_12]
+pos = [
+    134,
+    810,
+]
+size = [
+    60,
+    43,
+]
+frame_offset = [
+    60,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_13]
+pos = [
+    573,
+    984,
+]
+size = [
+    24,
+    32,
+]
+frame_offset = [
+    91,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_14]
+pos = [
+    63,
+    950,
+]
+size = [
+    56,
+    62,
+]
+frame_offset = [
+    64,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_15]
+pos = [
+    614,
+    862,
+]
+size = [
+    46,
+    62,
+]
+frame_offset = [
+    59,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_16]
+pos = [
+    287,
+    592,
+]
+size = [
+    62,
+    66,
+]
+frame_offset = [
+    6,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_17]
+pos = [
+    125,
+    914,
+]
+size = [
+    56,
+    84,
+]
+frame_offset = [
+    11,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_18]
+pos = [
+    262,
+    749,
+]
+size = [
+    56,
+    88,
+]
+frame_offset = [
+    12,
+    108,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_19]
+pos = [
+    1000,
+    769,
+]
+size = [
+    22,
+    93,
+]
+frame_offset = [
+    29,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_2]
+pos = [
+    0,
+    975,
+]
+size = [
+    58,
+    34,
+]
+frame_offset = [
+    9,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_20]
+pos = [
+    974,
+    870,
+]
+size = [
+    22,
+    93,
+]
+frame_offset = [
+    75,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_21]
+pos = [
+    954,
+    79,
+]
+size = [
+    56,
+    88,
+]
+frame_offset = [
+    58,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_22]
+pos = [
+    481,
+    560,
+]
+size = [
+    56,
+    84,
+]
+frame_offset = [
+    59,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_23]
+pos = [
+    357,
+    526,
+]
+size = [
+    62,
+    66,
+]
+frame_offset = [
+    58,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_3]
+pos = [
+    606,
+    467,
+]
+size = [
+    56,
+    74,
+]
+frame_offset = [
+    5,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_4]
+pos = [
+    259,
+    839,
+]
+size = [
+    56,
+    74,
+]
+frame_offset = [
+    65,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_5]
+pos = [
+    65,
+    914,
+]
+size = [
+    58,
+    34,
+]
+frame_offset = [
+    59,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_6]
+pos = [
+    424,
+    515,
+]
+size = [
+    61,
+    38,
+]
+frame_offset = [
+    60,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_7]
+pos = [
+    0,
+    923,
+]
+size = [
+    61,
+    50,
+]
+frame_offset = [
+    60,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_8]
+pos = [
+    830,
+    646,
+]
+size = [
+    46,
+    62,
+]
+frame_offset = [
+    21,
+    108,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_fence_01_9]
+pos = [
+    183,
+    941,
+]
+size = [
+    56,
+    62,
+]
+frame_offset = [
+    6,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_0]
+pos = [
+    291,
+    454,
+]
+size = [
+    65,
+    51,
+]
+frame_offset = [
+    6,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_1]
+pos = [
+    0,
+    702,
+]
+size = [
+    66,
+    38,
+]
+frame_offset = [
+    3,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_10]
+pos = [
+    456,
+    989,
+]
+size = [
+    24,
+    32,
+]
+frame_offset = [
+    23,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_11]
+pos = [
+    358,
+    454,
+]
+size = [
+    64,
+    34,
+]
+frame_offset = [
+    5,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_12]
+pos = [
+    358,
+    490,
+]
+size = [
+    64,
+    34,
+]
+frame_offset = [
+    57,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_13]
+pos = [
+    767,
+    978,
+]
+size = [
+    24,
+    32,
+]
+frame_offset = [
+    79,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_14]
+pos = [
+    469,
+    646,
+]
+size = [
+    56,
+    62,
+]
+frame_offset = [
+    67,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_15]
+pos = [
+    722,
+    755,
+]
+size = [
+    46,
+    62,
+]
+frame_offset = [
+    65,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_16]
+pos = [
+    973,
+    769,
+]
+size = [
+    25,
+    99,
+]
+frame_offset = [
+    8,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_17]
+pos = [
+    190,
+    855,
+]
+size = [
+    56,
+    84,
+]
+frame_offset = [
+    9,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_18]
+pos = [
+    351,
+    594,
+]
+size = [
+    58,
+    77,
+]
+frame_offset = [
+    5,
+    108,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_19]
+pos = [
+    950,
+    870,
+]
+size = [
+    22,
+    93,
+]
+frame_offset = [
+    27,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_2]
+pos = [
+    421,
+    555,
+]
+size = [
+    58,
+    34,
+]
+frame_offset = [
+    7,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_20]
+pos = [
+    1000,
+    864,
+]
+size = [
+    22,
+    93,
+]
+frame_offset = [
+    77,
+    73,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_21]
+pos = [
+    954,
+    0,
+]
+size = [
+    58,
+    77,
+]
+frame_offset = [
+    63,
+    108,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_22]
+pos = [
+    548,
+    467,
+]
+size = [
+    56,
+    84,
+]
+frame_offset = [
+    61,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_23]
+pos = [
+    884,
+    901,
+]
+size = [
+    25,
+    99,
+]
+frame_offset = [
+    93,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_24]
+pos = [
+    885,
+    635,
+]
+size = [
+    44,
+    95,
+]
+frame_offset = [
+    19,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_25]
+pos = [
+    211,
+    668,
+]
+size = [
+    62,
+    66,
+]
+frame_offset = [
+    5,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_26]
+pos = [
+    565,
+    712,
+]
+size = [
+    38,
+    48,
+]
+frame_offset = [
+    35,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_27]
+pos = [
+    770,
+    688,
+]
+size = [
+    47,
+    40,
+]
+frame_offset = [
+    7,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_28]
+pos = [
+    482,
+    966,
+]
+size = [
+    47,
+    40,
+]
+frame_offset = [
+    72,
+    97,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_29]
+pos = [
+    980,
+    655,
+]
+size = [
+    38,
+    48,
+]
+frame_offset = [
+    53,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_3]
+pos = [
+    539,
+    560,
+]
+size = [
+    56,
+    74,
+]
+frame_offset = [
+    3,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_30]
+pos = [
+    67,
+    846,
+]
+size = [
+    62,
+    66,
+]
+frame_offset = [
+    59,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_31]
+pos = [
+    609,
+    926,
+]
+size = [
+    44,
+    95,
+]
+frame_offset = [
+    63,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_32]
+pos = [
+    941,
+    749,
+]
+size = [
+    24,
+    46,
+]
+frame_offset = [
+    37,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_33]
+pos = [
+    833,
+    587,
+]
+size = [
+    50,
+    57,
+]
+frame_offset = [
+    2,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_34]
+pos = [
+    435,
+    781,
+]
+size = [
+    16,
+    52,
+]
+frame_offset = [
+    50,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_35]
+pos = [
+    939,
+    797,
+]
+size = [
+    32,
+    70,
+]
+frame_offset = [
+    2,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_36]
+pos = [
+    795,
+    935,
+]
+size = [
+    32,
+    70,
+]
+frame_offset = [
+    92,
+    55,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_37]
+pos = [
+    584,
+    636,
+]
+size = [
+    16,
+    52,
+]
+frame_offset = [
+    60,
+    37,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_38]
+pos = [
+    887,
+    512,
+]
+size = [
+    50,
+    57,
+]
+frame_offset = [
+    74,
+    101,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_39]
+pos = [
+    829,
+    940,
+]
+size = [
+    24,
+    46,
+]
+frame_offset = [
+    65,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_4]
+pos = [
+    395,
+    705,
+]
+size = [
+    56,
+    74,
+]
+frame_offset = [
+    67,
+    83,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_40]
+pos = [
+    778,
+    606,
+]
+size = [
+    50,
+    80,
+]
+frame_offset = [
+    8,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_41]
+pos = [
+    527,
+    646,
+]
+size = [
+    55,
+    64,
+]
+frame_offset = [
+    10,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_42]
+pos = [
+    0,
+    849,
+]
+size = [
+    63,
+    72,
+]
+frame_offset = [
+    7,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_43]
+pos = [
+    320,
+    784,
+]
+size = [
+    56,
+    73,
+]
+frame_offset = [
+    6,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_44]
+pos = [
+    941,
+    169,
+]
+size = [
+    56,
+    73,
+]
+frame_offset = [
+    66,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_45]
+pos = [
+    134,
+    736,
+]
+size = [
+    63,
+    72,
+]
+frame_offset = [
+    58,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_46]
+pos = [
+    248,
+    915,
+]
+size = [
+    55,
+    64,
+]
+frame_offset = [
+    63,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_47]
+pos = [
+    718,
+    673,
+]
+size = [
+    50,
+    80,
+]
+frame_offset = [
+    70,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_48]
+pos = [
+    698,
+    962,
+]
+size = [
+    35,
+    59,
+]
+frame_offset = [
+    32,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_49]
+pos = [
+    411,
+    594,
+]
+size = [
+    56,
+    109,
+]
+frame_offset = [
+    12,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_5]
+pos = [
+    275,
+    713,
+]
+size = [
+    58,
+    34,
+]
+frame_offset = [
+    61,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_50]
+pos = [
+    862,
+    752,
+]
+size = [
+    38,
+    62,
+]
+frame_offset = [
+    24,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_51]
+pos = [
+    980,
+    602,
+]
+size = [
+    41,
+    51,
+]
+frame_offset = [
+    14,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_52]
+pos = [
+    655,
+    940,
+]
+size = [
+    41,
+    51,
+]
+frame_offset = [
+    73,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_53]
+pos = [
+    717,
+    898,
+]
+size = [
+    38,
+    62,
+]
+frame_offset = [
+    66,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_54]
+pos = [
+    337,
+    673,
+]
+size = [
+    56,
+    109,
+]
+frame_offset = [
+    60,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_55]
+pos = [
+    902,
+    797,
+]
+size = [
+    35,
+    59,
+]
+frame_offset = [
+    61,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_56]
+pos = [
+    999,
+    169,
+]
+size = [
+    21,
+    57,
+]
+frame_offset = [
+    36,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_57]
+pos = [
+    936,
+    602,
+]
+size = [
+    42,
+    98,
+]
+frame_offset = [
+    10,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_58]
+pos = [
+    814,
+    871,
+]
+size = [
+    36,
+    62,
+]
+frame_offset = [
+    7,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_59]
+pos = [
+    757,
+    898,
+]
+size = [
+    36,
+    78,
+]
+frame_offset = [
+    10,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_6]
+pos = [
+    148,
+    568,
+]
+size = [
+    66,
+    38,
+]
+frame_offset = [
+    57,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_60]
+pos = [
+    854,
+    816,
+]
+size = [
+    36,
+    78,
+]
+frame_offset = [
+    82,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_61]
+pos = [
+    971,
+    705,
+]
+size = [
+    36,
+    62,
+]
+frame_offset = [
+    85,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_62]
+pos = [
+    770,
+    789,
+]
+size = [
+    42,
+    98,
+]
+frame_offset = [
+    76,
+    94,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_63]
+pos = [
+    855,
+    940,
+]
+size = [
+    21,
+    57,
+]
+frame_offset = [
+    71,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_7]
+pos = [
+    145,
+    608,
+]
+size = [
+    65,
+    51,
+]
+frame_offset = [
+    55,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_8]
+pos = [
+    561,
+    920,
+]
+size = [
+    46,
+    62,
+]
+frame_offset = [
+    15,
+    100,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_blood_wall_01_9]
+pos = [
+    664,
+    467,
+]
+size = [
+    56,
+    62,
+]
+frame_offset = [
+    3,
+    77,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_0]
+pos = [
+    672,
+    755,
+]
+size = [
+    48,
+    76,
+]
+frame_offset = [
+    18,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_1]
+pos = [
+    291,
+    507,
+]
+size = [
+    64,
+    83,
+]
+frame_offset = [
+    2,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_2]
+pos = [
+    429,
+    928,
+]
+size = [
+    51,
+    59,
+]
+frame_offset = [
+    2,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_3]
+pos = [
+    814,
+    814,
+]
+size = [
+    38,
+    55,
+]
+frame_offset = [
+    28,
+    105,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_4]
+pos = [
+    145,
+    661,
+]
+size = [
+    64,
+    73,
+]
+frame_offset = [
+    2,
+    106,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_5]
+pos = [
+    818,
+    752,
+]
+size = [
+    42,
+    60,
+]
+frame_offset = [
+    2,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_6]
+pos = [
+    199,
+    776,
+]
+size = [
+    58,
+    69,
+]
+frame_offset = [
+    8,
+    98,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[overlay_graffiti_wall_01_7]
+pos = [
+    373,
+    903,
+]
+size = [
+    54,
+    59,
+]
+frame_offset = [
+    2,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]

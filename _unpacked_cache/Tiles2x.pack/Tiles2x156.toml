@@ -1,0 +1,1781 @@
+[radio_tower_100]
+pos = [
+    369,
+    435,
+]
+size = [
+    31,
+    61,
+]
+frame_offset = [
+    62,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_101]
+pos = [
+    505,
+    756,
+]
+size = [
+    63,
+    62,
+]
+frame_offset = [
+    32,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_102]
+pos = [
+    709,
+    252,
+]
+size = [
+    30,
+    61,
+]
+frame_offset = [
+    31,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_103]
+pos = [
+    720,
+    550,
+]
+size = [
+    63,
+    62,
+]
+frame_offset = [
+    33,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_104]
+pos = [
+    925,
+    0,
+]
+size = [
+    76,
+    99,
+]
+frame_offset = [
+    25,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_105]
+pos = [
+    560,
+    369,
+]
+size = [
+    76,
+    99,
+]
+frame_offset = [
+    25,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_106]
+pos = [
+    631,
+    252,
+]
+size = [
+    76,
+    99,
+]
+frame_offset = [
+    25,
+    71,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_107]
+pos = [
+    638,
+    353,
+]
+size = [
+    76,
+    98,
+]
+frame_offset = [
+    25,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_108]
+pos = [
+    505,
+    886,
+]
+size = [
+    50,
+    105,
+]
+frame_offset = [
+    43,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_109]
+pos = [
+    260,
+    130,
+]
+size = [
+    105,
+    92,
+]
+frame_offset = [
+    11,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_110]
+pos = [
+    127,
+    312,
+]
+size = [
+    105,
+    92,
+]
+frame_offset = [
+    9,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_111]
+pos = [
+    570,
+    777,
+]
+size = [
+    51,
+    105,
+]
+frame_offset = [
+    31,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_112]
+pos = [
+    1003,
+    0,
+]
+size = [
+    9,
+    164,
+]
+frame_offset = [
+    56,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_113]
+pos = [
+    679,
+    830,
+]
+size = [
+    9,
+    164,
+]
+frame_offset = [
+    21,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_114]
+pos = [
+    778,
+    821,
+]
+size = [
+    9,
+    164,
+]
+frame_offset = [
+    59,
+    33,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_115]
+pos = [
+    789,
+    821,
+]
+size = [
+    9,
+    164,
+]
+frame_offset = [
+    92,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_116]
+pos = [
+    485,
+    160,
+]
+size = [
+    9,
+    45,
+]
+frame_offset = [
+    56,
+    187,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_117]
+pos = [
+    211,
+    453,
+]
+size = [
+    9,
+    45,
+]
+frame_offset = [
+    21,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_118]
+pos = [
+    741,
+    252,
+]
+size = [
+    9,
+    45,
+]
+frame_offset = [
+    59,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_119]
+pos = [
+    741,
+    299,
+]
+size = [
+    9,
+    45,
+]
+frame_offset = [
+    93,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_21]
+pos = [
+    925,
+    101,
+]
+size = [
+    75,
+    202,
+]
+frame_offset = [
+    46,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_22]
+pos = [
+    551,
+    226,
+]
+size = [
+    78,
+    141,
+]
+frame_offset = [
+    4,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_23]
+pos = [
+    761,
+    159,
+]
+size = [
+    77,
+    200,
+]
+frame_offset = [
+    4,
+    34,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_24]
+pos = [
+    846,
+    0,
+]
+size = [
+    77,
+    221,
+]
+frame_offset = [
+    42,
+    7,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_25]
+pos = [
+    766,
+    0,
+]
+size = [
+    78,
+    157,
+]
+frame_offset = [
+    7,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_26]
+pos = [
+    469,
+    226,
+]
+size = [
+    80,
+    142,
+]
+frame_offset = [
+    42,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_27]
+pos = [
+    681,
+    94,
+]
+size = [
+    78,
+    156,
+]
+frame_offset = [
+    43,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_28]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    229,
+]
+frame_offset = [
+    0,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_29]
+pos = [
+    716,
+    361,
+]
+size = [
+    75,
+    111,
+]
+frame_offset = [
+    0,
+    99,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_30]
+pos = [
+    71,
+    945,
+]
+size = [
+    64,
+    65,
+]
+frame_offset = [
+    4,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_31]
+pos = [
+    220,
+    892,
+]
+size = [
+    64,
+    78,
+]
+frame_offset = [
+    0,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_32]
+pos = [
+    0,
+    490,
+]
+size = [
+    73,
+    194,
+]
+frame_offset = [
+    55,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_33]
+pos = [
+    137,
+    957,
+]
+size = [
+    64,
+    64,
+]
+frame_offset = [
+    59,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_34]
+pos = [
+    73,
+    850,
+]
+size = [
+    64,
+    93,
+]
+frame_offset = [
+    0,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_35]
+pos = [
+    785,
+    485,
+]
+size = [
+    62,
+    58,
+]
+frame_offset = [
+    0,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_36]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    181,
+]
+frame_offset = [
+    0,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_37]
+pos = [
+    512,
+    683,
+]
+size = [
+    63,
+    71,
+]
+frame_offset = [
+    2,
+    174,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_38]
+pos = [
+    0,
+    915,
+]
+size = [
+    69,
+    107,
+]
+frame_offset = [
+    59,
+    103,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_39]
+pos = [
+    577,
+    700,
+]
+size = [
+    60,
+    75,
+]
+frame_offset = [
+    68,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_40]
+pos = [
+    917,
+    305,
+]
+size = [
+    74,
+    191,
+]
+frame_offset = [
+    0,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_41]
+pos = [
+    720,
+    474,
+]
+size = [
+    63,
+    74,
+]
+frame_offset = [
+    0,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_42]
+pos = [
+    211,
+    406,
+]
+size = [
+    10,
+    45,
+]
+frame_offset = [
+    0,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_43]
+pos = [
+    257,
+    224,
+]
+size = [
+    101,
+    115,
+]
+frame_offset = [
+    0,
+    90,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_44]
+pos = [
+    351,
+    907,
+]
+size = [
+    62,
+    59,
+]
+frame_offset = [
+    66,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_45]
+pos = [
+    469,
+    160,
+]
+size = [
+    14,
+    53,
+]
+frame_offset = [
+    114,
+    171,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_48]
+pos = [
+    652,
+    474,
+]
+size = [
+    66,
+    216,
+]
+frame_offset = [
+    31,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_49]
+pos = [
+    404,
+    370,
+]
+size = [
+    76,
+    132,
+]
+frame_offset = [
+    18,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_50]
+pos = [
+    499,
+    0,
+]
+size = [
+    90,
+    224,
+]
+frame_offset = [
+    18,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_51]
+pos = [
+    482,
+    370,
+]
+size = [
+    76,
+    132,
+]
+frame_offset = [
+    33,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_52]
+pos = [
+    436,
+    731,
+]
+size = [
+    67,
+    215,
+]
+frame_offset = [
+    28,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_53]
+pos = [
+    591,
+    0,
+]
+size = [
+    88,
+    189,
+]
+frame_offset = [
+    18,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_54]
+pos = [
+    793,
+    361,
+]
+size = [
+    74,
+    122,
+]
+frame_offset = [
+    18,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_55]
+pos = [
+    840,
+    223,
+]
+size = [
+    75,
+    122,
+]
+frame_offset = [
+    31,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_56]
+pos = [
+    830,
+    756,
+]
+size = [
+    38,
+    203,
+]
+frame_offset = [
+    75,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_57]
+pos = [
+    779,
+    614,
+]
+size = [
+    49,
+    205,
+]
+frame_offset = [
+    38,
+    6,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_58]
+pos = [
+    695,
+    692,
+]
+size = [
+    49,
+    191,
+]
+frame_offset = [
+    37,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_59]
+pos = [
+    369,
+    504,
+]
+size = [
+    70,
+    171,
+]
+frame_offset = [
+    43,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_60]
+pos = [
+    953,
+    498,
+]
+size = [
+    41,
+    208,
+]
+frame_offset = [
+    10,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_61]
+pos = [
+    75,
+    673,
+]
+size = [
+    71,
+    175,
+]
+frame_offset = [
+    12,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_62]
+pos = [
+    75,
+    500,
+]
+size = [
+    73,
+    171,
+]
+frame_offset = [
+    11,
+    36,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_63]
+pos = [
+    512,
+    504,
+]
+size = [
+    69,
+    177,
+]
+frame_offset = [
+    43,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_64]
+pos = [
+    0,
+    686,
+]
+size = [
+    71,
+    227,
+]
+frame_offset = [
+    11,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_65]
+pos = [
+    150,
+    500,
+]
+size = [
+    71,
+    228,
+]
+frame_offset = [
+    42,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_66]
+pos = [
+    844,
+    550,
+]
+size = [
+    43,
+    204,
+]
+frame_offset = [
+    39,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_67]
+pos = [
+    963,
+    708,
+]
+size = [
+    22,
+    213,
+]
+frame_offset = [
+    9,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_68]
+pos = [
+    441,
+    504,
+]
+size = [
+    69,
+    225,
+]
+frame_offset = [
+    10,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_69]
+pos = [
+    996,
+    305,
+]
+size = [
+    23,
+    211,
+]
+frame_offset = [
+    93,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_70]
+pos = [
+    148,
+    730,
+]
+size = [
+    70,
+    225,
+]
+frame_offset = [
+    46,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_71]
+pos = [
+    889,
+    704,
+]
+size = [
+    35,
+    203,
+]
+frame_offset = [
+    45,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_72]
+pos = [
+    296,
+    435,
+]
+size = [
+    71,
+    227,
+]
+frame_offset = [
+    11,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_73]
+pos = [
+    223,
+    435,
+]
+size = [
+    71,
+    228,
+]
+frame_offset = [
+    42,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_74]
+pos = [
+    908,
+    498,
+]
+size = [
+    43,
+    204,
+]
+frame_offset = [
+    39,
+    38,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_75]
+pos = [
+    987,
+    731,
+]
+size = [
+    22,
+    213,
+]
+frame_offset = [
+    9,
+    13,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_76]
+pos = [
+    296,
+    664,
+]
+size = [
+    69,
+    225,
+]
+frame_offset = [
+    10,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_77]
+pos = [
+    996,
+    518,
+]
+size = [
+    23,
+    211,
+]
+frame_offset = [
+    93,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_78]
+pos = [
+    223,
+    665,
+]
+size = [
+    70,
+    225,
+]
+frame_offset = [
+    46,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_79]
+pos = [
+    926,
+    708,
+]
+size = [
+    35,
+    203,
+]
+frame_offset = [
+    45,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_80]
+pos = [
+    367,
+    677,
+]
+size = [
+    67,
+    228,
+]
+frame_offset = [
+    28,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_81]
+pos = [
+    583,
+    470,
+]
+size = [
+    67,
+    228,
+]
+frame_offset = [
+    29,
+    15,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_88]
+pos = [
+    746,
+    680,
+]
+size = [
+    30,
+    168,
+]
+frame_offset = [
+    63,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_89]
+pos = [
+    655,
+    830,
+]
+size = [
+    22,
+    164,
+]
+frame_offset = [
+    53,
+    21,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_90]
+pos = [
+    623,
+    830,
+]
+size = [
+    30,
+    168,
+]
+frame_offset = [
+    31,
+    16,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_91]
+pos = [
+    746,
+    850,
+]
+size = [
+    22,
+    163,
+]
+frame_offset = [
+    53,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_92]
+pos = [
+    126,
+    406,
+]
+size = [
+    83,
+    92,
+]
+frame_offset = [
+    19,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_93]
+pos = [
+    234,
+    341,
+]
+size = [
+    83,
+    92,
+]
+frame_offset = [
+    23,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_94]
+pos = [
+    319,
+    341,
+]
+size = [
+    83,
+    92,
+]
+frame_offset = [
+    28,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_95]
+pos = [
+    681,
+    0,
+]
+size = [
+    83,
+    92,
+]
+frame_offset = [
+    16,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_96]
+pos = [
+    505,
+    820,
+]
+size = [
+    58,
+    64,
+]
+frame_offset = [
+    34,
+    181,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_97]
+pos = [
+    785,
+    545,
+]
+size = [
+    57,
+    64,
+]
+frame_offset = [
+    36,
+    183,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_98]
+pos = [
+    720,
+    614,
+]
+size = [
+    57,
+    64,
+]
+frame_offset = [
+    33,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[radio_tower_99]
+pos = [
+    849,
+    485,
+]
+size = [
+    57,
+    63,
+]
+frame_offset = [
+    39,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_0]
+pos = [
+    367,
+    160,
+]
+size = [
+    100,
+    158,
+]
+frame_offset = [
+    7,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_1]
+pos = [
+    388,
+    0,
+]
+size = [
+    109,
+    158,
+]
+frame_offset = [
+    19,
+    89,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_2]
+pos = [
+    0,
+    360,
+]
+size = [
+    124,
+    128,
+]
+frame_offset = [
+    0,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_3]
+pos = [
+    0,
+    231,
+]
+size = [
+    125,
+    127,
+]
+frame_offset = [
+    0,
+    122,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_4]
+pos = [
+    639,
+    700,
+]
+size = [
+    54,
+    128,
+]
+frame_offset = [
+    7,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_5]
+pos = [
+    286,
+    892,
+]
+size = [
+    63,
+    128,
+]
+frame_offset = [
+    65,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_6]
+pos = [
+    260,
+    0,
+]
+size = [
+    126,
+    128,
+]
+frame_offset = [
+    0,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[recreational_01_7]
+pos = [
+    130,
+    183,
+]
+size = [
+    125,
+    127,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]

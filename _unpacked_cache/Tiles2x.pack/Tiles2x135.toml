@@ -1,0 +1,1395 @@
+[location_shop_gas2go_01_33]
+pos = [
+    0,
+    228,
+]
+size = [
+    124,
+    223,
+]
+frame_offset = [
+    0,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_34]
+pos = [
+    586,
+    756,
+]
+size = [
+    64,
+    192,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_35]
+pos = [
+    897,
+    498,
+]
+size = [
+    64,
+    192,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_36]
+pos = [
+    652,
+    756,
+]
+size = [
+    64,
+    192,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_37]
+pos = [
+    760,
+    509,
+]
+size = [
+    68,
+    224,
+]
+frame_offset = [
+    60,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_38]
+pos = [
+    365,
+    388,
+]
+size = [
+    107,
+    110,
+]
+frame_offset = [
+    0,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_39]
+pos = [
+    818,
+    386,
+]
+size = [
+    84,
+    110,
+]
+frame_offset = [
+    24,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_40]
+pos = [
+    940,
+    244,
+]
+size = [
+    69,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_41]
+pos = [
+    260,
+    0,
+]
+size = [
+    126,
+    225,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_42]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    226,
+]
+
+[location_shop_gas2go_01_43]
+pos = [
+    689,
+    509,
+]
+size = [
+    69,
+    226,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_44]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    100,
+]
+frame_offset = [
+    0,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_45]
+pos = [
+    380,
+    851,
+]
+size = [
+    67,
+    102,
+]
+frame_offset = [
+    0,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_46]
+pos = [
+    388,
+    0,
+]
+size = [
+    122,
+    66,
+]
+frame_offset = [
+    2,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_47]
+pos = [
+    492,
+    388,
+]
+size = [
+    8,
+    37,
+]
+frame_offset = [
+    59,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_48]
+pos = [
+    516,
+    839,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    2,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_49]
+pos = [
+    449,
+    932,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    2,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_50]
+pos = [
+    830,
+    579,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    2,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_51]
+pos = [
+    516,
+    920,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    2,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_52]
+pos = [
+    280,
+    926,
+]
+size = [
+    65,
+    79,
+]
+frame_offset = [
+    2,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_53]
+pos = [
+    589,
+    675,
+]
+size = [
+    65,
+    79,
+]
+frame_offset = [
+    2,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_54]
+pos = [
+    718,
+    737,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    60,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_55]
+pos = [
+    830,
+    660,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    60,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_56]
+pos = [
+    449,
+    851,
+]
+size = [
+    65,
+    79,
+]
+frame_offset = [
+    59,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_57]
+pos = [
+    830,
+    498,
+]
+size = [
+    65,
+    79,
+]
+frame_offset = [
+    59,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_58]
+pos = [
+    718,
+    818,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    60,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_59]
+pos = [
+    784,
+    741,
+]
+size = [
+    64,
+    79,
+]
+frame_offset = [
+    60,
+    147,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_60]
+pos = [
+    784,
+    822,
+]
+size = [
+    52,
+    179,
+]
+frame_offset = [
+    6,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_61]
+pos = [
+    963,
+    656,
+]
+size = [
+    51,
+    179,
+]
+frame_offset = [
+    66,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_62]
+pos = [
+    896,
+    692,
+]
+size = [
+    56,
+    181,
+]
+frame_offset = [
+    52,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_63]
+pos = [
+    963,
+    472,
+]
+size = [
+    56,
+    182,
+]
+frame_offset = [
+    16,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_on_12]
+pos = [
+    101,
+    453,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    80,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_on_13]
+pos = [
+    101,
+    469,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    48,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_on_14]
+pos = [
+    474,
+    388,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    26,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_gas2go_01_on_15]
+pos = [
+    474,
+    404,
+]
+size = [
+    16,
+    14,
+]
+frame_offset = [
+    58,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_0]
+pos = [
+    255,
+    227,
+]
+size = [
+    123,
+    140,
+]
+frame_offset = [
+    1,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_1]
+pos = [
+    130,
+    223,
+]
+size = [
+    123,
+    141,
+]
+frame_offset = [
+    2,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_10]
+pos = [
+    301,
+    503,
+]
+size = [
+    98,
+    129,
+]
+frame_offset = [
+    14,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_11]
+pos = [
+    291,
+    795,
+]
+size = [
+    87,
+    129,
+]
+frame_offset = [
+    9,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_12]
+pos = [
+    599,
+    545,
+]
+size = [
+    86,
+    128,
+]
+frame_offset = [
+    31,
+    107,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_13]
+pos = [
+    0,
+    829,
+]
+size = [
+    98,
+    129,
+]
+frame_offset = [
+    14,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_14]
+pos = [
+    201,
+    635,
+]
+size = [
+    98,
+    129,
+]
+frame_offset = [
+    14,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_15]
+pos = [
+    732,
+    255,
+]
+size = [
+    102,
+    129,
+]
+frame_offset = [
+    14,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_16]
+pos = [
+    130,
+    102,
+]
+size = [
+    126,
+    119,
+]
+frame_offset = [
+    1,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_17]
+pos = [
+    743,
+    134,
+]
+size = [
+    104,
+    119,
+]
+frame_offset = [
+    0,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_18]
+pos = [
+    609,
+    305,
+]
+size = [
+    103,
+    131,
+]
+frame_offset = [
+    2,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_19]
+pos = [
+    855,
+    122,
+]
+size = [
+    103,
+    120,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_2]
+pos = [
+    200,
+    766,
+]
+size = [
+    89,
+    128,
+]
+frame_offset = [
+    36,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_20]
+pos = [
+    126,
+    366,
+]
+size = [
+    123,
+    120,
+]
+frame_offset = [
+    2,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_21]
+pos = [
+    714,
+    386,
+]
+size = [
+    102,
+    121,
+]
+frame_offset = [
+    22,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_22]
+pos = [
+    502,
+    305,
+]
+size = [
+    105,
+    131,
+]
+frame_offset = [
+    22,
+    125,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_23]
+pos = [
+    855,
+    0,
+]
+size = [
+    104,
+    120,
+]
+frame_offset = [
+    23,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_24]
+pos = [
+    301,
+    634,
+]
+size = [
+    97,
+    159,
+]
+frame_offset = [
+    25,
+    84,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_25]
+pos = [
+    401,
+    500,
+]
+size = [
+    97,
+    242,
+]
+frame_offset = [
+    29,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_26]
+pos = [
+    0,
+    453,
+]
+size = [
+    99,
+    242,
+]
+frame_offset = [
+    4,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_27]
+pos = [
+    500,
+    438,
+]
+size = [
+    97,
+    156,
+]
+frame_offset = [
+    0,
+    86,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_28]
+pos = [
+    500,
+    596,
+]
+size = [
+    87,
+    105,
+]
+frame_offset = [
+    41,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_29]
+pos = [
+    400,
+    744,
+]
+size = [
+    85,
+    105,
+]
+frame_offset = [
+    0,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_3]
+pos = [
+    100,
+    883,
+]
+size = [
+    89,
+    128,
+]
+frame_offset = [
+    1,
+    110,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_30]
+pos = [
+    599,
+    438,
+]
+size = [
+    88,
+    105,
+]
+frame_offset = [
+    38,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_31]
+pos = [
+    191,
+    896,
+]
+size = [
+    87,
+    105,
+]
+frame_offset = [
+    1,
+    66,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_32]
+pos = [
+    251,
+    369,
+]
+size = [
+    112,
+    132,
+]
+frame_offset = [
+    2,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_33]
+pos = [
+    624,
+    170,
+]
+size = [
+    106,
+    132,
+]
+frame_offset = [
+    2,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_34]
+pos = [
+    743,
+    0,
+]
+size = [
+    110,
+    132,
+]
+frame_offset = [
+    18,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_35]
+pos = [
+    511,
+    170,
+]
+size = [
+    111,
+    133,
+]
+frame_offset = [
+    14,
+    115,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_36]
+pos = [
+    512,
+    0,
+]
+size = [
+    114,
+    168,
+]
+frame_offset = [
+    5,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_37]
+pos = [
+    380,
+    228,
+]
+size = [
+    120,
+    158,
+]
+frame_offset = [
+    2,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_38]
+pos = [
+    388,
+    68,
+]
+size = [
+    121,
+    158,
+]
+frame_offset = [
+    4,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_39]
+pos = [
+    628,
+    0,
+]
+size = [
+    113,
+    168,
+]
+frame_offset = [
+    8,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_40]
+pos = [
+    500,
+    703,
+]
+size = [
+    84,
+    134,
+]
+frame_offset = [
+    26,
+    116,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_41]
+pos = [
+    101,
+    488,
+]
+size = [
+    98,
+    130,
+]
+frame_offset = [
+    12,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_42]
+pos = [
+    0,
+    697,
+]
+size = [
+    98,
+    130,
+]
+frame_offset = [
+    12,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_43]
+pos = [
+    961,
+    0,
+]
+size = [
+    60,
+    114,
+]
+frame_offset = [
+    9,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_44]
+pos = [
+    961,
+    116,
+]
+size = [
+    60,
+    114,
+]
+frame_offset = [
+    57,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_45]
+pos = [
+    101,
+    620,
+]
+size = [
+    98,
+    130,
+]
+frame_offset = [
+    16,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_46]
+pos = [
+    201,
+    503,
+]
+size = [
+    98,
+    130,
+]
+frame_offset = [
+    16,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_8]
+pos = [
+    836,
+    255,
+]
+size = [
+    102,
+    129,
+]
+frame_offset = [
+    10,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_shop_generic_01_9]
+pos = [
+    100,
+    752,
+]
+size = [
+    98,
+    129,
+]
+frame_offset = [
+    14,
+    120,
+]
+frame_size = [
+    128,
+    256,
+]

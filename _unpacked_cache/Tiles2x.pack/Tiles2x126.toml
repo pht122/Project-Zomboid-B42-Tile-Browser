@@ -1,0 +1,1439 @@
+[location_restaurant_pileocrepe_01_10]
+pos = [
+    0,
+    769,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_11]
+pos = [
+    306,
+    482,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_12]
+pos = [
+    0,
+    461,
+]
+size = [
+    77,
+    218,
+]
+frame_offset = [
+    2,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_13]
+pos = [
+    79,
+    461,
+]
+size = [
+    77,
+    218,
+]
+frame_offset = [
+    46,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_15]
+pos = [
+    957,
+    775,
+]
+size = [
+    21,
+    213,
+]
+frame_offset = [
+    55,
+    18,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_16]
+pos = [
+    500,
+    893,
+]
+size = [
+    56,
+    95,
+]
+frame_offset = [
+    68,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_17]
+pos = [
+    503,
+    737,
+]
+size = [
+    64,
+    154,
+]
+frame_offset = [
+    60,
+    79,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_18]
+pos = [
+    368,
+    824,
+]
+size = [
+    64,
+    172,
+]
+frame_offset = [
+    60,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_19]
+pos = [
+    210,
+    924,
+]
+size = [
+    56,
+    77,
+]
+frame_offset = [
+    60,
+    119,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_20]
+pos = [
+    644,
+    701,
+]
+size = [
+    60,
+    82,
+]
+frame_offset = [
+    6,
+    118,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_21]
+pos = [
+    578,
+    630,
+]
+size = [
+    64,
+    156,
+]
+frame_offset = [
+    2,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_22]
+pos = [
+    434,
+    832,
+]
+size = [
+    64,
+    146,
+]
+frame_offset = [
+    2,
+    91,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_23]
+pos = [
+    558,
+    911,
+]
+size = [
+    55,
+    89,
+]
+frame_offset = [
+    2,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_24]
+pos = [
+    376,
+    353,
+]
+size = [
+    116,
+    147,
+]
+frame_offset = [
+    12,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_25]
+pos = [
+    755,
+    0,
+]
+size = [
+    108,
+    137,
+]
+frame_offset = [
+    0,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_26]
+pos = [
+    510,
+    258,
+]
+size = [
+    106,
+    122,
+]
+frame_offset = [
+    19,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_27]
+pos = [
+    933,
+    255,
+]
+size = [
+    60,
+    120,
+]
+frame_offset = [
+    51,
+    135,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_28]
+pos = [
+    634,
+    132,
+]
+size = [
+    108,
+    137,
+]
+frame_offset = [
+    18,
+    113,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_29]
+pos = [
+    725,
+    276,
+]
+size = [
+    103,
+    138,
+]
+frame_offset = [
+    11,
+    109,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_30]
+pos = [
+    569,
+    788,
+]
+size = [
+    62,
+    121,
+]
+frame_offset = [
+    14,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_31]
+pos = [
+    494,
+    382,
+]
+size = [
+    104,
+    125,
+]
+frame_offset = [
+    2,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_32]
+pos = [
+    512,
+    0,
+]
+size = [
+    120,
+    256,
+]
+frame_offset = [
+    8,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_33]
+pos = [
+    258,
+    228,
+]
+size = [
+    121,
+    123,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_34]
+pos = [
+    387,
+    95,
+]
+size = [
+    121,
+    251,
+]
+frame_offset = [
+    7,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_35]
+pos = [
+    254,
+    353,
+]
+size = [
+    120,
+    127,
+]
+frame_offset = [
+    0,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_36]
+pos = [
+    130,
+    0,
+]
+size = [
+    127,
+    192,
+]
+frame_offset = [
+    0,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_37]
+pos = [
+    634,
+    0,
+]
+size = [
+    119,
+    130,
+]
+frame_offset = [
+    5,
+    124,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_39]
+pos = [
+    137,
+    414,
+]
+size = [
+    1,
+    2,
+]
+frame_offset = [
+    55,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_40]
+pos = [
+    158,
+    414,
+]
+size = [
+    72,
+    100,
+]
+frame_offset = [
+    28,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_41]
+pos = [
+    158,
+    516,
+]
+size = [
+    72,
+    100,
+]
+frame_offset = [
+    28,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_42]
+pos = [
+    0,
+    681,
+]
+size = [
+    72,
+    86,
+]
+frame_offset = [
+    28,
+    154,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_43]
+pos = [
+    232,
+    482,
+]
+size = [
+    72,
+    86,
+]
+frame_offset = [
+    24,
+    155,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_44]
+pos = [
+    142,
+    846,
+]
+size = [
+    66,
+    124,
+]
+frame_offset = [
+    0,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_45]
+pos = [
+    226,
+    798,
+]
+size = [
+    66,
+    124,
+]
+frame_offset = [
+    60,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_46]
+pos = [
+    130,
+    194,
+]
+size = [
+    126,
+    124,
+]
+frame_offset = [
+    0,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_47]
+pos = [
+    142,
+    681,
+]
+size = [
+    6,
+    94,
+]
+frame_offset = [
+    60,
+    102,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_48]
+pos = [
+    904,
+    775,
+]
+size = [
+    51,
+    180,
+]
+frame_offset = [
+    8,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_49]
+pos = [
+    935,
+    377,
+]
+size = [
+    57,
+    213,
+]
+frame_offset = [
+    61,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_5]
+pos = [
+    865,
+    0,
+]
+size = [
+    107,
+    253,
+]
+frame_offset = [
+    3,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_50]
+pos = [
+    734,
+    667,
+]
+size = [
+    56,
+    181,
+]
+frame_offset = [
+    53,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_51]
+pos = [
+    802,
+    578,
+]
+size = [
+    56,
+    182,
+]
+frame_offset = [
+    17,
+    42,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_52]
+pos = [
+    792,
+    762,
+]
+size = [
+    54,
+    180,
+]
+frame_offset = [
+    7,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_53]
+pos = [
+    848,
+    762,
+]
+size = [
+    54,
+    180,
+]
+frame_offset = [
+    65,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_54]
+pos = [
+    918,
+    592,
+]
+size = [
+    55,
+    181,
+]
+frame_offset = [
+    54,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_55]
+pos = [
+    633,
+    788,
+]
+size = [
+    56,
+    181,
+]
+frame_offset = [
+    18,
+    43,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_56]
+pos = [
+    68,
+    909,
+]
+size = [
+    66,
+    95,
+]
+frame_offset = [
+    1,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_57]
+pos = [
+    368,
+    730,
+]
+size = [
+    66,
+    92,
+]
+frame_offset = [
+    59,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_58]
+pos = [
+    387,
+    0,
+]
+size = [
+    123,
+    93,
+]
+frame_offset = [
+    2,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_59]
+pos = [
+    232,
+    414,
+]
+size = [
+    8,
+    64,
+]
+frame_offset = [
+    59,
+    132,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_6]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    195,
+]
+frame_offset = [
+    0,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_7]
+pos = [
+    0,
+    197,
+]
+size = [
+    126,
+    201,
+]
+frame_offset = [
+    0,
+    14,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_8]
+pos = [
+    442,
+    509,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_9]
+pos = [
+    510,
+    509,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_16]
+pos = [
+    860,
+    578,
+]
+size = [
+    56,
+    88,
+]
+frame_offset = [
+    68,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_17]
+pos = [
+    803,
+    424,
+]
+size = [
+    64,
+    152,
+]
+frame_offset = [
+    60,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_18]
+pos = [
+    668,
+    538,
+]
+size = [
+    64,
+    161,
+]
+frame_offset = [
+    60,
+    65,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_19]
+pos = [
+    691,
+    926,
+]
+size = [
+    51,
+    70,
+]
+frame_offset = [
+    60,
+    126,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_20]
+pos = [
+    691,
+    850,
+]
+size = [
+    53,
+    74,
+]
+frame_offset = [
+    13,
+    121,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_21]
+pos = [
+    736,
+    512,
+]
+size = [
+    64,
+    153,
+]
+frame_offset = [
+    2,
+    67,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_22]
+pos = [
+    869,
+    424,
+]
+size = [
+    64,
+    145,
+]
+frame_offset = [
+    2,
+    92,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_23]
+pos = [
+    860,
+    668,
+]
+size = [
+    55,
+    88,
+]
+frame_offset = [
+    2,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_6]
+pos = [
+    618,
+    271,
+]
+size = [
+    105,
+    129,
+]
+frame_offset = [
+    0,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pileocrepe_01_on_7]
+pos = [
+    744,
+    139,
+]
+size = [
+    105,
+    135,
+]
+frame_offset = [
+    21,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_0]
+pos = [
+    74,
+    681,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_1]
+pos = [
+    374,
+    502,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_10]
+pos = [
+    158,
+    618,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_11]
+pos = [
+    232,
+    570,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_12]
+pos = [
+    668,
+    416,
+]
+size = [
+    66,
+    59,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_13]
+pos = [
+    668,
+    477,
+]
+size = [
+    66,
+    59,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_14]
+pos = [
+    0,
+    400,
+]
+size = [
+    126,
+    59,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_15]
+pos = [
+    128,
+    414,
+]
+size = [
+    7,
+    29,
+]
+frame_offset = [
+    59,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_17]
+pos = [
+    830,
+    276,
+]
+size = [
+    101,
+    146,
+]
+frame_offset = [
+    17,
+    104,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_2]
+pos = [
+    259,
+    0,
+]
+size = [
+    126,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_3]
+pos = [
+    974,
+    0,
+]
+size = [
+    6,
+    196,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_4]
+pos = [
+    436,
+    737,
+]
+size = [
+    65,
+    93,
+]
+frame_offset = [
+    1,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_5]
+pos = [
+    736,
+    416,
+]
+size = [
+    65,
+    94,
+]
+frame_offset = [
+    60,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_6]
+pos = [
+    128,
+    320,
+]
+size = [
+    124,
+    92,
+]
+frame_offset = [
+    1,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_7]
+pos = [
+    242,
+    414,
+]
+size = [
+    6,
+    63,
+]
+frame_offset = [
+    60,
+    133,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_8]
+pos = [
+    300,
+    710,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[location_restaurant_pizzawhirled_01_9]
+pos = [
+    600,
+    402,
+]
+size = [
+    66,
+    226,
+]
+frame_offset = [
+    60,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]

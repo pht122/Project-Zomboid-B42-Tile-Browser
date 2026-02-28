@@ -1,0 +1,1899 @@
+[Fire_01_0]
+pos = [
+    705,
+    782,
+]
+size = [
+    64,
+    69,
+]
+frame_offset = [
+    38,
+    185,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_1]
+pos = [
+    669,
+    940,
+]
+size = [
+    61,
+    68,
+]
+frame_offset = [
+    38,
+    186,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_10]
+pos = [
+    900,
+    784,
+]
+size = [
+    60,
+    82,
+]
+frame_offset = [
+    40,
+    173,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_11]
+pos = [
+    604,
+    914,
+]
+size = [
+    63,
+    86,
+]
+frame_offset = [
+    39,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_12]
+pos = [
+    537,
+    898,
+]
+size = [
+    65,
+    88,
+]
+frame_offset = [
+    38,
+    166,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_13]
+pos = [
+    952,
+    305,
+]
+size = [
+    67,
+    82,
+]
+frame_offset = [
+    39,
+    172,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_14]
+pos = [
+    952,
+    219,
+]
+size = [
+    69,
+    84,
+]
+frame_offset = [
+    40,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_15]
+pos = [
+    93,
+    922,
+]
+size = [
+    70,
+    85,
+]
+frame_offset = [
+    41,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_16]
+pos = [
+    761,
+    878,
+]
+size = [
+    61,
+    84,
+]
+frame_offset = [
+    42,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_17]
+pos = [
+    835,
+    857,
+]
+size = [
+    59,
+    87,
+]
+frame_offset = [
+    42,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_18]
+pos = [
+    964,
+    685,
+]
+size = [
+    58,
+    89,
+]
+frame_offset = [
+    43,
+    164,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_19]
+pos = [
+    896,
+    868,
+]
+size = [
+    57,
+    84,
+]
+frame_offset = [
+    44,
+    169,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_2]
+pos = [
+    771,
+    800,
+]
+size = [
+    62,
+    76,
+]
+frame_offset = [
+    38,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_20]
+pos = [
+    964,
+    776,
+]
+size = [
+    57,
+    85,
+]
+frame_offset = [
+    44,
+    168,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_21]
+pos = [
+    771,
+    708,
+]
+size = [
+    63,
+    90,
+]
+frame_offset = [
+    40,
+    165,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_22]
+pos = [
+    885,
+    615,
+]
+size = [
+    63,
+    93,
+]
+frame_offset = [
+    41,
+    162,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_23]
+pos = [
+    165,
+    946,
+]
+size = [
+    63,
+    67,
+]
+frame_offset = [
+    42,
+    189,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_24]
+pos = [
+    900,
+    710,
+]
+size = [
+    62,
+    72,
+]
+frame_offset = [
+    43,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_25]
+pos = [
+    950,
+    605,
+]
+size = [
+    63,
+    78,
+]
+frame_offset = [
+    39,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_26]
+pos = [
+    696,
+    853,
+]
+size = [
+    63,
+    85,
+]
+frame_offset = [
+    38,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_27]
+pos = [
+    818,
+    615,
+]
+size = [
+    65,
+    91,
+]
+frame_offset = [
+    37,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_28]
+pos = [
+    347,
+    916,
+]
+size = [
+    66,
+    98,
+]
+frame_offset = [
+    37,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_29]
+pos = [
+    899,
+    506,
+]
+size = [
+    65,
+    97,
+]
+frame_offset = [
+    38,
+    157,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_3]
+pos = [
+    958,
+    92,
+]
+size = [
+    64,
+    83,
+]
+frame_offset = [
+    38,
+    170,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_4]
+pos = [
+    958,
+    0,
+]
+size = [
+    64,
+    90,
+]
+frame_offset = [
+    39,
+    163,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_5]
+pos = [
+    836,
+    786,
+]
+size = [
+    62,
+    69,
+]
+frame_offset = [
+    43,
+    184,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_6]
+pos = [
+    836,
+    710,
+]
+size = [
+    62,
+    74,
+]
+frame_offset = [
+    43,
+    180,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_7]
+pos = [
+    415,
+    937,
+]
+size = [
+    64,
+    77,
+]
+frame_offset = [
+    42,
+    177,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_8]
+pos = [
+    0,
+    942,
+]
+size = [
+    65,
+    72,
+]
+frame_offset = [
+    41,
+    182,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_01_9]
+pos = [
+    705,
+    703,
+]
+size = [
+    64,
+    77,
+]
+frame_offset = [
+    40,
+    178,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_0]
+pos = [
+    570,
+    557,
+]
+size = [
+    82,
+    113,
+]
+frame_offset = [
+    28,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_1]
+pos = [
+    916,
+    392,
+]
+size = [
+    79,
+    112,
+]
+frame_offset = [
+    29,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_10]
+pos = [
+    655,
+    537,
+]
+size = [
+    81,
+    117,
+]
+frame_offset = [
+    28,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_11]
+pos = [
+    485,
+    442,
+]
+size = [
+    83,
+    125,
+]
+frame_offset = [
+    27,
+    131,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_12]
+pos = [
+    287,
+    590,
+]
+size = [
+    84,
+    133,
+]
+frame_offset = [
+    27,
+    123,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_13]
+pos = [
+    200,
+    590,
+]
+size = [
+    85,
+    142,
+]
+frame_offset = [
+    27,
+    114,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_14]
+pos = [
+    311,
+    428,
+]
+size = [
+    85,
+    150,
+]
+frame_offset = [
+    27,
+    106,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_15]
+pos = [
+    264,
+    847,
+]
+size = [
+    81,
+    148,
+]
+frame_offset = [
+    26,
+    108,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_16]
+pos = [
+    458,
+    687,
+]
+size = [
+    81,
+    127,
+]
+frame_offset = [
+    26,
+    129,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_17]
+pos = [
+    398,
+    559,
+]
+size = [
+    83,
+    126,
+]
+frame_offset = [
+    26,
+    130,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_18]
+pos = [
+    287,
+    725,
+]
+size = [
+    83,
+    120,
+]
+frame_offset = [
+    27,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_19]
+pos = [
+    398,
+    428,
+]
+size = [
+    85,
+    129,
+]
+frame_offset = [
+    27,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_2]
+pos = [
+    738,
+    584,
+]
+size = [
+    78,
+    117,
+]
+frame_offset = [
+    31,
+    139,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_20]
+pos = [
+    373,
+    687,
+]
+size = [
+    83,
+    103,
+]
+frame_offset = [
+    27,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_21]
+pos = [
+    194,
+    734,
+]
+size = [
+    84,
+    96,
+]
+frame_offset = [
+    27,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_22]
+pos = [
+    483,
+    569,
+]
+size = [
+    83,
+    104,
+]
+frame_offset = [
+    27,
+    152,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_23]
+pos = [
+    179,
+    832,
+]
+size = [
+    83,
+    112,
+]
+frame_offset = [
+    27,
+    144,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_24]
+pos = [
+    749,
+    355,
+]
+size = [
+    82,
+    115,
+]
+frame_offset = [
+    26,
+    141,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_25]
+pos = [
+    455,
+    816,
+]
+size = [
+    80,
+    119,
+]
+frame_offset = [
+    29,
+    137,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_26]
+pos = [
+    541,
+    675,
+]
+size = [
+    81,
+    105,
+]
+frame_offset = [
+    29,
+    151,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_27]
+pos = [
+    833,
+    392,
+]
+size = [
+    81,
+    103,
+]
+frame_offset = [
+    30,
+    153,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_28]
+pos = [
+    739,
+    472,
+]
+size = [
+    81,
+    110,
+]
+frame_offset = [
+    30,
+    146,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_29]
+pos = [
+    655,
+    417,
+]
+size = [
+    82,
+    118,
+]
+frame_offset = [
+    29,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_3]
+pos = [
+    620,
+    794,
+]
+size = [
+    74,
+    118,
+]
+frame_offset = [
+    31,
+    138,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_4]
+pos = [
+    822,
+    497,
+]
+size = [
+    75,
+    116,
+]
+frame_offset = [
+    31,
+    140,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_5]
+pos = [
+    541,
+    782,
+]
+size = [
+    77,
+    114,
+]
+frame_offset = [
+    30,
+    142,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_6]
+pos = [
+    624,
+    672,
+]
+size = [
+    79,
+    120,
+]
+frame_offset = [
+    29,
+    136,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_7]
+pos = [
+    372,
+    792,
+]
+size = [
+    81,
+    122,
+]
+frame_offset = [
+    28,
+    134,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_8]
+pos = [
+    570,
+    442,
+]
+size = [
+    83,
+    113,
+]
+frame_offset = [
+    28,
+    143,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_02_9]
+pos = [
+    93,
+    812,
+]
+size = [
+    84,
+    108,
+]
+frame_offset = [
+    28,
+    148,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_0]
+pos = [
+    0,
+    0,
+]
+size = [
+    111,
+    175,
+]
+frame_offset = [
+    13,
+    81,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_1]
+pos = [
+    646,
+    0,
+]
+size = [
+    103,
+    174,
+]
+frame_offset = [
+    17,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_10]
+pos = [
+    0,
+    353,
+]
+size = [
+    98,
+    188,
+]
+frame_offset = [
+    22,
+    68,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_11]
+pos = [
+    213,
+    394,
+]
+size = [
+    96,
+    194,
+]
+frame_offset = [
+    22,
+    62,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_12]
+pos = [
+    0,
+    543,
+]
+size = [
+    98,
+    187,
+]
+frame_offset = [
+    21,
+    69,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_13]
+pos = [
+    851,
+    219,
+]
+size = [
+    99,
+    171,
+]
+frame_offset = [
+    20,
+    85,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_14]
+pos = [
+    749,
+    184,
+]
+size = [
+    100,
+    169,
+]
+frame_offset = [
+    21,
+    87,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_15]
+pos = [
+    100,
+    445,
+]
+size = [
+    98,
+    182,
+]
+frame_offset = [
+    23,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_16]
+pos = [
+    751,
+    0,
+]
+size = [
+    102,
+    182,
+]
+frame_offset = [
+    22,
+    74,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_17]
+pos = [
+    424,
+    214,
+]
+size = [
+    103,
+    196,
+]
+frame_offset = [
+    22,
+    60,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_18]
+pos = [
+    213,
+    188,
+]
+size = [
+    104,
+    204,
+]
+frame_offset = [
+    21,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_19]
+pos = [
+    436,
+    0,
+]
+size = [
+    103,
+    209,
+]
+frame_offset = [
+    20,
+    47,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_2]
+pos = [
+    100,
+    629,
+]
+size = [
+    92,
+    181,
+]
+frame_offset = [
+    23,
+    75,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_20]
+pos = [
+    541,
+    0,
+]
+size = [
+    103,
+    206,
+]
+frame_offset = [
+    19,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_21]
+pos = [
+    319,
+    214,
+]
+size = [
+    103,
+    212,
+]
+frame_offset = [
+    19,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_22]
+pos = [
+    855,
+    0,
+]
+size = [
+    101,
+    217,
+]
+frame_offset = [
+    18,
+    39,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_23]
+pos = [
+    529,
+    211,
+]
+size = [
+    102,
+    229,
+]
+frame_offset = [
+    17,
+    27,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_24]
+pos = [
+    646,
+    176,
+]
+size = [
+    101,
+    239,
+]
+frame_offset = [
+    17,
+    17,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_25]
+pos = [
+    107,
+    188,
+]
+size = [
+    104,
+    255,
+]
+frame_offset = [
+    16,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_26]
+pos = [
+    329,
+    0,
+]
+size = [
+    105,
+    212,
+]
+frame_offset = [
+    16,
+    44,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_27]
+pos = [
+    0,
+    177,
+]
+size = [
+    105,
+    174,
+]
+frame_offset = [
+    15,
+    82,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_28]
+pos = [
+    221,
+    0,
+]
+size = [
+    106,
+    184,
+]
+frame_offset = [
+    14,
+    72,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_29]
+pos = [
+    113,
+    0,
+]
+size = [
+    106,
+    186,
+]
+frame_offset = [
+    14,
+    70,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[Fire_03_3]
+pos = [
+    0,
+    732,
+]
+size = [
+    91,
+    208,
+]
+frame_offset = [
+    23,
+    48,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[blood_floor_large_01]
+pos = [
+    415,
+    916,
+]
+size = [
+    34,
+    18,
+]
+frame_offset = [
+    13,
+    4,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_large_02]
+pos = [
+    373,
+    589,
+]
+size = [
+    23,
+    15,
+]
+frame_offset = [
+    13,
+    9,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_large_03]
+pos = [
+    230,
+    997,
+]
+size = [
+    36,
+    16,
+]
+frame_offset = [
+    15,
+    7,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_large_04]
+pos = [
+    483,
+    675,
+]
+size = [
+    38,
+    9,
+]
+frame_offset = [
+    13,
+    9,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_large_05]
+pos = [
+    304,
+    997,
+]
+size = [
+    33,
+    14,
+]
+frame_offset = [
+    20,
+    8,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_med_01]
+pos = [
+    230,
+    965,
+]
+size = [
+    26,
+    13,
+]
+frame_offset = [
+    16,
+    8,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_med_02]
+pos = [
+    67,
+    963,
+]
+size = [
+    17,
+    26,
+]
+frame_offset = [
+    23,
+    2,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_med_03]
+pos = [
+    474,
+    412,
+]
+size = [
+    40,
+    10,
+]
+frame_offset = [
+    8,
+    11,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_med_04]
+pos = [
+    705,
+    656,
+]
+size = [
+    25,
+    18,
+]
+frame_offset = [
+    26,
+    5,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_med_05]
+pos = [
+    424,
+    412,
+]
+size = [
+    48,
+    14,
+]
+frame_offset = [
+    5,
+    9,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_med_06]
+pos = [
+    373,
+    619,
+]
+size = [
+    20,
+    20,
+]
+frame_offset = [
+    27,
+    5,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_med_07]
+pos = [
+    268,
+    997,
+]
+size = [
+    34,
+    13,
+]
+frame_offset = [
+    16,
+    7,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_med_08]
+pos = [
+    373,
+    606,
+]
+size = [
+    22,
+    11,
+]
+frame_offset = [
+    33,
+    10,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_small_01]
+pos = [
+    348,
+    580,
+]
+size = [
+    32,
+    7,
+]
+frame_offset = [
+    23,
+    11,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_small_02]
+pos = [
+    373,
+    641,
+]
+size = [
+    19,
+    19,
+]
+frame_offset = [
+    18,
+    4,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_small_03]
+pos = [
+    994,
+    206,
+]
+size = [
+    26,
+    11,
+]
+frame_offset = [
+    27,
+    17,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_small_04]
+pos = [
+    485,
+    424,
+]
+size = [
+    38,
+    12,
+]
+frame_offset = [
+    18,
+    5,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_small_05]
+pos = [
+    958,
+    206,
+]
+size = [
+    34,
+    10,
+]
+frame_offset = [
+    11,
+    9,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_small_06]
+pos = [
+    67,
+    942,
+]
+size = [
+    20,
+    19,
+]
+frame_offset = [
+    20,
+    4,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_small_07]
+pos = [
+    311,
+    580,
+]
+size = [
+    35,
+    6,
+]
+frame_offset = [
+    19,
+    17,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[blood_floor_small_08]
+pos = [
+    230,
+    946,
+]
+size = [
+    29,
+    17,
+]
+frame_offset = [
+    6,
+    1,
+]
+frame_size = [
+    64,
+    32,
+]
+
+[dropshadow]
+pos = [
+    958,
+    177,
+]
+size = [
+    49,
+    27,
+]

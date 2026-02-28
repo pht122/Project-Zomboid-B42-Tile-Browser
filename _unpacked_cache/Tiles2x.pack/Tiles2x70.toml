@@ -1,0 +1,2287 @@
+[fixtures_stairs_01_82]
+pos = [
+    260,
+    0,
+]
+size = [
+    126,
+    244,
+]
+frame_offset = [
+    0,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_88]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_89]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    256,
+]
+
+[fixtures_stairs_01_90]
+pos = [
+    0,
+    258,
+]
+size = [
+    126,
+    245,
+]
+frame_offset = [
+    2,
+    4,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_0]
+pos = [
+    749,
+    924,
+]
+size = [
+    39,
+    93,
+]
+frame_offset = [
+    14,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_1]
+pos = [
+    913,
+    740,
+]
+size = [
+    39,
+    93,
+]
+frame_offset = [
+    73,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_10]
+pos = [
+    343,
+    246,
+]
+size = [
+    40,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_11]
+pos = [
+    816,
+    537,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_12]
+pos = [
+    722,
+    636,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_13]
+pos = [
+    667,
+    705,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_14]
+pos = [
+    857,
+    518,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_15]
+pos = [
+    763,
+    636,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_16]
+pos = [
+    872,
+    806,
+]
+size = [
+    39,
+    93,
+]
+frame_offset = [
+    14,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_17]
+pos = [
+    398,
+    930,
+]
+size = [
+    39,
+    92,
+]
+frame_offset = [
+    73,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_18]
+pos = [
+    439,
+    930,
+]
+size = [
+    39,
+    92,
+]
+frame_offset = [
+    14,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_19]
+pos = [
+    790,
+    924,
+]
+size = [
+    39,
+    92,
+]
+frame_offset = [
+    73,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_2]
+pos = [
+    954,
+    740,
+]
+size = [
+    39,
+    93,
+]
+frame_offset = [
+    14,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_20]
+pos = [
+    913,
+    835,
+]
+size = [
+    39,
+    92,
+]
+frame_offset = [
+    14,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_21]
+pos = [
+    831,
+    921,
+]
+size = [
+    39,
+    92,
+]
+frame_offset = [
+    73,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_22]
+pos = [
+    872,
+    901,
+]
+size = [
+    39,
+    92,
+]
+frame_offset = [
+    14,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_23]
+pos = [
+    954,
+    835,
+]
+size = [
+    39,
+    92,
+]
+frame_offset = [
+    73,
+    54,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_24]
+pos = [
+    949,
+    452,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_25]
+pos = [
+    898,
+    518,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    74,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_26]
+pos = [
+    774,
+    537,
+]
+size = [
+    40,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_27]
+pos = [
+    502,
+    927,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_28]
+pos = [
+    804,
+    633,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_29]
+pos = [
+    544,
+    882,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_3]
+pos = [
+    626,
+    895,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_30]
+pos = [
+    708,
+    732,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_31]
+pos = [
+    667,
+    801,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_32]
+pos = [
+    857,
+    614,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_33]
+pos = [
+    749,
+    732,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    74,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_34]
+pos = [
+    502,
+    831,
+]
+size = [
+    40,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_35]
+pos = [
+    939,
+    548,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_36]
+pos = [
+    564,
+    580,
+]
+size = [
+    50,
+    203,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_37]
+pos = [
+    585,
+    895,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_38]
+pos = [
+    898,
+    614,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_39]
+pos = [
+    616,
+    690,
+]
+size = [
+    49,
+    203,
+]
+frame_offset = [
+    63,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_4]
+pos = [
+    790,
+    732,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_40]
+pos = [
+    0,
+    914,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    14,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_41]
+pos = [
+    218,
+    881,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_42]
+pos = [
+    274,
+    850,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    74,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_43]
+pos = [
+    510,
+    421,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_44]
+pos = [
+    55,
+    868,
+]
+size = [
+    52,
+    143,
+]
+frame_offset = [
+    14,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_45]
+pos = [
+    455,
+    732,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_46]
+pos = [
+    670,
+    507,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    74,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_47]
+pos = [
+    292,
+    652,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_48]
+pos = [
+    164,
+    804,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    14,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_49]
+pos = [
+    752,
+    438,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_5]
+pos = [
+    831,
+    729,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_50]
+pos = [
+    398,
+    831,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    74,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_51]
+pos = [
+    348,
+    638,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_52]
+pos = [
+    220,
+    782,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    14,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_53]
+pos = [
+    804,
+    438,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_54]
+pos = [
+    670,
+    606,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    74,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_55]
+pos = [
+    510,
+    520,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_56]
+pos = [
+    908,
+    418,
+]
+size = [
+    39,
+    95,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_57]
+pos = [
+    562,
+    785,
+]
+size = [
+    39,
+    95,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_58]
+pos = [
+    980,
+    548,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_59]
+pos = [
+    708,
+    828,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_6]
+pos = [
+    790,
+    828,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_60]
+pos = [
+    667,
+    897,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_61]
+pos = [
+    749,
+    828,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_62]
+pos = [
+    939,
+    644,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_63]
+pos = [
+    872,
+    710,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_64]
+pos = [
+    403,
+    575,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    14,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_65]
+pos = [
+    450,
+    831,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_66]
+pos = [
+    722,
+    537,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    74,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_67]
+pos = [
+    292,
+    751,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_68]
+pos = [
+    564,
+    481,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    14,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_69]
+pos = [
+    856,
+    419,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_7]
+pos = [
+    980,
+    644,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_70]
+pos = [
+    949,
+    353,
+]
+size = [
+    50,
+    97,
+]
+frame_offset = [
+    74,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_71]
+pos = [
+    164,
+    903,
+]
+size = [
+    52,
+    97,
+]
+frame_offset = [
+    60,
+    46,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_72]
+pos = [
+    0,
+    505,
+]
+size = [
+    53,
+    207,
+]
+frame_offset = [
+    7,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_73]
+pos = [
+    346,
+    737,
+]
+size = [
+    50,
+    207,
+]
+frame_offset = [
+    68,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_74]
+pos = [
+    128,
+    415,
+]
+size = [
+    53,
+    207,
+]
+frame_offset = [
+    7,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_75]
+pos = [
+    618,
+    481,
+]
+size = [
+    50,
+    207,
+]
+frame_offset = [
+    68,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_76]
+pos = [
+    55,
+    505,
+]
+size = [
+    53,
+    207,
+]
+frame_offset = [
+    7,
+    20,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_77]
+pos = [
+    510,
+    619,
+]
+size = [
+    50,
+    207,
+]
+frame_offset = [
+    68,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_8]
+pos = [
+    708,
+    924,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    14,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_01_9]
+pos = [
+    831,
+    825,
+]
+size = [
+    39,
+    94,
+]
+frame_offset = [
+    73,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_0]
+pos = [
+    128,
+    258,
+]
+size = [
+    73,
+    155,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_1]
+pos = [
+    696,
+    373,
+]
+size = [
+    54,
+    132,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_10]
+pos = [
+    110,
+    624,
+]
+size = [
+    53,
+    152,
+]
+frame_offset = [
+    13,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_11]
+pos = [
+    457,
+    575,
+]
+size = [
+    51,
+    155,
+]
+frame_offset = [
+    73,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_12]
+pos = [
+    456,
+    421,
+]
+size = [
+    52,
+    152,
+]
+frame_offset = [
+    1,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_13]
+pos = [
+    238,
+    627,
+]
+size = [
+    52,
+    153,
+]
+frame_offset = [
+    55,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_14]
+pos = [
+    388,
+    157,
+]
+size = [
+    66,
+    225,
+]
+frame_offset = [
+    2,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_15]
+pos = [
+    274,
+    246,
+]
+size = [
+    67,
+    224,
+]
+frame_offset = [
+    58,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_16]
+pos = [
+    640,
+    320,
+]
+size = [
+    54,
+    147,
+]
+frame_offset = [
+    7,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_17]
+pos = [
+    293,
+    504,
+]
+size = [
+    53,
+    146,
+]
+frame_offset = [
+    65,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_18]
+pos = [
+    400,
+    384,
+]
+size = [
+    54,
+    118,
+]
+frame_offset = [
+    8,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_19]
+pos = [
+    343,
+    384,
+]
+size = [
+    55,
+    118,
+]
+frame_offset = [
+    64,
+    40,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_2]
+pos = [
+    348,
+    504,
+]
+size = [
+    53,
+    132,
+]
+frame_offset = [
+    1,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_20]
+pos = [
+    957,
+    0,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    15,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_21]
+pos = [
+    843,
+    0,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    71,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_22]
+pos = [
+    781,
+    220,
+]
+size = [
+    54,
+    216,
+]
+frame_offset = [
+    1,
+    9,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_23]
+pos = [
+    583,
+    262,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    55,
+    1,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_24]
+pos = [
+    667,
+    0,
+]
+size = [
+    58,
+    98,
+]
+frame_offset = [
+    12,
+    52,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_25]
+pos = [
+    456,
+    321,
+]
+size = [
+    55,
+    98,
+]
+frame_offset = [
+    71,
+    57,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_26]
+pos = [
+    203,
+    258,
+]
+size = [
+    69,
+    102,
+]
+frame_offset = [
+    2,
+    53,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_27]
+pos = [
+    203,
+    362,
+]
+size = [
+    64,
+    106,
+]
+frame_offset = [
+    60,
+    51,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_28]
+pos = [
+    513,
+    321,
+]
+size = [
+    55,
+    96,
+]
+frame_offset = [
+    1,
+    59,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_29]
+pos = [
+    583,
+    161,
+]
+size = [
+    57,
+    99,
+]
+frame_offset = [
+    58,
+    50,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_3]
+pos = [
+    524,
+    161,
+]
+size = [
+    57,
+    152,
+]
+frame_offset = [
+    52,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_30]
+pos = [
+    403,
+    504,
+]
+size = [
+    50,
+    65,
+]
+frame_offset = [
+    8,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_31]
+pos = [
+    109,
+    932,
+]
+size = [
+    50,
+    65,
+]
+frame_offset = [
+    68,
+    19,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_4]
+pos = [
+    724,
+    154,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    16,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_5]
+pos = [
+    837,
+    220,
+]
+size = [
+    54,
+    197,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_6]
+pos = [
+    183,
+    470,
+]
+size = [
+    53,
+    198,
+]
+frame_offset = [
+    2,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_64]
+pos = [
+    388,
+    0,
+]
+size = [
+    73,
+    155,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_65]
+pos = [
+    949,
+    219,
+]
+size = [
+    54,
+    132,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_66]
+pos = [
+    165,
+    670,
+]
+size = [
+    53,
+    132,
+]
+frame_offset = [
+    1,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_67]
+pos = [
+    727,
+    0,
+]
+size = [
+    57,
+    152,
+]
+frame_offset = [
+    52,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_68]
+pos = [
+    900,
+    0,
+]
+size = [
+    55,
+    217,
+]
+frame_offset = [
+    16,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_69]
+pos = [
+    893,
+    219,
+]
+size = [
+    54,
+    197,
+]
+frame_offset = [
+    71,
+    30,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_7]
+pos = [
+    786,
+    0,
+]
+size = [
+    55,
+    218,
+]
+frame_offset = [
+    56,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_70]
+pos = [
+    0,
+    714,
+]
+size = [
+    53,
+    198,
+]
+frame_offset = [
+    2,
+    29,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_71]
+pos = [
+    667,
+    100,
+]
+size = [
+    55,
+    218,
+]
+frame_offset = [
+    56,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_72]
+pos = [
+    463,
+    0,
+]
+size = [
+    66,
+    159,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_73]
+pos = [
+    599,
+    0,
+]
+size = [
+    66,
+    158,
+]
+frame_offset = [
+    57,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_74]
+pos = [
+    55,
+    714,
+]
+size = [
+    53,
+    152,
+]
+frame_offset = [
+    13,
+    3,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_75]
+pos = [
+    402,
+    674,
+]
+size = [
+    51,
+    155,
+]
+frame_offset = [
+    73,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_76]
+pos = [
+    110,
+    778,
+]
+size = [
+    52,
+    152,
+]
+frame_offset = [
+    1,
+    10,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_77]
+pos = [
+    238,
+    472,
+]
+size = [
+    53,
+    153,
+]
+frame_offset = [
+    55,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_8]
+pos = [
+    531,
+    0,
+]
+size = [
+    66,
+    159,
+]
+frame_offset = [
+    1,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[fixtures_windows_church_9]
+pos = [
+    456,
+    161,
+]
+size = [
+    66,
+    158,
+]
+frame_offset = [
+    57,
+    2,
+]
+frame_size = [
+    128,
+    256,
+]

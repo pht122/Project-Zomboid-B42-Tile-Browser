@@ -1,0 +1,1799 @@
+[roofs_30_04_0]
+pos = [
+    390,
+    0,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_1]
+pos = [
+    648,
+    0,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_10]
+pos = [
+    390,
+    98,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_100]
+pos = [
+    516,
+    757,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_101]
+pos = [
+    387,
+    891,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_104]
+pos = [
+    0,
+    494,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_105]
+pos = [
+    0,
+    561,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_106]
+pos = [
+    129,
+    494,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_107]
+pos = [
+    0,
+    628,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_108]
+pos = [
+    129,
+    561,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_109]
+pos = [
+    0,
+    695,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_11]
+pos = [
+    519,
+    0,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_112]
+pos = [
+    258,
+    897,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_113]
+pos = [
+    645,
+    557,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_114]
+pos = [
+    516,
+    691,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_115]
+pos = [
+    387,
+    825,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_116]
+pos = [
+    775,
+    490,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_117]
+pos = [
+    645,
+    623,
+]
+size = [
+    127,
+    64,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_12]
+pos = [
+    390,
+    196,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_13]
+pos = [
+    519,
+    98,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_16]
+pos = [
+    0,
+    963,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_17]
+pos = [
+    128,
+    963,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_18]
+pos = [
+    256,
+    963,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_19]
+pos = [
+    774,
+    623,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_2]
+pos = [
+    389,
+    294,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_20]
+pos = [
+    645,
+    755,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_21]
+pos = [
+    516,
+    889,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_24]
+pos = [
+    774,
+    657,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_25]
+pos = [
+    644,
+    789,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_26]
+pos = [
+    515,
+    923,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_27]
+pos = [
+    773,
+    691,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_28]
+pos = [
+    644,
+    823,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_29]
+pos = [
+    515,
+    957,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_3]
+pos = [
+    777,
+    98,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_32]
+pos = [
+    519,
+    196,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_33]
+pos = [
+    648,
+    98,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_34]
+pos = [
+    777,
+    0,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_35]
+pos = [
+    388,
+    392,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_36]
+pos = [
+    518,
+    294,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_37]
+pos = [
+    648,
+    196,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_4]
+pos = [
+    517,
+    392,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_40]
+pos = [
+    258,
+    495,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_41]
+pos = [
+    129,
+    628,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_42]
+pos = [
+    0,
+    762,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_43]
+pos = [
+    258,
+    562,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_44]
+pos = [
+    129,
+    695,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_45]
+pos = [
+    0,
+    829,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_48]
+pos = [
+    773,
+    725,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_49]
+pos = [
+    644,
+    857,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_5]
+pos = [
+    647,
+    294,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_50]
+pos = [
+    773,
+    759,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_51]
+pos = [
+    644,
+    891,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_52]
+pos = [
+    772,
+    793,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_53]
+pos = [
+    643,
+    925,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_56]
+pos = [
+    388,
+    490,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_57]
+pos = [
+    258,
+    629,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_58]
+pos = [
+    129,
+    762,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_59]
+pos = [
+    0,
+    896,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_60]
+pos = [
+    387,
+    557,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_61]
+pos = [
+    258,
+    696,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_64]
+pos = [
+    777,
+    196,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_65]
+pos = [
+    130,
+    296,
+]
+size = [
+    127,
+    97,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_66]
+pos = [
+    260,
+    198,
+]
+size = [
+    127,
+    97,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_67]
+pos = [
+    130,
+    395,
+]
+size = [
+    127,
+    97,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_68]
+pos = [
+    259,
+    297,
+]
+size = [
+    127,
+    97,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_69]
+pos = [
+    259,
+    396,
+]
+size = [
+    127,
+    97,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_72]
+pos = [
+    646,
+    392,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_73]
+pos = [
+    129,
+    829,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_74]
+pos = [
+    517,
+    490,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_75]
+pos = [
+    387,
+    624,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_76]
+pos = [
+    258,
+    763,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_77]
+pos = [
+    129,
+    896,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_8]
+pos = [
+    776,
+    294,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_80]
+pos = [
+    516,
+    557,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    191,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_81]
+pos = [
+    387,
+    691,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_82]
+pos = [
+    258,
+    830,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_83]
+pos = [
+    646,
+    490,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_84]
+pos = [
+    516,
+    624,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_85]
+pos = [
+    387,
+    758,
+]
+size = [
+    127,
+    65,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_88]
+pos = [
+    772,
+    827,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_89]
+pos = [
+    643,
+    959,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    64,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_9]
+pos = [
+    775,
+    392,
+]
+size = [
+    127,
+    96,
+]
+frame_offset = [
+    0,
+    32,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_90]
+pos = [
+    772,
+    861,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_91]
+pos = [
+    772,
+    895,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_92]
+pos = [
+    771,
+    929,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_93]
+pos = [
+    771,
+    963,
+]
+size = [
+    126,
+    32,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_96]
+pos = [
+    774,
+    557,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    192,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_97]
+pos = [
+    645,
+    689,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    160,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_98]
+pos = [
+    516,
+    823,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    128,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_04_99]
+pos = [
+    387,
+    957,
+]
+size = [
+    126,
+    64,
+]
+frame_offset = [
+    0,
+    96,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_0]
+pos = [
+    0,
+    0,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    159,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_1]
+pos = [
+    130,
+    99,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    127,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_10]
+pos = [
+    0,
+    99,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_11]
+pos = [
+    130,
+    0,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_2]
+pos = [
+    260,
+    0,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    95,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_3]
+pos = [
+    260,
+    99,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    63,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_4]
+pos = [
+    0,
+    198,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_5]
+pos = [
+    130,
+    198,
+]
+size = [
+    128,
+    96,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_8]
+pos = [
+    0,
+    396,
+]
+size = [
+    128,
+    96,
+]
+frame_offset = [
+    0,
+    0,
+]
+frame_size = [
+    128,
+    256,
+]
+
+[roofs_30_05_9]
+pos = [
+    0,
+    297,
+]
+size = [
+    128,
+    97,
+]
+frame_offset = [
+    0,
+    31,
+]
+frame_size = [
+    128,
+    256,
+]
